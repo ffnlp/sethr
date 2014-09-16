@@ -9,7 +9,7 @@ set.hr.conll -- the SETimes.HR corpus described in [1]
 set.hr.test.conll -- the Croatian SETimes test set used in [2] and [3]  
 set.sr.test.conll -- the Serbian SETimes test set used in [2] and [3]  
 wiki.hr.test.conll -- the Croatian Wikipedia test set used in [2] and [3]  
-wiki.sr.test.conll -- the Serbian Wikipedia test set used in [2] and [2]  
+wiki.sr.test.conll -- the Serbian Wikipedia test set used in [2] and [3]  
 web.hr.conll -- the Croatian web-based corpus described in [4] with added dependency syntax layer  
 web.hr.test.conll -- the Croatian web-based test set used in [4]  
 apertium.lexicon.2013-04-19.txt.gz -- the Apertium morphological lexicon of Croatian mapped to the tagset used in the above datasets  
