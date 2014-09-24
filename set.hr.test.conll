@@ -290,7 +290,7 @@
 9	također	također	R	Rgp	_	6	Adv	_	_
 10	podijeljena	podijeljen	A	Appfsn	_	6	Pnom	_	_
 11	u	u	S	Sl	_	6	Prep	_	_
-12	svojem	svoj	P	Pxnsl--nsa	_	13	Atr	_	_
+12	svojem	svoj	P	Px-sl--nsa	_	13	Atr	_	_
 13	stajalištu	stajalište	N	Ncnsl	_	11	Adv	_	_
 14	prema	prema	S	Sl	_	13	Prep	_	_
 15	BiH	BiH	Y	Npmsl	_	14	Atr	_	_
@@ -1048,7 +1048,7 @@
 9	kratkoročne	kratkoročan	A	Agpmpa	_	10	Atr	_	_
 10	ciljeve	cilj	N	Ncmpa	_	8	Obj	_	_
 11	prema	prema	S	Sl	_	8	Prep	_	_
-12	svojim	svoj	P	Pxmpl--nsa	_	14	Atr	_	_
+12	svojim	svoj	P	Px-pl--nsa	_	14	Atr	_	_
 13	osobnim	osoban	A	Agpmpl	_	14	Atr	_	_
 14	mandatima	mandat	N	Ncmpl	_	11	Obj	_	_
 15	.	.	Z	Z	_	0	Punc	_	_
@@ -1832,12 +1832,12 @@
 7	iz	iz	S	Sg	_	4	Prep	_	_
 8	pozitivnog	pozitivan	A	Agpnsg	_	9	Atr	_	_
 9	iskustva	iskustvo	N	Ncnsg	_	7	Obj	_	_
-10	svojih	svoj	P	Pxmpg--nsa	_	11	Atr	_	_
+10	svojih	svoj	P	Px-pg--nsa	_	11	Atr	_	_
 11	susjeda	susjed	N	Ncmpg	_	9	Atr	_	_
 12	kako	kako	R	Rgp	_	4	Sub	_	_
 13	maksimalno	maksimalno	R	Rgp	_	14	Adv	_	_
 14	iskoristili	iskoristiti	V	Vmp-pm	_	17	Pred	_	_
-15	svoje	svoj	P	Pxfpa--nsa	_	16	Atr	_	_
+15	svoje	svoj	P	Px-pa--nsa	_	16	Atr	_	_
 16	povlastice	povlastica	N	Ncfpa	_	14	Obj	_	_
 17	i	i	C	Cc	_	12	Co	_	_
 18	ubrzati	ubrzati	V	Vmn	_	17	Pred	_	_
