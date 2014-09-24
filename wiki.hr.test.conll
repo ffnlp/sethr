@@ -648,7 +648,7 @@
 7	kao	kao	C	Cs	_	9	Oth	_	_
 8	središnjim	središnji	A	Agpnsi	_	9	Atr	_	_
 9	poljem	polje	N	Ncnsi	_	2	Atv	_	_
-10	njezina	njezin	P	Ps3nsgfn-a	_	11	Atr	_	_
+10	njezina	njezin	P	Ps3nsgsfn-a	_	11	Atr	_	_
 11	djelovanja	djelovanje	N	Ncnsg	_	9	Atr	_	_
 12	.	.	Z	Z	_	0	Punc	_	_
 
@@ -897,7 +897,7 @@
 8	zajednica	zajednica	N	Ncfsn	_	5	Atv	_	_
 9	djelovanja	djelovanje	N	Ncnsg	_	8	Atr	_	_
 10	svih	sav	A	Agpmpg	_	12	Atr	_	_
-11	njezinih	njezin	P	Ps3mpgfn-a	_	12	Atr	_	_
+11	njezinih	njezin	P	Ps3mpgsfn-a	_	12	Atr	_	_
 12	subjekata	subjekt	N	Ncmpg	_	9	Atr	_	_
 13	:	:	Z	Z	_	12	Punc	_	_
 14	učenika	učenik	N	Ncmpg	_	25	Atr	_	_
@@ -1232,7 +1232,7 @@
 7	koje	koji	P	Pi-mpa--n-a	_	6	Sub	_	_
 8	obavljaju	obavljati	V	Vmr3p	_	7	Pred	_	_
 9	proizlazi	proizlaziti	V	Vmr3s	_	0	Pred	_	_
-10	njihova	njihov	P	Ps3fsn-n-a	_	14	Atr	_	_
+10	njihova	njihov	P	Ps3fsnp-n-a	_	14	Atr	_	_
 11	dvostruka	dvostruk	A	Agpfsn	_	14	Atr	_	_
 12	učiteljska	učiteljski	A	Agpfsn	_	14	Atr	_	_
 13	radna	radan	A	Agpfsn	_	14	Atr	_	_
@@ -1366,7 +1366,7 @@
 3	obitelj	obitelj	N	Ncfsn	_	7	Sb	_	_
 4	Sanaderovih	Sanaderov	A	Aspmpg	_	3	Atr	_	_
 5	nije	biti	V	Vcr3s-	_	7	Aux	_	_
-6	si	sebe	P	Px--sd-ypn	_	7	Obj	_	_
+6	si	sebe	P	Px--sd--ypn	_	7	Obj	_	_
 7	mogla	moći	V	Vmp-sf	_	12	Pred	_	_
 8	priuštiti	priuštiti	V	Vmn	_	7	Atv	_	_
 9	školovanje	školovanje	N	Ncnsa	_	8	Obj	_	_
@@ -1426,7 +1426,7 @@
 18	svakog	svaki	P	Pi-msg--n-a	_	19	Atr	_	_
 19	pojedinca	pojedinac	N	Ncmsg	_	17	Atr	_	_
 20	,	,	Z	Z	_	2	Punc	_	_
-21	njihova	njihov	P	Ps3fsn-n-a	_	24	Atr	_	_
+21	njihova	njihov	P	Ps3fsnp-n-a	_	24	Atr	_	_
 22	je	biti	V	Vcr3s	_	0	Pred	_	_
 23	odgojna	odgojan	A	Agpfsn	_	24	Atr	_	_
 24	uloga	uloga	N	Ncfsn	_	22	Sb	_	_

@@ -4356,8 +4356,8 @@
 46	još	još	R	Rgp	_	_	47	Oth	_	_
 47	mlad	mlad	A	Agpmsn	_	_	48	Atv	_	_
 48	uzdržava	uzdržavati	V	Vmr3s	_	_	45	Pred	_	_
-49	stare	star	A	Agpmps	_	_	51	Atr	_	_
-50	bolesne	bolestan	A	Agpmps	_	_	51	Atr	_	_
+49	stare	star	A	Agpmpa	_	_	51	Atr	_	_
+50	bolesne	bolestan	A	Agpmpa	_	_	51	Atr	_	_
 51	roditelje	roditelj	N	Ncmpa	_	_	52	Obj	_	_
 52	i	i	C	Cc	_	_	48	Co	_	_
 53	tri	tri	M	Mlc-p	_	_	54	Atr	_	_
@@ -27042,7 +27042,7 @@
 122	doprinos	doprinos	N	Ncmsan	_	_	123	Obj	_	_
 123	i	i	C	Cc	_	_	120	Co	_	_
 124	iznimna	izniman	A	Agpnpa	_	_	125	Atr	_	_
-125	postignuća	postignuće	N	Ncnpna	_	_	123	Obj	_	_
+125	postignuća	postignuće	N	Ncnpa	_	_	123	Obj	_	_
 126	u	u	S	Sl	_	_	125	Prep	_	_
 127	vatrogastvu	vatrogastvo	N	Ncnsl	_	_	126	Atr	_	_
 128	kroz	kroz	S	Sa	_	_	127	Prep	_	_
@@ -29630,7 +29630,7 @@
 1	Zatvor	zatvor	N	Npmsn	_	_	2	Sb	_	_
 2	ima	imati	V	Vmr3s	_	_	0	Pred	_	_
 3	Odjel	odjel	N	Ncmsan	_	_	2	Obj	_	_
-4	zdravstvene	zdravstven	A	Agpdsg	_	_	5	Atr	_	_
+4	zdravstvene	zdravstven	A	Agpfsg	_	_	5	Atr	_	_
 5	zaštite	zaštita	N	Ncfsg	_	_	3	Atr	_	_
 6	koji	koji	P	Pi-msn--n-a	_	_	3	Sub	_	_
 7	se	sebe	P	Px--sa--ypn	_	_	8	Aux	_	_
@@ -30543,7 +30543,7 @@
 2	ugodno	ugodan	A	Agpnsn	_	_	3	Atr	_	_
 3	iskustvo	iskustvo	N	Ncnsn	_	_	4	Elp	_	_
 4	,	,	Z	Z	_	_	0	Co	_	_
-5	svima	svi	P	Pi--pd--n-n	_	_	8	Obj	_	_
+5	svima	sav	A	Agpmpd	_	_	8	Obj	_	_
 6	bih	biti	V	Vca1s	_	_	8	Aux	_	_
 7	to	taj	P	Pd-nsa--n-a	_	_	8	Obj	_	_
 8	preporučio	preporučiti	V	Vmp-sm	_	_	4	Pred	_	_
@@ -31272,7 +31272,7 @@
 17	Medved	medved	N	Npfsn	_	_	18	Sb	_	_
 18	zahvalila	zahvaliti	V	Vmp-sf	_	_	15	Pred	_	_
 19	je	biti	V	Vcr3s	_	_	18	Aux	_	_
-20	svima	svi	P	Pi--pd--n-n	_	_	18	Obj	_	_
+20	svima	sav	A	Agpmpd	_	_	18	Obj	_	_
 21	koji	koji	P	Pi-mpn--n-a	_	_	20	Sub	_	_
 22	su	biti	V	Vcr3p	_	_	23	Aux	_	_
 23	pomogli	pomoći	V	Vmp-pm	_	_	21	Pred	_	_
@@ -34533,7 +34533,7 @@
 10	da	da	C	Cs	_	_	9	Sub	_	_
 11	sam	biti	V	Vcr1s	_	_	10	Pred	_	_
 12	sa	s	S	Si	_	_	14	Prep	_	_
-13	svima	svi	P	Pi--pd--npn-a	_	_	12	Obj	_	_
+13	svima	sav	A	Agpmpd	_	_	12	Obj	_	_
 14	dobra	dobar	A	Agpfsn	_	_	11	Pnom	_	_
 15	,	,	Z	Z	_	_	16	Punc	_	_
 16	ali	ali	C	Cs	_	_	0	Co	_	_
@@ -42426,7 +42426,7 @@
 7	da	da	C	Cs	_	_	6	Sub	_	_
 8	organiziramo	organizirati	V	Vmr1p	_	_	7	Pred	_	_
 9	druženje	druženje	N	Ncnsa	_	_	8	Obj	_	_
-10	pedesetak	pedesetak	M	Mlssan	_	_	11	Atr	_	_
+10	pedesetak	pedesetak	M	Mls-sa	_	_	11	Atr	_	_
 11	obitelji	obitelj	N	Ncfsg	_	_	9	Atr	_	_
 12	pod	pod	S	Si	_	_	9	Prep	_	_
 13	sloganom	slogan	N	Ncmsi	_	_	12	Atr	_	_

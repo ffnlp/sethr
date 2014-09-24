@@ -773,7 +773,7 @@
 17	.	.	Z	Z	_	0	Punc	_	_
 
 1	U	u	S	Sl	_	4	Prep	_	_
-2	njihovom	njihov	P	Ps3msl-n-a	_	3	Atr	_	_
+2	njihovom	njihov	P	Ps3mslp-n-a	_	3	Atr	_	_
 3	pazuhu	pazuh	N	Ncmsl	_	1	Adv	_	_
 4	obrazuju	obrazovati	V	Vmr3p	_	0	Pred	_	_
 5	se	sebe	P	Px--sa--ypn	_	4	Aux	_	_
@@ -798,7 +798,7 @@
 9	belih	bel	A	Agpmpg	_	10	Atr	_	_
 10	manastira	manastir	N	Ncmpg	_	8	Atr	_	_
 11	na	na	S	Sl	_	10	Prep	_	_
-12	njegovim	njegov	P	Ps3fplmn-a	_	13	Atr	_	_
+12	njegovim	njegov	P	Ps3fplsmn-a	_	13	Atr	_	_
 13	obalama	obala	N	Ncfpl	_	11	Atr	_	_
 14	.	.	Z	Z	_	0	Punc	_	_
 
@@ -860,7 +860,7 @@
 6	Josefinu	Josefina	N	Npfsa	_	7	Ap	_	_
 7	Frudmaier	Frudmaier	N	Npfsa	_	5	Sb	_	_
 8	,	,	Z	Z	_	11	Punc	_	_
-9	njegovu	njegov	P	Ps3fsamn-a	_	11	Atr	_	_
+9	njegovu	njegov	P	Ps3fsasmn-a	_	11	Atr	_	_
 10	sadašnju	sadašnji	A	Agpfsa	_	11	Atr	_	_
 11	ženu	žena	N	Ncfsa	_	7	Ap	_	_
 12	.	.	Z	Z	_	0	Punc	_	_
@@ -1553,7 +1553,7 @@
 20	organske	organski	A	Agpfsg	_	21	Atr	_	_
 21	materije	materija	N	Ncfsg	_	19	Atr	_	_
 22	u	u	S	Sl	_	19	Prep	_	_
-23	njegovim	njegov	P	Ps3mplnn-a	_	25	Atr	_	_
+23	njegovim	njegov	P	Ps3mplsnn-a	_	25	Atr	_	_
 24	dubljim	dubok	A	Agcmpl	_	25	Atr	_	_
 25	delovima	deo	N	Ncmpl	_	22	Atr	_	_
 26	.	.	Z	Z	_	0	Punc	_	_
