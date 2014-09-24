@@ -725,7 +725,7 @@
 28	rada	rad	Ncmsg	Ncmsg	_	27	Atr	_	_
 29	.	.	Z	Z	_	0	Punc	_	_
 
-1	Feronikel	Feronikel	X	X	_	3	Sb	_	_
+1	Feronikel	Feronikel	Xf	Xf	_	3	Sb	_	_
 2	je	biti	Vcr3s	Vcr3s	_	3	Aux	_	_
 3	privatiziran	privatiziran	Agpmsn	Agpmsn	_	0	Pred	_	_
 4	2007.	2007.	Mdo	Mdo	_	5	Atr	_	_
@@ -802,7 +802,7 @@
 4	vlasnik	vlasnik	Ncmsn	Ncmsn	_	1	Ap	_	_
 5	televizijske	televizijski	Agpfsg	Agpfsg	_	6	Atr	_	_
 6	postaje	postaja	Ncfsg	Ncfsg	_	7	Ap	_	_
-7	A1	A1	X	X	_	11	Atr	_	_
+7	A1	A1	Xf	Xf	_	11	Atr	_	_
 8	,	,	Z	Z	_	11	Punc	_	_
 9	četiriju	četiri	Mlc-pg	Mlc-pg	_	10	Atr	_	_
 10	novina	novina	Ncfpg	Ncfpg	_	11	Atr	_	_
@@ -852,7 +852,7 @@
 54	.	.	Z	Z	_	0	Punc	_	_
 
 1	Televizija	televizija	Ncfsn	Ncfsn	_	2	Ap	_	_
-2	A1	A1	X	X	_	3	Sb	_	_
+2	A1	A1	Xf	Xf	_	3	Sb	_	_
 3	i	i	Cc	Cc	_	6	Co	_	_
 4	četiri	četiri	Mlc-p	Mlc-p	_	5	Atr	_	_
 5	novine	novina	Ncfpn	Ncfpn	_	3	Sb	_	_
@@ -921,7 +921,7 @@
 5	posebice	posebice	Rgp	Rgp	_	7	Adv	_	_
 6	bivši	bivši	Agpmpn	Agpmpn	_	7	Atr	_	_
 7	zaposlenici	zaposlenik	Ncmpn	Ncmpn	_	2	Ap	_	_
-8	A1	A1	X	X	_	7	Atr	_	_
+8	A1	A1	Xf	Xf	_	7	Atr	_	_
 9	TV	TV	Npfsg	Npfsg	_	8	Ap	_	_
 10	,	,	Z	Z	_	7	Punc	_	_
 11	tvrde	tvrditi	Vmr3p	Vmr3p	_	0	Pred	_	_
@@ -992,7 +992,7 @@
 11	bilo	biti	Vcp-sn	Vcp-sn	_	32	Pred	_	_
 12	je	biti	Vcr3s	Vcr3s	_	11	Aux	_	_
 13	ušutkati	ušutkati	Vmn	Vmn	_	11	Atr	_	_
-14	A1	A1	X	X	_	15	Atr	_	_
+14	A1	A1	Xf	Xf	_	15	Atr	_	_
 15	TV	TV	Npfsa	Npfsa	_	16	Obj	_	_
 16	i	i	Cc	Cc	_	11	Co	_	_
 17	Veliju	Velija	Npmsay	Npmsay	_	18	Ap	_	_
@@ -1014,7 +1014,7 @@
 33	je	biti	Vcr3s	Vcr3s	_	32	Aux	_	_
 34	bivši	bivši	Agpmsn	Agpmsn	_	35	Atr	_	_
 35	urednik	urednik	Ncmsn	Ncmsn	_	38	Ap	_	_
-36	A1	A1	X	X	_	37	Atr	_	_
+36	A1	A1	Xf	Xf	_	37	Atr	_	_
 37	TV	TV	Npfsg	Npfsg	_	35	Atr	_	_
 38	i	i	Cc	Cc	_	44	Co	_	_
 39	zastupnik	zastupnik	Ncmsn	Ncmsn	_	38	Ap	_	_
@@ -1030,7 +1030,7 @@
 3	odgovorili	odgovoriti	Vmp-pm	Vmp-pm	_	0	Pred	_	_
 4	da	da	Cs	Cs	_	16	Sub	_	_
 5	je	biti	Vcr3s	Vcr3s	_	8	Aux	_	_
-6	A1	A1	X	X	_	8	Sb	_	_
+6	A1	A1	Xf	Xf	_	8	Sb	_	_
 7	TV	TV	Npfsn	Npfsn	_	6	Ap	_	_
 8	tretirana	tretiran	Appfsn	Appfsn	_	4	Pred	_	_
 9	isto	isto	Rgp	Rgp	_	8	Adv	_	_
@@ -1159,7 +1159,7 @@
 22	naveo	navesti	Vmp-sm	Vmp-sm	_	19	Pred	_	_
 23	na	na	Sl	Sl	_	22	Prep	_	_
 24	adresi	adresa	Ncfsl	Ncfsl	_	23	Adv	_	_
-25	A1	A1	X	X	_	24	Atr	_	_
+25	A1	A1	Xf	Xf	_	24	Atr	_	_
 26	TV	TV	Npfsg	Npfsg	_	25	Ap	_	_
 27	.	.	Z	Z	_	0	Punc	_	_
 
@@ -1168,8 +1168,8 @@
 3	predsjednice	predsjednica	Ncfsg	Ncfsg	_	9	Ap	_	_
 4	makedonskog	makedonski	Agpmsg	Agpmsg	_	5	Atr	_	_
 5	ogranka	ogranak	Ncmsg	Ncmsg	_	3	Atr	_	_
-6	Transparency	Transparency	X	X	_	7	Atr	_	_
-7	Internationala	Internationala	X	X	_	5	Atr	_	_
+6	Transparency	Transparency	Xf	Xf	_	7	Atr	_	_
+7	Internationala	Internationala	Xf	Xf	_	5	Atr	_	_
 8	Slađane	Slađana	Npfsg	Npfsg	_	9	Ap	_	_
 9	Taseve	Taseva	Npfsg	Npfsg	_	2	Atr	_	_
 10	,	,	Z	Z	_	12	Punc	_	_
@@ -1183,7 +1183,7 @@
 18	i	i	Cc	Cc	_	14	Co	_	_
 19	zaplijenila	zaplijeniti	Vmp-sf	Vmp-sf	_	18	Pred	_	_
 20	imovinu	imovina	Ncfsa	Ncfsa	_	19	Obj	_	_
-21	A1	A1	X	X	_	20	Atr	_	_
+21	A1	A1	Xf	Xf	_	20	Atr	_	_
 22	TV	TV	Npfsg	Npfsg	_	21	Ap	_	_
 23	.	.	Z	Z	_	0	Punc	_	_
 
@@ -1192,7 +1192,7 @@
 3	rekla	reći	Vmp-sf	Vmp-sf	_	0	Pred	_	_
 4	da	da	Cs	Cs	_	3	Sub	_	_
 5	je	biti	Vcr3s	Vcr3s	_	7	Aux	_	_
-6	Transparency	Transparency	X	X	_	7	Sb	_	_
+6	Transparency	Transparency	Xf	Xf	_	7	Sb	_	_
 7	podnio	podnijeti	Vmp-sm	Vmp-sm	_	4	Pred	_	_
 8	zahtjev	zahtjev	Ncmsan	Ncmsan	_	7	Obj	_	_
 9	Ustavnom	ustavan	Agpmsd	Agpmsd	_	10	Atr	_	_
@@ -1274,7 +1274,7 @@
 10	a	a	Cc	Cc	_	0	Co	_	_
 11	novinari	novinar	Ncmpn	Ncmpn	_	22	Sb	_	_
 12	sa	s	Sg	Sg	_	11	Prep	_	_
-13	A1	A1	X	X	_	12	Adv	_	_
+13	A1	A1	Xf	Xf	_	12	Adv	_	_
 14	TV	TV	Npfsg	Npfsg	_	13	Ap	_	_
 15	koji	koji	Pi-mpn--n-a	Pi-mpn--n-a	_	22	Sub	_	_
 16	su	biti	Vcr3p	Vcr3p	_	17	Aux	_	_
@@ -3640,7 +3640,7 @@
 17	za	za	Sa	Sa	_	16	Prep	_	_
 18	ujedinjenje	ujedinjenje	Ncnsa	Ncnsa	_	17	Atr	_	_
 19	(	(	Z	Z	_	20	Punc	_	_
-20	DUI	DUI	X	X	_	16	Ap	_	_
+20	DUI	DUI	Xf	Xf	_	16	Ap	_	_
 21	)	)	Z	Z	_	20	Punc	_	_
 22	.	.	Z	Z	_	0	Punc	_	_
 
@@ -3694,7 +3694,7 @@
 14	Gruevski	Gruevski	Npmsn	Npmsn	_	15	Sb	_	_
 15	i	i	Cc	Cc	_	4	Co	_	_
 16	vođa	vođa	Ncmsn	Ncmsn	_	19	Ap	_	_
-17	DUI-a	DUI	X	X	_	16	Atr	_	_
+17	DUI-a	DUI	Xf	Xf	_	16	Atr	_	_
 18	Ali	Ali	Npmsn	Npmsn	_	19	Ap	_	_
 19	Ahmeti	Ahmeti	Npmsn	Npmsn	_	15	Sb	_	_
 20	,	,	Z	Z	_	15	Punc	_	_
@@ -3867,7 +3867,7 @@
 11	i	i	Cc	Cc	_	9	Co	_	_
 12	razvitka	razvitak	Ncmsg	Ncmsg	_	11	Atr	_	_
 13	(	(	Z	Z	_	14	Punc	_	_
-14	AKP	AKP	X	X	_	9	Ap	_	_
+14	AKP	AKP	Xf	Xf	_	9	Ap	_	_
 15	)	)	Z	Z	_	14	Punc	_	_
 16	,	,	Z	Z	_	17	Punc	_	_
 17	a	a	Cc	Cc	_	0	Co	_	_
@@ -3945,7 +3945,7 @@
 18	sigurnosni	sigurnosan	Agpmsn	Agpmsn	_	19	Atr	_	_
 19	sud	sud	Ncmsn	Ncmsn	_	23	Sb	_	_
 20	(	(	Z	Z	_	21	Punc	_	_
-21	DGM	DGM	X	X	_	19	Ap	_	_
+21	DGM	DGM	Xf	Xf	_	19	Ap	_	_
 22	)	)	Z	Z	_	21	Punc	_	_
 23	i	i	Cc	Cc	_	14	Co	_	_
 24	mjesto	mjesto	Ncnsn	Ncnsn	_	23	Sb	_	_
@@ -3960,7 +3960,7 @@
 33	za	za	Sa	Sa	_	32	Prep	_	_
 34	obrazovanje	obrazovanje	Ncnsa	Ncnsa	_	33	Atr	_	_
 35	(	(	Z	Z	_	36	Punc	_	_
-36	YOK	YOK	X	X	_	32	Ap	_	_
+36	YOK	YOK	Xf	Xf	_	32	Ap	_	_
 37	)	)	Z	Z	_	36	Punc	_	_
 38	,	,	Z	Z	_	56	Punc	_	_
 39	jamči	jamčiti	Vmr3s	Vmr3s	_	56	Pred	_	_
@@ -4304,8 +4304,8 @@
 2	riječima	riječ	Ncfpl	Ncfpl	_	1	Adv	_	_
 3	ministra	ministar	Ncmsg	Ncmsg	_	6	Ap	_	_
 4	pravosuđa	pravosuđe	Ncnsg	Ncnsg	_	3	Atr	_	_
-5	Cemila	Cemila	X	X	_	6	Ap	_	_
-6	Ciceka	Ciceka	X	X	_	2	Atr	_	_
+5	Cemila	Cemila	Xf	Xf	_	6	Ap	_	_
+6	Ciceka	Ciceka	Xf	Xf	_	2	Atr	_	_
 7	,	,	Z	Z	_	1	Punc	_	_
 8	velik	velik	Agpmsn	Agpmsn	_	9	Atr	_	_
 9	dio	dio	Ncmsn	Ncmsn	_	11	Sb	_	_
@@ -5278,7 +5278,7 @@
 2	u	u	Sl	Sl	_	1	Prep	_	_
 3	Zagrebu	Zagreb	Npmsl	Npmsl	_	2	Adv	_	_
 4	,	,	Z	Z	_	1	Punc	_	_
-5	Bush	Bush	X	X	_	7	Sb	_	_
+5	Bush	Bush	Xf	Xf	_	7	Sb	_	_
 6	je	biti	Vcr3s	Vcr3s	_	7	Aux	_	_
 7	izrazio	izraziti	Vmp-sm	Vmp-sm	_	0	Pred	_	_
 8	žaljenje	žaljenje	Ncnsa	Ncnsa	_	7	Obj	_	_
@@ -5380,7 +5380,7 @@
 12	za	za	Sa	Sa	_	11	Prep	_	_
 13	povezanost	povezanost	Ncfsa	Ncfsa	_	12	Obj	_	_
 14	s	s	Si	Si	_	13	Prep	_	_
-15	Wahhabi	Wahhabi	X	X	_	16	Atr	_	_
+15	Wahhabi	Wahhabi	Xf	Xf	_	16	Atr	_	_
 16	pokretom	pokret	Ncmsi	Ncmsi	_	14	Atr	_	_
 17	planirala	planirati	Vmp-sf	Vmp-sf	_	5	Pred	_	_
 18	izazvati	izazvati	Vmn	Vmn	_	17	Atv	_	_
@@ -5892,7 +5892,7 @@
 31	trgovine	trgovina	Ncfsg	Ncfsg	_	29	Atr	_	_
 32	.	.	Z	Z	_	0	Punc	_	_
 
-1	SETimes	SETimes	X	X	_	2	Elp	_	_
+1	SETimes	SETimes	Xf	Xf	_	2	Elp	_	_
 2	:	:	Z	Z	_	0	Co	_	_
 3	U	u	Sl	Sl	_	5	Prep	_	_
 4	kojoj	koji	Pi-fsl--n-a	Pi-fsl--n-a	_	6	Atr	_	_
@@ -5960,7 +5960,7 @@
 10	tržištu	tržište	Ncnsl	Ncnsl	_	8	Adv	_	_
 11	.	.	Z	Z	_	0	Punc	_	_
 
-1	SETimes	SETimes	X	X	_	2	Elp	_	_
+1	SETimes	SETimes	Xf	Xf	_	2	Elp	_	_
 2	:	:	Z	Z	_	0	Co	_	_
 3	Jeste	biti	Vcr2p	Vcr2p	_	5	Aux	_	_
 4	li	li	Qq	Qq	_	5	Aux	_	_
@@ -6021,7 +6021,7 @@
 27	vrijednost	vrijednost	Ncfsa	Ncfsa	_	24	Atr	_	_
 28	.	.	Z	Z	_	0	Punc	_	_
 
-1	SETimes	SETimes	X	X	_	2	Elp	_	_
+1	SETimes	SETimes	Xf	Xf	_	2	Elp	_	_
 2	:	:	Z	Z	_	0	Co	_	_
 3	Možemo	moći	Vmr1p	Vmr1p	_	2	Pred	_	_
 4	li	li	Qq	Qq	_	3	Aux	_	_
@@ -6140,7 +6140,7 @@
 42	godini	godina	Ncfsl	Ncfsl	_	40	Atr	_	_
 43	.	.	Z	Z	_	0	Punc	_	_
 
-1	SETimes	SETimes	X	X	_	2	Elp	_	_
+1	SETimes	SETimes	Xf	Xf	_	2	Elp	_	_
 2	:	:	Z	Z	_	0	Co	_	_
 3	Kakvo	kakav	Pi-nsn--n-a	Pi-nsn--n-a	_	4	Pnom	_	_
 4	je	biti	Vcr3s	Vcr3s	_	2	Pred	_	_
@@ -6175,7 +6175,7 @@
 17	uklanjanju	uklanjanje	Ncnsl	Ncnsl	_	15	Obj	_	_
 18	.	.	Z	Z	_	0	Punc	_	_
 
-1	SETimes	SETimes	X	X	_	2	Elp	_	_
+1	SETimes	SETimes	Xf	Xf	_	2	Elp	_	_
 2	:	:	Z	Z	_	0	Co	_	_
 3	Bi	biti	Vca3s	Vca3s	_	10	Aux	_	_
 4	li	li	Qq	Qq	_	10	Aux	_	_
@@ -6865,7 +6865,7 @@
 6	prošlogodišnju	prošlogodišnji	Agpfsa	Agpfsa	_	8	Atr	_	_
 7	kobnu	koban	Agpfsa	Agpfsa	_	8	Atr	_	_
 8	misiju	misija	Ncfsa	Ncfsa	_	5	Obj	_	_
-9	Flotile	Flotile	X	X	_	8	Atr	_	_
+9	Flotile	Flotile	Xf	Xf	_	8	Atr	_	_
 10	slobode	sloboda	Ncfsg	Ncfsg	_	9	Atr	_	_
 11	.	.	Z	Z	_	0	Punc	_	_
 
@@ -6999,7 +6999,7 @@
 6	obilježena	obilježen	Appfsn	Appfsn	_	5	Pnom	_	_
 7	prva	prvi	Agpfsn	Agpfsn	_	8	Atr	_	_
 8	godišnjica	godišnjica	Ncfsn	Ncfsn	_	6	Sb	_	_
-9	Flotile	Flotile	X	X	_	8	Atr	_	_
+9	Flotile	Flotile	Xf	Xf	_	8	Atr	_	_
 10	slobode	sloboda	Ncfsg	Ncfsg	_	9	Atr	_	_
 11	,	,	Z	Z	_	12	Punc	_	_
 12	koja	koji	Pi-fsn--n-a	Pi-fsn--n-a	_	9	Sub	_	_
@@ -8830,7 +8830,7 @@
 41	.	.	Z	Z	_	0	Punc	_	_
 42	"	"	Z	Z	_	16	Punc	_	_
 
-1	SETimesu	SETimes	X	X	_	3	Obj	_	_
+1	SETimesu	SETimes	Xf	Xf	_	3	Obj	_	_
 2	je	biti	Vcr3s	Vcr3s	_	3	Aux	_	_
 3	izjavio	izjaviti	Vmp-sm	Vmp-sm	_	0	Pred	_	_
 4	da	da	Cs	Cs	_	3	Sub	_	_
@@ -9495,7 +9495,7 @@
 
 1	Smrt	smrt	Ncfsn	Ncfsn	_	5	Sb	_	_
 2	Osame	Osama	Npmsg	Npmsg	_	4	Ap	_	_
-3	bin	bin	X	X	_	4	Oth	_	_
+3	bin	bin	Xf	Xf	_	4	Oth	_	_
 4	Ladena	Laden	Npmsn	Npmsn	_	1	Atr	_	_
 5	i	i	Cc	Cc	_	11	Co	_	_
 6	eliminiranje	eliminiranje	Ncnsn	Ncnsn	_	5	Sb	_	_
@@ -9609,7 +9609,7 @@
 6	svojeg	svoj	Px-msg--nsa	Px-msg--nsa	_	7	Atr	_	_
 7	vođe	vođa	Ncmsg	Ncmsg	_	10	Ap	_	_
 8	Osame	Osama	Npmsg	Npmsg	_	10	Ap	_	_
-9	bin	bin	X	X	_	10	Oth	_	_
+9	bin	bin	Xf	Xf	_	10	Oth	_	_
 10	Ladena	Laden	Npmsg	Npmsg	_	5	Atr	_	_
 11	početkom	početak	Ncmsi	Ncmsi	_	4	Prep	_	_
 12	svibnja	svibanj	Ncmsg	Ncmsg	_	11	Adv	_	_
@@ -9782,7 +9782,7 @@
 4	osobno	osobno	Rgp	Rgp	_	9	Adv	_	_
 5	od	od	Sg	Sg	_	9	Prep	_	_
 6	Osame	Osama	Npmsg	Npmsg	_	8	Ap	_	_
-7	bin	bin	X	X	_	8	Oth	_	_
+7	bin	bin	Xf	Xf	_	8	Oth	_	_
 8	Ladena	Laden	Npmsg	Npmsg	_	5	Obj	_	_
 9	dobio	dobiti	Vmp-sm	Vmp-sm	_	30	Pred	_	_
 10	zadaću	zadaća	Ncfsa	Ncfsa	_	9	Obj	_	_
@@ -9814,8 +9814,8 @@
 36	,	,	Z	Z	_	0	Co	_	_
 37	piše	pisati	Vmr3s	Vmr3s	_	36	Pred	_	_
 38	bostonski	bostonski	Agpmsn	Agpmsn	_	40	Atr	_	_
-39	Global	global	X	X	_	40	Atr	_	_
-40	Post	Post	X	X	_	37	Sb	_	_
+39	Global	global	Xf	Xf	_	40	Atr	_	_
+40	Post	Post	Xf	Xf	_	37	Sb	_	_
 41	.	.	Z	Z	_	0	Punc	_	_
 
 1	"	"	Z	Z	_	2	Punc	_	_
@@ -14029,8 +14029,8 @@
 
 1	Niskobudžetni	niskobudžetan	Agpmsn	Agpmsn	_	2	Atr	_	_
 2	avioprijevoznik	avioprijevoznik	Ncmsn	Ncmsn	_	4	Ap	_	_
-3	Easy	Easy	X	X	_	4	Atr	_	_
-4	Jet	Jet	X	X	_	5	Sb	_	_
+3	Easy	Easy	Xf	Xf	_	4	Atr	_	_
+4	Jet	Jet	Xf	Xf	_	5	Sb	_	_
 5	pokrenuo	pokrenuti	Vmp-sm	Vmp-sm	_	0	Pred	_	_
 6	je	biti	Vcr3s	Vcr3s	_	5	Aux	_	_
 7	19.	19.	Mdo	Mdo	_	8	Atr	_	_
@@ -15372,7 +15372,7 @@
 17	"	"	Z	Z	_	18	Punc	_	_
 18	Dom	dom	Ncmsn	Ncmsn	_	13	Atr	_	_
 19	za	za	Sa	Sa	_	18	Prep	_	_
-20	vešanje	vešanje	X	X	_	19	Atr	_	_
+20	vešanje	vešanje	Xf	Xf	_	19	Atr	_	_
 21	"	"	Z	Z	_	18	Punc	_	_
 22	biti	biti	Vcn	Vcn	_	23	Aux	_	_
 23	održana	održan	Appfsn	Appfsn	_	6	Pred	_	_
@@ -15390,11 +15390,11 @@
 1	Operu	opera	Ncfsa	Ncfsa	_	3	Obj	_	_
 2	će	htjeti	Var3s	Var3s	_	3	Aux	_	_
 3	izvesti	izvesti	Vmn	Vmn	_	0	Pred	_	_
-4	rock	rock	X	X	_	5	Atr	_	_
+4	rock	rock	Xf	Xf	_	5	Atr	_	_
 5	sastav	sastav	Ncmsn	Ncmsn	_	8	Ap	_	_
-6	No	No	X	X	_	7	Atr	_	_
-7	Smoking	Smoking	X	X	_	8	Atr	_	_
-8	Orchestra	Orchestra	X	X	_	3	Sb	_	_
+6	No	No	Xf	Xf	_	7	Atr	_	_
+7	Smoking	Smoking	Xf	Xf	_	8	Atr	_	_
+8	Orchestra	Orchestra	Xf	Xf	_	3	Sb	_	_
 9	--	--	Z	Z	_	10	Punc	_	_
 10	u	u	Sl	Sl	_	8	Prep	_	_
 11	kojem	koji	Pi-msl--n-a	Pi-msl--n-a	_	10	Sub	_	_
@@ -17892,7 +17892,7 @@
 14	.	.	Z	Z	_	0	Punc	_	_
 
 1	Otto	Otto	Npmsn	Npmsn	_	2	Ap	_	_
-2	Rehhagel	Rehhagel	X	X	_	6	Sb	_	_
+2	Rehhagel	Rehhagel	Xf	Xf	_	6	Sb	_	_
 3	devet	devet	Mlc-p	Mlc-p	_	5	Atr	_	_
 4	je	biti	Vcr3s	Vcr3s	_	6	Aux	_	_
 5	godina	godina	Ncfpg	Ncfpg	_	6	Atr	_	_
@@ -18549,7 +18549,7 @@
 10	udruga	udruga	Ncfpg	Ncfpg	_	9	Atr	_	_
 
 1	Beogradska	beogradski	Agpfsn	Agpfsn	_	3	Atr	_	_
-2	gay	gay	X	X	_	3	Atr	_	_
+2	gay	gay	Xf	Xf	_	3	Atr	_	_
 3	Parada	parada	Ncfsn	Ncfsn	_	14	Sb	_	_
 4	ponosa	ponos	Ncmsg	Ncmsg	_	3	Atr	_	_
 5	--	--	Z	Z	_	6	Punc	_	_
@@ -18617,7 +18617,7 @@
 10	do	do	Sg	Sg	_	9	Prep	_	_
 11	otkazivanja	otkazivanje	Ncnsg	Ncnsg	_	10	Obj	_	_
 12	nedjeljne	nedjeljni	Agpfsg	Agpfsg	_	14	Atr	_	_
-13	gay	gay	X	X	_	14	Atr	_	_
+13	gay	gay	Xf	Xf	_	14	Atr	_	_
 14	Parade	parada	Ncfsg	Ncfsg	_	11	Atr	_	_
 15	ponosa	ponos	Ncmsg	Ncmsg	_	14	Atr	_	_
 16	u	u	Sl	Sl	_	14	Prep	_	_
@@ -18663,7 +18663,7 @@
 9	protivile	protiviti	Vmp-pf	Vmp-pf	_	0	Pred	_	_
 10	su	biti	Vcr3p	Vcr3p	_	9	Aux	_	_
 11	se	sebe	Px--sa--ypn	Px--sa--ypn	_	9	Aux	_	_
-12	gay	gay	X	X	_	13	Atr	_	_
+12	gay	gay	Xf	Xf	_	13	Atr	_	_
 13	paradi	parada	Ncfsd	Ncfsd	_	9	Obj	_	_
 14	.	.	Z	Z	_	0	Punc	_	_
 
@@ -18892,7 +18892,7 @@
 22	da	da	Cs	Cs	_	21	Sub	_	_
 23	su	biti	Vcr3p	Vcr3p	_	22	Pred	_	_
 24	članovi	član	Ncmpn	Ncmpn	_	23	Sb	_	_
-25	gay	gay	X	X	_	26	Atr	_	_
+25	gay	gay	Xf	Xf	_	26	Atr	_	_
 26	i	i	Cc	Cc	_	28	Co	_	_
 27	lezbijskog	lezbijski	Agpmsg	Agpmsg	_	26	Atr	_	_
 28	dijela	dio	Ncmsg	Ncmsg	_	24	Atr	_	_
@@ -18964,7 +18964,7 @@
 13	poduzete	poduzet	Appfpn	Appfpn	_	10	Pred	_	_
 14	"	"	Z	Z	_	16	Punc	_	_
 15	striktnije	striktan	Agcfpn	Agcfpn	_	16	Atr	_	_
-16	mere	mere	X	X	_	13	Obj	_	_
+16	mere	mere	Xf	Xf	_	13	Obj	_	_
 17	"	"	Z	Z	_	16	Punc	_	_
 18	protiv	protiv	Sg	Sg	_	16	Prep	_	_
 19	osoba	osoba	Ncfpg	Ncfpg	_	18	Atr	_	_
@@ -19411,7 +19411,7 @@
 36	prenosi	prenositi	Vmr3s	Vmr3s	_	35	Pred	_	_
 37	tiskovna	tiskovan	Agpfsn	Agpfsn	_	38	Atr	_	_
 38	agencija	agencija	Ncfsn	Ncfsn	_	39	Ap	_	_
-39	Bloomberg	Bloomberg	X	X	_	36	Sb	_	_
+39	Bloomberg	Bloomberg	Xf	Xf	_	36	Sb	_	_
 40	.	.	Z	Z	_	0	Punc	_	_
 
 1	"	"	Z	Z	_	6	Punc	_	_
@@ -20334,8 +20334,8 @@
 19	novog	nov	Agpmsg	Agpmsg	_	20	Atr	_	_
 20	filma	film	Ncmsg	Ncmsg	_	18	Atr	_	_
 21	"	"	Z	Z	_	22	Punc	_	_
-22	War	War	X	X	_	20	Atr	_	_
-23	Inc	Inc	X	X	_	22	Atr	_	_
+22	War	War	Xf	Xf	_	20	Atr	_	_
+23	Inc	Inc	Xf	Xf	_	22	Atr	_	_
 24	"	"	Z	Z	_	22	Punc	_	_
 25	.	.	Z	Z	_	0	Punc	_	_
 
@@ -20741,7 +20741,7 @@
 34	talijanske	talijanski	Agpfpn	Agpfpn	_	33	Pnom	_	_
 35	i	i	Cc	Cc	_	30	Co	_	_
 36	koštale	koštati	Vmp-pf	Vmp-pf	_	35	Pred	_	_
-37	oko	oko	X	X	_	38	Oth	_	_
+37	oko	oko	Xf	Xf	_	38	Oth	_	_
 38	100	100	Mdc	Mdc	_	39	Atr	_	_
 39	eura	euro	Ncmpg	Ncmpg	_	36	Adv	_	_
 40	.	.	Z	Z	_	0	Punc	_	_
@@ -21248,8 +21248,8 @@
 24	"	"	Z	Z	_	3	Punc	_	_
 
 1	Udruženje	udruženje	Ncnsn	Ncnsn	_	3	Ap	_	_
-2	Pro	pro	X	X	_	3	Oth	_	_
-3	Democratia	Democratia	X	X	_	26	Sb	_	_
+2	Pro	pro	Xf	Xf	_	3	Oth	_	_
+3	Democratia	Democratia	Xf	Xf	_	26	Sb	_	_
 4	(	(	Z	Z	_	5	Punc	_	_
 5	APD	APD	Npmsn	Npmsn	_	3	Ap	_	_
 6	)	)	Z	Z	_	5	Punc	_	_
@@ -21977,7 +21977,7 @@
 2	i	i	Cc	Cc	_	4	Co	_	_
 3	sport	sport	Ncmsn	Ncmsn	_	2	Elp	_	_
 4	:	:	Z	Z	_	0	Co	_	_
-5	Rolling	Rolling	X	X	_	6	Atr	_	_
+5	Rolling	Rolling	Xf	Xf	_	6	Atr	_	_
 6	Stonesi	Stones	Npmpn	Npmpn	_	7	Sb	_	_
 7	prodrmali	prodrmati	Vmp-pm	Vmp-pm	_	4	Pred	_	_
 8	Crnu	Crna	Npfsa	Npfsa	_	9	Atr	_	_
@@ -21991,7 +21991,7 @@
 6	Micku	Mick	Npmsd	Npmsd	_	7	Ap	_	_
 7	Jaggeru	Jagger	Npmsd	Npmsd	_	8	Obj	_	_
 8	i	i	Cc	Cc	_	4	Co	_	_
-9	Rolling	Rolling	X	X	_	10	Atr	_	_
+9	Rolling	Rolling	Xf	Xf	_	10	Atr	_	_
 10	Stonesima	Stones	Npmpd	Npmpd	_	8	Obj	_	_
 11	u	u	Sa	Sa	_	4	Prep	_	_
 12	ponedjeljak	ponedjeljak	Ncmsan	Ncmsan	_	11	Adv	_	_
@@ -22053,10 +22053,10 @@
 25	u	u	Sl	Sl	_	6	Prep	_	_
 26	sklopu	sklop	Ncmsl	Ncmsl	_	25	Obj	_	_
 27	turneje	turneja	Ncfsg	Ncfsg	_	26	Atr	_	_
-28	Rolling	Rolling	X	X	_	29	Atr	_	_
+28	Rolling	Rolling	Xf	Xf	_	29	Atr	_	_
 29	Stonesa	Stones	Npmpg	Npmpg	_	27	Atr	_	_
-30	Big	Big	X	X	_	31	Atr	_	_
-31	Bang	Bang	X	X	_	27	Atr	_	_
+30	Big	Big	Xf	Xf	_	31	Atr	_	_
+31	Bang	Bang	Xf	Xf	_	27	Atr	_	_
 32	.	.	Z	Z	_	0	Punc	_	_
 
 1	Oko	oko	Rgp	Rgp	_	2	Oth	_	_
@@ -22082,7 +22082,7 @@
 21	srpanj	srpanj	Ncmsn	Ncmsn	_	18	Adv	_	_
 22	)	)	Z	Z	_	21	Punc	_	_
 23	koncertu	koncert	Ncmsd	Ncmsd	_	15	Obj	_	_
-24	Rolling	Rolling	X	X	_	25	Atr	_	_
+24	Rolling	Rolling	Xf	Xf	_	25	Atr	_	_
 25	Stonesa	Stones	Npmpg	Npmpg	_	23	Atr	_	_
 26	na	na	Sl	Sl	_	15	Prep	_	_
 27	plaži	plaža	Ncfsl	Ncfsl	_	28	Ap	_	_
@@ -22101,8 +22101,8 @@
 7	u	u	Sl	Sl	_	6	Prep	_	_
 8	sklopu	sklop	Ncmsl	Ncmsl	_	7	Obj	_	_
 9	turneje	turneja	Ncfsg	Ncfsg	_	8	Atr	_	_
-10	Big	Big	X	X	_	11	Atr	_	_
-11	Bang	Bang	X	X	_	9	Atr	_	_
+10	Big	Big	Xf	Xf	_	11	Atr	_	_
+11	Bang	Bang	Xf	Xf	_	9	Atr	_	_
 12	,	,	Z	Z	_	4	Punc	_	_
 13	trajao	trajati	Vmp-sm	Vmp-sm	_	0	Pred	_	_
 14	je	biti	Vcr3s	Vcr3s	_	13	Aux	_	_
@@ -22234,9 +22234,9 @@
 19	,	,	Z	Z	_	29	Punc	_	_
 20	plivanju	plivanje	Ncnsl	Ncnsl	_	29	Obj	_	_
 21	,	,	Z	Z	_	29	Punc	_	_
-22	tae	tae	X	X	_	24	Atr	_	_
-23	kwon	kwon	X	X	_	24	Atr	_	_
-24	dou	dou	X	X	_	29	Obj	_	_
+22	tae	tae	Xf	Xf	_	24	Atr	_	_
+23	kwon	kwon	Xf	Xf	_	24	Atr	_	_
+24	dou	dou	Xf	Xf	_	29	Obj	_	_
 25	,	,	Z	Z	_	29	Punc	_	_
 26	atletici	atletika	Ncfsl	Ncfsl	_	29	Obj	_	_
 27	,	,	Z	Z	_	29	Punc	_	_
@@ -22743,7 +22743,7 @@
 13	danas	danas	Rgp	Rgp	_	14	Adv	_	_
 14	radi	raditi	Vmr3s	Vmr3s	_	12	Pred	_	_
 15	u	u	Sl	Sl	_	14	Prep	_	_
-16	New	New	X	X	_	17	Atr	_	_
+16	New	New	Xf	Xf	_	17	Atr	_	_
 17	Yorku	York	Npmsl	Npmsl	_	15	Adv	_	_
 18	.	.	Z	Z	_	0	Punc	_	_
 
@@ -25561,7 +25561,7 @@
 2	riječima	riječ	Ncfpl	Ncfpl	_	1	Obj	_	_
 3	odvjetnika	odvjetnik	Ncmsg	Ncmsg	_	6	Ap	_	_
 4	Giovanni	Giovanni	Npmsn	Npmsn	_	6	Ap	_	_
-5	di	di	X	X	_	6	Oth	_	_
+5	di	di	Xf	Xf	_	6	Oth	_	_
 6	Stefana	Stefano	Npmsg	Npmsg	_	2	Atr	_	_
 7	,	,	Z	Z	_	8	Punc	_	_
 8	ministar	ministar	Ncmsn	Ncmsn	_	17	Ap	_	_
@@ -26689,9 +26689,9 @@
 15	američka	američki	Agpfsn	Agpfsn	_	16	Atr	_	_
 16	kompanija	kompanija	Ncfsn	Ncfsn	_	20	Ap	_	_
 17	Cambridge	Cambridge	Npmsn	Npmsn	_	20	Atr	_	_
-18	Energy	Energy	X	X	_	20	Atr	_	_
-19	Research	Research	X	X	_	20	Atr	_	_
-20	Associates	Associates	X	X	_	28	Sb	_	_
+18	Energy	Energy	Xf	Xf	_	20	Atr	_	_
+19	Research	Research	Xf	Xf	_	20	Atr	_	_
+20	Associates	Associates	Xf	Xf	_	28	Sb	_	_
 21	,	,	Z	Z	_	28	Punc	_	_
 22	ruske	ruski	Agpfpn	Agpfpn	_	23	Atr	_	_
 23	kompanije	kompanija	Ncfpn	Ncfpn	_	25	Ap	_	_
@@ -28066,7 +28066,7 @@
 19	svojom	svoj	Px-fsi--nsa	Px-fsi--nsa	_	20	Atr	_	_
 20	pjesmom	pjesma	Ncfsi	Ncfsi	_	22	Ap	_	_
 21	"	"	Z	Z	_	22	Punc	_	_
-22	Oro	Oro	X	X	_	18	Obj	_	_
+22	Oro	Oro	Xf	Xf	_	18	Obj	_	_
 23	"	"	Z	Z	_	22	Punc	_	_
 24	.	.	Z	Z	_	0	Punc	_	_
 
@@ -29417,7 +29417,7 @@
 16	,	,	Z	Z	_	17	Punc	_	_
 17	Sarajevo-x	Sarajevo-x	Ncmsn	Ncmsn	_	13	Atr	_	_
 18	.	.	Z	Z	_	17	Punc	_	_
-19	com	com	X	X	_	17	Oth	_	_
+19	com	com	Xf	Xf	_	17	Oth	_	_
 20	.	.	Z	Z	_	0	Punc	_	_
 
 1	U	u	Sl	Sl	_	8	Prep	_	_
@@ -30407,7 +30407,7 @@
 1	Pokrovitelj	pokrovitelj	Ncmsn	Ncmsn	_	3	Pnom	_	_
 2	publikacije	publikacija	Ncfsg	Ncfsg	_	1	Atr	_	_
 3	jest	biti	Vcr3s	Vcr3s	_	0	Pred	_	_
-4	Rotary	Rotary	X	X	_	5	Atr	_	_
+4	Rotary	Rotary	Xf	Xf	_	5	Atr	_	_
 5	klub	klub	Ncmsn	Ncmsn	_	3	Sb	_	_
 6	u	u	Sl	Sl	_	5	Prep	_	_
 7	Novom	nov	Agpmsl	Agpmsl	_	8	Atr	_	_
@@ -31609,9 +31609,9 @@
 
 1	U	u	Sl	Sl	_	8	Prep	_	_
 2	izvješću	izvješće	Ncnsl	Ncnsl	_	1	Adv	_	_
-3	International	International	X	X	_	5	Atr	_	_
-4	Herald	Herald	X	X	_	5	Atr	_	_
-5	Tribuna	Tribun	X	X	_	2	Atr	_	_
+3	International	International	Xf	Xf	_	5	Atr	_	_
+4	Herald	Herald	Xf	Xf	_	5	Atr	_	_
+5	Tribuna	Tribun	Xf	Xf	_	2	Atr	_	_
 6	u	u	Sa	Sa	_	8	Prep	_	_
 7	nedjelju	nedjelja	Ncfsa	Ncfsa	_	6	Adv	_	_
 8	citirana	citiran	Appfsn	Appfsn	_	0	Pred	_	_
@@ -31920,7 +31920,7 @@
 22	austrijske	austrijski	Agpfsg	Agpfsg	_	23	Atr	_	_
 23	tvrtke	tvrtka	Ncfsg	Ncfsg	_	25	Ap	_	_
 24	BT	BT	Npmsn	Npmsn	_	25	Atr	_	_
-25	Invest	Invest	X	X	_	21	Atr	_	_
+25	Invest	Invest	Xf	Xf	_	21	Atr	_	_
 26	,	,	Z	Z	_	8	Punc	_	_
 27	80	80	Mdc	Mdc	_	28	Atr	_	_
 28	posto	posto	Ncmsg	Ncmsg	_	31	Sb	_	_
@@ -32252,9 +32252,9 @@
 10	kandidat	kandidat	Ncmsn	Ncmsn	_	6	Sb	_	_
 11	-	-	Z	Z	_	15	Punc	_	_
 12	-	-	Z	Z	_	15	Punc	_	_
-13	British	British	X	X	_	15	Atr	_	_
-14	American	American	X	X	_	15	Atr	_	_
-15	Tobacco	Tobacco	X	X	_	10	Atr	_	_
+13	British	British	Xf	Xf	_	15	Atr	_	_
+14	American	American	Xf	Xf	_	15	Atr	_	_
+15	Tobacco	Tobacco	Xf	Xf	_	10	Atr	_	_
 16	-	-	Z	Z	_	15	Punc	_	_
 17	-	-	Z	Z	_	15	Punc	_	_
 18	koji	koji	Pi-msn--n-a	Pi-msn--n-a	_	10	Sub	_	_
@@ -34679,8 +34679,8 @@
 24	5.	5.	Mdo	Mdo	_	25	Atr	_	_
 25	siječnja	siječanj	Ncmsg	Ncmsg	_	22	Atr	_	_
 26	)	)	Z	Z	_	25	Punc	_	_
-27	Info	Info	X	X	_	28	Atr	_	_
-28	Press	Press	X	X	_	19	Sb	_	_
+27	Info	Info	Xf	Xf	_	28	Atr	_	_
+28	Press	Press	Xf	Xf	_	19	Sb	_	_
 29	,	,	Z	Z	_	30	Punc	_	_
 30	ističući	ističući	Rr	Rr	_	19	Atv	_	_
 31	kako	kako	Cs	Cs	_	30	Sub	_	_
@@ -34747,7 +34747,7 @@
 1	Saudijski	saudijski	Agpmsn	Agpmsn	_	2	Atr	_	_
 2	kralj	kralj	Ncmsn	Ncmsn	_	5	Ap	_	_
 3	Abdullah	Abdullah	Npmsn	Npmsn	_	5	Ap	_	_
-4	bin	bin	X	X	_	5	Atr	_	_
+4	bin	bin	Xf	Xf	_	5	Atr	_	_
 5	Abdulaziz	Abdulaziz	Npmsn	Npmsn	_	6	Sb	_	_
 6	sastao	sastati	Vmp-sm	Vmp-sm	_	0	Pred	_	_
 7	se	sebe	Px--sa--ypn	Px--sa--ypn	_	6	Aux	_	_
@@ -37412,7 +37412,7 @@
 12	u	u	Sl	Sl	_	11	Prep	_	_
 13	Španjolskoj	Španjolska	Npfsl	Npfsl	_	12	Atr	_	_
 14	,	,	Z	Z	_	16	Punc	_	_
-15	pre	pre	X	X	_	16	Oth	_	_
+15	pre	pre	Xf	Xf	_	16	Oth	_	_
 16	nego	nego	Cs	Cs	_	7	Sub	_	_
 17	se	sebe	Px--sa--ypn	Px--sa--ypn	_	21	Aux	_	_
 18	prije	prije	Sg	Sg	_	21	Prep	_	_
@@ -38969,7 +38969,7 @@
 3	redatelja	redatelj	Ncmsg	Ncmsg	_	7	Ap	_	_
 4	Floriana	Florian	Npmsg	Npmsg	_	7	Ap	_	_
 5	Henckel	Henckel	Npmsn	Npmsn	_	7	Ap	_	_
-6	von	von	X	X	_	7	Oth	_	_
+6	von	von	Xf	Xf	_	7	Oth	_	_
 7	Donnersmarcka	Donnersmarck	Npmsg	Npmsg	_	1	Atr	_	_
 8	"	"	Z	Z	_	9	Punc	_	_
 9	Život	život	Ncmsn	Ncmsn	_	1	Atr	_	_
@@ -40551,7 +40551,7 @@
 4	XP	XP	Npmsn	Npmsn	_	5	Atr	_	_
 5	i	i	Cc	Cc	_	2	Co	_	_
 6	Microsoft	Microsoft	Npmsg	Npmsg	_	7	Atr	_	_
-7	Office	Office	X	X	_	5	Atr	_	_
+7	Office	Office	Xf	Xf	_	5	Atr	_	_
 8	na	na	Sl	Sl	_	2	Prep	_	_
 9	makedonskom	makedonski	Agpmsl	Agpmsl	_	10	Atr	_	_
 10	jeziku	jezik	Ncmsl	Ncmsl	_	8	Atr	_	_
@@ -43565,7 +43565,7 @@
 23	25-metarskim	25-metarski	Agpmpl	Agpmpl	_	24	Atr	_	_
 24	bazenima	bazen	Ncmpl	Ncmpl	_	22	Atr	_	_
 25	u	u	Sl	Sl	_	24	Prep	_	_
-26	Hesinkiu	Hesinkiu	X	X	_	25	Atr	_	_
+26	Hesinkiu	Hesinkiu	Xf	Xf	_	25	Atr	_	_
 27	.	.	Z	Z	_	0	Punc	_	_
 
 1	Puninski	Puninski	Npmsn	Npmsn	_	3	Sb	_	_
@@ -43694,7 +43694,7 @@
 18	Dostoyevsky	Dostoyevsky	Npmsn	Npmsn	_	19	Sb	_	_
 19	učinio	učiniti	Vmp-sm	Vmp-sm	_	28	Pred	_	_
 20	sa	s	Si	Si	_	19	Prep	_	_
-21	St	St	X	X	_	23	Atr	_	_
+21	St	St	Xf	Xf	_	23	Atr	_	_
 22	.	.	Z	Z	_	21	Punc	_	_
 23	Petersburgom	Petersburg	Npmsi	Npmsi	_	20	Obj	_	_
 24	,	,	Z	Z	_	28	Punc	_	_
@@ -43781,7 +43781,7 @@
 24	Kičeva	Kičevo	Npnsg	Npnsg	_	23	Atr	_	_
 25	i	i	Cc	Cc	_	9	Co	_	_
 26	Romano	Romano	Npmsn	Npmsn	_	27	Atr	_	_
-27	ilo	ilo	X	X	_	25	Atr	_	_
+27	ilo	ilo	Xf	Xf	_	25	Atr	_	_
 28	iz	iz	Sg	Sg	_	27	Prep	_	_
 29	Skoplja	Skoplje	Npnsg	Npnsg	_	28	Atr	_	_
 30	.	.	Z	Z	_	0	Punc	_	_
@@ -43937,10 +43937,10 @@
 29	skupine	skupina	Ncfsg	Ncfsg	_	30	Ap	_	_
 30	Queen	Queen	Npmsn	Npmsn	_	28	Atr	_	_
 31	"	"	Z	Z	_	33	Punc	_	_
-32	We	we	X	X	_	33	Oth	_	_
-33	will	will	X	X	_	28	Atr	_	_
-34	rock	rock	X	X	_	33	Oth	_	_
-35	you	you	X	X	_	33	Oth	_	_
+32	We	we	Xf	Xf	_	33	Oth	_	_
+33	will	will	Xf	Xf	_	28	Atr	_	_
+34	rock	rock	Xf	Xf	_	33	Oth	_	_
+35	you	you	Xf	Xf	_	33	Oth	_	_
 36	"	"	Z	Z	_	33	Punc	_	_
 37	--	--	Z	Z	_	39	Punc	_	_
 38	kao	kao	Cs	Cs	_	39	Oth	_	_
@@ -43950,9 +43950,9 @@
 42	glazbenu	glazben	Agpfsa	Agpfsa	_	43	Atr	_	_
 43	temu	tema	Ncfsa	Ncfsa	_	40	Atr	_	_
 44	"	"	Z	Z	_	47	Punc	_	_
-45	The	the	X	X	_	47	Oth	_	_
-46	final	final	X	X	_	47	Oth	_	_
-47	countdown	countdown	X	X	_	43	Atr	_	_
+45	The	the	Xf	Xf	_	47	Oth	_	_
+46	final	final	Xf	Xf	_	47	Oth	_	_
+47	countdown	countdown	Xf	Xf	_	43	Atr	_	_
 48	"	"	Z	Z	_	47	Punc	_	_
 49	,	,	Z	Z	_	52	Punc	_	_
 50	desničarske	desničarski	Agpfsg	Agpfsg	_	52	Atr	_	_
@@ -46527,8 +46527,8 @@
 42	svoju	svoj	Px-fsa--nsa	Px-fsa--nsa	_	44	Atr	_	_
 43	internetsku	internetski	Agpfsa	Agpfsa	_	44	Atr	_	_
 44	stranicu	stranica	Ncfsa	Ncfsa	_	46	Ap	_	_
-45	World	World	X	X	_	46	Atr	_	_
-46	Factbook	Facebook	X	X	_	41	Obj	_	_
+45	World	World	Xf	Xf	_	46	Atr	_	_
+46	Factbook	Facebook	Xf	Xf	_	41	Obj	_	_
 47	koja	koji	Pi-fsn--n-a	Pi-fsn--n-a	_	46	Sub	_	_
 48	je	biti	Vcr3s	Vcr3s	_	47	Pred	_	_
 49	dostupna	dostupan	Agpfsn	Agpfsn	_	48	Pnom	_	_
@@ -46724,7 +46724,7 @@
 9	Kosovskoj	kosovski	Agpfsd	Agpfsd	_	11	Atr	_	_
 10	tiskovnoj	tiskovan	Agpfsd	Agpfsd	_	11	Atr	_	_
 11	agenciji	agencija	Ncfsd	Ncfsd	_	12	Ap	_	_
-12	Economy	Economy	X	X	_	7	Obj	_	_
+12	Economy	Economy	Xf	Xf	_	7	Obj	_	_
 13	kako	kako	Cs	Cs	_	7	Sub	_	_
 14	globalna	globalan	Agpfsn	Agpfsn	_	15	Atr	_	_
 15	kriza	kriza	Ncfsn	Ncfsn	_	16	Sb	_	_
@@ -46756,8 +46756,8 @@
 
 1	Prema	prema	Sl	Sl	_	15	Prep	_	_
 2	izvješću	izvješće	Ncnsl	Ncnsl	_	1	Adv	_	_
-3	Inter	Inter	X	X	_	5	Atr	_	_
-4	Press	Press	X	X	_	5	Atr	_	_
+3	Inter	Inter	Xf	Xf	_	5	Atr	_	_
+4	Press	Press	Xf	Xf	_	5	Atr	_	_
 5	Servicea	Service	Npmsg	Npmsg	_	2	Atr	_	_
 6	od	od	Sg	Sg	_	2	Prep	_	_
 7	četvrtka	četvrtak	Ncmsg	Ncmsg	_	6	Atr	_	_
@@ -46921,10 +46921,10 @@
 7	surađuje	surađivati	Vmr3s	Vmr3s	_	6	Pred	_	_
 8	s	s	Si	Si	_	7	Prep	_	_
 9	institutom	institut	Ncmsi	Ncmsi	_	13	Ap	_	_
-10	East	East	X	X	_	11	Atr	_	_
+10	East	East	Xf	Xf	_	11	Atr	_	_
 11	-	-	Z	Z	_	13	Co	_	_
-12	West	West	X	X	_	11	Atr	_	_
-13	Management	Management	X	X	_	8	Obj	_	_
+12	West	West	Xf	Xf	_	11	Atr	_	_
+13	Management	Management	Xf	Xf	_	8	Obj	_	_
 14	,	,	Z	Z	_	15	Punc	_	_
 15	među	među	Si	Si	_	17	Prep	_	_
 16	onim	onaj	Pd-mpi--n-a	Pd-mpi--n-a	_	18	Atr	_	_
@@ -47207,8 +47207,8 @@
 13	urednik	urednik	Ncmsn	Ncmsn	_	11	Pnom	_	_
 14	kosovskog	kosovski	Agpmsg	Agpmsg	_	15	Atr	_	_
 15	dnevnika	dnevnik	Ncmsg	Ncmsg	_	17	Ap	_	_
-16	Bota	Bota	X	X	_	17	Atr	_	_
-17	Sot	Sot	X	X	_	13	Atr	_	_
+16	Bota	Bota	Xf	Xf	_	17	Atr	_	_
+17	Sot	Sot	Xf	Xf	_	13	Atr	_	_
 18	,	,	Z	Z	_	19	Punc	_	_
 19	poznavao	poznavati	Vmp-sm	Vmp-sm	_	23	Pred	_	_
 20	je	biti	Vcr3s	Vcr3s	_	19	Aux	_	_
@@ -47596,8 +47596,8 @@
 5	nizozemskog	nizozemski	Agpmsg	Agpmsg	_	6	Atr	_	_
 6	dizajnera	dizajner	Ncmsg	Ncmsg	_	10	Ap	_	_
 7	Addyja	Addy	Npmsg	Npmsg	_	10	Ap	_	_
-8	van	van	X	X	_	10	Oth	_	_
-9	den	den	X	X	_	10	Oth	_	_
+8	van	van	Xf	Xf	_	10	Oth	_	_
+9	den	den	Xf	Xf	_	10	Oth	_	_
 10	Krommenackera	Krommenacker	Npmsg	Npmsg	_	4	Atr	_	_
 11	tijekom	tijekom	Sg	Sg	_	3	Prep	_	_
 12	Sarajevskog	sarajevski	Agpmsg	Agpmsg	_	13	Atr	_	_
@@ -48039,9 +48039,9 @@
 26	.	.	Z	Z	_	0	Punc	_	_
 
 1	Suradnica	suradnica	Ncfsn	Ncfsn	_	6	Ap	_	_
-2	Southeast	Southeast	X	X	_	4	Atr	_	_
-3	European	European	X	X	_	4	Atr	_	_
-4	Timesa	Times	X	X	_	1	Atr	_	_
+2	Southeast	Southeast	Xf	Xf	_	4	Atr	_	_
+3	European	European	Xf	Xf	_	4	Atr	_	_
+4	Timesa	Times	Xf	Xf	_	1	Atr	_	_
 5	Alina	Alina	Npfsn	Npfsn	_	6	Ap	_	_
 6	Bandila	Bandila	Npfsn	Npfsn	_	9	Sb	_	_
 7	iz	iz	Sg	Sg	_	6	Prep	_	_
@@ -49028,8 +49028,8 @@
 22	,	,	Z	Z	_	23	Punc	_	_
 23	izjavio	izjaviti	Vmp-sm	Vmp-sm	_	0	Pred	_	_
 24	je	biti	Vcr3s	Vcr3s	_	23	Aux	_	_
-25	Southeast	Southeast	X	X	_	27	Atr	_	_
-26	European	European	X	X	_	27	Atr	_	_
+25	Southeast	Southeast	Xf	Xf	_	27	Atr	_	_
+26	European	European	Xf	Xf	_	27	Atr	_	_
 27	Times-u	Times	Npmsd	Npmsd	_	23	Obj	_	_
 28	ministar	ministar	Ncmsn	Ncmsn	_	31	Ap	_	_
 29	obrane	obrana	Ncfsg	Ncfsg	_	28	Atr	_	_
@@ -50414,7 +50414,7 @@
 27	,	,	Z	Z	_	29	Punc	_	_
 28	Pakistana	Pakistan	Npmsg	Npmsg	_	29	Atr	_	_
 29	i	i	Cc	Cc	_	12	Co	_	_
-30	San	San	X	X	_	31	Atr	_	_
+30	San	San	Xf	Xf	_	31	Atr	_	_
 31	Marina	Marino	Npmsg	Npmsg	_	29	Atr	_	_
 32	.	.	Z	Z	_	0	Atr	_	_
 
@@ -50558,7 +50558,7 @@
 1	Sloboda	sloboda	Ncfsn	Ncfsn	_	6	Sb	_	_
 2	tiska	tisak	Ncmsg	Ncmsg	_	1	Atr	_	_
 3	još	još	Rgp	Rgp	_	4	Oth	_	_
-4	uvek	uvek	X	X	_	6	Adv	_	_
+4	uvek	uvek	Xf	Xf	_	6	Adv	_	_
 5	otvoreno	otvoren	Appnsn	Appnsn	_	6	Atr	_	_
 6	pitanje	pitanje	Ncnsn	Ncnsn	_	0	Elp	_	_
 7	u	u	Sl	Sl	_	6	Prep	_	_
@@ -50838,13 +50838,13 @@
 
 1	Bivši	bivši	Agpmsn	Agpmsn	_	2	Atr	_	_
 2	dopisnik	dopisnik	Ncmsn	Ncmsn	_	13	Ap	_	_
-3	Voice	Voice	X	X	_	6	Atr	_	_
-4	of	of	X	X	_	3	Oth	_	_
-5	America	America	X	X	_	3	Oth	_	_
+3	Voice	Voice	Xf	Xf	_	6	Atr	_	_
+4	of	of	Xf	Xf	_	3	Oth	_	_
+5	America	America	Xf	Xf	_	3	Oth	_	_
 6	i	i	Cc	Cc	_	2	Co	_	_
 7	Radio	radio	Ncmsn	Ncmsn	_	6	Atr	_	_
-8	Free	Free	X	X	_	7	Oth	_	_
-9	Europe	Europe	X	X	_	7	Oth	_	_
+8	Free	Free	Xf	Xf	_	7	Oth	_	_
+9	Europe	Europe	Xf	Xf	_	7	Oth	_	_
 10	,	,	Z	Z	_	2	Punc	_	_
 11	novinar	novinar	Ncmsn	Ncmsn	_	13	Ap	_	_
 12	Mero	Mero	Npmsn	Npmsn	_	13	Ap	_	_
@@ -50962,7 +50962,7 @@
 5	oporbene	oporben	Agpfsg	Agpfsg	_	6	Atr	_	_
 6	stranke	stranka	Ncfsg	Ncfsg	_	4	Atr	_	_
 7	Rilindja	Rilindja	Npfsn	Npfsn	_	8	Atr	_	_
-8	Demokratike	Demokratike	X	X	_	4	Atr	_	_
+8	Demokratike	Demokratike	Xf	Xf	_	4	Atr	_	_
 9	osuđen	osuđen	Appmsn	Appmsn	_	16	Pred	_	_
 10	je	biti	Vcr3s	Vcr3s	_	9	Aux	_	_
 11	prošlog	prošli	Agpmsg	Agpmsg	_	12	Atr	_	_
@@ -50992,7 +50992,7 @@
 9	dnevna	dnevan	Agpfsn	Agpfsn	_	10	Atr	_	_
 10	novina	novina	Ncfsn	Ncfsn	_	13	Sb	_	_
 11	Gazeta	Gazeta	Npfsn	Npfsn	_	12	Atr	_	_
-12	Shqiptare	Shqiptare	X	X	_	10	Atr	_	_
+12	Shqiptare	Shqiptare	Xf	Xf	_	10	Atr	_	_
 13	opisuje	opisivati	Vmr3s	Vmr3s	_	0	Pred	_	_
 14	Liponenova	Liponenov	Aspnpa	Aspnpa	_	15	Atr	_	_
 15	stajališta	stajalište	Ncnpa	Ncnpa	_	13	Obj	_	_
@@ -53073,12 +53073,12 @@
 14	blatu	blato	Ncnsl	Ncnsl	_	13	Adv	_	_
 15	pjevajući	pjevajući	Rr	Rr	_	12	Atv	_	_
 16	"	"	Z	Z	_	19	Punc	_	_
-17	I'm	I'm	X	X	_	19	Oth	_	_
-18	Only	only	X	X	_	19	Oth	_	_
-19	Happy	happy	X	X	_	15	Atr	_	_
-20	When	when	X	X	_	19	Oth	_	_
-21	it	it	X	X	_	19	Oth	_	_
-22	Rains	rains	X	X	_	19	Oth	_	_
+17	I'm	I'm	Xf	Xf	_	19	Oth	_	_
+18	Only	only	Xf	Xf	_	19	Oth	_	_
+19	Happy	happy	Xf	Xf	_	15	Atr	_	_
+20	When	when	Xf	Xf	_	19	Oth	_	_
+21	it	it	Xf	Xf	_	19	Oth	_	_
+22	Rains	rains	Xf	Xf	_	19	Oth	_	_
 23	"	"	Z	Z	_	19	Punc	_	_
 24	(	(	Z	Z	_	26	Punc	_	_
 25	Sretan	sretan	Agpmsn	Agpmsn	_	26	Pnom	_	_
@@ -53102,8 +53102,8 @@
 6	izvođačima	izvođač	Ncmpi	Ncmpi	_	5	Pnom	_	_
 7	bili	biti	Vcp-pm	Vcp-pm	_	0	Pred	_	_
 8	i	i	Cc	Cc	_	26	Oth	_	_
-9	White	White	X	X	_	10	Atr	_	_
-10	Stripes	Stripes	X	X	_	26	Sb	_	_
+9	White	White	Xf	Xf	_	10	Atr	_	_
+10	Stripes	Stripes	Xf	Xf	_	26	Sb	_	_
 11	,	,	Z	Z	_	26	Punc	_	_
 12	Underworld	Underworld	Npmsn	Npmsn	_	26	Sb	_	_
 13	,	,	Z	Z	_	26	Punc	_	_
@@ -53126,7 +53126,7 @@
 30	Coxa	Cox	Npmsg	Npmsg	_	35	Atr	_	_
 31	,	,	Z	Z	_	35	Punc	_	_
 32	Felixa	Felix	Npmsg	Npmsg	_	34	Ap	_	_
-33	da	da	X	X	_	34	Oth	_	_
+33	da	da	Xf	Xf	_	34	Oth	_	_
 34	Housecata	Housecat	Npmsg	Npmsg	_	35	Atr	_	_
 35	i	i	Cc	Cc	_	27	Co	_	_
 36	bivšeg	bivši	Agpmsg	Agpmsg	_	37	Atr	_	_
@@ -53169,7 +53169,7 @@
 31	glazbe	glazba	Ncfsg	Ncfsg	_	29	Atr	_	_
 32	,	,	Z	Z	_	33	Punc	_	_
 33	uključujući	uključujući	Rr	Rr	_	27	Atv	_	_
-34	speed	speed	X	X	_	35	Atr	_	_
+34	speed	speed	Xf	Xf	_	35	Atr	_	_
 35	metal	metal	Ncmsan	Ncmsan	_	49	Obj	_	_
 36	,	,	Z	Z	_	49	Punc	_	_
 37	rock’n’roll	rock’n’roll	Ncmsan	Ncmsan	_	49	Obj	_	_
@@ -53178,8 +53178,8 @@
 40	,	,	Z	Z	_	49	Punc	_	_
 41	blues	blues	Ncmsan	Ncmsan	_	49	Obj	_	_
 42	,	,	Z	Z	_	49	Punc	_	_
-43	world	world	X	X	_	44	Atr	_	_
-44	music	music	X	X	_	49	Obj	_	_
+43	world	world	Xf	Xf	_	44	Atr	_	_
+44	music	music	Xf	Xf	_	49	Obj	_	_
 45	,	,	Z	Z	_	49	Punc	_	_
 46	techno	techno	Ncmsan	Ncmsan	_	49	Obj	_	_
 47	,	,	Z	Z	_	49	Punc	_	_
@@ -53260,7 +53260,7 @@
 7	poznata	poznat	Agpnpn	Agpnpn	_	8	Atr	_	_
 8	imena	ime	Ncnpn	Ncnpn	_	5	Sb	_	_
 9	poput	poput	Sg	Sg	_	17	Oth	_	_
-10	Massive	Massive	X	X	_	11	Atr	_	_
+10	Massive	Massive	Xf	Xf	_	11	Atr	_	_
 11	Attacka	Attack	Npmsg	Npmsg	_	14	Atr	_	_
 12	,	,	Z	Z	_	14	Punc	_	_
 13	Trickyja	Tricky	Npmsg	Npmsg	_	14	Atr	_	_
@@ -53421,11 +53421,11 @@
 17	Annie	Annie	Npfsg	Npfsg	_	18	Ap	_	_
 18	Lennox	Lennox	Npfsg	Npfsg	_	16	Atr	_	_
 19	"	"	Z	Z	_	21	Punc	_	_
-20	I	I	X	X	_	21	Oth	_	_
-21	Saved	saved	X	X	_	16	Atr	_	_
-22	the	the	X	X	_	21	Oth	_	_
-23	World	world	X	X	_	21	Oth	_	_
-24	Today	today	X	X	_	21	Oth	_	_
+20	I	I	Xf	Xf	_	21	Oth	_	_
+21	Saved	saved	Xf	Xf	_	16	Atr	_	_
+22	the	the	Xf	Xf	_	21	Oth	_	_
+23	World	world	Xf	Xf	_	21	Oth	_	_
+24	Today	today	Xf	Xf	_	21	Oth	_	_
 25	"	"	Z	Z	_	21	Punc	_	_
 26	(	(	Z	Z	_	29	Punc	_	_
 27	Danas	danas	Rgp	Rgp	_	29	Adv	_	_
@@ -53551,8 +53551,8 @@
 44	.	.	Z	Z	_	0	Punc	_	_
 45	"	"	Z	Z	_	34	Punc	_	_
 
-1	White	White	X	X	_	2	Atr	_	_
-2	Stripes	Stripes	X	X	_	4	Sb	_	_
+1	White	White	Xf	Xf	_	2	Atr	_	_
+2	Stripes	Stripes	Xf	Xf	_	4	Sb	_	_
 3	je	biti	Vcr3s	Vcr3s	_	4	Aux	_	_
 4	bio	biti	Vcp-sm	Vcp-sm	_	0	Pred	_	_
 5	jedan	jedan	Mlcmsn	Mlcmsn	_	4	Pnom	_	_
@@ -55177,8 +55177,8 @@
 17	završi	završiti	Vmr3s	Vmr3s	_	13	Pred	_	_
 
 1	Dopisnica	dopisnica	Ncfsn	Ncfsn	_	6	Ap	_	_
-2	Southeast	Southeast	X	X	_	4	Atr	_	_
-3	European	European	X	X	_	4	Atr	_	_
+2	Southeast	Southeast	Xf	Xf	_	4	Atr	_	_
+3	European	European	Xf	Xf	_	4	Atr	_	_
 4	Timesa	Times	Npmsg	Npmsg	_	1	Atr	_	_
 5	Ena	Ena	Npfsn	Npfsn	_	6	Ap	_	_
 6	Latin	Latin	Npfsn	Npfsn	_	14	Sb	_	_
@@ -57227,8 +57227,8 @@
 17	Komerc	Komerc	Npmsn	Npmsn	_	18	Atr	_	_
 18	i	i	Cc	Cc	_	9	Co	_	_
 19	grčki	grčki	Agpmsn	Agpmsn	_	21	Atr	_	_
-20	Hellenic	Hellenic	X	X	_	21	Atr	_	_
-21	Sugar	Sugar	X	X	_	18	Atr	_	_
+20	Hellenic	Hellenic	Xf	Xf	_	21	Atr	_	_
+21	Sugar	Sugar	Xf	Xf	_	18	Atr	_	_
 22	.	.	Z	Z	_	0	Punc	_	_
 
 1	Veliki	velik	Agpmsn	Agpmsn	_	2	Atr	_	_
@@ -57824,7 +57824,7 @@
 42	Šutanovac	Šutanovac	Npmsn	Npmsn	_	40	Sb	_	_
 43	beogradskom	beogradski	Agpmsd	Agpmsd	_	44	Atr	_	_
 44	dnevniku	dnevnik	Ncmsd	Ncmsd	_	45	Ap	_	_
-45	Press	Press	X	X	_	40	Obj	_	_
+45	Press	Press	Xf	Xf	_	40	Obj	_	_
 46	,	,	Z	Z	_	47	Punc	_	_
 47	dodajući	dodajući	Rr	Rr	_	40	Atv	_	_
 48	kako	kako	Cs	Cs	_	47	Sub	_	_
@@ -58610,8 +58610,8 @@
 25	za	za	Sa	Sa	_	24	Prep	_	_
 26	praćenje	praćenje	Ncnsa	Ncnsa	_	25	Atr	_	_
 27	demokracije	demokracija	Ncfsg	Ncfsg	_	26	Atr	_	_
-28	Freedom	Freedom	X	X	_	29	Oth	_	_
-29	House	House	X	X	_	24	Atr	_	_
+28	Freedom	Freedom	Xf	Xf	_	29	Oth	_	_
+29	House	House	Xf	Xf	_	24	Atr	_	_
 30	u	u	Sl	Sl	_	21	Prep	_	_
 31	svojem	svoj	Px-nsl--nsa	Px-nsl--nsa	_	33	Atr	_	_
 32	godišnjem	godišnji	Agpnsl	Agpnsl	_	33	Atr	_	_
@@ -58778,8 +58778,8 @@
 20	"	"	Z	Z	_	10	Punc	_	_
 21	.	.	Z	Z	_	0	Punc	_	_
 
-1	Freedom	freedom	X	X	_	2	Atr	_	_
-2	House	house	X	X	_	3	Sb	_	_
+1	Freedom	freedom	Xf	Xf	_	2	Atr	_	_
+2	House	house	Xf	Xf	_	3	Sb	_	_
 3	objavljuje	objavljivati	Vmr3s	Vmr3s	_	0	Pred	_	_
 4	svoju	svoj	Px-fsa--nsa	Px-fsa--nsa	_	6	Atr	_	_
 5	godišnju	godišnji	Agpfsa	Agpfsa	_	6	Atr	_	_
@@ -58802,8 +58802,8 @@
 3	procijenio	procijeniti	Vmp-sm	Vmp-sm	_	1	Pred	_	_
 4	učinak	učinak	Ncmsan	Ncmsan	_	3	Obj	_	_
 5	,	,	Z	Z	_	1	Punc	_	_
-6	Freedom	freedom	X	X	_	7	Oth	_	_
-7	House	house	X	X	_	8	Sb	_	_
+6	Freedom	freedom	Xf	Xf	_	7	Oth	_	_
+7	House	house	Xf	Xf	_	8	Sb	_	_
 8	ispituje	ispitivati	Vmr3s	Vmr3s	_	0	Pred	_	_
 9	izborne	izboran	Agpmpa	Agpmpa	_	10	Atr	_	_
 10	procese	proces	Ncmpa	Ncmpa	_	14	Obj	_	_
@@ -59368,8 +59368,8 @@
 3	s	s	Si	Si	_	1	Prep	_	_
 4	ranijim	ran	Agcnsi	Agcnsi	_	5	Atr	_	_
 5	izvješćem	izvješće	Ncnsi	Ncnsi	_	3	Obj	_	_
-6	Freedom	Freedom	X	X	_	7	Oth	_	_
-7	Housea	House	X	X	_	5	Atr	_	_
+6	Freedom	Freedom	Xf	Xf	_	7	Oth	_	_
+7	Housea	House	Xf	Xf	_	5	Atr	_	_
 8	,	,	Z	Z	_	1	Punc	_	_
 9	EK	EK	Npfsn	Npfsn	_	12	Sb	_	_
 10	je	biti	Vcr3s	Vcr3s	_	12	Aux	_	_
@@ -59627,14 +59627,14 @@
 7	izvješća	izvješće	Ncnpg	Ncnpg	_	6	Atr	_	_
 8	--	--	Z	Z	_	9	Punc	_	_
 9	od	od	Sg	Sg	_	7	Prep	_	_
-10	Freedom	Freedom	X	X	_	11	Atr	_	_
-11	Housea	House	X	X	_	12	Atr	_	_
+10	Freedom	Freedom	Xf	Xf	_	11	Atr	_	_
+11	Housea	House	Xf	Xf	_	12	Atr	_	_
 12	,	,	Z	Z	_	9	Co	_	_
 13	Svjetske	svjetski	Agpfsg	Agpfsg	_	14	Atr	_	_
 14	banke	banka	Ncfsg	Ncfsg	_	12	Atr	_	_
 15	do	do	Sg	Sg	_	7	Prep	_	_
-16	Transparency	Transparency	X	X	_	17	Atr	_	_
-17	Internationala	International	X	X	_	15	Atr	_	_
+16	Transparency	Transparency	Xf	Xf	_	17	Atr	_	_
+17	Internationala	International	Xf	Xf	_	15	Atr	_	_
 18	--	--	Z	Z	_	15	Punc	_	_
 19	u	u	Sl	Sl	_	7	Prep	_	_
 20	kojima	koji	Pi-npl--n-a	Pi-npl--n-a	_	19	Sub	_	_
@@ -60304,7 +60304,7 @@
 13	prijevarama	prijevara	Ncfpl	Ncfpl	_	12	Obj	_	_
 14	.	.	Z	Z	_	0	Punc	_	_
 
-1	Dvadesetdevet	Dvadesetdevet	X	X	_	4	Atr	_	_
+1	Dvadesetdevet	Dvadesetdevet	Xf	Xf	_	4	Atr	_	_
 2	navodno	navodno	Rgp	Rgp	_	3	Adv	_	_
 3	lažiranih	lažiran	Appfpg	Appfpg	_	4	Atr	_	_
 4	utakmica	utakmica	Ncfpg	Ncfpg	_	5	Sb	_	_
@@ -60601,7 +60601,7 @@
 18	povjerljivih	povjerljiv	Agpfpg	Agpfpg	_	19	Atr	_	_
 19	informacija	informacija	Ncfpg	Ncfpg	_	17	Atr	_	_
 20	o	o	Sl	Sl	_	19	Prep	_	_
-21	sumnjivim	sumnjivi	X	X	_	22	Atr	_	_
+21	sumnjivim	sumnjivi	Xf	Xf	_	22	Atr	_	_
 22	utakmicama	utakmica	Ncfpl	Ncfpl	_	20	Atr	_	_
 23	.	.	Z	Z	_	0	Punc	_	_
 
@@ -61957,8 +61957,8 @@
 23	izvješćuje	izvješćivati	Vmr3s	Vmr3s	_	22	Pred	_	_
 24	tiskovna	tiskovan	Agpfsn	Agpfsn	_	25	Atr	_	_
 25	agencija	agencija	Ncfsn	Ncfsn	_	27	Ap	_	_
-26	France	France	X	X	_	27	Atr	_	_
-27	Presse	Presse	X	X	_	23	Sb	_	_
+26	France	France	Xf	Xf	_	27	Atr	_	_
+27	Presse	Presse	Xf	Xf	_	23	Sb	_	_
 28	.	.	Z	Z	_	0	Punc	_	_
 
 1	"	"	Z	Z	_	10	Punc	_	_
@@ -63741,7 +63741,7 @@
 
 1	Kralj	kralj	Ncmsn	Ncmsn	_	4	Ap	_	_
 2	Abdullah	Abdullah	Npmsn	Npmsn	_	4	Ap	_	_
-3	bin	bin	X	X	_	4	Oth	_	_
+3	bin	bin	Xf	Xf	_	4	Oth	_	_
 4	Abdulaziz	Abdulaziz	Npmsn	Npmsn	_	5	Sb	_	_
 5	doputovao	doputovati	Vmp-sm	Vmp-sm	_	0	Pred	_	_
 6	je	biti	Vcr3s	Vcr3s	_	5	Aux	_	_
@@ -63777,7 +63777,7 @@
 3	Abdullah	Abdullah	Npmsn	Npmsn	_	4	Ap	_	_
 4	Gul	Gul	Npmsn	Npmsn	_	8	Sb	_	_
 5	(	(	Z	Z	_	6	Punc	_	_
-6	levo	levo	X	X	_	4	Atr	_	_
+6	levo	levo	Xf	Xf	_	4	Atr	_	_
 7	)	)	Z	Z	_	6	Punc	_	_
 8	i	i	Cc	Cc	_	13	Co	_	_
 9	kralj	kralj	Ncmsn	Ncmsn	_	12	Ap	_	_
@@ -63821,7 +63821,7 @@
 18	saudijskog	saudijski	Agpmsg	Agpmsg	_	19	Atr	_	_
 19	kralja	kralj	Ncmsg	Ncmsg	_	22	Ap	_	_
 20	Abdullaha	Abdullah	Npmsg	Npmsg	_	22	Ap	_	_
-21	bin	bin	X	X	_	22	Oth	_	_
+21	bin	bin	Xf	Xf	_	22	Oth	_	_
 22	Abdulaziza	Abdulaziz	Npmsg	Npmsg	_	17	Atr	_	_
 23	.	.	Z	Z	_	0	Punc	_	_
 
@@ -65398,7 +65398,7 @@
 3	,	,	Z	Z	_	8	Punc	_	_
 4	arhitekt	arhitekt	Ncmsn	Ncmsn	_	8	Ap	_	_
 5	iz	iz	Sg	Sg	_	4	Prep	_	_
-6	New	New	X	X	_	7	Atr	_	_
+6	New	New	Xf	Xf	_	7	Atr	_	_
 7	Yorka	York	Npmsg	Npmsg	_	5	Atr	_	_
 8	i	i	Cc	Cc	_	2	Co	_	_
 9	nećak	nećak	Ncmsn	Ncmsn	_	8	Ap	_	_
@@ -65492,7 +65492,7 @@
 35	talijanskog	talijanski	Agpmsg	Agpmsg	_	37	Atr	_	_
 36	filharmonijskog	filharmonijski	Agpmsg	Agpmsg	_	37	Atr	_	_
 37	orkestra	orkestar	Ncmsg	Ncmsg	_	39	Ap	_	_
-38	La	la	X	X	_	39	Oth	_	_
+38	La	la	Xf	Xf	_	39	Oth	_	_
 39	Scala	Scala	Npfsn	Npfsn	_	34	Atr	_	_
 40	.	.	Z	Z	_	0	Punc	_	_
 
@@ -66031,9 +66031,9 @@
 10	veze	veza	Ncfpa	Ncfpa	_	9	Obj	_	_
 11	Jeleve	Jeleva	Npfsg	Npfsg	_	10	Atr	_	_
 12	s	s	Si	Si	_	10	Prep	_	_
-13	Global	Global	X	X	_	14	Atr	_	_
-14	Consult	Consult	X	X	_	12	Atr	_	_
-15	Ltd	Ltd	X	X	_	14	Atr	_	_
+13	Global	Global	Xf	Xf	_	14	Atr	_	_
+14	Consult	Consult	Xf	Xf	_	12	Atr	_	_
+15	Ltd	Ltd	Xf	Xf	_	14	Atr	_	_
 16	.	.	Z	Z	_	15	Punc	_	_
 17	,	,	Z	Z	_	20	Punc	_	_
 18	bugarskom	bugarski	Agpfsi	Agpfsi	_	20	Atr	_	_
@@ -66385,7 +66385,7 @@
 21	međunarodnoj	međunarodan	Agpfsl	Agpfsl	_	23	Atr	_	_
 22	poslovnoj	poslovan	Agpfsl	Agpfsl	_	23	Atr	_	_
 23	školi	škola	Ncfsl	Ncfsl	_	24	Ap	_	_
-24	INSEAD	INSEAD	X	X	_	20	Atr	_	_
+24	INSEAD	INSEAD	Xf	Xf	_	20	Atr	_	_
 25	,	,	Z	Z	_	26	Punc	_	_
 26	za	za	Sa	Sa	_	12	Prep	_	_
 27	taj	taj	Pd-msa--n-an	Pd-msa--n-an	_	28	Atr	_	_
@@ -67138,9 +67138,9 @@
 14	,	,	Z	Z	_	15	Punc	_	_
 15	izvijestio	izvijestiti	Vmp-sm	Vmp-sm	_	0	Pred	_	_
 16	je	biti	Vcr3s	Vcr3s	_	15	Aux	_	_
-17	The	The	X	X	_	18	Oth	_	_
-18	Times	Times	X	X	_	15	Sb	_	_
-19	Online	Online	X	X	_	18	Atr	_	_
+17	The	The	Xf	Xf	_	18	Oth	_	_
+18	Times	Times	Xf	Xf	_	15	Sb	_	_
+19	Online	Online	Xf	Xf	_	18	Atr	_	_
 20	.	.	Z	Z	_	0	Punc	_	_
 
 1	"	"	Z	Z	_	15	Punc	_	_
@@ -67173,8 +67173,8 @@
 28	,	,	Z	Z	_	29	Punc	_	_
 29	prenio	prenijeti	Vmp-sm	Vmp-sm	_	0	Pred	_	_
 30	je	biti	Vcr3s	Vcr3s	_	29	Aux	_	_
-31	Canadian	Canadian	X	X	_	32	Atr	_	_
-32	Press	Press	X	X	_	29	Sb	_	_
+31	Canadian	Canadian	Xf	Xf	_	32	Atr	_	_
+32	Press	Press	Xf	Xf	_	29	Sb	_	_
 33	.	.	Z	Z	_	0	Punc	_	_
 
 1	Vlasti	vlast	Ncfpn	Ncfpn	_	5	Sb	_	_
@@ -67608,9 +67608,9 @@
 15	"	"	Z	Z	_	10	Punc	_	_
 16	.	.	Z	Z	_	0	Punc	_	_
 
-1	The	The	X	X	_	2	Oth	_	_
-2	Times	Times	X	X	_	4	Sb	_	_
-3	Online	Online	X	X	_	2	Atr	_	_
+1	The	The	Xf	Xf	_	2	Oth	_	_
+2	Times	Times	Xf	Xf	_	4	Sb	_	_
+3	Online	Online	Xf	Xf	_	2	Atr	_	_
 4	upozorio	upozoriti	Vmp-sm	Vmp-sm	_	0	Pred	_	_
 5	je	biti	Vcr3s	Vcr3s	_	4	Aux	_	_
 6	Crnogorce	Crnogorac	Npmpa	Npmpa	_	4	Obj	_	_
@@ -68599,7 +68599,7 @@
 4	Obavještajnog	obavještajan	Agpmsg	Agpmsg	_	5	Atr	_	_
 5	odjela	odjel	Ncmsg	Ncmsg	_	3	Atr	_	_
 6	magazina	magazin	Ncmsg	Ncmsg	_	7	Ap	_	_
-7	Economist	Economist	X	X	_	5	Atr	_	_
+7	Economist	Economist	Xf	Xf	_	5	Atr	_	_
 8	od	od	Sg	Sg	_	3	Prep	_	_
 9	utorka	utorak	Ncmsg	Ncmsg	_	8	Atr	_	_
 10	bacilo	baciti	Vmp-sn	Vmp-sn	_	31	Pred	_	_
@@ -70294,8 +70294,8 @@
 23	nacionalna	nacionalan	Agpfsn	Agpfsn	_	25	Atr	_	_
 24	TV	TV	Ncmsn	Ncmsn	_	25	Atr	_	_
 25	postaja	postaja	Ncfsn	Ncfsn	_	27	Ap	_	_
-26	Top	Top	X	X	_	27	Atr	_	_
-27	Channel	Channel	X	X	_	28	Sb	_	_
+26	Top	Top	Xf	Xf	_	27	Atr	_	_
+27	Channel	Channel	Xf	Xf	_	28	Sb	_	_
 28	ima	imati	Vmr3s	Vmr3s	_	21	Pred	_	_
 29	urede	ured	Ncmpa	Ncmpa	_	30	Obj	_	_
 30	i	i	Cc	Cc	_	28	Co	_	_
@@ -71566,7 +71566,7 @@
 8	TV	TV	Ncmsn	Ncmsn	_	9	Atr	_	_
 9	programa	program	Ncmsg	Ncmsg	_	10	Ap	_	_
 10	TRT	TRT	Npmsn	Npmsn	_	3	Atr	_	_
-11	Ses	Ses	X	X	_	12	Ap	_	_
+11	Ses	Ses	Xf	Xf	_	12	Ap	_	_
 12	Burkay	Burkay	Npmsn	Npmsn	_	13	Sb	_	_
 13	smatra	smatrati	Vmr3s	Vmr3s	_	0	Pred	_	_
 14	primjerom	primjer	Ncmsi	Ncmsi	_	13	Obj	_	_
@@ -75530,7 +75530,7 @@
 12	operativnih	operativan	Agpmpg	Agpmpg	_	13	Atr	_	_
 13	sustava	sustav	Ncmpg	Ncmpg	_	17	Atr	_	_
 14	,	,	Z	Z	_	17	Punc	_	_
-15	office	office	X	X	_	16	Atr	_	_
+15	office	office	Xf	Xf	_	16	Atr	_	_
 16	aplikacija	aplikacija	Ncfpg	Ncfpg	_	17	Atr	_	_
 17	i	i	Cc	Cc	_	9	Co	_	_
 18	interneta	internet	Ncmsg	Ncmsg	_	17	Atr	_	_
@@ -75688,9 +75688,9 @@
 23	internetu	internet	Ncmsd	Ncmsd	_	22	Atr	_	_
 24	je	biti	Vcr3s	Vcr3s	_	16	Pred	_	_
 25	slogan	slogan	Ncmsn	Ncmsn	_	28	Ap	_	_
-26	VMRO-DPMNE	VMRO-DPMNE	X	X	_	25	Atr	_	_
+26	VMRO-DPMNE	VMRO-DPMNE	Xf	Xf	_	25	Atr	_	_
 27	"	"	Z	Z	_	28	Punc	_	_
-28	Ostvaruvame	Ostvaruvame	X	X	_	24	Pnom	_	_
+28	Ostvaruvame	Ostvaruvame	Xf	Xf	_	24	Pnom	_	_
 29	"	"	Z	Z	_	28	Punc	_	_
 30	[	[	Z	Z	_	31	Punc	_	_
 31	Ostvarujemo	ostvarivati	Vmr1p	Vmr1p	_	28	Atr	_	_
@@ -75707,7 +75707,7 @@
 8	,	,	Z	Z	_	9	Punc	_	_
 9	a	a	Cc	Cc	_	4	Co	_	_
 10	proveo	provesti	Vmp-sm	Vmp-sm	_	9	Pred	_	_
-11	Strategic	Strategic	X	X	_	12	Atr	_	_
+11	Strategic	Strategic	Xf	Xf	_	12	Atr	_	_
 12	Marketing	marketing	Ncmsn	Ncmsn	_	10	Sb	_	_
 13	,	,	Z	Z	_	14	Punc	_	_
 14	pokazalo	pokazati	Vmp-sn	Vmp-sn	_	0	Pred	_	_
@@ -77891,7 +77891,7 @@
 20	koristeći	koristeći	Rr	Rr	_	14	Atv	_	_
 21	najnoviju	nov	Agsfsa	Agsfsa	_	22	Atr	_	_
 22	tehnologiju	tehnologija	Ncfsa	Ncfsa	_	23	Ap	_	_
-23	EsophyX	EsophyX	X	X	_	20	Obj	_	_
+23	EsophyX	EsophyX	Xf	Xf	_	20	Obj	_	_
 24	za	za	Sa	Sa	_	23	Prep	_	_
 25	otklanjanje	otklanjanje	Ncnsa	Ncnsa	_	24	Atr	_	_
 26	gastroezofagealnog	gastroezofagealan	Agpmsg	Agpmsg	_	27	Atr	_	_
@@ -77943,7 +77943,7 @@
 21	6.	6.	Mdo	Mdo	_	22	Atr	_	_
 22	ožujka	ožujak	Ncmsg	Ncmsg	_	19	Adv	_	_
 23	tiskovna	tiskovan	Agpfsn	Agpfsn	_	24	Atr	_	_
-24	Anadolu	Anadolu	X	X	_	19	Sb	_	_
+24	Anadolu	Anadolu	Xf	Xf	_	19	Sb	_	_
 25	.	.	Z	Z	_	0	Punc	_	_
 
 1	Prošle	prošli	Agpfsg	Agpfsg	_	2	Atr	_	_
@@ -79350,9 +79350,9 @@
 22	nužno	nužno	Rgp	Rgp	_	23	Adv	_	_
 23	zahtijevaju	zahtijevati	Vmr3p	Vmr3p	_	19	Pred	_	_
 24	odgovarajuće	odgovarajući	Agpmpa	Agpmpa	_	28	Atr	_	_
-25	quid	quid	X	X	_	26	Oth	_	_
-26	pro	pro	X	X	_	27	Oth	_	_
-27	quo	quo	X	X	_	28	Oth	_	_
+25	quid	quid	Xf	Xf	_	26	Oth	_	_
+26	pro	pro	Xf	Xf	_	27	Oth	_	_
+27	quo	quo	Xf	Xf	_	28	Oth	_	_
 28	aranžmane	aranžman	Ncmpa	Ncmpa	_	23	Obj	_	_
 29	.	.	Z	Z	_	0	Punc	_	_
 
@@ -80462,7 +80462,7 @@
 2	odobrio	odobriti	Vmp-sm	Vmp-sm	_	0	Pred	_	_
 3	posljednju	posljednji	Agpfsa	Agpfsa	_	4	Atr	_	_
 4	reviziju	revizija	Ncfsa	Ncfsa	_	2	Obj	_	_
-5	stand-by	stand-by	X	X	_	6	Atr	_	_
+5	stand-by	stand-by	Xf	Xf	_	6	Atr	_	_
 6	aranžmana	aranžman	Ncmsg	Ncmsg	_	4	Atr	_	_
 7	s	s	Si	Si	_	6	Prep	_	_
 8	Rumunjskom	Rumunjska	Npfsi	Npfsi	_	7	Atr	_	_
@@ -80485,7 +80485,7 @@
 16	i	i	Cc	Cc	_	18	Co	_	_
 17	posljednju	posljednji	Agpfsa	Agpfsa	_	16	Atr	_	_
 18	reviziju	revizija	Ncfsa	Ncfsa	_	7	Obj	_	_
-19	stand-by	stand-by	X	X	_	20	Atr	_	_
+19	stand-by	stand-by	Xf	Xf	_	20	Atr	_	_
 20	aranžmana	aranžman	Ncmsg	Ncmsg	_	18	Atr	_	_
 21	s	s	Si	Si	_	20	Prep	_	_
 22	Rumunjskom	Rumunjska	Npfsi	Npfsi	_	21	Atr	_	_
@@ -84903,9 +84903,9 @@
 15	godinu	godina	Ncfsa	Ncfsa	_	13	Atr	_	_
 16	.	.	Z	Z	_	0	Punc	_	_
 
-1	World	World	X	X	_	3	Atr	_	_
-2	Vision	Vision	X	X	_	3	Atr	_	_
-3	International	International	X	X	_	4	Sb	_	_
+1	World	World	Xf	Xf	_	3	Atr	_	_
+2	Vision	Vision	Xf	Xf	_	3	Atr	_	_
+3	International	International	Xf	Xf	_	4	Sb	_	_
 4	priopćio	priopćiti	Vmp-sm	Vmp-sm	_	0	Pred	_	_
 5	je	biti	Vcr3s	Vcr3s	_	4	Aux	_	_
 6	u	u	Sa	Sa	_	4	Prep	_	_
@@ -84940,9 +84940,9 @@
 2	je	biti	Vcr3s	Vcr3s	_	0	Pred	_	_
 3	dio	dio	Ncmsn	Ncmsn	_	2	Pnom	_	_
 4	programa	program	Ncmsg	Ncmsg	_	7	Ap	_	_
-5	World	World	X	X	_	7	Atr	_	_
-6	Vision	Vision	X	X	_	7	Atr	_	_
-7	Internationala	International	X	X	_	3	Atr	_	_
+5	World	World	Xf	Xf	_	7	Atr	_	_
+6	Vision	Vision	Xf	Xf	_	7	Atr	_	_
+7	Internationala	International	Xf	Xf	_	3	Atr	_	_
 8	čiji	čiji	Pi-msn--n-a	Pi-msn--n-a	_	7	Sub	_	_
 9	je	biti	Vcr3s	Vcr3s	_	8	Pred	_	_
 10	cilj	cilj	Ncmsn	Ncmsn	_	9	Pnom	_	_
@@ -85794,7 +85794,7 @@
 3	glasovati	glasovati	Vmn	Vmn	_	0	Pred	_	_
 4	o	o	Sl	Sl	_	3	Prep	_	_
 5	njihovoj	njihov	Ps3fslp-n-a	Ps3fslp-n-a	_	6	Atr	_	_
-6	smeni	smeni	X	X	_	4	Obj	_	_
+6	smeni	smeni	Xf	Xf	_	4	Obj	_	_
 7	.	.	Z	Z	_	0	Punc	_	_
 
 1	Sukob	sukob	Ncmsn	Ncmsn	_	13	Sb	_	_
@@ -86477,7 +86477,7 @@
 23	,	,	Z	Z	_	24	Punc	_	_
 24	autor	autor	Ncmsn	Ncmsn	_	22	Ap	_	_
 25	knjige	knjiga	Ncfsg	Ncfsg	_	26	Ap	_	_
-26	HOCA	HOCA	X	X	_	24	Atr	_	_
+26	HOCA	HOCA	Xf	Xf	_	24	Atr	_	_
 27	[	[	Z	Z	_	28	Punc	_	_
 28	Nastavnik	nastavnik	Ncmsn	Ncmsn	_	26	Atr	_	_
 29	]	]	Z	Z	_	28	Punc	_	_
@@ -87259,12 +87259,12 @@
 11	dansku	danski	Agpfsa	Agpfsa	_	12	Atr	_	_
 12	podružnicu	podružnica	Ncfsa	Ncfsa	_	13	Ap	_	_
 13	Pliva	Pliva	Npfsn	Npfsn	_	8	Obj	_	_
-14	Pharma	Pharma	X	X	_	13	Atr	_	_
-15	Nordic	Nordic	X	X	_	14	Atr	_	_
+14	Pharma	Pharma	Xf	Xf	_	13	Atr	_	_
+15	Nordic	Nordic	Xf	Xf	_	14	Atr	_	_
 16	tvrtki	tvrtka	Ncfsd	Ncfsd	_	19	Ap	_	_
-17	United	United	X	X	_	19	Atr	_	_
-18	Nordic	Nordic	X	X	_	19	Atr	_	_
-19	Pharma	Pharma	X	X	_	8	Obj	_	_
+17	United	United	Xf	Xf	_	19	Atr	_	_
+18	Nordic	Nordic	Xf	Xf	_	19	Atr	_	_
+19	Pharma	Pharma	Xf	Xf	_	8	Obj	_	_
 20	,	,	Z	Z	_	21	Punc	_	_
 21	čiji	čiji	Pi-msn--n-a	Pi-msn--n-a	_	19	Sub	_	_
 22	je	biti	Vcr3s	Vcr3s	_	21	Pred	_	_
@@ -87282,10 +87282,10 @@
 6	tvore	tvoriti	Vmr3p	Vmr3p	_	5	Pred	_	_
 7	ABN	ABN	Npmsn	Npmsn	_	9	Atr	_	_
 8	AMRO	AMRO	Npmsn	Npmsn	_	9	Atr	_	_
-9	Capital	Capital	X	X	_	13	Obj	_	_
+9	Capital	Capital	Xf	Xf	_	13	Obj	_	_
 10	,	,	Z	Z	_	13	Punc	_	_
-11	Citigroup	Citigroup	X	X	_	13	Obj	_	_
-12	Investments	Investments	X	X	_	11	Atr	_	_
+11	Citigroup	Citigroup	Xf	Xf	_	13	Obj	_	_
+12	Investments	Investments	Xf	Xf	_	11	Atr	_	_
 13	i	i	Cc	Cc	_	6	Co	_	_
 14	nekoliko	nekoliko	Rgp	Rgp	_	17	Atr	_	_
 15	privatnih	privatan	Agpmpg	Agpmpg	_	17	Atr	_	_
@@ -87337,8 +87337,8 @@
 10	rumunjske	rumunjski	Agpfsg	Agpfsg	_	11	Atr	_	_
 11	pivovare	pivovara	Ncfsg	Ncfsg	_	12	Ap	_	_
 12	Aurora	Aurora	Npfsn	Npfsn	_	9	Atr	_	_
-13	pivovari	pivovari	X	X	_	14	Ap	_	_
-14	SABMiller	SABMiller	X	X	_	9	Atr	_	_
+13	pivovari	pivovari	Xf	Xf	_	14	Ap	_	_
+14	SABMiller	SABMiller	Xf	Xf	_	9	Atr	_	_
 15	,	,	Z	Z	_	16	Punc	_	_
 16	čije	čiji	Pi-nsn--n-a	Pi-nsn--n-a	_	14	Sub	_	_
 17	je	biti	Vcr3s	Vcr3s	_	16	Pred	_	_
