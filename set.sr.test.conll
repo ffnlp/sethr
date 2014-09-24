@@ -1062,7 +1062,7 @@
 9	kratkoročne	kratkoročan	A	Agpmpa	_	10	Atr	_	_
 10	ciljeve	cilj	N	Ncmpa	_	8	Obj	_	_
 11	prema	prema	S	Sl	_	8	Prep	_	_
-12	svojim	svoj	P	Px-pl--nsa	_	14	Atr	_	_
+12	svojim	svoj	P	Px-mpl--nsa	_	14	Atr	_	_
 13	ličnim	ličan	A	Agpmpl	_	14	Atr	_	_
 14	mandatima	mandat	N	Ncmpl	_	11	Obj	_	_
 15	.	.	Z	Z	_	0	Punc	_	_
@@ -1842,13 +1842,13 @@
 8	iz	iz	S	Sg	_	5	Prep	_	_
 9	pozitivnog	pozitivan	A	Agpnsg	_	10	Atr	_	_
 10	iskustva	iskustvo	N	Ncnsg	_	8	Obj	_	_
-11	svojih	svoj	P	Px-pg--nsa	_	12	Atr	_	_
+11	svojih	svoj	P	Px-mpg--nsa	_	12	Atr	_	_
 12	suseda	sused	N	Ncmpg	_	10	Atr	_	_
 13	kako	kako	C	Cs	_	23	Sub	_	_
 14	bismo	biti	V	Vca1p	_	16	Aux	_	_
 15	maksimalno	maksimalno	R	Rgp	_	16	Adv	_	_
 16	iskoristili	iskoristiti	V	Vmp-pm	_	19	Pred	_	_
-17	svoje	svoj	P	Px-pa--nsa	_	18	Atr	_	_
+17	svoje	svoj	P	Px-fpa--nsa	_	18	Atr	_	_
 18	beneficije	beneficija	N	Ncfpa	_	16	Obj	_	_
 19	i	i	C	Cc	_	13	Co	_	_
 20	ubrzali	ubrzati	V	Vmp-pm	_	19	Pred	_	_
@@ -2337,7 +2337,7 @@
 4	dan	dan	N	Ncmsan	_	5	Adv	_	_
 5	ostali	ostati	V	Vmp-pm	_	0	Pred	_	_
 6	na	na	S	Sl	_	5	Prep	_	_
-7	svojim	svoj	P	Px-pl--nsa	_	8	Atr	_	_
+7	svojim	svoj	P	Px-fpl--nsa	_	8	Atr	_	_
 8	pozicijama	pozicija	N	Ncfpl	_	6	Adv	_	_
 9	.	.	Z	Z	_	0	Punc	_	_
 

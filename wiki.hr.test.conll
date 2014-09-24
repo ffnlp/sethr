@@ -958,7 +958,7 @@
 14	je	biti	V	Vcr3s	_	16	Aux	_	_
 15	Euklid	Euklid	N	Npmsn	_	16	Sb	_	_
 16	postavio	postaviti	V	Vmp-sm	_	13	Pred	_	_
-17	svojih	svoj	P	Px-pg--nsa	_	19	Atr	_	_
+17	svojih	svoj	P	Px-mpg--nsa	_	19	Atr	_	_
 18	pet	pet	M	Mlc-p	_	19	Atr	_	_
 19	aksioma	aksiom	N	Ncmpg	_	16	Obj	_	_
 20	o	o	S	Sl	_	19	Prep	_	_
@@ -1793,7 +1793,7 @@
 
 1	Profesori	profesor	N	Ncmpn	_	2	Sb	_	_
 2	pomažu	pomagati	V	Vmr3p	_	21	Pred	_	_
-3	svojim	svoj	P	Px-pd--nsa	_	4	Atr	_	_
+3	svojim	svoj	P	Px-mpd--nsa	_	4	Atr	_	_
 4	odgajanicima	odgajanik	N	Ncmpd	_	2	Obj	_	_
 5	da	da	C	Cs	_	2	Sub	_	_
 6	uđu	ući	V	Vmr3p	_	5	Pred	_	_
@@ -1819,7 +1819,7 @@
 26	o	o	S	Sl	_	25	Prep	_	_
 27	svijetu	svijet	N	Ncmsl	_	28	Atr	_	_
 28	i	i	C	Cc	_	26	Co	_	_
-29	sebi	sebe	P	Px-sl--npn	_	28	Atr	_	_
+29	sebi	sebe	P	Px--sl--npn	_	28	Atr	_	_
 30	s	s	S	Si	_	25	Prep	_	_
 31	kojima	koji	P	Pi-mpi--n-a	_	30	Sub	_	_
 32	se	sebe	P	Px--sa--ypn	_	33	Aux	_	_
