@@ -219,7 +219,7 @@
 4	je	biti	V	Vcr3s	_	2	Pred	_	_
 5	precizno	precizno	R	Rgp	_	4	Adv	_	_
 6	uloga	uloga	N	Ncfsn	_	4	Sb	_	_
-7	Vaše	vaš	P	Ps2fsg-n-a	_	8	Atr	_	_
+7	Vaše	vaš	P	Ps2fsgp-n-a	_	8	Atr	_	_
 8	Direkcije	direkcija	N	Ncfsg	_	6	Atr	_	_
 9	BiH	BiH	Y	Npmsg	_	8	Atr	_	_
 10	za	za	S	Sa	_	8	Prep	_	_
@@ -543,7 +543,7 @@
 5	nepotpun	nepotpun	A	Agpmsn	_	4	Pnom	_	_
 6	,	,	Z	Z	_	11	Co	_	_
 7	mnoge	mnogi	A	Agpfpn	_	9	Atr	_	_
-8	njegove	njegov	P	Ps3fpnmn-a	_	9	Atr	_	_
+8	njegove	njegov	P	Ps3fpnsmn-a	_	9	Atr	_	_
 9	kosti	kost	N	Ncfpn	_	10	Sb	_	_
 10	nedostaju	nedostajati	V	Vmr3p	_	6	Pred	_	_
 11	i	i	C	Cc	_	0	Co	_	_
@@ -2292,7 +2292,7 @@
 18	i	i	C	Cc	_	23	Oth	_	_
 19	nekoliko	nekoliko	R	Rgp	_	20	Adv	_	_
 20	članova	član	N	Ncmpg	_	23	Atr	_	_
-21	njegove	njegov	P	Ps3fsgmn-a	_	22	Atr	_	_
+21	njegove	njegov	P	Ps3fsgsmn-a	_	22	Atr	_	_
 22	porodice	porodica	N	Ncfsg	_	20	Atr	_	_
 23	i	i	C	Cc	_	11	Co	_	_
 24	direktora	direktor	N	Ncmsg	_	23	Atr	_	_
