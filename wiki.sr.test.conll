@@ -1,11 +1,11 @@
 1	Skup	skup	N	Ncmsn	_	10	Sb	_	_
 2	slova	slovo	N	Ncnpg	_	1	Atr	_	_
-3	kojima	koji	P	Pi-npi-n-a	_	2	Sub	_	_
-4	se	sebe	P	Px--sa-ypn	_	5	Aux	_	_
+3	kojima	koji	P	Pi-npi--n-a	_	2	Sub	_	_
+4	se	sebe	P	Px--sa--ypn	_	5	Aux	_	_
 5	formiraju	formirati	V	Vmr3p	_	3	Pred	_	_
 6	zapisi	zapis	N	Ncmpn	_	5	Sb	_	_
 7	reči	reč	N	Ncfpg	_	6	Atr	_	_
-8	nekog	neki	P	Pi-msg-n-a	_	9	Atr	_	_
+8	nekog	neki	P	Pi-msg--n-a	_	9	Atr	_	_
 9	jezika	jezik	N	Ncmsg	_	7	Atr	_	_
 10	je	biti	V	Vcr3s	_	15	Pred	_	_
 11	po	po	S	Sl	_	10	Prep	_	_
@@ -19,11 +19,11 @@
 19	,	,	Z	Z	_	20	Punc	_	_
 20	sa	s	S	Si	_	28	Prep	_	_
 21	izuzetkom	izuzetak	N	Ncmsi	_	20	Obj	_	_
-22	nekih	neki	P	Pi-mpg-n-a	_	21	Elp	_	_
+22	nekih	neki	P	Pi-mpg--n-a	_	21	Elp	_	_
 23	poput	poput	S	Sg	_	24	Oth	_	_
 24	kineskog	kineski	A	Agpmsg	_	21	Elp	_	_
 25	,	,	Z	Z	_	20	Punc	_	_
-26	ovaj	ovaj	P	Pd-msn-n-a	_	27	Atr	_	_
+26	ovaj	ovaj	P	Pd-msn--n-a	_	27	Atr	_	_
 27	broj	broj	N	Ncmsn	_	28	Sb	_	_
 28	iznosi	iznositi	V	Vmr3s	_	32	Pred	_	_
 29	20	20	M	Md	_	30	Adv	_	_
@@ -40,7 +40,7 @@
 40	(	(	Z	Z	_	41	Punc	_	_
 41	pismo	pismo	N	Ncnsn	_	38	Atr	_	_
 42	)	)	Z	Z	_	41	Punc	_	_
-43	se	sebe	P	Px--sa-ypn	_	44	Aux	_	_
+43	se	sebe	P	Px--sa--ypn	_	44	Aux	_	_
 44	razlikuju	razlikovati	V	Vmr3p	_	32	Pred	_	_
 45	od	od	S	Sg	_	44	Prep	_	_
 46	jezika	jezik	N	Ncmsg	_	45	Obj	_	_
@@ -126,7 +126,7 @@
 5	veliku	velik	A	Agpfsa	_	7	Atr	_	_
 6	kinetičku	kinetički	A	Agpfsa	_	7	Atr	_	_
 7	energiju	energija	N	Ncfsa	_	4	Obj	_	_
-8	koja	koji	P	Pi-fsn-n-a	_	7	Sub	_	_
+8	koja	koji	P	Pi-fsn--n-a	_	7	Sub	_	_
 9	potiskom	potisak	N	Ncmsi	_	12	Adv	_	_
 10	na	na	S	Sa	_	9	Prep	_	_
 11	čep	čep	N	Ncmsan	_	10	Atr	_	_
@@ -167,7 +167,7 @@
 6	,	,	Z	Z	_	1	Punc	_	_
 7	dužica	dužica	N	Ncfsn	_	10	Sb	_	_
 8	oka	oko	N	Ncnsg	_	7	Atr	_	_
-9	se	sebe	P	Px--sa-ypn	_	10	Aux	_	_
+9	se	sebe	P	Px--sa--ypn	_	10	Aux	_	_
 10	skuplja	skupljati	V	Vmr3s	_	0	Pred	_	_
 11	preko	preko	S	Sg	_	10	Prep	_	_
 12	oka	oko	N	Ncnsg	_	11	Obj	_	_
@@ -178,7 +178,7 @@
 17	smanjujući	smanjujući	R	Rr	_	10	Atv	_	_
 18	količinu	količina	N	Ncfsa	_	17	Obj	_	_
 19	svetlosti	svetlost	N	Ncfsg	_	18	Atr	_	_
-20	koja	koji	P	Pi-fsn-n-a	_	18	Sub	_	_
+20	koja	koji	P	Pi-fsn--n-a	_	18	Sub	_	_
 21	pada	padati	V	Vmr3s	_	20	Pred	_	_
 22	na	na	S	Sa	_	21	Prep	_	_
 23	mrežnjaču	mrežnjača	N	Ncfsa	_	22	Adv	_	_
@@ -190,7 +190,7 @@
 4	i	i	C	Cc	_	6	Co	_	_
 5	egzaktna	egzaktan	A	Agpfsn	_	4	Atr	_	_
 6	nauka	nauka	N	Ncfsn	_	2	Pnom	_	_
-7	koja	koji	P	Pi-fsn-n-a	_	6	Sub	_	_
+7	koja	koji	P	Pi-fsn--n-a	_	6	Sub	_	_
 8	je	biti	V	Vcr3s	_	9	Aux	_	_
 9	nastala	nastati	V	Vmp-sf	_	7	Pred	_	_
 10	izučavanjem	izučavanje	N	Ncnsi	_	12	Adv	_	_
@@ -220,7 +220,7 @@
 1	Među	među	S	Sa	_	6	Prep	_	_
 2	najveće	velik	A	Agsmpa	_	3	Atr	_	_
 3	ratove	rat	N	Ncmpa	_	1	Obj	_	_
-4	ovog	ovaj	P	Pd-msg-n-a	_	5	Atr	_	_
+4	ovog	ovaj	P	Pd-msg--n-a	_	5	Atr	_	_
 5	karaktera	karakter	N	Ncmsg	_	3	Atr	_	_
 6	spadaju	spadati	V	Vmr3p	_	0	Pred	_	_
 7	ratovi	rat	N	Ncmpn	_	13	Sb	_	_
@@ -256,7 +256,7 @@
 20	2009	2009	M	Md	_	22	Atr	_	_
 21	.	.	Z	Z	_	20	Punc	_	_
 22	godine	godina	N	Ncfsg	_	19	Atr	_	_
-23	što	što	P	Pi3n-n-n-nn	_	16	Sub	_	_
+23	što	što	P	Pi3n-n--n-nn	_	16	Sub	_	_
 24	je	biti	V	Vcr3s	_	23	Pred	_	_
 25	najduži	dug	A	Agsmsn	_	26	Atr	_	_
 26	mandat	mandat	N	Ncmsn	_	24	Pnom	_	_
@@ -268,7 +268,7 @@
 
 1	Ali	ali	C	Cc	_	7	Oth	_	_
 2	,	,	Z	Z	_	1	Punc	_	_
-3	ova	ovaj	P	Pd-fsn-n-a	_	4	Atr	_	_
+3	ova	ovaj	P	Pd-fsn--n-a	_	4	Atr	_	_
 4	postava	postava	N	Ncfsn	_	7	Sb	_	_
 5	nije	biti	V	Vcr3s-	_	7	Aux	_	_
 6	dugo	dugo	R	Rgp	_	7	Adv	_	_
@@ -277,7 +277,7 @@
 9	članovi	član	N	Ncmpn	_	14	Sb	_	_
 10	benda	bend	N	Ncmsg	_	9	Atr	_	_
 11	su	biti	V	Vcr3p	_	14	Aux	_	_
-12	se	sebe	P	Px--sa-ypn	_	14	Aux	_	_
+12	se	sebe	P	Px--sa--ypn	_	14	Aux	_	_
 13	često	često	R	Rgp	_	14	Adv	_	_
 14	menjali	menjati	V	Vmp-pm	_	15	Pred	_	_
 15	,	,	Z	Z	_	8	Co	_	_
@@ -297,7 +297,7 @@
 7	Kosovo	Kosovo	N	Npnsn	_	8	Sb	_	_
 8	i	i	C	Cc	_	11	Co	_	_
 9	Metohija	Metohija	N	Npfsn	_	8	Sb	_	_
-10	se	sebe	P	Px--sa-ypn	_	11	Aux	_	_
+10	se	sebe	P	Px--sa--ypn	_	11	Aux	_	_
 11	nalazi	nalaziti	V	Vmr3s	_	0	Pred	_	_
 12	pod	pod	S	Si	_	11	Prep	_	_
 13	protektoratom	protektorat	N	Ncmsi	_	12	Obj	_	_
@@ -310,7 +310,7 @@
 3	vrhom	vrh	N	Ncmsi	_	2	Obj	_	_
 4	,	,	Z	Z	_	5	Punc	_	_
 5	na	na	S	Sl	_	3	Prep	_	_
-6	kome	koji	P	Pi-msl-n-a	_	5	Sub	_	_
+6	kome	koji	P	Pi-msl--n-a	_	5	Sub	_	_
 7	je	biti	V	Vcr3s	_	6	Pred	_	_
 8	vegetaciona	vegetacion	A	Agpfsn	_	9	Atr	_	_
 9	kupa	kupa	N	Ncfsn	_	7	Sb	_	_
@@ -348,11 +348,11 @@
 1	Deo	deo	N	Ncmsn	_	7	Sb	_	_
 2	stabla	stablo	N	Ncnsg	_	1	Atr	_	_
 3	sa	s	S	Sg	_	1	Prep	_	_
-4	koga	koji	P	Pi-msg-n-a	_	3	Sub	_	_
+4	koga	koji	P	Pi-msg--n-a	_	3	Sub	_	_
 5	polaze	polaziti	V	Vmr3p	_	4	Pred	_	_
 6	listovi	list	N	Ncmpn	_	5	Sb	_	_
 7	naziva	nazivati	V	Vmr3s	_	14	Pred	_	_
-8	se	sebe	P	Px--sa-ypn	_	7	Aux	_	_
+8	se	sebe	P	Px--sa--ypn	_	7	Aux	_	_
 9	čvor	čvor	N	Ncmsn	_	7	Pnom	_	_
 10	(	(	Z	Z	_	11	Punc	_	_
 11	nodus	nodus	N	Npmsn	_	9	Atr	_	_
@@ -412,8 +412,8 @@
 11	stručni	stručan	A	Agpmsn	_	12	Atr	_	_
 12	ispit	ispit	N	Ncmsn	_	9	Pnom	_	_
 13	,	,	Z	Z	_	14	Punc	_	_
-14	koji	koji	P	Pi-msn-n-a	_	12	Sub	_	_
-15	se	sebe	P	Px--sa-ypn	_	16	Aux	_	_
+14	koji	koji	P	Pi-msn--n-a	_	12	Sub	_	_
+15	se	sebe	P	Px--sa--ypn	_	16	Aux	_	_
 16	polaže	polagati	V	Vmr3s	_	14	Pred	_	_
 17	posle	posle	R	Rgp	_	16	Prep	_	_
 18	dve	dva	M	Mlc-p	_	19	Atr	_	_
@@ -428,7 +428,7 @@
 4	mlađoj	mlad	A	Agcfsd	_	5	Atr	_	_
 5	generaciji	generacija	N	Ncfsd	_	2	Atr	_	_
 6	može	moći	V	Vmr3s	_	0	Pred	_	_
-7	se	sebe	P	Px--sa-ypn	_	6	Aux	_	_
+7	se	sebe	P	Px--sa--ypn	_	6	Aux	_	_
 8	izvoditi	izvoditi	V	Vmn	_	6	Atv	_	_
 9	i	i	C	Cc	_	10	Oth	_	_
 10	izvan	izvan	S	Sg	_	8	Prep	_	_
@@ -443,9 +443,9 @@
 19	vlastitoj	vlastit	A	Agpfsl	_	20	Atr	_	_
 20	režiji	režija	N	Ncfsl	_	18	Adv	_	_
 21	,	,	Z	Z	_	22	Punc	_	_
-22	što	što	P	Pi3n-n-n-nn	_	6	Sub	_	_
+22	što	što	P	Pi3n-n--n-nn	_	6	Sub	_	_
 23	bi	biti	V	Vca3s	_	25	Aux	_	_
-24	se	sebe	P	Px--sa-ypn	_	25	Aux	_	_
+24	se	sebe	P	Px--sa--ypn	_	25	Aux	_	_
 25	nazvalo	nazvati	V	Vmp-sn	_	22	Pred	_	_
 26	kućna	kućan	A	Agpfsn	_	27	Atr	_	_
 27	škola	škola	N	Ncfsn	_	28	Pnom	_	_
@@ -467,7 +467,7 @@
 10	i	i	C	Cc	_	0	Co	_	_
 11	sudi	suditi	V	Vmr3s	_	10	Pred	_	_
 12	mu	on	P	Pp3msd-y-n	_	11	Obj	_	_
-13	se	sebe	P	Px--sa-ypn	_	11	Aux	_	_
+13	se	sebe	P	Px--sa--ypn	_	11	Aux	_	_
 14	na	na	S	Sl	_	11	Prep	_	_
 15	Županijskom	županijski	A	Agpmsl	_	16	Atr	_	_
 16	sudu	sud	N	Ncmsl	_	14	Adv	_	_
@@ -495,7 +495,7 @@
 18	.	.	Z	Z	_	0	Punc	_	_
 
 1	Ciljevi	cilj	N	Ncmpn	_	5	Sb	_	_
-2	tih	taj	P	Pd-mpg-n-a	_	3	Atr	_	_
+2	tih	taj	P	Pd-mpg--n-a	_	3	Atr	_	_
 3	ratova	rat	N	Ncmpg	_	1	Atr	_	_
 4	su	biti	V	Vcr3p	_	5	Aux	_	_
 5	imali	imati	V	Vmp-pm	_	0	Pred	_	_
@@ -542,12 +542,12 @@
 1	Istorijski	istorijski	R	Rgp	_	5	Adv	_	_
 2	,	,	Z	Z	_	1	Punc	_	_
 3	matematika	matematika	N	Ncfsn	_	5	Sb	_	_
-4	se	sebe	P	Px--sa-ypn	_	5	Aux	_	_
+4	se	sebe	P	Px--sa--ypn	_	5	Aux	_	_
 5	razvila	razviti	V	Vmp-sf	_	23	Pred	_	_
 6	iz	iz	S	Sg	_	5	Prep	_	_
 7	potrebe	potreba	N	Ncfsg	_	6	Obj	_	_
 8	da	da	C	Cs	_	7	Sub	_	_
-9	se	sebe	P	Px--sa-ypn	_	10	Aux	_	_
+9	se	sebe	P	Px--sa--ypn	_	10	Aux	_	_
 10	obavljaju	obavljati	V	Vmr3p	_	18	Pred	_	_
 11	proračuni	proračun	N	Ncmpn	_	10	Sb	_	_
 12	u	u	S	Sl	_	10	Prep	_	_
@@ -562,10 +562,10 @@
 21	događaji	događaj	N	Ncmpn	_	19	Atr	_	_
 22	,	,	Z	Z	_	23	Punc	_	_
 23	i	i	C	Cc	_	0	Co	_	_
-24	ove	ovaj	P	Pd-fpn-n-a	_	26	Atr	_	_
+24	ove	ovaj	P	Pd-fpn--n-a	_	26	Atr	_	_
 25	tri	tri	M	Mlc-p	_	26	Atr	_	_
 26	primene	primena	N	Ncfsg	_	28	Sb	_	_
-27	se	sebe	P	Px--sa-ypn	_	28	Aux	_	_
+27	se	sebe	P	Px--sa--ypn	_	28	Aux	_	_
 28	mogu	moći	V	Vmr3p	_	23	Pred	_	_
 29	dovesti	dovesti	V	Vmn	_	28	Atv	_	_
 30	u	u	S	Sa	_	29	Prep	_	_
@@ -584,7 +584,7 @@
 43	.	.	Z	Z	_	0	Punc	_	_
 
 1	Kod	kod	S	Sg	_	10	Prep	_	_
-2	nekih	neki	P	Pi-fpg-n-a	_	3	Atr	_	_
+2	nekih	neki	P	Pi-fpg--n-a	_	3	Atr	_	_
 3	biljaka	biljka	N	Ncfpg	_	1	Obj	_	_
 4	,	,	Z	Z	_	6	Punc	_	_
 5	npr.	npr.	Y	Y	_	6	Oth	_	_
@@ -634,7 +634,7 @@
 12	hemijskih	hemijski	A	Agpnpg	_	11	Atr	_	_
 13	svojstava	svojstvo	N	Ncnpg	_	4	Atr	_	_
 14	,	,	Z	Z	_	15	Punc	_	_
-15	koje	koji	P	Pi-fpn-n-a	_	4	Sub	_	_
+15	koje	koji	P	Pi-fpn--n-a	_	4	Sub	_	_
 16	su	biti	V	Vcr3p	_	15	Pred	_	_
 17	u	u	S	Sl	_	16	Prep	_	_
 18	međusobnoj	međusoban	A	Agpfsl	_	19	Atr	_	_
@@ -669,7 +669,7 @@
 3	vegetacione	vegetacion	A	Agpfsg	_	4	Atr	_	_
 4	kupe	kupa	N	Ncfsg	_	2	Atr	_	_
 5	obrazuju	obrazovati	V	Vmr3p	_	0	Pred	_	_
-6	se	sebe	P	Px--sa-ypn	_	5	Aux	_	_
+6	se	sebe	P	Px--sa--ypn	_	5	Aux	_	_
 7	začeci	začetak	N	Ncmpn	_	5	Sb	_	_
 8	listova	list	N	Ncmpg	_	7	Atr	_	_
 9	.	.	Z	Z	_	0	Punc	_	_
@@ -762,7 +762,7 @@
 6	organizacija	organizacija	N	Ncfsn	_	5	Pnom	_	_
 7	Ujedinjenih	ujedinjen	A	Appfpg	_	8	Atr	_	_
 8	nacija	nacija	N	Ncfpg	_	6	Atr	_	_
-9	koja	koji	P	Pi-fsn-n-a	_	6	Sub	_	_
+9	koja	koji	P	Pi-fsn--n-a	_	6	Sub	_	_
 10	deluje	delovati	V	Vmr3s	_	9	Pred	_	_
 11	kao	kao	C	Cs	_	13	Oth	_	_
 12	koordinirajuće	koordinirajući	A	Agpnsn	_	13	Atr	_	_
@@ -776,7 +776,7 @@
 2	njihovom	njihov	P	Ps3msl-n-a	_	3	Atr	_	_
 3	pazuhu	pazuh	N	Ncmsl	_	1	Adv	_	_
 4	obrazuju	obrazovati	V	Vmr3p	_	0	Pred	_	_
-5	se	sebe	P	Px--sa-ypn	_	4	Aux	_	_
+5	se	sebe	P	Px--sa--ypn	_	4	Aux	_	_
 6	bočni	bočan	A	Agpmpn	_	7	Atr	_	_
 7	izdanci	izdanak	N	Ncmpn	_	4	Sb	_	_
 8	.	.	Z	Z	_	0	Punc	_	_
@@ -792,7 +792,7 @@
 3	u	u	S	Sl	_	2	Prep	_	_
 4	vezi	veza	N	Ncfsl	_	3	Atr	_	_
 5	imena	ime	N	Ncnpg	_	8	Atr	_	_
-6	ovog	ovaj	P	Pd-nsg-n-a	_	7	Atr	_	_
+6	ovog	ovaj	P	Pd-nsg--n-a	_	7	Atr	_	_
 7	mora	more	N	Ncnsg	_	5	Atr	_	_
 8	i	i	C	Cc	_	4	Co	_	_
 9	belih	bel	A	Agpmpg	_	10	Atr	_	_
@@ -805,8 +805,8 @@
 1	U	u	S	Sl	_	7	Prep	_	_
 2	srpskom	srpski	A	Agpmsl	_	3	Atr	_	_
 3	jeziku	jezik	N	Ncmsl	_	1	Adv	_	_
-4	se	sebe	P	Px--sa-ypn	_	7	Aux	_	_
-5	ovaj	ovaj	P	Pd-msn-n-a	_	6	Atr	_	_
+4	se	sebe	P	Px--sa--ypn	_	7	Aux	_	_
+5	ovaj	ovaj	P	Pd-msn--n-a	_	6	Atr	_	_
 6	skup	skup	N	Ncmsn	_	7	Sb	_	_
 7	zove	zvati	V	Vmr3s	_	9	Pred	_	_
 8	azbuka	azbuka	N	Ncfsn	_	7	Pnom	_	_
@@ -817,7 +817,7 @@
 13	slova	slovo	N	Ncnpg	_	10	Sb	_	_
 14	,	,	Z	Z	_	15	Punc	_	_
 15	pri	pri	S	Sl	_	10	Prep	_	_
-16	čemu	što	P	Pi3n-l-n-nn	_	15	Sub	_	_
+16	čemu	što	P	Pi3n-l--n-nn	_	15	Sub	_	_
 17	su	biti	V	Vcr3p	_	16	Pred	_	_
 18	ćirilični	ćiriličan	A	Agpmsn	_	19	Atr	_	_
 19	i	i	C	Cc	_	21	Co	_	_
@@ -827,7 +827,7 @@
 23	.	.	Z	Z	_	0	Punc	_	_
 
 1	Veruje	verovati	V	Vmr3s	_	0	Pred	_	_
-2	se	sebe	P	Px--sa-ypn	_	1	Aux	_	_
+2	se	sebe	P	Px--sa--ypn	_	1	Aux	_	_
 3	da	da	C	Cs	_	1	Sub	_	_
 4	su	biti	V	Vcr3p	_	10	Aux	_	_
 5	periodične	periodičan	A	Agpfpn	_	6	Atr	_	_
@@ -841,7 +841,7 @@
 13	ledenih	leden	A	Agpnpg	_	14	Atr	_	_
 14	doba	doba	N	Ncnpg	_	12	Atr	_	_
 15	tokom	tokom	R	Rgp	_	12	Prep	_	_
-16	kojih	koji	P	Pi-npg-n-a	_	15	Sub	_	_
+16	kojih	koji	P	Pi-npg--n-a	_	15	Sub	_	_
 17	je	biti	V	Vcr3s	_	22	Aux	_	_
 18	znatan	znatan	A	Agpmsn	_	19	Atr	_	_
 19	deo	deo	N	Ncmsn	_	22	Sb	_	_
@@ -853,7 +853,7 @@
 25	.	.	Z	Z	_	0	Punc	_	_
 
 1	U	u	S	Sl	_	5	Prep	_	_
-2	ovom	ovaj	P	Pd-msl-n-a	_	3	Atr	_	_
+2	ovom	ovaj	P	Pd-msl--n-a	_	3	Atr	_	_
 3	periodu	period	N	Ncmsl	_	1	Adv	_	_
 4	je	biti	V	Vcr3s	_	5	Aux	_	_
 5	upoznao	upoznati	V	Vmp-sm	_	0	Pred	_	_
@@ -885,7 +885,7 @@
 3	,	,	Z	Z	_	1	Punc	_	_
 4	strane	strana	N	Ncfpn	_	7	Sb	_	_
 5	sveta	svet	N	Ncmsg	_	4	Atr	_	_
-6	se	sebe	P	Px--sa-ypn	_	7	Aux	_	_
+6	se	sebe	P	Px--sa--ypn	_	7	Aux	_	_
 7	obeležavaju	obeležavati	V	Vmr3p	_	0	Pred	_	_
 8	bojama	boja	N	Ncfpi	_	7	Adv	_	_
 9	.	.	Z	Z	_	0	Punc	_	_
@@ -894,13 +894,13 @@
 2	sa	s	S	Si	_	1	Prep	_	_
 3	listovima	list	N	Ncmpi	_	2	Atr	_	_
 4	naziva	nazivati	V	Vmr3s	_	0	Pred	_	_
-5	se	sebe	P	Px--sa-ypn	_	4	Aux	_	_
+5	se	sebe	P	Px--sa--ypn	_	4	Aux	_	_
 6	izdanak	izdanak	N	Ncmsn	_	4	Pnom	_	_
 7	.	.	Z	Z	_	0	Punc	_	_
 
-1	Neka	neki	P	Pi-npn-n-a	_	2	Atr	_	_
+1	Neka	neki	P	Pi-npn--n-a	_	2	Atr	_	_
 2	mora	more	N	Ncnpn	_	4	Sb	_	_
-3	se	sebe	P	Px--sa-ypn	_	4	Aux	_	_
+3	se	sebe	P	Px--sa--ypn	_	4	Aux	_	_
 4	nazivaju	nazivati	V	Vmr3p	_	0	Pred	_	_
 5	po	po	S	Sl	_	4	Prep	_	_
 6	bojama	boja	N	Ncfpl	_	5	Adv	_	_
@@ -915,7 +915,7 @@
 7	poseduju	posedovati	V	Vmr3p	_	0	Pred	_	_
 8	tapetum	tapetum	N	Npnsa	_	7	Obj	_	_
 9	lucidum	lucidum	N	Npnsa	_	8	Atr	_	_
-10	koji	koji	P	Pi-msn-n-a	_	8	Sub	_	_
+10	koji	koji	P	Pi-msn--n-a	_	8	Sub	_	_
 11	odbija	odbijati	V	Vmr3s	_	10	Pred	_	_
 12	dodatnu	dodatan	A	Agpfsa	_	13	Atr	_	_
 13	svetlost	svetlost	N	Ncfsa	_	11	Obj	_	_
@@ -946,7 +946,7 @@
 7	iz	iz	S	Sg	_	6	Prep	_	_
 8	Zagreba	Zagreb	N	Npmsg	_	7	Atr	_	_
 9	,	,	Z	Z	_	10	Punc	_	_
-10	koji	koji	P	Pi-msn-n-a	_	6	Sub	_	_
+10	koji	koji	P	Pi-msn--n-a	_	6	Sub	_	_
 11	je	biti	V	Vcr3s	_	12	Aux	_	_
 12	osnovao	osnovati	V	Vmp-sm	_	10	Pred	_	_
 13	Branimir	Branimir	N	Npmsn	_	15	Ap	_	_
@@ -958,7 +958,7 @@
 19	.	.	Z	Z	_	0	Punc	_	_
 
 1	Nalazi	nalaziti	V	Vmr3s	_	0	Pred	_	_
-2	se	sebe	P	Px--sa-ypn	_	1	Aux	_	_
+2	se	sebe	P	Px--sa--ypn	_	1	Aux	_	_
 3	na	na	S	Sl	_	1	Prep	_	_
 4	prednjoj	prednji	A	Agpfsl	_	5	Atr	_	_
 5	strani	strana	N	Ncfsl	_	3	Adv	_	_
@@ -1000,7 +1000,7 @@
 25	.	.	Z	Z	_	0	Punc	_	_
 
 1	Srbija	Srbija	N	Npfsn	_	5	Sb	_	_
-2	se	sebe	P	Px--sa-ypn	_	5	Aux	_	_
+2	se	sebe	P	Px--sa--ypn	_	5	Aux	_	_
 3	na	na	S	Sl	_	5	Prep	_	_
 4	severu	sever	N	Ncmsl	_	3	Adv	_	_
 5	graniči	graničiti	V	Vmr3s	_	32	Pred	_	_
@@ -1062,7 +1062,7 @@
 15	.	.	Z	Z	_	14	Punc	_	_
 16	godine	godina	N	Ncfsg	_	13	Atr	_	_
 17	,	,	Z	Z	_	1	Punc	_	_
-18	on	on	P	Pp3msn-n-n	_	19	Sb	_	_
+18	on	on	P	Pp3msn--n-n	_	19	Sb	_	_
 19	je	biti	V	Vcr3s	_	0	Pred	_	_
 20	administrativno	administrativan	A	Agpnsn	_	21	Atr	_	_
 21	i	i	C	Cc	_	23	Co	_	_
@@ -1076,14 +1076,14 @@
 3	novorođenčeta	novorođenče	N	Ncnsg	_	1	Atr	_	_
 4	ne	ne	Q	Qz	_	5	Aux	_	_
 5	razlikuje	razlikovati	V	Vmr3s	_	0	Pred	_	_
-6	se	sebe	P	Px--sa-ypn	_	5	Aux	_	_
+6	se	sebe	P	Px--sa--ypn	_	5	Aux	_	_
 7	od	od	S	Sg	_	5	Prep	_	_
 8	grudi	grudi	N	Ncfpg	_	7	Obj	_	_
 9	muškog	muški	A	Agpnsg	_	10	Atr	_	_
 10	novorođenčeta	novorođenče	N	Ncnsg	_	8	Atr	_	_
 11	.	.	Z	Z	_	0	Punc	_	_
 
-1	Njen	njen	P	Ps3msnfn-a	_	4	Atr	_	_
+1	Njen	njen	P	Ps3msnsfn-a	_	4	Atr	_	_
 2	relativno	relativno	R	Rgp	_	3	Adv	_	_
 3	veliki	velik	A	Agpmsn	_	4	Atr	_	_
 4	satelit	satelit	N	Ncmsn	_	6	Ap	_	_
@@ -1151,17 +1151,17 @@
 25	"	"	Z	Z	_	24	Punc	_	_
 26	.	.	Z	Z	_	0	Punc	_	_
 
-1	To	taj	P	Pd-nsn-n-a	_	2	Sb	_	_
+1	To	taj	P	Pd-nsn--n-a	_	2	Sb	_	_
 2	je	biti	V	Vcr3s	_	0	Pred	_	_
 3	princip	princip	N	Ncmsn	_	2	Pnom	_	_
 4	dejstvovanja	dejstvovanje	N	Ncnsg	_	3	Atr	_	_
 5	u	u	S	Sl	_	2	Prep	_	_
-6	svakom	svaki	P	Pi-msl-n-a	_	7	Atr	_	_
+6	svakom	svaki	P	Pi-msl--n-a	_	7	Atr	_	_
 7	metku	metak	N	Ncmsl	_	5	Adv	_	_
 8	.	.	Z	Z	_	0	Punc	_	_
 
 1	Kada	kada	R	Rgp	_	11	Sub	_	_
-2	se	sebe	P	Px--sa-ypn	_	6	Aux	_	_
+2	se	sebe	P	Px--sa--ypn	_	6	Aux	_	_
 3	udarom	udar	N	Ncmsi	_	6	Obj	_	_
 4	udarne	udaran	A	Appfsg	_	5	Atr	_	_
 5	igle	igla	N	Ncfsg	_	3	Atr	_	_
@@ -1169,7 +1169,7 @@
 7	inicijalna	inicijalan	A	Agpfsn	_	8	Atr	_	_
 8	kapisla	kapisla	N	Ncfsn	_	6	Sb	_	_
 9	,	,	Z	Z	_	1	Punc	_	_
-10	ona	on	P	Pp3fsn-n-n	_	11	Sb	_	_
+10	ona	on	P	Pp3fsn--n-n	_	11	Sb	_	_
 11	zapali	zapaliti	V	Vmr3s	_	0	Pred	_	_
 12	barutno	barutan	A	Agpnsa	_	13	Atr	_	_
 13	punjenje	punjenje	N	Ncnsa	_	11	Obj	_	_
@@ -1205,7 +1205,7 @@
 10	godine	godina	N	Ncfsg	_	9	Atr	_	_
 11	-	-	Z	Z	_	0	Co	_	_
 12	more	more	N	Ncnsn	_	15	Sb	_	_
-13	se	sebe	P	Px--sa-ypn	_	15	Aux	_	_
+13	se	sebe	P	Px--sa--ypn	_	15	Aux	_	_
 14	periodično	periodično	R	Rgp	_	15	Adv	_	_
 15	ledi	lediti	V	Vmr3s	_	17	Pred	_	_
 16	,	,	Z	Z	_	17	Punc	_	_
@@ -1261,7 +1261,7 @@
 25	Đoko	Đoko	N	Npmsn	_	34	Sb	_	_
 26	anarhist	anarhist	N	Ncmsn	_	25	Ap	_	_
 27	(	(	Z	Z	_	28	Punc	_	_
-28	kome	koji	P	Pi-msd-n-a	_	25	Sub	_	_
+28	kome	koji	P	Pi-msd--n-a	_	25	Sub	_	_
 29	je	biti	V	Vcr3s	_	28	Pred	_	_
 30	posvećena	posvećen	A	Appfsn	_	29	Pnom	_	_
 31	pesma	pesma	N	Ncfsn	_	32	Ap	_	_
@@ -1270,7 +1270,7 @@
 34	dobio	dobiti	V	Vmp-sm	_	23	Pred	_	_
 35	kćerku	kćerka	N	Ncfsa	_	34	Obj	_	_
 36	,	,	Z	Z	_	37	Punc	_	_
-37	kojoj	koji	P	Pi-fsd-n-a	_	35	Sub	_	_
+37	kojoj	koji	P	Pi-fsd--n-a	_	35	Sub	_	_
 38	je	biti	V	Vcr3s	_	39	Aux	_	_
 39	trebalo	trebati	V	Vmp-sn	_	37	Pred	_	_
 40	dati	dati	V	Vmn	_	39	Atv	_	_
@@ -1278,7 +1278,7 @@
 42	.	.	Z	Z	_	0	Punc	_	_
 
 1	Dok	dok	C	Cs	_	13	Sub	_	_
-2	ovo	ovaj	P	Pd-nsn-n-a	_	3	Sb	_	_
+2	ovo	ovaj	P	Pd-nsn--n-a	_	3	Sb	_	_
 3	povećava	povećavati	V	Vmr3s	_	1	Pred	_	_
 4	sposobnost	sposobnost	N	Ncfsa	_	3	Obj	_	_
 5	vida	vid	N	Ncmsg	_	4	Atr	_	_
@@ -1307,15 +1307,15 @@
 8	je	biti	V	Vcr3s	_	17	Pred	_	_
 9	kontinentalna	kontinentalan	A	Agpfsn	_	10	Atr	_	_
 10	država	država	N	Ncfsn	_	8	Pnom	_	_
-11	koja	koji	P	Pi-fsn-n-a	_	10	Sub	_	_
-12	se	sebe	P	Px--sa-ypn	_	13	Aux	_	_
+11	koja	koji	P	Pi-fsn--n-a	_	10	Sub	_	_
+12	se	sebe	P	Px--sa--ypn	_	13	Aux	_	_
 13	nalazi	nalaziti	V	Vmr3s	_	11	Pred	_	_
 14	u	u	S	Sl	_	13	Prep	_	_
 15	jugoistočnoj	jugoistočan	A	Agpfsl	_	16	Atr	_	_
 16	Evropi	Evropa	N	Npfsl	_	14	Adv	_	_
 17	a	a	C	Cc	_	0	Co	_	_
 18	prostire	prostirati	V	Vmr3s	_	17	Pred	_	_
-19	se	sebe	P	Px--sa-ypn	_	18	Aux	_	_
+19	se	sebe	P	Px--sa--ypn	_	18	Aux	_	_
 20	na	na	S	Sl	_	23	Prep	_	_
 21	Balkanskom	balkanski	A	Agpnsl	_	22	Atr	_	_
 22	poluostrvu	poluostrvo	N	Ncnsl	_	20	Adv	_	_
@@ -1365,7 +1365,7 @@
 2	je	biti	V	Vcr3s	_	0	Pred	_	_
 3	sastavni	sastavan	A	Agpmsn	_	4	Atr	_	_
 4	dio	dio	N	Ncmsn	_	2	Pnom	_	_
-5	svakog	svaki	P	Pi-nsg-n-a	_	7	Atr	_	_
+5	svakog	svaki	P	Pi-nsg--n-a	_	7	Atr	_	_
 6	vatrenog	vatren	A	Agpnsg	_	7	Atr	_	_
 7	oružja	oružje	N	Ncnsg	_	4	Atr	_	_
 8	.	.	Z	Z	_	0	Punc	_	_
@@ -1377,8 +1377,8 @@
 5	zapisa	zapis	N	Ncmsg	_	4	Atr	_	_
 6	jezika	jezik	N	Ncmsg	_	5	Atr	_	_
 7	,	,	Z	Z	_	8	Punc	_	_
-8	kojom	koji	P	Pi-fsi-n-a	_	4	Sub	_	_
-9	se	sebe	P	Px--sa-ypn	_	10	Aux	_	_
+8	kojom	koji	P	Pi-fsi--n-a	_	4	Sub	_	_
+9	se	sebe	P	Px--sa--ypn	_	10	Aux	_	_
 10	formiraju	formirati	V	Vmr3p	_	8	Pred	_	_
 11	zapisi	zapis	N	Ncmpn	_	10	Sb	_	_
 12	reči	reč	N	Ncfpg	_	11	Atr	_	_
@@ -1413,7 +1413,7 @@
 16	puta	put	N	Ncmpg	_	17	Atr	_	_
 17	manju	mal	A	Agcfsa	_	10	Atr	_	_
 18	od	od	S	Sg	_	17	Prep	_	_
-19	one	onaj	P	Pd-fsg-n-a	_	18	Atr	_	_
+19	one	onaj	P	Pd-fsg--n-a	_	18	Atr	_	_
 20	kod	kod	S	Sg	_	19	Prep	_	_
 21	čoveka	čovek	N	Ncmsg	_	20	Atr	_	_
 22	.	.	Z	Z	_	0	Punc	_	_
@@ -1431,7 +1431,7 @@
 3	koncept	koncept	N	Ncmsn	_	5	Sb	_	_
 4	vektora	vektor	N	Ncmsg	_	3	Atr	_	_
 5	izučava	izučavati	V	Vmr3s	_	0	Pred	_	_
-6	se	sebe	P	Px--sa-ypn	_	5	Aux	_	_
+6	se	sebe	P	Px--sa--ypn	_	5	Aux	_	_
 7	u	u	S	Sl	_	5	Prep	_	_
 8	linearnoj	linearan	A	Agpfsl	_	9	Atr	_	_
 9	algebri	algebra	N	Ncfsl	_	7	Adv	_	_
@@ -1439,7 +1439,7 @@
 
 1	Žuto	žut	A	Agpnsn	_	2	Atr	_	_
 2	more	more	N	Ncnsn	_	6	Sb	_	_
-3	svojim	svoj	P	Px-msi-nsa	_	4	Atr	_	_
+3	svojim	svoj	P	Pxmsi--nsa	_	4	Atr	_	_
 4	izgledom	izgled	N	Ncmsi	_	6	Adv	_	_
 5	najviše	visoko	R	Rgs	_	6	Adv	_	_
 6	opravdava	opravdavati	V	Vmr3s	_	0	Pred	_	_
@@ -1455,7 +1455,7 @@
 7	Metohiji	Metohija	N	Ncfsl	_	6	Atr	_	_
 8	,	,	Z	Z	_	9	Punc	_	_
 9	na	na	S	Sl	_	5	Prep	_	_
-10	kojem	koji	P	Pi-nsl-n-a	_	9	Sub	_	_
+10	kojem	koji	P	Pi-nsl--n-a	_	9	Sub	_	_
 11	Albanci	Albanac	N	Npmpn	_	12	Sb	_	_
 12	čine	činiti	V	Vmr3p	_	10	Pred	_	_
 13	etničku	etnički	A	Agpfsa	_	14	Atr	_	_
@@ -1471,7 +1471,7 @@
 23	proglasile	proglasiti	V	Vmp-pf	_	0	Pred	_	_
 24	nezavisnost	nezavisnost	N	Ncfsa	_	23	Obj	_	_
 25	,	,	Z	Z	_	26	Punc	_	_
-26	koju	koji	P	Pi-fsa-n-a	_	24	Sub	_	_
+26	koju	koji	P	Pi-fsa--n-a	_	24	Sub	_	_
 27	Srbija	Srbija	N	Npfsn	_	28	Sb	_	_
 28	i	i	C	Cc	_	32	Co	_	_
 29	Ujedinjene	ujedinjen	A	Appfpn	_	30	Atr	_	_
@@ -1481,7 +1481,7 @@
 33	.	.	Z	Z	_	0	Punc	_	_
 
 1	U	u	S	Sa	_	5	Prep	_	_
-2	to	taj	P	Pd-nsa-n-a	_	3	Atr	_	_
+2	to	taj	P	Pd-nsa--n-a	_	3	Atr	_	_
 3	vreme	vreme	N	Ncnsa	_	1	Adv	_	_
 4	su	biti	V	Vcr3p	_	5	Aux	_	_
 5	izlazile	izlaziti	V	Vmp-pf	_	0	Pred	_	_
@@ -1489,7 +1489,7 @@
 7	novine	novina	N	Ncfpn	_	8	Ap	_	_
 8	Polet	Polet	N	Npmsn	_	5	Sb	_	_
 9	,	,	Z	Z	_	17	Punc	_	_
-10	koje	koji	P	Pi-fpn-n-a	_	17	Sub	_	_
+10	koje	koji	P	Pi-fpn--n-a	_	17	Sub	_	_
 11	su	biti	V	Vcr3p	_	12	Aux	_	_
 12	pratila	pratiti	V	Vmp-pn	_	10	Pred	_	_
 13	alternativna	alternativan	A	Agpnpa	_	15	Atr	_	_
@@ -1497,7 +1497,7 @@
 15	događanja	događanje	N	Ncnpa	_	12	Obj	_	_
 16	,	,	Z	Z	_	17	Punc	_	_
 17	i	i	C	Cc	_	8	Co	_	_
-18	koja	koji	P	Pi-npn-n-a	_	17	Sub	_	_
+18	koja	koji	P	Pi-npn--n-a	_	17	Sub	_	_
 19	su	biti	V	Vcr3p	_	20	Aux	_	_
 20	pomogla	pomoći	V	Vmp-pn	_	18	Pred	_	_
 21	proboju	proboj	N	Ncmsd	_	20	Obj	_	_
@@ -1514,7 +1514,7 @@
 4	pod	pod	S	Si	_	2	Prep	_	_
 5	nazivom	naziv	N	Ncmsi	_	4	Atr	_	_
 6	fovea	fovea	N	Npfsn	_	5	Atr	_	_
-7	koje	koji	P	Pi-nsn-n-a	_	2	Sub	_	_
+7	koje	koji	P	Pi-nsn--n-a	_	2	Sub	_	_
 8	ljudima	čovjek	N	Ncmpd	_	9	Obj	_	_
 9	daje	davati	V	Vmr3s	_	7	Pred	_	_
 10	oštrinu	oštrina	N	Ncfsa	_	9	Obj	_	_
@@ -1589,8 +1589,8 @@
 1	Profesor	profesor	N	Ncmsn	_	2	Sb	_	_
 2	je	biti	V	Vcr3s	_	0	Pred	_	_
 3	osoba	osoba	N	Ncfsn	_	2	Pnom	_	_
-4	koja	koji	P	Pi-fsn-n-a	_	3	Sub	_	_
-5	se	sebe	P	Px--sa-ypn	_	6	Aux	_	_
+4	koja	koji	P	Pi-fsn--n-a	_	3	Sub	_	_
+5	se	sebe	P	Px--sa--ypn	_	6	Aux	_	_
 6	bavi	baviti	V	Vmr3s	_	4	Pred	_	_
 7	predavanjem	predavanje	N	Ncnsi	_	6	Obj	_	_
 8	određenog	određen	A	Appmsg	_	9	Atr	_	_
@@ -1625,7 +1625,7 @@
 3	obrazovno-vaspitna	obrazovno-vaspitan	A	Agpfsn	_	4	Atr	_	_
 4	ustanova	ustanova	N	Ncfsn	_	2	Pnom	_	_
 5	u	u	S	Sl	_	4	Prep	_	_
-6	kojoj	koji	P	Pi-fsl-n-a	_	5	Sub	_	_
+6	kojoj	koji	P	Pi-fsl--n-a	_	5	Sub	_	_
 7	učitelji	učitelj	N	Ncmpn	_	10	Sb	_	_
 8	,	,	Z	Z	_	10	Punc	_	_
 9	nastavnici	nastavnik	N	Ncmpn	_	10	Sb	_	_
@@ -1690,7 +1690,7 @@
 1	Do	do	S	Sg	_	9	Prep	_	_
 2	početka	početak	N	Ncmsg	_	1	Adv	_	_
 3	puberteta	pubertet	N	Ncmsg	_	2	Atr	_	_
-4	se	sebe	P	Px--sa-ypn	_	9	Aux	_	_
+4	se	sebe	P	Px--sa--ypn	_	9	Aux	_	_
 5	muške	muški	A	Agpfpn	_	6	Atr	_	_
 6	i	i	C	Cc	_	8	Co	_	_
 7	ženske	ženski	A	Agpfpn	_	6	Atr	_	_
@@ -1700,7 +1700,7 @@
 11	,	,	Z	Z	_	12	Punc	_	_
 12	a	a	C	Cc	_	0	Co	_	_
 13	onda	onda	R	Rgp	_	21	Adv	_	_
-14	se	sebe	P	Px--sa-ypn	_	21	Aux	_	_
+14	se	sebe	P	Px--sa--ypn	_	21	Aux	_	_
 15	muške	muški	A	Agpfpn	_	16	Atr	_	_
 16	grudi	grudi	N	Ncfpn	_	21	Sb	_	_
 17	u	u	S	Sl	_	21	Prep	_	_
@@ -1710,7 +1710,7 @@
 21	razvija	razvijati	V	Vmr3s	_	23	Pred	_	_
 22	,	,	Z	Z	_	23	Punc	_	_
 23	dok	dok	C	Cs	_	12	Co	_	_
-24	se	sebe	P	Px--sa-ypn	_	31	Aux	_	_
+24	se	sebe	P	Px--sa--ypn	_	31	Aux	_	_
 25	ženska	ženska	N	Ncfsn	_	31	Sb	_	_
 26	pod	pod	S	Si	_	31	Prep	_	_
 27	uticajem	uticaj	N	Ncmsi	_	26	Obj	_	_
@@ -1719,7 +1719,7 @@
 30	hormona	hormon	N	Ncmpg	_	27	Atr	_	_
 31	razvija	razvijati	V	Vmr3s	_	32	Pred	_	_
 32	i	i	C	Cc	_	23	Co	_	_
-33	njen	njen	P	Ps3msnfn-a	_	34	Atr	_	_
+33	njen	njen	P	Ps3msnsfn-a	_	34	Atr	_	_
 34	razvitak	razvitak	N	Ncmsn	_	35	Sb	_	_
 35	završava	završavati	V	Vmr3s	_	32	Pred	_	_
 36	tek	tek	R	Rgp	_	37	Adv	_	_
@@ -1830,7 +1830,7 @@
 11	pol	pol	N	Ncmsan	_	9	Obj	_	_
 12	,	,	Z	Z	_	13	Punc	_	_
 13	po	po	S	Sl	_	8	Prep	_	_
-14	kojoj	koji	P	Pi-fsl-n-a	_	13	Sub	_	_
+14	kojoj	koji	P	Pi-fsl--n-a	_	13	Sub	_	_
 15	je	biti	V	Vcr3s	_	14	Pred	_	_
 16	nazvan	nazvan	A	Appmsn	_	15	Pnom	_	_
 17	čitav	čitav	A	Agpmsn	_	18	Atr	_	_
@@ -1853,7 +1853,7 @@
 13	svojstva	svojstvo	N	Ncnpn	_	17	Sb	_	_
 14	celih	ceo	A	Agpmpg	_	15	Atr	_	_
 15	brojeva	broj	N	Ncmpg	_	13	Atr	_	_
-16	se	sebe	P	Px--sa-ypn	_	17	Aux	_	_
+16	se	sebe	P	Px--sa--ypn	_	17	Aux	_	_
 17	izučavaju	izučavati	V	Vmr3p	_	11	Pred	_	_
 18	u	u	S	Sl	_	17	Prep	_	_
 19	teoriji	teorija	N	Ncfsl	_	18	Adv	_	_
@@ -1867,7 +1867,7 @@
 5	po	po	S	Sl	_	13	Prep	_	_
 6	boji	boja	N	Ncfsl	_	5	Obj	_	_
 7	algi	alga	N	Ncfpg	_	6	Atr	_	_
-8	koje	koji	P	Pi-fpn-n-a	_	7	Sub	_	_
+8	koje	koji	P	Pi-fpn--n-a	_	7	Sub	_	_
 9	ga	on	P	Pp3nsa-y-n	_	11	Obj	_	_
 10	delimično	delimično	R	Rgp	_	11	Adv	_	_
 11	prekrivaju	prekrivati	V	Vmr3p	_	8	Pred	_	_
@@ -1918,18 +1918,18 @@
 5	matematika	matematika	N	Ncfsn	_	6	Sb	_	_
 6	mogla	moći	V	Vmp-sf	_	0	Pred	_	_
 7	da	da	C	Cs	_	9	Oth	_	_
-8	se	sebe	P	Px--sa-ypn	_	9	Aux	_	_
+8	se	sebe	P	Px--sa--ypn	_	9	Aux	_	_
 9	opiše	opisati	V	Vmr3s	_	6	Atv	_	_
 10	kao	kao	C	Cs	_	11	Oth	_	_
 11	nauka	nauka	N	Ncfsn	_	9	Adv	_	_
-12	koja	koji	P	Pi-fsn-n-a	_	11	Sub	_	_
+12	koja	koji	P	Pi-fsn--n-a	_	11	Sub	_	_
 13	proučava	proučavati	V	Vmr3s	_	37	Pred	_	_
 14	strukture	struktura	N	Ncfpa	_	13	Obj	_	_
-15	koje	koji	P	Pi-fpa-n-a	_	18	Sub	_	_
+15	koje	koji	P	Pi-fpa--n-a	_	18	Sub	_	_
 16	sama	sam	A	Agpfsn	_	17	Atv	_	_
 17	stvara	stvarati	V	Vmr3s	_	15	Pred	_	_
 18	ili	ili	C	Cc	_	14	Co	_	_
-19	koje	koji	P	Pi-fpn-n-a	_	18	Sub	_	_
+19	koje	koji	P	Pi-fpn--n-a	_	18	Sub	_	_
 20	potiču	poticati	V	Vmr3p	_	19	Pred	_	_
 21	iz	iz	S	Sg	_	20	Prep	_	_
 22	drugih	drugi	A	Agpfpg	_	23	Atr	_	_
@@ -1950,7 +1950,7 @@
 37	i	i	C	Cc	_	12	Co	_	_
 38	opisuje	opisivati	V	Vmr3s	_	37	Pred	_	_
 39	osobine	osobina	N	Ncfpa	_	38	Obj	_	_
-40	tih	taj	P	Pd-fpg-n-a	_	41	Atr	_	_
+40	tih	taj	P	Pd-fpg--n-a	_	41	Atr	_	_
 41	struktura	struktura	N	Ncfpg	_	39	Atr	_	_
 42	.	.	Z	Z	_	0	Punc	_	_
 
@@ -1959,7 +1959,7 @@
 3	osovinski	osovinski	A	Agpmsn	_	4	Atr	_	_
 4	deo	deo	N	Ncmsn	_	2	Pnom	_	_
 5	izdanka	izdanak	N	Ncmsg	_	4	Atr	_	_
-6	koji	koji	P	Pi-msn-n-a	_	4	Sub	_	_
+6	koji	koji	P	Pi-msn--n-a	_	4	Sub	_	_
 7	raste	rasti	V	Vmr3s	_	6	Pred	_	_
 8	neprekidno	neprekidno	R	Rgp	_	7	Adv	_	_
 9	tokom	tokom	R	Rgp	_	7	Prep	_	_
@@ -1978,7 +1978,7 @@
 9	razvoja	razvoj	N	Ncmsg	_	8	Obj	_	_
 10	apstraktne	apstraktan	A	Agpfsg	_	11	Atr	_	_
 11	algebre	algebra	N	Ncfsg	_	9	Atr	_	_
-12	koja	koji	P	Pi-fsn-n-a	_	11	Sub	_	_
+12	koja	koji	P	Pi-fsn--n-a	_	11	Sub	_	_
 13	između	između	S	Sg	_	15	Prep	_	_
 14	ostalog	ostao	A	Agpnsg	_	13	Obj	_	_
 15	izučava	izučavati	V	Vmr3s	_	12	Pred	_	_
@@ -1987,10 +1987,10 @@
 18	polja	polje	N	Ncnpa	_	17	Obj	_	_
 19	,	,	Z	Z	_	20	Punc	_	_
 20	strukture	struktura	N	Ncfpa	_	17	Ap	_	_
-21	koje	koji	P	Pi-fpn-n-a	_	20	Sub	_	_
+21	koje	koji	P	Pi-fpn--n-a	_	20	Sub	_	_
 22	generalizuju	generalizovati	V	Vmr3p	_	21	Pred	_	_
 23	osobine	osobina	N	Ncfpa	_	22	Obj	_	_
-24	koje	koji	P	Pi-fpa-n-a	_	23	Sub	_	_
+24	koje	koji	P	Pi-fpa--n-a	_	23	Sub	_	_
 25	poseduju	posedovati	V	Vmr3p	_	24	Pred	_	_
 26	brojevi	broj	N	Ncmpn	_	25	Sb	_	_
 27	.	.	Z	Z	_	0	Punc	_	_
