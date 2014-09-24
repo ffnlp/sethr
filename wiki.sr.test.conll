@@ -283,7 +283,7 @@
 15	,	,	Z	Z	_	8	Co	_	_
 16	odnosno	odnosno	R	Rgp	_	20	Oth	_	_
 17	Štulić	Štulić	N	Npmsn	_	20	Sb	_	_
-18	ih	oni	P	Pp3-pa-y-n	_	20	Obj	_	_
+18	ih	oni	P	Pp3-pa--y-n	_	20	Obj	_	_
 19	je	biti	V	Vcr3s	_	20	Aux	_	_
 20	menjao	menjati	V	Vmp-sm	_	15	Adv	_	_
 21	.	.	Z	Z	_	0	Punc	_	_
@@ -337,7 +337,7 @@
 19	.	.	Z	Z	_	0	Punc	_	_
 
 1	Sedište	sedište	N	Ncnsn	_	3	Sb	_	_
-2	joj	on	P	Pp3fsd-y-n	_	3	Obj	_	_
+2	joj	on	P	Pp3fsd--y-n	_	3	Obj	_	_
 3	je	biti	V	Vcr3s	_	0	Pred	_	_
 4	u	u	S	Sl	_	3	Prep	_	_
 5	Ženevi	Ženeva	N	Npfsl	_	4	Adv	_	_
@@ -466,7 +466,7 @@
 9	Austriji	Austrija	N	Npfsl	_	8	Adv	_	_
 10	i	i	C	Cc	_	0	Co	_	_
 11	sudi	suditi	V	Vmr3s	_	10	Pred	_	_
-12	mu	on	P	Pp3msd-y-n	_	11	Obj	_	_
+12	mu	on	P	Pp3msd--y-n	_	11	Obj	_	_
 13	se	sebe	P	Px--sa--ypn	_	11	Aux	_	_
 14	na	na	S	Sl	_	11	Prep	_	_
 15	Županijskom	županijski	A	Agpmsl	_	16	Atr	_	_
@@ -812,7 +812,7 @@
 8	azbuka	azbuka	N	Ncfsn	_	7	Pnom	_	_
 9	i	i	C	Cc	_	0	Co	_	_
 10	čini	činiti	V	Vmr3s	_	9	Pred	_	_
-11	ga	on	P	Pp3msa-y-n	_	10	Obj	_	_
+11	ga	on	P	Pp3msa--y-n	_	10	Obj	_	_
 12	30	30	M	Md	_	13	Atr	_	_
 13	slova	slovo	N	Ncnpg	_	10	Sb	_	_
 14	,	,	Z	Z	_	15	Punc	_	_
@@ -1218,7 +1218,7 @@
 23	.	.	Z	Z	_	0	Punc	_	_
 
 1	Čine	činiti	V	Vmr3p	_	0	Pred	_	_
-2	ga	on	P	Pp3msa-y-n	_	1	Obj	_	_
+2	ga	on	P	Pp3msa--y-n	_	1	Obj	_	_
 3	čaura	čaura	N	Ncfsn	_	9	Sb	_	_
 4	,	,	Z	Z	_	9	Punc	_	_
 5	kapisla	kapisla	N	Ncfsn	_	9	Sb	_	_
@@ -1439,7 +1439,7 @@
 
 1	Žuto	žut	A	Agpnsn	_	2	Atr	_	_
 2	more	more	N	Ncnsn	_	6	Sb	_	_
-3	svojim	svoj	P	Pxmsi--nsa	_	4	Atr	_	_
+3	svojim	svoj	P	Px-msi--nsa	_	4	Atr	_	_
 4	izgledom	izgled	N	Ncmsi	_	6	Adv	_	_
 5	najviše	visoko	R	Rgs	_	6	Adv	_	_
 6	opravdava	opravdavati	V	Vmr3s	_	0	Pred	_	_
@@ -1868,7 +1868,7 @@
 6	boji	boja	N	Ncfsl	_	5	Obj	_	_
 7	algi	alga	N	Ncfpg	_	6	Atr	_	_
 8	koje	koji	P	Pi-fpn--n-a	_	7	Sub	_	_
-9	ga	on	P	Pp3nsa-y-n	_	11	Obj	_	_
+9	ga	on	P	Pp3nsa--y-n	_	11	Obj	_	_
 10	delimično	delimično	R	Rgp	_	11	Adv	_	_
 11	prekrivaju	prekrivati	V	Vmr3p	_	8	Pred	_	_
 12	,	,	Z	Z	_	13	Punc	_	_

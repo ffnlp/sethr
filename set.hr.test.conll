@@ -121,7 +121,7 @@
 12	o	o	S	Sl	_	11	Prep	_	_
 13	ustupanju	ustupanje	N	Ncnsl	_	12	Atr	_	_
 14	dijela	dio	N	Ncmsg	_	13	Atr	_	_
-15	svoje	svoj	P	Pxfsg--nsa	_	16	Atr	_	_
+15	svoje	svoj	P	Px-fsg--nsa	_	16	Atr	_	_
 16	imovine	imovina	N	Ncfsg	_	14	Atr	_	_
 17	na	na	S	Sl	_	16	Prep	_	_
 18	Kosovu	Kosovo	N	Npnsl	_	17	Atr	_	_
@@ -545,7 +545,7 @@
 13	razlog	razlog	N	Ncmsn	_	12	Pnom	_	_
 14	zbog	zbog	S	Sg	_	13	Prep	_	_
 15	kojeg	koji	P	Pi-msg--n-a	_	14	Sub	_	_
-16	mi	ja	P	Pp1-sd-y-n	_	22	Obj	_	_
+16	mi	ja	P	Pp1-sd--y-n	_	22	Obj	_	_
 17	je	biti	V	Vcr3s	_	22	Aux	_	_
 18	forenzični	forenzičan	A	Agpmsn	_	20	Atr	_	_
 19	[	[	Z	Z	_	20	Punc	_	_
@@ -677,7 +677,7 @@
 26	važne	važan	A	Agpmpa	_	27	Atr	_	_
 27	korake	korak	N	Ncmpa	_	25	Obj	_	_
 28	glede	glede	S	Sg	_	25	Prep	_	_
-29	svojeg	svoj	P	Pxmsg--nsa	_	30	Atr	_	_
+29	svojeg	svoj	P	Px-msg--nsa	_	30	Atr	_	_
 30	procesa	proces	N	Ncmsg	_	28	Obj	_	_
 31	integracije	integracija	N	Ncfsg	_	30	Atr	_	_
 32	.	.	Z	Z	_	0	Punc	_	_
@@ -700,7 +700,7 @@
 16	"	"	Z	Z	_	15	Punc	_	_
 17	u	u	S	Sl	_	13	Prep	_	_
 18	okviru	okvir	N	Ncmsl	_	17	Adv	_	_
-19	svog	svoj	P	Pxmsg--nsa	_	20	Atr	_	_
+19	svog	svoj	P	Px-msg--nsa	_	20	Atr	_	_
 20	programa	program	N	Ncmsg	_	21	Ap	_	_
 21	PHARE	PHARE	Y	Npmsn	_	18	Atr	_	_
 22	za	za	S	Sa	_	20	Prep	_	_
@@ -892,7 +892,7 @@
 33	kući	kuća	N	Ncfsd	_	32	Adv	_	_
 34	,	,	Z	Z	_	35	Punc	_	_
 35	kada	kada	R	Rgp	_	13	Sub	_	_
-36	mu	on	P	Pp3msd-y-n	_	38	Obj	_	_
+36	mu	on	P	Pp3msd--y-n	_	38	Obj	_	_
 37	je	biti	V	Vcr3s	_	38	Aux	_	_
 38	zatrebala	zatrebati	V	Vmp-sf	_	35	Pred	_	_
 39	hitna	hitan	A	Agpfsn	_	41	Atr	_	_
@@ -935,13 +935,13 @@
 16	pogrešne	pogrešan	A	Agpmpa	_	17	Atr	_	_
 17	podatke	podatak	N	Ncmpa	_	15	Obj	_	_
 18	o	o	S	Sl	_	17	Prep	_	_
-19	svojem	svoj	P	Pxmsl--nsa	_	21	Atr	_	_
+19	svojem	svoj	P	Px-msl--nsa	_	21	Atr	_	_
 20	ekonomskom	ekonomski	A	Agpmsl	_	21	Atr	_	_
 21	učinku	učinak	N	Ncmsl	_	18	Atr	_	_
 22	,	,	Z	Z	_	23	Punc	_	_
 23	te	te	C	Cc	_	3	Co	_	_
 24	kako	kako	C	Cs	_	23	Sub	_	_
-25	joj	on	P	Pp3fsd-y-n	_	30	Obj	_	_
+25	joj	on	P	Pp3fsd--y-n	_	30	Obj	_	_
 26	stvarni	stvaran	A	Agpmsn	_	27	Atr	_	_
 27	učinak	učinak	N	Ncmsn	_	30	Sb	_	_
 28	ne	ne	Q	Qz	_	30	Aux	_	_
@@ -966,7 +966,7 @@
 6	)	)	Z	Z	_	5	Punc	_	_
 7	započeo	započeti	V	Vmp-sm	_	0	Pred	_	_
 8	je	biti	V	Vcr3s	_	7	Aux	_	_
-9	svoju	svoj	P	Pxfsa--nsa	_	10	Atr	_	_
+9	svoju	svoj	P	Px-fsa--nsa	_	10	Atr	_	_
 10	kampanju	kampanja	N	Ncfsa	_	7	Obj	_	_
 11	u	u	S	Sl	_	7	Prep	_	_
 12	Mitrovici	Mitrovica	N	Npfsl	_	11	Adv	_	_
@@ -1028,7 +1028,7 @@
 11	slučajeva	slučaj	N	Ncmpg	_	10	Atr	_	_
 12	policajaca	policajac	N	Ncmpg	_	11	Atr	_	_
 13	koji	koji	P	Pi-mpn--n-a	_	12	Sub	_	_
-14	svoj	svoj	P	Pxmsa--nsan	_	15	Atr	_	_
+14	svoj	svoj	P	Px-msa--nsan	_	15	Atr	_	_
 15	posao	posao	N	Ncmsan	_	17	Obj	_	_
 16	ne	ne	Q	Qz	_	17	Aux	_	_
 17	obavljaju	obavljati	V	Vmr3p	_	13	Pred	_	_
@@ -1070,7 +1070,7 @@
 15	mjestima	mjesto	N	Ncnpl	_	13	Atr	_	_
 16	i	i	C	Cc	_	0	Co	_	_
 17	povjeravaju	povjeravati	V	Vmr3p	_	16	Pred	_	_
-18	mu	on	P	Pp3msd-y-n	_	17	Obj	_	_
+18	mu	on	P	Pp3msd--y-n	_	17	Obj	_	_
 19	se	sebe	P	Px--sa--ypn	_	17	Aux	_	_
 20	druge	druga	N	Ncfpn	_	21	Atr	_	_
 21	dužnosti	dužnost	N	Ncfpn	_	22	Sb	_	_
@@ -1870,7 +1870,7 @@
 7	izvijestila	izvijestiti	V	Vmp-sf	_	0	Pred	_	_
 8	je	biti	V	Vcr3s	_	7	Aux	_	_
 9	o	o	S	Sl	_	7	Prep	_	_
-10	svojoj	svoj	P	Pxfsl--nsa	_	11	Atr	_	_
+10	svojoj	svoj	P	Px-fsl--nsa	_	11	Atr	_	_
 11	akciji	akcija	N	Ncfsl	_	9	Obj	_	_
 12	glavnu	glavni	A	Agpfsa	_	13	Atr	_	_
 13	tužiteljicu	tužiteljica	N	Ncfsa	_	20	Ap	_	_
@@ -1917,7 +1917,7 @@
 16	kako	kako	C	Cs	_	11	Sub	_	_
 17	bi	biti	V	Vca3s	_	18	Aux	_	_
 18	potaknula	potaknuti	V	Vmp-sf	_	16	Pred	_	_
-19	svoju	svoj	P	Pxfsa--nsa	_	20	Atr	_	_
+19	svoju	svoj	P	Px-fsa--nsa	_	20	Atr	_	_
 20	kampanju	kampanja	N	Ncfsa	_	18	Obj	_	_
 21	.	.	Z	Z	_	0	Punc	_	_
 
@@ -1982,7 +1982,7 @@
 1	"	"	Z	Z	_	5	Punc	_	_
 2	"	"	Z	Z	_	5	Punc	_	_
 3	Potrebna	potreban	A	Agpfsn	_	5	Pnom	_	_
-4	nam	mi	P	Pp1-pd-y-n	_	5	Obj	_	_
+4	nam	mi	P	Pp1-pd--y-n	_	5	Obj	_	_
 5	je	biti	V	Vcr3s	_	0	Pred	_	_
 6	ovakva	ovakav	P	Pd-fsn--n-a	_	7	Atr	_	_
 7	strategija	strategija	N	Ncfsn	_	5	Sb	_	_
@@ -2001,7 +2001,7 @@
 20	s	s	S	Si	_	19	Prep	_	_
 21	promjenama	promjena	N	Ncfpi	_	20	Obj	_	_
 22	koje	koji	P	Pi-fpn--n-a	_	21	Sub	_	_
-23	nam	mi	P	Pp1-pd-y-n	_	24	Obj	_	_
+23	nam	mi	P	Pp1-pd--y-n	_	24	Obj	_	_
 24	predstoje	predstojati	V	Vmr3p	_	22	Pred	_	_
 25	u	u	S	Sl	_	24	Prep	_	_
 26	narednom	naredan	A	Appmsl	_	27	Atr	_	_

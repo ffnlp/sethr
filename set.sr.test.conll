@@ -122,7 +122,7 @@
 12	o	o	S	Sl	_	11	Prep	_	_
 13	ustupanju	ustupanje	N	Ncnsl	_	12	Atr	_	_
 14	dela	deo	N	Ncmsg	_	13	Atr	_	_
-15	svoje	svoj	P	Pxfsg--nsa	_	16	Atr	_	_
+15	svoje	svoj	P	Px-fsg--nsa	_	16	Atr	_	_
 16	imovine	imovina	N	Ncfsg	_	14	Atr	_	_
 17	na	na	S	Sl	_	16	Prep	_	_
 18	Kosovu	Kosovo	N	Npnsl	_	17	Atr	_	_
@@ -291,7 +291,7 @@
 9	takođe	takođe	R	Rgp	_	6	Adv	_	_
 10	podeljena	podeljen	A	Appfsn	_	6	Pnom	_	_
 11	u	u	S	Sl	_	6	Prep	_	_
-12	svom	svoj	P	Pxmsl--nsa	_	13	Atr	_	_
+12	svom	svoj	P	Px-msl--nsa	_	13	Atr	_	_
 13	stavu	stav	N	Ncmsl	_	11	Obj	_	_
 14	prema	prema	S	Sl	_	13	Prep	_	_
 15	BiH	BiH	Y	Npmsl	_	14	Atr	_	_
@@ -548,7 +548,7 @@
 10	nedostaju	nedostajati	V	Vmr3p	_	6	Pred	_	_
 11	i	i	C	Cc	_	0	Co	_	_
 12	zato	zato	R	Rgp	_	19	Adv	_	_
-13	mi	ja	P	Pp1-sd-y-n	_	19	Obj	_	_
+13	mi	ja	P	Pp1-sd--y-n	_	19	Obj	_	_
 14	je	biti	V	Vcr3s	_	19	Aux	_	_
 15	forenzički	forenzičan	A	Agpmsn	_	17	Atr	_	_
 16	[	[	Z	Z	_	17	Punc	_	_
@@ -692,7 +692,7 @@
 29	korake	korak	N	Ncmpa	_	27	Obj	_	_
 30	u	u	S	Sl	_	27	Prep	_	_
 31	pogledu	pogled	N	Ncmsl	_	30	Adv	_	_
-32	svog	svoj	P	Pxmsg--nsa	_	33	Atr	_	_
+32	svog	svoj	P	Px-msg--nsa	_	33	Atr	_	_
 33	procesa	proces	N	Ncmsg	_	31	Atr	_	_
 34	integracije	integracija	N	Ncfsg	_	33	Atr	_	_
 35	.	.	Z	Z	_	0	Punc	_	_
@@ -713,7 +713,7 @@
 14	EU	EU	Y	Npfsn	_	13	Sb	_	_
 15	na	na	S	Sa	_	13	Prep	_	_
 16	osnovu	osnova	N	Ncfsa	_	15	Adv	_	_
-17	svog	svoj	P	Pxmsg--nsa	_	18	Atr	_	_
+17	svog	svoj	P	Px-msg--nsa	_	18	Atr	_	_
 18	programa	program	N	Ncmsg	_	19	Ap	_	_
 19	PHARE	PHARE	Y	Npmsn	_	16	Atr	_	_
 20	za	za	S	Sa	_	18	Prep	_	_
@@ -942,7 +942,7 @@
 8	pogrešne	pogrešan	A	Agpmpa	_	9	Atr	_	_
 9	podatke	podatak	N	Ncmpa	_	7	Obj	_	_
 10	o	o	S	Sl	_	9	Prep	_	_
-11	svom	svoj	P	Pxmsl--nsa	_	13	Atr	_	_
+11	svom	svoj	P	Px-msl--nsa	_	13	Atr	_	_
 12	ekonomskom	ekonomski	A	Agpmsl	_	13	Atr	_	_
 13	učinku	učinak	N	Ncmsl	_	10	Atr	_	_
 14	između	između	S	Sg	_	13	Prep	_	_
@@ -954,7 +954,7 @@
 20	godine	godina	N	Ncfsg	_	17	Atr	_	_
 21	i	i	C	Cc	_	2	Co	_	_
 22	da	da	C	Cs	_	21	Sub	_	_
-23	joj	on	P	Pp3fsd-y-n	_	28	Obj	_	_
+23	joj	on	P	Pp3fsd--y-n	_	28	Obj	_	_
 24	stvarni	stvaran	A	Agpmsn	_	25	Atr	_	_
 25	učinak	učinak	N	Ncmsn	_	28	Sb	_	_
 26	ne	ne	Q	Qz	_	28	Aux	_	_
@@ -981,7 +981,7 @@
 6	)	)	Z	Z	_	5	Punc	_	_
 7	počeo	početi	V	Vmp-sm	_	0	Pred	_	_
 8	je	biti	V	Vcr3s	_	7	Aux	_	_
-9	svoju	svoj	P	Pxfsa--nsa	_	10	Atr	_	_
+9	svoju	svoj	P	Px-fsa--nsa	_	10	Atr	_	_
 10	kampanju	kampanja	N	Ncfsa	_	7	Obj	_	_
 11	u	u	S	Sl	_	7	Prep	_	_
 12	Mitrovici	Mitrovica	N	Npfsl	_	11	Adv	_	_
@@ -1043,7 +1043,7 @@
 10	sankcionisanje	sankcionisanje	N	Ncnsa	_	9	Atr	_	_
 11	policajaca	policajac	N	Ncmpg	_	10	Atr	_	_
 12	koji	koji	P	Pi-mpn--n-a	_	11	Sub	_	_
-13	svoj	svoj	P	Pxmsa--nsan	_	14	Atr	_	_
+13	svoj	svoj	P	Px-msa--nsan	_	14	Atr	_	_
 14	posao	posao	N	Ncmsan	_	16	Obj	_	_
 15	ne	ne	Q	Qz	_	16	Aux	_	_
 16	rade	raditi	V	Vmr3p	_	12	Pred	_	_
@@ -1085,7 +1085,7 @@
 16	mestima	mesto	N	Ncnpl	_	14	Atr	_	_
 17	i	i	C	Cc	_	0	Co	_	_
 18	poveravaju	poveravati	V	Vmr3p	_	17	Pred	_	_
-19	mu	on	P	Pp3msd-y-n	_	18	Obj	_	_
+19	mu	on	P	Pp3msd--y-n	_	18	Obj	_	_
 20	se	sebe	P	Px--sa--ypn	_	18	Aux	_	_
 21	druge	druga	N	Ncfpn	_	22	Atr	_	_
 22	dužnosti	dužnost	N	Ncfpn	_	23	Sb	_	_
@@ -1129,7 +1129,7 @@
 34	u	u	S	Sl	_	33	Punc	_	_
 35	Helsinkiju	Helsinki	N	Npmsl	_	34	Atr	_	_
 36	sa	s	S	Si	_	31	Prep	_	_
-37	svojom	svoj	P	Pxfsi--nsa	_	38	Atr	_	_
+37	svojom	svoj	P	Px-fsi--nsa	_	38	Atr	_	_
 38	pesmom	pesma	N	Ncfsi	_	40	Ap	_	_
 39	"	"	Z	Z	_	40	Punc	_	_
 40	Molitva	molitva	N	Ncfsn	_	36	Obj	_	_
@@ -1882,7 +1882,7 @@
 7	je	biti	V	Vcr3s	_	8	Aux	_	_
 8	izvestila	izvestiti	V	Vmp-sf	_	0	Pred	_	_
 9	o	o	S	Sl	_	8	Pred	_	_
-10	svojoj	svoj	P	Pxfsl--nsa	_	11	Atr	_	_
+10	svojoj	svoj	P	Px-fsl--nsa	_	11	Atr	_	_
 11	akciji	akcija	N	Ncfsl	_	9	Obj	_	_
 12	glavnog	glavni	A	Agpmsg	_	13	Atr	_	_
 13	tužioca	tužilac	N	Ncmsg	_	21	Ap	_	_
@@ -1930,7 +1930,7 @@
 16	da	da	C	Cs	_	11	Sub	_	_
 17	bi	biti	V	Vca3s	_	18	Aux	_	_
 18	podstakla	podstaknuti	V	Vmp-sf	_	16	Pred	_	_
-19	svoju	svoj	P	Pxfsa--nsa	_	20	Atr	_	_
+19	svoju	svoj	P	Px-fsa--nsa	_	20	Atr	_	_
 20	kampanju	kampanja	N	Ncfsa	_	18	Obj	_	_
 21	.	.	Z	Z	_	0	Punc	_	_
 

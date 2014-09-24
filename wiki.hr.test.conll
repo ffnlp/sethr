@@ -56,7 +56,7 @@
 11	bi	biti	V	Vca3s	_	12	Aux	_	_
 12	bilo	biti	V	Vcp-sn	_	10	Pred	_	_
 13	ispravnije	ispravno	R	Rgc	_	12	Pnom	_	_
-14	ih	oni	P	Pp3-pa-y-n	_	15	Obj	_	_
+14	ih	oni	P	Pp3-pa--y-n	_	15	Obj	_	_
 15	opisati	opisati	V	Vmn	_	12	Sb	_	_
 16	kao	kao	C	Cs	_	18	Oth	_	_
 17	"	"	Z	Z	_	18	Punc	_	_
@@ -352,7 +352,7 @@
 18	,	,	Z	Z	_	19	Punc	_	_
 19	pa	pa	C	Cc	_	9	Co	_	_
 20	su	biti	V	Vcr3p	_	22	Aux	_	_
-21	ih	oni	P	Pp3-pa-y-n	_	22	Obj	_	_
+21	ih	oni	P	Pp3-pa--y-n	_	22	Obj	_	_
 22	nazivali	nazivati	V	Vmp-pm	_	19	Pred	_	_
 23	"	"	Z	Z	_	24	Punc	_	_
 24	morima	more	N	Ncnpi	_	22	Atv	_	_
@@ -385,7 +385,7 @@
 11	.	.	Z	Z	_	0	Punc	_	_
 
 1	Ako	ako	C	Cs	_	8	Sub	_	_
-2	je	on	P	Pp3fsa-y-n	_	6	Aux	_	_
+2	je	on	P	Pp3fsa--y-n	_	6	Aux	_	_
 3	pak	pak	Q	Qo	_	6	Oth	_	_
 4	mačka	mačka	N	Ncfsn	_	6	Sb	_	_
 5	neprekidno	neprekidno	R	Rgp	_	6	Adv	_	_
@@ -393,7 +393,7 @@
 7	,	,	Z	Z	_	1	Punc	_	_
 8	trebalo	trebati	V	Vmp-sn	_	0	Pred	_	_
 9	bi	biti	V	Vca3s	_	8	Aux	_	_
-10	je	on	P	Pp3fsa-y-n	_	8	Obj	_	_
+10	je	on	P	Pp3fsa--y-n	_	8	Obj	_	_
 11	odvesti	odvesti	V	Vmn	_	8	Atv	_	_
 12	kod	kod	S	Sg	_	8	Prep	_	_
 13	veterinara	veterinar	N	Ncmsg	_	12	Obj	_	_
@@ -408,7 +408,7 @@
 1	Ubrzo	ubrzo	R	Rgp	_	6	Adv	_	_
 2	nakon	nakon	S	Sg	_	1	Prep	_	_
 3	toga	taj	P	Pd-nsg--n-a	_	2	Atr	_	_
-4	im	oni	P	Pp3-pd-y-n	_	6	Obj	_	_
+4	im	oni	P	Pp3-pd--y-n	_	6	Obj	_	_
 5	se	sebe	P	Px--sa--ypn	_	6	Aux	_	_
 6	pridružio	pridružiti	V	Vmp-sm	_	0	Pred	_	_
 7	i	i	C	Cc	_	10	Oth	_	_
@@ -792,7 +792,7 @@
 3	ubrzo	ubrzo	R	Rgp	_	4	Adv	_	_
 4	uviđa	uviđati	V	Vmr3s	_	13	Pred	_	_
 5	kako	kako	C	Cs	_	4	Sub	_	_
-6	mu	on	P	Pp3msd-y-n	_	12	Obj	_	_
+6	mu	on	P	Pp3msd--y-n	_	12	Obj	_	_
 7	se	sebe	P	Px--sa--ypn	_	12	Aux	_	_
 8	tamo	tamo	R	Rgp	_	12	Adv	_	_
 9	baš	baš	R	Rgp	_	12	Oth	_	_
@@ -848,7 +848,7 @@
 13	.	.	Z	Z	_	0	Punc	_	_
 
 1	Sjedište	sjedište	N	Ncnsn	_	3	Sb	_	_
-2	im	oni	P	Pp3-pd-y-n	_	3	Obj	_	_
+2	im	oni	P	Pp3-pd--y-n	_	3	Obj	_	_
 3	je	biti	V	Vcr3s	_	0	Pred	_	_
 4	u	u	S	Sl	_	3	Prep	_	_
 5	Wolfsburgu	Wolfsburg	N	Ncmsl	_	4	Adv	_	_
@@ -1456,7 +1456,7 @@
 12	a	a	C	Cc	_	0	Co	_	_
 13	ako	ako	C	Cs	_	18	Sub	_	_
 14	su	biti	V	Vcr3p	_	13	Pred	_	_
-15	joj	on	P	Pp3fsd-y-n	_	14	Obj	_	_
+15	joj	on	P	Pp3fsd--y-n	_	14	Obj	_	_
 16	oči	oko	N	Ncnpn	_	14	Sb	_	_
 17	narančaste	narančast	A	Agpfpn	_	14	Pnom	_	_
 18	nema	nemati	V	Vmr3s	_	12	Pred	_	_
@@ -1598,7 +1598,7 @@
 4	rodni	rodan	A	Agpmsan	_	5	Atr	_	_
 5	Split	Split	N	Npmsan	_	3	Atr	_	_
 6	upoznaje	upoznavati	V	Vmr3s	_	0	Pred	_	_
-7	svoju	svoj	P	Pxfsa--nsa	_	9	Atr	_	_
+7	svoju	svoj	P	Px-fsa--nsa	_	9	Atr	_	_
 8	buduću	budući	A	Agpfsa	_	9	Atr	_	_
 9	suprugu	supruga	N	Ncfsa	_	10	Ap	_	_
 10	Mirjanu	Mirjana	N	Npfsa	_	6	Obj	_	_
@@ -1614,7 +1614,7 @@
 
 1	Još	još	R	Rgp	_	4	Adv	_	_
 2	su	biti	V	Vcr3p	_	4	Aux	_	_
-3	im	oni	P	Pp3-pd-y-n	_	4	Obj	_	_
+3	im	oni	P	Pp3-pd--y-n	_	4	Obj	_	_
 4	pomogli	pomoći	V	Vmp-pm	_	0	Pred	_	_
 5	i	i	C	Cc	_	20	Oth	_	_
 6	Zlatko	Zlatko	N	Npmsn	_	7	Ap	_	_
@@ -1689,7 +1689,7 @@
 20	.	.	Z	Z	_	0	Punc	_	_
 
 1	Sjedište	sjedište	N	Ncnsn	_	3	Sb	_	_
-2	joj	on	P	Pp3fsd-y-n	_	3	Obj	_	_
+2	joj	on	P	Pp3fsd--y-n	_	3	Obj	_	_
 3	je	biti	V	Vcr3s	_	0	Pred	_	_
 4	u	u	S	Sl	_	3	Prep	_	_
 5	Ženevi	Ženeva	N	Npfsl	_	4	Adv	_	_
@@ -1813,7 +1813,7 @@
 20	,	,	Z	Z	_	21	Punc	_	_
 21	odnosno	odnosno	R	Rgp	_	0	Co	_	_
 22	upoznavaju	upoznavati	V	Vmr3p	_	21	Pred	_	_
-23	ih	oni	P	Pp3-pa-y-n	_	22	Obj	_	_
+23	ih	oni	P	Pp3-pa--y-n	_	22	Obj	_	_
 24	sa	s	S	Si	_	22	Prep	_	_
 25	sadržajima	sadržaj	N	Ncmpi	_	24	Obj	_	_
 26	o	o	S	Sl	_	25	Prep	_	_
