@@ -1472,7 +1472,7 @@
 14	strana	stran	A	Agpfsn	_	18	Sb	_	_
 15	kosovskih	kosovski	A	Agpmpg	_	16	Atr	_	_
 16	Albanaca	Albanac	N	Npmpg	_	14	Atr	_	_
-17	neće	htjeti	V	Var3s-	_	18	Aux	_	_
+17	neće	htjeti	V	Var3s-y	_	18	Aux	_	_
 18	prihvatiti	prihvatiti	V	Vmn	_	13	Pred	_	_
 19	"	"	Z	Z	_	20	Punc	_	_
 20	niti	niti	C	Cc	_	22	Oth	_	_
@@ -1939,7 +1939,7 @@
 
 1	Kosovska	kosovski	A	Agpfsn	_	2	Atr	_	_
 2	policija	policija	N	Ncfsn	_	4	Sb	_	_
-3	neće	htjeti	V	Var3s-	_	4	Aux	_	_
+3	neće	htjeti	V	Var3s-y	_	4	Aux	_	_
 4	biti	biti	V	Vcn	_	0	Pred	_	_
 5	prisutna	prisutan	A	Agpfsn	_	4	Pnom	_	_
 6	na	na	S	Sl	_	4	Prep	_	_

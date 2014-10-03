@@ -1159,7 +1159,7 @@
 21	.	.	Z	Z	_	_	0	Punc	_	_
 
 1	Stvar	stvar	N	Ncfsn	_	_	2	Pnom	_	_
-2	je	biti	V	Vcr3	_	_	0	Pred	_	_
+2	je	biti	V	Vcr3s	_	_	0	Pred	_	_
 3	u	u	S	Sl	_	_	2	Prep	_	_
 4	tome	taj	P	Pd-nsl--n-a	_	_	3	Obj	_	_
 5	što	što	P	Pi3n-n--n-nn	_	_	4	Sub	_	_
@@ -1251,7 +1251,7 @@
 22	novca	novac	N	Ncmsg	_	_	20	Obj	_	_
 23	,	,	Z	Z	_	_	24	Punc	_	_
 24	ali	ali	C	Cc	_	_	0	Co	_	_
-25	ovog	ovaj	P	Pd-msg--n-an	_	_	26	Atr	_	_
+25	ovog	ovaj	P	Pd-msg--n-a	_	_	26	Atr	_	_
 26	puta	put	N	Ncmsg	_	_	28	Adv	_	_
 27	se	sebe	P	Px--sa--ypn	_	_	28	Aux	_	_
 28	dogodilo	dogoditi	V	Vmp-sn	_	_	24	Pred	_	_

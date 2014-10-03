@@ -1310,8 +1310,8 @@
 22	--	--	Z	Z	_	19	Punc	_	_
 23	u	u	S	Sl	_	6	Prep	_	_
 24	režiјi	režija	N	Ncfsl	_	23	Atr	_	_
-25	Miroslava	Miroslav	N	Np-pg	_	26	Ap	_	_
-26	Benke	Benka	N	Npfsg	_	24	Atr	_	_
+25	Miroslava	Miroslav	N	Npmsg	_	26	Ap	_	_
+26	Benke	Benka	N	Npmsg	_	24	Atr	_	_
 27	.	.	Z	Z	_	0	Punc	_	_
 
 1	Rumunija	Rumunija	N	Npfsn	_	2	Sb	_	_
@@ -1483,7 +1483,7 @@
 13	strana	strana	N	Ncfsn	_	17	Sb	_	_
 14	kosovskih	kosovski	A	Agpmpg	_	15	Atr	_	_
 15	Albanaca	Albanac	N	Npmpg	_	13	Atr	_	_
-16	neće	htjeti	V	Var3s-	_	17	Aux	_	_
+16	neće	htjeti	V	Var3s-y	_	17	Aux	_	_
 17	prihvatiti	prihvatiti	V	Vmn	_	12	Pred	_	_
 18	nijednu	nijedan	A	Agpfsa	_	19	Atr	_	_
 19	opciju	opcija	N	Ncfsa	_	17	Obj	_	_
@@ -1952,7 +1952,7 @@
 
 1	Kosovska	kosovski	A	Agpfsn	_	2	Atr	_	_
 2	policija	policija	N	Ncfsn	_	4	Sb	_	_
-3	neće	htjeti	V	Var3p-	_	4	Aux	_	_
+3	neće	htjeti	V	Var3s-y	_	4	Aux	_	_
 4	biti	biti	V	Vcn	_	0	Pred	_	_
 5	prisutna	prisutan	A	Agpfsn	_	4	Pnom	_	_
 6	na	na	S	Sl	_	4	Prep	_	_
