@@ -1422,7 +1422,7 @@
 18	spota	spot	N	Ncmsg	_	_	17	Atr	_	_
 19	u	u	S	Sl	_	_	17	Prep	_	_
 20	klubu	klub	N	Ncmsl	_	_	22	Ap	_	_
-21	The	the	X	X	_	_	22	Oth	_	_
+21	The	the	N	Npmsn	_	_	22	Oth	_	_
 22	Room	room	N	Npmsn	_	_	19	Atr	_	_
 23	hotela	hotel	N	Ncmsg	_	_	24	Ap	_	_
 24	Westin	westin	N	Npmsn	_	_	22	Atr	_	_

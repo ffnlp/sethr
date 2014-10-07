@@ -51231,7 +51231,7 @@
 8	naselja	naselje	N	Ncnsg	_	_	10	Ap	_	_
 9	Novi	nov	A	Agpmsn	_	_	10	Atr	_	_
 10	Vinodolski	vinodolski	N	Npmsn	_	_	7	Atr	_	_
-11	NA1	na1	X	X	_	_	5	Atr	_	_
+11	NA1	na1	N	Npmsn	_	_	5	Atr	_	_
 12	1	1	M	Mdc	_	_	11	Atr	_	_
 13	-	-	Z	Z	_	_	17	Punc	_	_
 14	registriranu	registriran	A	Agpfsa	_	_	17	Atr	_	_
