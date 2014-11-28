@@ -16,5 +16,5 @@ apertium.lexicon.2013-04-19.txt.gz -- the Apertium morphological lexicon of Croa
 
 [1] http://www.lrec-conf.org/proceedings/lrec2014/pdf/690_Paper.pdf  
 [2] http://www.aclweb.org/anthology/W/W13/W13-2408.pdf  
-[3] http://www.ling.uni-potsdam.de/~agic/publications/agic2013-parsing.pdf  
-[4] Filip Klubička and Nikola Ljubešić. Using crowdsourcing in building a morphosyntactically annotated and lemmatized silver standard corpus of Croatian. In: JT 2014 conference, Ljubljana. In press.  
+[3] http://www.aclweb.org/anthology/W/W13/W13-4903.pdf  
+[4] http://nl.ijs.si/isjt14/proceedings/isjt2014_10.pdf
