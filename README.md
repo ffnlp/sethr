@@ -1,7 +1,7 @@
 sethr
 =============
 
-The SETimes.HR+ annotated corpus of Croatian
+The SETimes.HR+ Croatian dependency treebank
 
 The collection consists of the following files:
 
