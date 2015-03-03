@@ -7813,7 +7813,7 @@
 20	2005.	2005.	M	Mdo	_	_	21	Atr	_	_
 21	godine	godina	N	Ncfsg	_	_	19	Atr	_	_
 22	,	,	Z	Z	_	_	24	Punc	_	_
-23	budući	budući	R	Rr	_	_	24	Oth	_	_
+23	budući	budući	R	Rgp	_	_	24	Oth	_	_
 24	da	da	C	Cs	_	_	16	Sub	_	_
 25	je	biti	V	Vcr3s	_	_	29	Aux	_	_
 26	u	u	S	Sl	_	_	29	Prep	_	_
@@ -8231,7 +8231,7 @@
 7	godina	godina	N	Ncfpg	_	_	5	Pnom	_	_
 8	.	.	Z	Z	_	_	0	Punc	_	_
 
-1	Budući	budući	R	Rr	_	_	2	Oth	_	_
+1	Budući	budući	R	Rgp	_	_	2	Oth	_	_
 2	da	da	C	Cs	_	_	15	Sub	_	_
 3	se	sebe	P	Px--sa--ypn	_	_	7	Aux	_	_
 4	potreba	potreba	N	Ncfsn	_	_	7	Sb	_	_
@@ -11183,7 +11183,7 @@
 11	zamisli	zamisao	N	Ncfsg	_	_	9	Atr	_	_
 12	.	.	Z	Z	_	_	0	Punc	_	_
 
-1	Budući	budući	R	Rr	_	_	2	Oth	_	_
+1	Budući	budući	R	Rgp	_	_	2	Oth	_	_
 2	da	da	C	Cs	_	_	13	Sub	_	_
 3	je	biti	V	Vcr3s	_	_	2	Pred	_	_
 4	riječ	riječ	N	Ncfsn	_	_	3	Pnom	_	_
@@ -15616,7 +15616,7 @@
 12	kulturu	kultura	N	Ncfsa	_	_	13	Obj	_	_
 13	i	i	C	Cc	_	_	10	Co	_	_
 14	civilizaciju	civilizacija	N	Ncfsa	_	_	13	Obj	_	_
-15	budući	budući	R	Rr	_	_	16	Oth	_	_
+15	budući	budući	R	Rgp	_	_	16	Oth	_	_
 16	da	da	C	Cs	_	_	3	Sub	_	_
 17	su	biti	V	Vcr3p	_	_	16	Pred	_	_
 18	izložena	izložen	A	Appnpn	_	_	19	Atr	_	_
@@ -20089,7 +20089,7 @@
 15	i	i	C	Cc	_	_	35	Co	_	_
 16	župan	župan	N	Ncmsn	_	_	15	Obj	_	_
 17	(	(	Z	Z	_	_	19	Punc	_	_
-18	budući	budući	R	Rr	_	_	19	Oth	_	_
+18	budući	budući	R	Rgp	_	_	19	Oth	_	_
 19	da	da	C	Cs	_	_	35	Elp	_	_
 20	su	biti	V	Vcr3p	_	_	19	Pred	_	_
 21	Grad	grad	N	Ncmsn	_	_	22	Sb	_	_
@@ -23154,7 +23154,7 @@
 5	izvođaču	izvođač	N	Ncmsd	_	_	4	Obj	_	_
 6	.	.	Z	Z	_	_	0	Punc	_	_
 
-1	Budući	budući	R	Rr	_	_	2	Oth	_	_
+1	Budući	budući	R	Rgp	_	_	2	Oth	_	_
 2	da	da	C	Cs	_	_	13	Sub	_	_
 3	vitamin	vitamin	N	Ncmsn	_	_	4	Ap	_	_
 4	C	c	N	Npmsn	_	_	5	Sb	_	_
@@ -30637,7 +30637,7 @@
 17	UVB	uvb	Y	Y	_	_	16	Atr	_	_
 18	zračenja	zračenje	N	Ncnsg	_	_	14	Obj	_	_
 19	,	,	Z	Z	_	_	21	Punc	_	_
-20	budući	budući	R	Rr	_	_	21	Oth	_	_
+20	budući	budući	R	Rgp	_	_	21	Oth	_	_
 21	da	da	C	Cs	_	_	6	Sub	_	_
 22	su	biti	V	Vcr3p	_	_	24	Aux	_	_
 23	znanstvenici	znanstvenik	N	Ncmpn	_	_	24	Sb	_	_
@@ -33478,7 +33478,7 @@
 23	kafića	kafić	N	Npmsg	_	_	22	Atr	_	_
 24	.	.	Z	Z	_	_	0	Punc	_	_
 
-1	Budući	budući	R	Rr	_	_	2	Oth	_	_
+1	Budući	budući	R	Rgp	_	_	2	Oth	_	_
 2	da	da	C	Cs	_	_	14	Sub	_	_
 3	se	sebe	P	Px--sa--ypn	_	_	5	Aux	_	_
 4	izvođač	izvođač	N	Ncmsn	_	_	5	Sb	_	_
@@ -41500,7 +41500,7 @@
 15	Makarske	makarska	N	Npfsg	_	_	14	Atr	_	_
 16	.	.	Z	Z	_	_	0	Punc	_	_
 
-1	Budući	budući	R	Rr	_	_	2	Oth	_	_
+1	Budući	budući	R	Rgp	_	_	2	Oth	_	_
 2	da	da	C	Cs	_	_	14	Sub	_	_
 3	plazma	plazma	N	Ncfsn	_	_	4	Atr	_	_
 4	zasloni	zaslon	N	Ncmpn	_	_	5	Atr	_	_
