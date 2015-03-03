@@ -6321,7 +6321,7 @@
 4	prištinskog	prištinski	Agpnsg	Agpnsg	_	5	Atr	_	_
 5	izaslanstva	izaslanstvo	Ncnsg	Ncnsg	_	3	Atr	_	_
 6	Edite	Edita	Npfsg	Npfsg	_	7	Ap	_	_
-7	Tahiri	Tahir	Np-pn	Np-pn	_	2	Atr	_	_
+7	Tahiri	Tahiri	Npfsg	Npfsg	_	2	Atr	_	_
 8	kako	kako	Rgp	Rgp	_	2	Sub	_	_
 9	je	biti	Vcr3s	Vcr3s	_	8	Pred	_	_
 10	rezultat	rezultat	Ncmsn	Ncmsn	_	9	Sb	_	_
@@ -6347,7 +6347,7 @@
 
 1	"	"	Z	Z	_	6	Punc	_	_
 2	Edita	Edita	Npfsn	Npfsn	_	3	Ap	_	_
-3	Tahiri	Tahir	Np-pn	Np-pn	_	6	Sb	_	_
+3	Tahiri	Tahiri	Npfsn	Npfsn	_	6	Sb	_	_
 4	to	taj	Pd-nsa--n-a	Pd-nsa--n-a	_	6	Obj	_	_
 5	je	biti	Vcr3s	Vcr3s	_	6	Aux	_	_
 6	izjavila	izjaviti	Vmp-sf	Vmp-sf	_	18	Pred	_	_
@@ -16648,7 +16648,7 @@
 14	mogućnosti	mogućnost	Ncfsl	Ncfsl	_	13	Pnom	_	_
 15	djelovati	djelovati	Vmn	Vmn	_	14	Atv	_	_
 16	,	,	Z	Z	_	18	Punc	_	_
-17	budući	budući	Rr	Rr	_	18	Oth	_	_
+17	budući	budući	Rgp	Rgp	_	18	Oth	_	_
 18	da	da	Cs	Cs	_	12	Sub	_	_
 19	ima	imati	Vmr3s	Vmr3s	_	18	Pred	_	_
 20	dovoljnu	dovoljan	Agpfsa	Agpfsa	_	22	Atr	_	_
@@ -17980,7 +17980,7 @@
 7	jedne	jedan	Mlcfsg	Mlcfsg	_	8	Atr	_	_
 8	ere	era	Ncfsg	Ncfsg	_	6	Atr	_	_
 9	,	,	Z	Z	_	11	Punc	_	_
-10	budući	budući	Rr	Rr	_	11	Oth	_	_
+10	budući	budući	Rgp	Rgp	_	11	Oth	_	_
 11	da	da	Cs	Cs	_	4	Sub	_	_
 12	je	biti	Vcr3s	Vcr3s	_	16	Aux	_	_
 13	trener	trener	Ncmsn	Ncmsn	_	15	Ap	_	_
@@ -18233,7 +18233,7 @@
 22	se	sebe	Px--sa--ypn	Px--sa--ypn	_	20	Aux	_	_
 23	neosnovanima	neosnovan	Agpfpi	Agpfpi	_	20	Pnom	_	_
 24	,	,	Z	Z	_	26	Punc	_	_
-25	budući	budući	Rr	Rr	_	26	Oth	_	_
+25	budući	budući	Rgp	Rgp	_	26	Oth	_	_
 26	da	da	Cs	Cs	_	20	Sub	_	_
 27	nitko	nitko	Pi3m-n--n-ny	Pi3m-n--n-ny	_	32	Sb	_	_
 28	od	od	Sg	Sg	_	27	Prep	_	_
@@ -20852,7 +20852,7 @@
 19	.	.	Z	Z	_	0	Punc	_	_
 
 1	Nada	Nada	Npfsn	Npfsn	_	2	Ap	_	_
-2	Kolundžija	Kolundžija	Np-pn	Np-pn	_	13	Sb	_	_
+2	Kolundžija	Kolundžija	Npfsn	Npfsn	_	13	Sb	_	_
 3	,	,	Z	Z	_	4	Punc	_	_
 4	šefica	šefica	Ncfsn	Ncfsn	_	2	Ap	_	_
 5	zastupničkog	zastupnički	Agpmsg	Agpmsg	_	6	Atr	_	_
@@ -34469,7 +34469,7 @@
 5	je	biti	Vcr3s	Vcr3s	_	4	Pred	_	_
 6	2014.	2014.	Mdo	Mdo	_	7	Atr	_	_
 7	godina	godina	Ncfsn	Ncfsn	_	5	Sb	_	_
-8	ciljna	ciljan	Appfsn	Appfsn	_	9	Atr	_	_
+8	ciljna	ciljni	Agpfsn	Agpfsn	_	9	Atr	_	_
 9	godina	godina	Ncfsn	Ncfsn	_	5	Pnom	_	_
 10	za	za	Sa	Sa	_	5	Prep	_	_
 11	sve	sav	Agpfpa	Agpfpa	_	12	Atr	_	_
@@ -36760,7 +36760,7 @@
 6	u	u	Sl	Sl	_	5	Prep	_	_
 7	Srbiji	Srbija	Npfsl	Npfsl	_	6	Adv	_	_
 8	,	,	Z	Z	_	10	Punc	_	_
-9	budući	budući	Rr	Rr	_	10	Oth	_	_
+9	budući	budući	Rgp	Rgp	_	10	Oth	_	_
 10	da	da	Cs	Cs	_	4	Sub	_	_
 11	vlada	vlada	Ncfsn	Ncfsn	_	12	Sb	_	_
 12	i	i	Cc	Cc	_	15	Co	_	_
@@ -39307,7 +39307,7 @@
 10	pozdravili	pozdraviti	Vmp-pm	Vmp-pm	_	0	Pred	_	_
 11	sporazum	sporazum	Ncmsan	Ncmsan	_	10	Obj	_	_
 12	,	,	Z	Z	_	14	Punc	_	_
-13	budući	budući	Rr	Rr	_	14	Oth	_	_
+13	budući	budući	Rgp	Rgp	_	14	Oth	_	_
 14	da	da	Cs	Cs	_	10	Sub	_	_
 15	imaju	imati	Vmr3p	Vmr3p	_	14	Pred	_	_
 16	obitelji	obitelj	Ncfpa	Ncfpa	_	17	Obj	_	_
@@ -44293,7 +44293,7 @@
 24	demokratskim	demokratski	Agpnpi	Agpnpi	_	25	Atr	_	_
 25	načelima	načelo	Ncnpi	Ncnpi	_	23	Atr	_	_
 26	,	,	Z	Z	_	28	Punc	_	_
-27	budući	budući	Rr	Rr	_	28	Oth	_	_
+27	budući	budući	Rgp	Rgp	_	28	Oth	_	_
 28	da	da	Cs	Cs	_	16	Sub	_	_
 29	se	sebe	Px--sa--ypn	Px--sa--ypn	_	30	Aux	_	_
 30	smanjuje	smanjivati	Vmr3s	Vmr3s	_	28	Pred	_	_
@@ -48848,7 +48848,7 @@
 12	šest	šest	Mlc-p	Mlc-p	_	13	Atr	_	_
 13	godina	godina	Ncfpg	Ncfpg	_	7	Adv	_	_
 14	,	,	Z	Z	_	15	Punc	_	_
-15	budući	budući	Rr	Rr	_	7	Sub	_	_
+15	budući	budući	Rgp	Rgp	_	7	Sub	_	_
 16	je	biti	Vcr3s	Vcr3s	_	17	Aux	_	_
 17	bila	biti	Vcp-sf	Vcp-sf	_	15	Pred	_	_
 18	tabu	tabu	Ncmsn	Ncmsn	_	19	Atr	_	_
@@ -60993,7 +60993,7 @@
 39	odgovarajući	odgovarajući	Agpmsn	Agpmsn	_	40	Atr	_	_
 40	ishod	ishod	Ncmsn	Ncmsn	_	38	Pnom	_	_
 41	za	za	Sa	Sa	_	40	Prep	_	_
-42	budući	budući	Rr	Rr	_	43	Atr	_	_
+42	budući	budući	Agpmsan	Agpmsan	_	43	Atr	_	_
 43	status	status	Ncmsan	Ncmsan	_	41	Obj	_	_
 44	Kosova	Kosovo	Npnsg	Npnsg	_	43	Atr	_	_
 45	"	"	Z	Z	_	29	Punc	_	_
@@ -79501,7 +79501,7 @@
 14	kapital	kapital	Ncmsan	Ncmsan	_	12	Obj	_	_
 15	.	.	Z	Z	_	0	Punc	_	_
 
-1	Ciljni	ciljan	Appmsn	Appmsn	_	2	Atr	_	_
+1	Ciljni	ciljni	Agpmsn	Agpmsn	_	2	Atr	_	_
 2	datum	datum	Ncmsn	Ncmsn	_	4	Sb	_	_
 3	2007.	2007.	Mdo	Mdo	_	2	Atr	_	_
 4	pokazao	pokazati	Vmp-sm	Vmp-sm	_	0	Pred	_	_
@@ -81257,7 +81257,7 @@
 5	stavljena	stavljen	Appfsn	Appfsn	_	4	Pred	_	_
 6	na	na	Sa	Sa	_	5	Prep	_	_
 7	dražbu	dražba	Ncfsa	Ncfsa	_	6	Obj	_	_
-8	budući	budući	Rr	Rr	_	9	Oth	_	_
+8	budući	budući	Rgp	Rgp	_	9	Oth	_	_
 9	da	da	Cs	Cs	_	5	Sub	_	_
 10	vlasnik	vlasnik	Ncmsn	Ncmsn	_	19	Sb	_	_
 11	,	,	Z	Z	_	16	Punc	_	_
@@ -83942,7 +83942,7 @@
 6	za	za	Sa	Sa	_	5	Prep	_	_
 7	publiku	publika	Ncfsa	Ncfsa	_	6	Obj	_	_
 8	,	,	Z	Z	_	10	Punc	_	_
-9	budući	budući	Rr	Rr	_	10	Oth	_	_
+9	budući	budući	Rgp	Rgp	_	10	Oth	_	_
 10	da	da	Cs	Cs	_	3	Sub	_	_
 11	moraju	morati	Vmr3p	Vmr3p	_	10	Pred	_	_
 12	pratiti	pratiti	Vmn	Vmn	_	11	Atv	_	_
@@ -85490,7 +85490,7 @@
 14	nije	biti	Vcr3s-y	Vcr3s-y	_	10	Pred	_	_
 15	konačan	konačan	Agpmsn	Agpmsn	_	14	Pnom	_	_
 16	,	,	Z	Z	_	18	Punc	_	_
-17	budući	budući	Rr	Rr	_	18	Oth	_	_
+17	budući	budući	Rgp	Rgp	_	18	Oth	_	_
 18	da	da	Cs	Cs	_	14	Sub	_	_
 19	su	biti	Vcr3p	Vcr3p	_	18	Pred	_	_
 20	potrebni	potreban	Agpmpn	Agpmpn	_	19	Pnom	_	_
