@@ -7,7 +7,7 @@
 7	reči	reč	N	Ncfpg	_	6	Atr	_	_
 8	nekog	neki	P	Pi-msg--n-a	_	9	Atr	_	_
 9	jezika	jezik	N	Ncmsg	_	7	Atr	_	_
-10	je	biti	V	Vcr3s	_	15	Pred	_	_
+10	je	biti	V	Var3s	_	15	Pred	_	_
 11	po	po	S	Sl	_	10	Prep	_	_
 12	pravilu	pravilo	N	Ncnsl	_	11	Adv	_	_
 13	konačan	konačan	A	Agpmsn	_	10	Pnom	_	_
@@ -49,13 +49,13 @@
 49	.	.	Z	Z	_	0	Punc	_	_
 
 1	Srbija	Srbija	N	Npfsn	_	8	Sb	_	_
-2	je	biti	V	Vcr3s	_	8	Aux	_	_
+2	je	biti	V	Var3s	_	8	Aux	_	_
 3	od	od	S	Sg	_	8	Prep	_	_
 4	završetka	završetak	N	Ncmsg	_	3	Adv	_	_
 5	Prvog	prvi	A	Agpmsg	_	7	Atr	_	_
 6	svetskog	svetski	A	Agpmsg	_	7	Atr	_	_
 7	rata	rat	N	Ncmsg	_	4	Atr	_	_
-8	bila	biti	V	Vcp-sf	_	0	Pred	_	_
+8	bila	biti	V	Vap-sf	_	0	Pred	_	_
 9	osnivač	osnivač	N	Ncmsn	_	10	Pnom	_	_
 10	i	i	C	Cc	_	8	Co	_	_
 11	sastavni	sastavan	A	Agpmsn	_	12	Atr	_	_
@@ -78,7 +78,7 @@
 28	,	,	Z	Z	_	31	Punc	_	_
 29	(	(	Z	Z	_	31	Punc	_	_
 30	kasnije	kasno	R	Rgc	_	31	Adv	_	_
-31	preimenovanoj	preimenovan	A	Appfsl	_	22	Atv	_	_
+31	preimenovanoj	preimenovati	A	Appfsl	_	22	Atv	_	_
 32	u	u	S	Sa	_	31	Prep	_	_
 33	Kraljevinu	kraljevina	N	Ncfsa	_	34	Ap	_	_
 34	Jugoslaviju	Jugoslavija	N	Npfsa	_	32	Obj	_	_
@@ -114,7 +114,7 @@
 11	jun	jun	N	Ncmsn	_	8	Atr	_	_
 12	1953	1953	M	Md	_	11	Atr	_	_
 13	)	)	Z	Z	_	8	Punc	_	_
-14	je	biti	V	Vcr3s	_	0	Pred	_	_
+14	je	biti	V	Var3s	_	0	Pred	_	_
 15	hrvatski	hrvatski	A	Agpmsn	_	16	Atr	_	_
 16	političar	političar	N	Ncmsn	_	14	Pnom	_	_
 17	.	.	Z	Z	_	0	Punc	_	_
@@ -141,7 +141,7 @@
 1	Iste	isti	A	Agpfsg	_	2	Atr	_	_
 2	godine	godina	N	Ncfsg	_	3	Adv	_	_
 3	postao	postati	V	Vmp-sm	_	11	Pred	_	_
-4	je	biti	V	Vcr3s	_	3	Aux	_	_
+4	je	biti	V	Var3s	_	3	Aux	_	_
 5	ministar	ministar	N	Ncmsn	_	3	Pnom	_	_
 6	za	za	S	Sa	_	5	Prep	_	_
 7	nauku	nauka	N	Ncfsa	_	8	Atr	_	_
@@ -160,7 +160,7 @@
 20	.	.	Z	Z	_	0	Punc	_	_
 
 1	Kada	kada	R	Rgp	_	10	Sub	_	_
-2	je	biti	V	Vcr3s	_	1	Pred	_	_
+2	je	biti	V	Var3s	_	1	Pred	_	_
 3	svetlost	svetlost	N	Ncfsn	_	2	Sb	_	_
 4	veoma	veoma	R	Rgp	_	5	Adv	_	_
 5	jaka	jak	A	Agpfsn	_	2	Pnom	_	_
@@ -175,7 +175,7 @@
 14	obliku	oblik	N	Ncmsl	_	13	Adv	_	_
 15	proreza	prorez	N	Ncmsg	_	14	Atr	_	_
 16	,	,	Z	Z	_	17	Punc	_	_
-17	smanjujući	smanjujući	R	Rr	_	10	Atv	_	_
+17	smanjujući	smanjivati	R	Rs	_	10	Atv	_	_
 18	količinu	količina	N	Ncfsa	_	17	Obj	_	_
 19	svetlosti	svetlost	N	Ncfsg	_	18	Atr	_	_
 20	koja	koji	P	Pi-fsn--n-a	_	18	Sub	_	_
@@ -185,13 +185,13 @@
 24	.	.	Z	Z	_	0	Punc	_	_
 
 1	Matematika	matematika	N	Ncfsn	_	2	Sb	_	_
-2	je	biti	V	Vcr3s	_	0	Pred	_	_
+2	je	biti	V	Var3s	_	0	Pred	_	_
 3	formalna	formalan	A	Agpfsn	_	4	Atr	_	_
 4	i	i	C	Cc	_	6	Co	_	_
 5	egzaktna	egzaktan	A	Agpfsn	_	4	Atr	_	_
 6	nauka	nauka	N	Ncfsn	_	2	Pnom	_	_
 7	koja	koji	P	Pi-fsn--n-a	_	6	Sub	_	_
-8	je	biti	V	Vcr3s	_	9	Aux	_	_
+8	je	biti	V	Var3s	_	9	Aux	_	_
 9	nastala	nastati	V	Vmp-sf	_	7	Pred	_	_
 10	izučavanjem	izučavanje	N	Ncnsi	_	12	Adv	_	_
 11	figura	figura	N	Ncfpg	_	10	Atr	_	_
@@ -237,8 +237,8 @@
 1	Za	za	S	Sa	_	5	Prep	_	_
 2	premijera	premijer	N	Ncmsay	_	1	Obj	_	_
 3	Hrvatske	Hrvatska	N	Npfsg	_	2	Atr	_	_
-4	izabran	izabran	A	Appmsn	_	5	Pnom	_	_
-5	je	biti	V	Vcr3s	_	13	Pred	_	_
+4	izabran	izabrati	A	Appmsn	_	5	Pnom	_	_
+5	je	biti	V	Var3s	_	13	Pred	_	_
 6	posle	posle	R	Rgp	_	5	Prep	_	_
 7	parlamentarnih	parlamentaran	A	Agpmpg	_	8	Atr	_	_
 8	izbora	izbor	N	Ncmpg	_	6	Adv	_	_
@@ -248,7 +248,7 @@
 12	,	,	Z	Z	_	13	Punc	_	_
 13	a	a	C	Cc	_	0	Co	_	_
 14	ostavku	ostavka	N	Ncfsa	_	16	Obj	_	_
-15	je	biti	V	Vcr3s	_	16	Aux	_	_
+15	je	biti	V	Var3s	_	16	Aux	_	_
 16	podneo	podneti	V	Vmp-sm	_	13	Pred	_	_
 17	1	1	M	Md	_	19	Atr	_	_
 18	.	.	Z	Z	_	17	Punc	_	_
@@ -257,7 +257,7 @@
 21	.	.	Z	Z	_	20	Punc	_	_
 22	godine	godina	N	Ncfsg	_	19	Atr	_	_
 23	što	što	P	Pi3n-n--n-nn	_	16	Sub	_	_
-24	je	biti	V	Vcr3s	_	23	Pred	_	_
+24	je	biti	V	Var3s	_	23	Pred	_	_
 25	najduži	dug	A	Agsmsn	_	26	Atr	_	_
 26	mandat	mandat	N	Ncmsn	_	24	Pnom	_	_
 27	od	od	S	Sg	_	24	Prep	_	_
@@ -270,13 +270,13 @@
 2	,	,	Z	Z	_	1	Punc	_	_
 3	ova	ovaj	P	Pd-fsn--n-a	_	4	Atr	_	_
 4	postava	postava	N	Ncfsn	_	7	Sb	_	_
-5	nije	biti	V	Vcr3s-	_	7	Aux	_	_
+5	nije	biti	V	Var3s-y	_	7	Aux	_	_
 6	dugo	dugo	R	Rgp	_	7	Adv	_	_
 7	potrajala	potrajati	V	Vmp-sf	_	0	Pred	_	_
 8	jer	jer	C	Cs	_	7	Sub	_	_
 9	članovi	član	N	Ncmpn	_	14	Sb	_	_
 10	benda	bend	N	Ncmsg	_	9	Atr	_	_
-11	su	biti	V	Vcr3p	_	14	Aux	_	_
+11	su	biti	V	Var3p	_	14	Aux	_	_
 12	se	sebe	P	Px--sa--ypn	_	14	Aux	_	_
 13	često	često	R	Rgp	_	14	Adv	_	_
 14	menjali	menjati	V	Vmp-pm	_	15	Pred	_	_
@@ -284,7 +284,7 @@
 16	odnosno	odnosno	R	Rgp	_	20	Oth	_	_
 17	Štulić	Štulić	N	Npmsn	_	20	Sb	_	_
 18	ih	oni	P	Pp3-pa--y-n	_	20	Obj	_	_
-19	je	biti	V	Vcr3s	_	20	Aux	_	_
+19	je	biti	V	Var3s	_	20	Aux	_	_
 20	menjao	menjati	V	Vmp-sm	_	15	Adv	_	_
 21	.	.	Z	Z	_	0	Punc	_	_
 
@@ -301,7 +301,7 @@
 11	nalazi	nalaziti	V	Vmr3s	_	0	Pred	_	_
 12	pod	pod	S	Si	_	11	Prep	_	_
 13	protektoratom	protektorat	N	Ncmsi	_	12	Obj	_	_
-14	Ujedinjenih	ujedinjen	A	Appfpg	_	15	Atr	_	_
+14	Ujedinjenih	ujedinjen	A	Agpfpg	_	15	Atr	_	_
 15	nacija	nacija	N	Ncfpg	_	13	Atr	_	_
 16	.	.	Z	Z	_	0	Punc	_	_
 
@@ -311,7 +311,7 @@
 4	,	,	Z	Z	_	5	Punc	_	_
 5	na	na	S	Sl	_	3	Prep	_	_
 6	kome	koji	P	Pi-msl--n-a	_	5	Sub	_	_
-7	je	biti	V	Vcr3s	_	6	Pred	_	_
+7	je	biti	V	Var3s	_	6	Pred	_	_
 8	vegetaciona	vegetacion	A	Agpfsn	_	9	Atr	_	_
 9	kupa	kupa	N	Ncfsn	_	7	Sb	_	_
 10	.	.	Z	Z	_	0	Punc	_	_
@@ -326,7 +326,7 @@
 8	Sjedinjene	sjedinjen	A	Agpfpn	_	10	Atr	_	_
 9	Američke	američki	A	Agpfpn	_	10	Atr	_	_
 10	Države	država	N	Ncfpn	_	7	Sb	_	_
-11	su	biti	V	Vcr3p	_	13	Aux	_	_
+11	su	biti	V	Var3p	_	13	Aux	_	_
 12	ponovo	ponovno	R	Rgp	_	13	Adv	_	_
 13	otvorile	otvoriti	V	Vmp-pf	_	15	Pred	_	_
 14	fabriku	fabrika	N	Ncfsa	_	13	Obj	_	_
@@ -338,7 +338,7 @@
 
 1	Sedište	sedište	N	Ncnsn	_	3	Sb	_	_
 2	joj	on	P	Pp3fsd--y-n	_	3	Obj	_	_
-3	je	biti	V	Vcr3s	_	0	Pred	_	_
+3	je	biti	V	Var3s	_	0	Pred	_	_
 4	u	u	S	Sl	_	3	Prep	_	_
 5	Ženevi	Ženeva	N	Npfsl	_	4	Adv	_	_
 6	u	u	S	Sl	_	5	Prep	_	_
@@ -364,7 +364,7 @@
 17	između	između	S	Sg	_	15	Prep	_	_
 18	dva	dva	M	Mlc-p	_	19	Atr	_	_
 19	čvora	čvor	N	Ncmsg	_	17	Atr	_	_
-20	je	biti	V	Vcr3s	_	14	Pred	_	_
+20	je	biti	V	Var3s	_	14	Pred	_	_
 21	članak	članak	N	Ncmsn	_	20	Pnom	_	_
 22	(	(	Z	Z	_	23	Punc	_	_
 23	internodia	internodia	N	Npmsn	_	21	Atr	_	_
@@ -378,7 +378,7 @@
 5	)	)	Z	Z	_	3	Punc	_	_
 6	generalni	generalan	A	Agpmsn	_	7	Atr	_	_
 7	direktor	direktor	N	Ncmsn	_	8	Sb	_	_
-8	je	biti	V	Vcr3s	_	0	Pred	_	_
+8	je	biti	V	Var3s	_	0	Pred	_	_
 9	Li	Li	N	Npmsn	_	10	Ap	_	_
 10	Jong	Jong	N	Npmsn	_	8	Pnom	_	_
 11	.	.	Z	Z	_	0	Punc	_	_
@@ -404,11 +404,11 @@
 3	za	za	S	Sa	_	2	Prep	_	_
 4	srednju	srednji	A	Agpfsa	_	5	Atr	_	_
 5	školu	škola	N	Ncfsa	_	3	Atr	_	_
-6	je	biti	V	Vcr3s	_	0	Pred	_	_
-7	završen	završen	A	Appmsn	_	8	Atr	_	_
+6	je	biti	V	Var3s	_	0	Pred	_	_
+7	završen	završiti	A	Appmsn	_	8	Atr	_	_
 8	fakultet	fakultet	N	Ncmsn	_	9	Pnom	_	_
 9	i	i	C	Cc	_	6	Co	_	_
-10	položen	položen	A	Appmsn	_	12	Atr	_	_
+10	položen	položiti	A	Appmsn	_	12	Atr	_	_
 11	stručni	stručan	A	Agpmsn	_	12	Atr	_	_
 12	ispit	ispit	N	Ncmsn	_	9	Pnom	_	_
 13	,	,	Z	Z	_	14	Punc	_	_
@@ -444,7 +444,7 @@
 20	režiji	režija	N	Ncfsl	_	18	Adv	_	_
 21	,	,	Z	Z	_	22	Punc	_	_
 22	što	što	P	Pi3n-n--n-nn	_	6	Sub	_	_
-23	bi	biti	V	Vca3s	_	25	Aux	_	_
+23	bi	biti	V	Vaa3s	_	25	Aux	_	_
 24	se	sebe	P	Px--sa--ypn	_	25	Aux	_	_
 25	nazvalo	nazvati	V	Vmp-sn	_	22	Pred	_	_
 26	kućna	kućan	A	Agpfsn	_	27	Atr	_	_
@@ -455,13 +455,13 @@
 31	kuće	kuća	N	Ncfsg	_	30	Atr	_	_
 32	.	.	Z	Z	_	0	Punc	_	_
 
-1	Optužen	optužen	A	Appmsn	_	2	Pnom	_	_
-2	je	biti	V	Vcr3s	_	10	Pred	_	_
+1	Optužen	optužiti	A	Appmsn	_	2	Pnom	_	_
+2	je	biti	V	Var3s	_	10	Pred	_	_
 3	za	za	S	Sa	_	2	Prep	_	_
 4	korupciju	korupcija	N	Ncfsa	_	3	Obj	_	_
 5	,	,	Z	Z	_	10	Punc	_	_
 6	kasnije	kasno	R	Rgc	_	10	Elp	_	_
-7	uhapšen	uhapšen	A	Appmsn	_	10	Elp	_	_
+7	uhapšen	uhapsiti	A	Appmsn	_	10	Elp	_	_
 8	u	u	S	Sl	_	7	Prep	_	_
 9	Austriji	Austrija	N	Npfsl	_	8	Adv	_	_
 10	i	i	C	Cc	_	0	Co	_	_
@@ -497,7 +497,7 @@
 1	Ciljevi	cilj	N	Ncmpn	_	5	Sb	_	_
 2	tih	taj	P	Pd-mpg--n-a	_	3	Atr	_	_
 3	ratova	rat	N	Ncmpg	_	1	Atr	_	_
-4	su	biti	V	Vcr3p	_	5	Aux	_	_
+4	su	biti	V	Var3p	_	5	Aux	_	_
 5	imali	imati	V	Vmp-pm	_	0	Pred	_	_
 6	i	i	C	Cc	_	7	Oth	_	_
 7	dinastičko	dinastički	A	Agpnsa	_	8	Atr	_	_
@@ -508,8 +508,8 @@
 12	rat	rat	N	Ncmsn	_	5	Adv	_	_
 13	.	.	Z	Z	_	0	Punc	_	_
 
-1	Građen	građen	A	Appmsn	_	2	Pnom	_	_
-2	je	biti	V	Vcr3s	_	0	Pred	_	_
+1	Građen	graditi	A	Appmsn	_	2	Pnom	_	_
+2	je	biti	V	Var3s	_	0	Pred	_	_
 3	od	od	S	Sg	_	2	Prep	_	_
 4	metalne	metalan	A	Agpfsg	_	7	Atr	_	_
 5	,	,	Z	Z	_	7	Punc	_	_
@@ -520,7 +520,7 @@
 10	(	(	Z	Z	_	13	Punc	_	_
 11	donji	donji	A	Agpmsn	_	12	Atr	_	_
 12	dio	dio	N	Ncmsn	_	13	Sb	_	_
-13	je	biti	V	Vcr3s	_	9	Elp	_	_
+13	je	biti	V	Var3s	_	9	Elp	_	_
 14	od	od	S	Sg	_	13	Prep	_	_
 15	metala	metal	N	Ncmsg	_	14	Pnom	_	_
 16	)	)	Z	Z	_	13	Punc	_	_
@@ -592,8 +592,8 @@
 7	maslačka	maslačak	N	Ncmsg	_	6	Obj	_	_
 8	,	,	Z	Z	_	6	Punc	_	_
 9	listovi	list	N	Ncmpn	_	10	Sb	_	_
-10	su	biti	V	Vcr3p	_	12	Pred	_	_
-11	zbijeni	zbijen	A	Appmpn	_	10	Pnom	_	_
+10	su	biti	V	Var3p	_	12	Pred	_	_
+11	zbijeni	zbiti	A	Appmpn	_	10	Pnom	_	_
 12	pa	pa	C	Cc	_	0	Co	_	_
 13	grade	graditi	V	Vmr3p	_	12	Pred	_	_
 14	rozetu	rozeta	N	Ncfsa	_	13	Obj	_	_
@@ -635,14 +635,14 @@
 13	svojstava	svojstvo	N	Ncnpg	_	4	Atr	_	_
 14	,	,	Z	Z	_	15	Punc	_	_
 15	koje	koji	P	Pi-fpn--n-a	_	4	Sub	_	_
-16	su	biti	V	Vcr3p	_	15	Pred	_	_
+16	su	biti	V	Var3p	_	15	Pred	_	_
 17	u	u	S	Sl	_	16	Prep	_	_
 18	međusobnoj	međusoban	A	Agpfsl	_	19	Atr	_	_
 19	vezi	veza	N	Ncfsl	_	17	Pnom	_	_
 20	.	.	Z	Z	_	0	Punc	_	_
 
-1	Oženjen	oženjen	A	Appmsn	_	2	Pnom	_	_
-2	je	biti	V	Vcr3s	_	3	Pred	_	_
+1	Oženjen	oženiti	A	Appmsn	_	2	Pnom	_	_
+2	je	biti	V	Var3s	_	3	Pred	_	_
 3	i	i	C	Cc	_	0	Co	_	_
 4	ima	imati	V	Vmr3s	_	3	Pred	_	_
 5	dvoje	dvoje	N	Ncnsa	_	4	Obj	_	_
@@ -650,13 +650,13 @@
 7	.	.	Z	Z	_	0	Punc	_	_
 
 1	Sanader	Sanader	N	Npmsn	_	2	Sb	_	_
-2	je	biti	V	Vcr3s	_	0	Pred	_	_
-3	rođen	rođen	A	Appmsn	_	2	Pnom	_	_
+2	je	biti	V	Var3s	_	0	Pred	_	_
+3	rođen	roditi	A	Appmsn	_	2	Pnom	_	_
 4	u	u	S	Sl	_	2	Prep	_	_
 5	Splitu	Split	N	Npmsl	_	4	Adv	_	_
 6	,	,	Z	Z	_	7	Punc	_	_
 7	gde	gde	R	Rgp	_	5	Sub	_	_
-8	je	biti	V	Vcr3s	_	9	Aux	_	_
+8	je	biti	V	Var3s	_	9	Aux	_	_
 9	završio	završiti	V	Vmp-sm	_	7	Pred	_	_
 10	osnovnu	osnovan	A	Agpfsa	_	11	Atr	_	_
 11	školu	škola	N	Ncfsa	_	12	Obj	_	_
@@ -678,7 +678,7 @@
 2	sastavu	sastav	N	Ncmsl	_	1	Adv	_	_
 3	Republike	republika	N	Ncfsg	_	4	Ap	_	_
 4	Srbije	Srbija	N	Npfsg	_	2	Atr	_	_
-5	su	biti	V	Vcr3p	_	0	Pred	_	_
+5	su	biti	V	Var3p	_	0	Pred	_	_
 6	i	i	C	Cc	_	9	Oth	_	_
 7	dve	dva	M	Mlc-p	_	9	Atr	_	_
 8	autonomne	autonoman	A	Agpfsg	_	9	Atr	_	_
@@ -692,7 +692,7 @@
 16	.	.	Z	Z	_	0	Punc	_	_
 
 1	Bivši	bivši	A	Agpmsn	_	3	Atr	_	_
-2	je	biti	V	Vcr3s	_	0	Pred	_	_
+2	je	biti	V	Var3s	_	0	Pred	_	_
 3	predsednik	predsednik	N	Ncmsn	_	7	Pnom	_	_
 4	Hrvatske	hrvatski	A	Agpfsg	_	6	Atr	_	_
 5	demokratske	demokratski	A	Agpfsg	_	6	Atr	_	_
@@ -705,7 +705,7 @@
 12	.	.	Z	Z	_	0	Punc	_	_
 
 1	SZO	SZO	Y	Npfsa	_	3	Obj	_	_
-2	su	biti	V	Vcr3p	_	3	Aux	_	_
+2	su	biti	V	Var3p	_	3	Aux	_	_
 3	osnovali	osnovati	V	Vmp-pm	_	0	Pred	_	_
 4	UN	UN	Y	Npmpn	_	3	Sb	_	_
 5	7	7	M	Md	_	7	Atr	_	_
@@ -724,7 +724,7 @@
 6	nakon	nakon	S	Sg	_	5	Prep	_	_
 7	nastanka	nastanak	N	Ncmsg	_	6	Atr	_	_
 8	Zemlje	zemlja	N	Ncfsg	_	7	Atr	_	_
-9	je	biti	V	Vcr3s	_	10	Aux	_	_
+9	je	biti	V	Var3s	_	10	Aux	_	_
 10	igrala	igrati	V	Vmp-sf	_	0	Pred	_	_
 11	veliku	velik	A	Agpfsa	_	12	Atr	_	_
 12	ulogu	uloga	N	Ncfsa	_	10	Obj	_	_
@@ -738,7 +738,7 @@
 3	sudari	sudar	N	Ncmpn	_	7	Sb	_	_
 4	sa	s	S	Si	_	3	Prep	_	_
 5	asteroidima	asteroid	N	Ncmpi	_	4	Atr	_	_
-6	su	biti	V	Vcr3p	_	7	Aux	_	_
+6	su	biti	V	Var3p	_	7	Aux	_	_
 7	prouzrokovali	prouzrokovati	V	Vmp-pm	_	0	Pred	_	_
 8	znatne	znatan	A	Agpfpa	_	9	Atr	_	_
 9	promene	promena	N	Ncfpa	_	7	Obj	_	_
@@ -758,9 +758,9 @@
 2	zdravstvena	zdravstven	A	Agpfsn	_	3	Atr	_	_
 3	organizacija	organizacija	N	Ncfsn	_	5	Sb	_	_
 4	posebna	poseban	A	Agpfsn	_	6	Atr	_	_
-5	je	biti	V	Vcr3s	_	0	Pred	_	_
+5	je	biti	V	Var3s	_	0	Pred	_	_
 6	organizacija	organizacija	N	Ncfsn	_	5	Pnom	_	_
-7	Ujedinjenih	ujedinjen	A	Appfpg	_	8	Atr	_	_
+7	Ujedinjenih	ujedinjen	A	Agpfpg	_	8	Atr	_	_
 8	nacija	nacija	N	Ncfpg	_	6	Atr	_	_
 9	koja	koji	P	Pi-fsn--n-a	_	6	Sub	_	_
 10	deluje	delovati	V	Vmr3s	_	9	Pred	_	_
@@ -783,7 +783,7 @@
 
 1	Glavni	glavni	A	Agpmsn	_	2	Atr	_	_
 2	grad	grad	N	Ncmsn	_	3	Sb	_	_
-3	je	biti	V	Vcr3s	_	0	Pred	_	_
+3	je	biti	V	Var3s	_	0	Pred	_	_
 4	Beograd	Beograd	N	Npmsn	_	3	Pnom	_	_
 5	.	.	Z	Z	_	0	Punc	_	_
 
@@ -818,7 +818,7 @@
 14	,	,	Z	Z	_	15	Punc	_	_
 15	pri	pri	S	Sl	_	10	Prep	_	_
 16	čemu	što	P	Pi3n-l--n-nn	_	15	Sub	_	_
-17	su	biti	V	Vcr3p	_	16	Pred	_	_
+17	su	biti	V	Var3p	_	16	Pred	_	_
 18	ćirilični	ćiriličan	A	Agpmsn	_	19	Atr	_	_
 19	i	i	C	Cc	_	21	Co	_	_
 20	latinični	latiničan	A	Agpmsn	_	19	Atr	_	_
@@ -829,7 +829,7 @@
 1	Veruje	verovati	V	Vmr3s	_	0	Pred	_	_
 2	se	sebe	P	Px--sa--ypn	_	1	Aux	_	_
 3	da	da	C	Cs	_	1	Sub	_	_
-4	su	biti	V	Vcr3p	_	10	Aux	_	_
+4	su	biti	V	Var3p	_	10	Aux	_	_
 5	periodične	periodičan	A	Agpfpn	_	6	Atr	_	_
 6	promene	promena	N	Ncfpn	_	10	Sb	_	_
 7	u	u	S	Sl	_	6	Prep	_	_
@@ -842,20 +842,20 @@
 14	doba	doba	N	Ncnpg	_	12	Atr	_	_
 15	tokom	tokom	R	Rgp	_	12	Prep	_	_
 16	kojih	koji	P	Pi-npg--n-a	_	15	Sub	_	_
-17	je	biti	V	Vcr3s	_	22	Aux	_	_
+17	je	biti	V	Var3s	_	22	Aux	_	_
 18	znatan	znatan	A	Agpmsn	_	19	Atr	_	_
 19	deo	deo	N	Ncmsn	_	22	Sb	_	_
 20	Zemljine	zemljin	A	Aspfsg	_	21	Atr	_	_
 21	površine	površina	N	Ncfsg	_	19	Atr	_	_
-22	bio	biti	V	Vcp-sm	_	16	Pred	_	_
-23	pokriven	pokriven	A	Appmsn	_	22	Pnom	_	_
+22	bio	biti	V	Vap-sm	_	16	Pred	_	_
+23	pokriven	pokriti	A	Appmsn	_	22	Pnom	_	_
 24	ledom	led	N	Ncmsi	_	23	Obj	_	_
 25	.	.	Z	Z	_	0	Punc	_	_
 
 1	U	u	S	Sl	_	5	Prep	_	_
 2	ovom	ovaj	P	Pd-msl--n-a	_	3	Atr	_	_
 3	periodu	period	N	Ncmsl	_	1	Adv	_	_
-4	je	biti	V	Vcr3s	_	5	Aux	_	_
+4	je	biti	V	Var3s	_	5	Aux	_	_
 5	upoznao	upoznati	V	Vmp-sm	_	0	Pred	_	_
 6	Josefinu	Josefina	N	Npfsa	_	7	Ap	_	_
 7	Frudmaier	Frudmaier	N	Npfsa	_	5	Sb	_	_
@@ -866,7 +866,7 @@
 12	.	.	Z	Z	_	0	Punc	_	_
 
 1	Doktorirao	doktorirati	V	Vmp-sm	_	0	Pred	_	_
-2	je	biti	V	Vcr3s	_	1	Aux	_	_
+2	je	biti	V	Var3s	_	1	Aux	_	_
 3	romanske	romanski	A	Agpmpa	_	4	Atr	_	_
 4	jezike	jezik	N	Ncmpa	_	5	Obj	_	_
 5	i	i	C	Cc	_	1	Co	_	_
@@ -938,8 +938,8 @@
 13	.	.	Z	Z	_	0	Punc	_	_
 
 1	Azra	Azra	N	Npfsn	_	3	Sb	_	_
-2	je	biti	V	Vcr3s	_	3	Aux	_	_
-3	bila	biti	V	Vcp-sf	_	0	Pred	_	_
+2	je	biti	V	Var3s	_	3	Aux	_	_
+3	bila	biti	V	Vap-sf	_	0	Pred	_	_
 4	novotalasni	novotalasan	A	Agpmsn	_	6	Atr	_	_
 5	muzički	muzički	A	Agpmsn	_	6	Atr	_	_
 6	sastav	sastav	N	Ncmsn	_	3	Pnom	_	_
@@ -947,7 +947,7 @@
 8	Zagreba	Zagreb	N	Npmsg	_	7	Atr	_	_
 9	,	,	Z	Z	_	10	Punc	_	_
 10	koji	koji	P	Pi-msn--n-a	_	6	Sub	_	_
-11	je	biti	V	Vcr3s	_	12	Aux	_	_
+11	je	biti	V	Var3s	_	12	Aux	_	_
 12	osnovao	osnovati	V	Vmp-sm	_	10	Pred	_	_
 13	Branimir	Branimir	N	Npmsn	_	15	Ap	_	_
 14	Džoni	Džoni	N	Npmsn	_	15	Ap	_	_
@@ -981,7 +981,7 @@
 6	ili	ili	C	Cc	_	4	Co	_	_
 7	akademiji	akademija	N	Ncfsl	_	6	Atr	_	_
 8	potreban	potreban	A	Agpmsn	_	9	Pnom	_	_
-9	je	biti	V	Vcr3s	_	0	Pred	_	_
+9	je	biti	V	Var3s	_	0	Pred	_	_
 10	(	(	Z	Z	_	11	Punc	_	_
 11	u	u	S	Sl	_	9	Prep	_	_
 12	najvećem	velik	A	Agsmsl	_	13	Atr	_	_
@@ -993,7 +993,7 @@
 18	doktor	doktor	N	Ncmsn	_	16	Atr	_	_
 19	nauka	nauka	N	Ncfpg	_	18	Atr	_	_
 20	i	i	C	Cc	_	9	Co	_	_
-21	određen	određen	A	Appmsn	_	22	Atr	_	_
+21	određen	određen	A	Agpmsn	_	22	Atr	_	_
 22	broj	broj	N	Ncmsn	_	20	Sb	_	_
 23	naučnih	naučan	A	Agpmpg	_	24	Atr	_	_
 24	radova	rad	N	Ncmpg	_	22	Atr	_	_
@@ -1063,7 +1063,7 @@
 16	godine	godina	N	Ncfsg	_	13	Atr	_	_
 17	,	,	Z	Z	_	1	Punc	_	_
 18	on	on	P	Pp3msn--n-n	_	19	Sb	_	_
-19	je	biti	V	Vcr3s	_	0	Pred	_	_
+19	je	biti	V	Var3s	_	0	Pred	_	_
 20	administrativno	administrativan	A	Agpnsn	_	21	Atr	_	_
 21	i	i	C	Cc	_	23	Co	_	_
 22	ekonomsko	ekonomski	A	Agpnsn	_	21	Atr	_	_
@@ -1114,7 +1114,7 @@
 
 1	U	u	S	Sl	_	4	Prep	_	_
 2	početku	početak	N	Ncmsl	_	1	Adv	_	_
-3	su	biti	V	Vcr3p	_	4	Aux	_	_
+3	su	biti	V	Var3p	_	4	Aux	_	_
 4	vežbali	vežbati	V	Vmp-pm	_	0	Pred	_	_
 5	u	u	S	Sl	_	4	Prep	_	_
 6	jednoj	jedan	M	Mlcfsl	_	7	Atr	_	_
@@ -1134,7 +1134,7 @@
 8	studente	student	N	Ncmpa	_	7	Obj	_	_
 9	,	,	Z	Z	_	10	Punc	_	_
 10	i	i	C	Cc	_	0	Co	_	_
-11	nije	biti	V	Vcr3s-	_	10	Pred	_	_
+11	nije	biti	V	Var3s-y	_	10	Pred	_	_
 12	potrebno	potreban	A	Agpnsn	_	11	Pnom	_	_
 13	da	da	C	Cs	_	14	Oth	_	_
 14	ima	imati	V	Vmr3s	_	11	Atv	_	_
@@ -1152,7 +1152,7 @@
 26	.	.	Z	Z	_	0	Punc	_	_
 
 1	To	taj	P	Pd-nsn--n-a	_	2	Sb	_	_
-2	je	biti	V	Vcr3s	_	0	Pred	_	_
+2	je	biti	V	Var3s	_	0	Pred	_	_
 3	princip	princip	N	Ncmsn	_	2	Pnom	_	_
 4	dejstvovanja	dejstvovanje	N	Ncnsg	_	3	Atr	_	_
 5	u	u	S	Sl	_	2	Prep	_	_
@@ -1163,7 +1163,7 @@
 1	Kada	kada	R	Rgp	_	11	Sub	_	_
 2	se	sebe	P	Px--sa--ypn	_	6	Aux	_	_
 3	udarom	udar	N	Ncmsi	_	6	Obj	_	_
-4	udarne	udaran	A	Appfsg	_	5	Atr	_	_
+4	udarne	udaran	A	Agpfsg	_	5	Atr	_	_
 5	igle	igla	N	Ncfsg	_	3	Atr	_	_
 6	aktivira	aktivirati	V	Vmr3s	_	1	Pred	_	_
 7	inicijalna	inicijalan	A	Agpfsn	_	8	Atr	_	_
@@ -1195,8 +1195,8 @@
 
 1	Belo	bel	A	Agpnsn	_	2	Atr	_	_
 2	more	more	N	Ncnsn	_	3	Sb	_	_
-3	je	biti	V	Vcr3s	_	11	Pred	_	_
-4	nazvano	nazvan	A	Appnsn	_	3	Pnom	_	_
+3	je	biti	V	Var3s	_	11	Pred	_	_
+4	nazvano	nazvati	A	Appnsn	_	3	Pnom	_	_
 5	prema	prema	S	Sl	_	3	Prep	_	_
 6	izgledu	izgled	N	Ncmsl	_	5	Obj	_	_
 7	u	u	S	Sl	_	6	Prep	_	_
@@ -1211,9 +1211,9 @@
 16	,	,	Z	Z	_	17	Punc	_	_
 17	a	a	C	Cc	_	11	Co	_	_
 18	obale	obala	N	Ncfpn	_	19	Sb	_	_
-19	su	biti	V	Vcr3p	_	17	Pred	_	_
+19	su	biti	V	Var3p	_	17	Pred	_	_
 20	najčešće	često	R	Rgs	_	19	Adv	_	_
-21	prekrivene	prekriven	A	Appfpn	_	19	Pnom	_	_
+21	prekrivene	prekriti	A	Appfpn	_	19	Pnom	_	_
 22	snegom	sneg	N	Ncmsi	_	19	Obj	_	_
 23	.	.	Z	Z	_	0	Punc	_	_
 
@@ -1247,7 +1247,7 @@
 11	,	,	Z	Z	_	1	Punc	_	_
 12	lokalni	lokalan	A	Agpmpn	_	13	Atr	_	_
 13	anarhisti	anarhist	N	Ncmpn	_	15	Sb	_	_
-14	su	biti	V	Vcr3p	_	15	Aux	_	_
+14	su	biti	V	Var3p	_	15	Aux	_	_
 15	ispijali	ispijati	V	Vmp-pm	_	17	Pred	_	_
 16	lozu	loza	N	Ncfsa	_	15	Obj	_	_
 17	i	i	C	Cc	_	0	Co	_	_
@@ -1255,15 +1255,15 @@
 19	o	o	S	Sl	_	18	Prep	_	_
 20	politici	politika	N	Ncfsl	_	19	Obj	_	_
 21	,	,	Z	Z	_	22	Punc	_	_
-22	slaveći	slaveći	R	Rr	_	18	Atv	_	_
+22	slaveći	slaviti	R	Rs	_	18	Atv	_	_
 23	jer	jer	C	Cs	_	22	Sub	_	_
-24	je	biti	V	Vcr3s	_	34	Aux	_	_
+24	je	biti	V	Var3s	_	34	Aux	_	_
 25	Đoko	Đoko	N	Npmsn	_	34	Sb	_	_
 26	anarhist	anarhist	N	Ncmsn	_	25	Ap	_	_
 27	(	(	Z	Z	_	28	Punc	_	_
 28	kome	koji	P	Pi-msd--n-a	_	25	Sub	_	_
-29	je	biti	V	Vcr3s	_	28	Pred	_	_
-30	posvećena	posvećen	A	Appfsn	_	29	Pnom	_	_
+29	je	biti	V	Var3s	_	28	Pred	_	_
+30	posvećena	posvetiti	A	Appfsn	_	29	Pnom	_	_
 31	pesma	pesma	N	Ncfsn	_	32	Ap	_	_
 32	Jablan	Jablan	N	Npmsn	_	29	Sb	_	_
 33	)	)	Z	Z	_	28	Punc	_	_
@@ -1271,7 +1271,7 @@
 35	kćerku	kćerka	N	Ncfsa	_	34	Obj	_	_
 36	,	,	Z	Z	_	37	Punc	_	_
 37	kojoj	koji	P	Pi-fsd--n-a	_	35	Sub	_	_
-38	je	biti	V	Vcr3s	_	39	Aux	_	_
+38	je	biti	V	Var3s	_	39	Aux	_	_
 39	trebalo	trebati	V	Vmp-sn	_	37	Pred	_	_
 40	dati	dati	V	Vmn	_	39	Atv	_	_
 41	ime	ime	N	Ncnsa	_	40	Obj	_	_
@@ -1304,7 +1304,7 @@
 5	Republika	republika	N	Ncfsn	_	6	Ap	_	_
 6	Srbija	Srbija	N	Npfsn	_	1	Elp	_	_
 7	)	)	Z	Z	_	6	Punc	_	_
-8	je	biti	V	Vcr3s	_	17	Pred	_	_
+8	je	biti	V	Var3s	_	17	Pred	_	_
 9	kontinentalna	kontinentalan	A	Agpfsn	_	10	Atr	_	_
 10	država	država	N	Ncfsn	_	8	Pnom	_	_
 11	koja	koji	P	Pi-fsn--n-a	_	10	Sub	_	_
@@ -1332,7 +1332,7 @@
 33	.	.	Z	Z	_	0	Punc	_	_
 
 1	Kasnije	kasno	R	Rgc	_	11	Adv	_	_
-2	je	biti	V	Vcr3s	_	11	Aux	_	_
+2	je	biti	V	Var3s	_	11	Aux	_	_
 3	,	,	Z	Z	_	5	Punc	_	_
 4	jedno	jedan	M	Mlcnsa	_	5	Atr	_	_
 5	vreme	vreme	N	Ncnsa	_	11	Adv	_	_
@@ -1340,20 +1340,20 @@
 7	vokal	vokal	N	Ncmsn	_	11	Sb	_	_
 8	u	u	S	Sl	_	7	Prep	_	_
 9	Azri	Azra	N	Npfsl	_	8	Atr	_	_
-10	je	biti	V	Vcr3s	_	11	Aux	_	_
-11	bio	biti	V	Vcp-sm	_	15	Pred	_	_
+10	je	biti	V	Var3s	_	11	Aux	_	_
+11	bio	biti	V	Vap-sm	_	15	Pred	_	_
 12	Jura	Jura	N	Npmsn	_	13	Ap	_	_
 13	Stublić	Stublić	N	Npmsn	_	11	Sb	_	_
 14	,	,	Z	Z	_	15	Punc	_	_
 15	a	a	C	Cc	_	0	Co	_	_
 16	Džoni	Džoni	N	Npmsn	_	19	Sb	_	_
-17	je	biti	V	Vcr3s	_	19	Aux	_	_
+17	je	biti	V	Var3s	_	19	Aux	_	_
 18	samo	samo	R	Rgp	_	19	Adv	_	_
 19	svirao	svirati	V	Vmp-sm	_	15	Pred	_	_
 20	gitaru	gitara	N	Ncfsa	_	19	Obj	_	_
 21	,	,	Z	Z	_	22	Punc	_	_
 22	jer	jer	C	Cs	_	19	Sub	_	_
-23	je	biti	V	Vcr3s	_	24	Aux	_	_
+23	je	biti	V	Var3s	_	24	Aux	_	_
 24	hteo	hteti	V	Vmp-sm	_	22	Pred	_	_
 25	da	da	C	Cs	_	26	Oth	_	_
 26	odustane	odustati	V	Vmr3s	_	24	Atv	_	_
@@ -1362,7 +1362,7 @@
 29	.	.	Z	Z	_	0	Punc	_	_
 
 1	Metak	metak	N	Ncmsn	_	2	Sb	_	_
-2	je	biti	V	Vcr3s	_	0	Pred	_	_
+2	je	biti	V	Var3s	_	0	Pred	_	_
 3	sastavni	sastavan	A	Agpmsn	_	4	Atr	_	_
 4	dio	dio	N	Ncmsn	_	2	Pnom	_	_
 5	svakog	svaki	P	Pi-nsg--n-a	_	7	Atr	_	_
@@ -1371,7 +1371,7 @@
 8	.	.	Z	Z	_	0	Punc	_	_
 
 1	Slovo	slovo	N	Ncnsn	_	2	Sb	_	_
-2	je	biti	V	Vcr3s	_	0	Pred	_	_
+2	je	biti	V	Var3s	_	0	Pred	_	_
 3	najmanja	mal	A	Agsfsn	_	4	Atr	_	_
 4	jedinica	jedinica	N	Ncfsn	_	2	Pnom	_	_
 5	zapisa	zapis	N	Ncmsg	_	4	Atr	_	_
@@ -1391,7 +1391,7 @@
 5	spoljni	spoljan	A	Agpmsan	_	6	Atr	_	_
 6	svet	svet	A	Ncmsan	_	4	Obj	_	_
 7	u	u	S	Sl	_	3	Prep	_	_
-8	određenom	određen	A	Appmsl	_	9	Atr	_	_
+8	određenom	određen	A	Agpmsl	_	9	Atr	_	_
 9	stepenu	stepen	N	Ncmsl	_	7	Adv	_	_
 10	.	.	Z	Z	_	0	Punc	_	_
 
@@ -1419,7 +1419,7 @@
 22	.	.	Z	Z	_	0	Punc	_	_
 
 1	Grudi	grudi	N	Ncfpn	_	2	Sb	_	_
-2	su	biti	V	Vcr3p	_	0	Pred	_	_
+2	su	biti	V	Var3p	_	0	Pred	_	_
 3	genetski	genetski	R	Rgp	_	6	Adv	_	_
 4	apokrina	apokrin	A	Agpfsn	_	6	Atr	_	_
 5	kožna	kožan	A	Agpfsn	_	6	Atr	_	_
@@ -1467,14 +1467,14 @@
 19	2008	2008	M	Md	_	18	Atr	_	_
 20	.	.	Z	Z	_	19	Punc	_	_
 21	jednostrano	jednostrano	R	Rgp	_	23	Adv	_	_
-22	su	biti	V	Vcr3p	_	23	Aux	_	_
+22	su	biti	V	Var3p	_	23	Aux	_	_
 23	proglasile	proglasiti	V	Vmp-pf	_	0	Pred	_	_
 24	nezavisnost	nezavisnost	N	Ncfsa	_	23	Obj	_	_
 25	,	,	Z	Z	_	26	Punc	_	_
 26	koju	koji	P	Pi-fsa--n-a	_	24	Sub	_	_
 27	Srbija	Srbija	N	Npfsn	_	28	Sb	_	_
 28	i	i	C	Cc	_	32	Co	_	_
-29	Ujedinjene	ujedinjen	A	Appfpn	_	30	Atr	_	_
+29	Ujedinjene	ujedinjen	A	Agpfpn	_	30	Atr	_	_
 30	nacije	nacija	N	Ncfpn	_	28	Sb	_	_
 31	ne	ne	Q	Qz	_	32	Aux	_	_
 32	priznaju	priznati	V	Vmr3p	_	26	Pred	_	_
@@ -1483,14 +1483,14 @@
 1	U	u	S	Sa	_	5	Prep	_	_
 2	to	taj	P	Pd-nsa--n-a	_	3	Atr	_	_
 3	vreme	vreme	N	Ncnsa	_	1	Adv	_	_
-4	su	biti	V	Vcr3p	_	5	Aux	_	_
+4	su	biti	V	Var3p	_	5	Aux	_	_
 5	izlazile	izlaziti	V	Vmp-pf	_	0	Pred	_	_
 6	omladinske	omladinski	A	Agpfpn	_	7	Atr	_	_
 7	novine	novina	N	Ncfpn	_	8	Ap	_	_
 8	Polet	Polet	N	Npmsn	_	5	Sb	_	_
 9	,	,	Z	Z	_	17	Punc	_	_
 10	koje	koji	P	Pi-fpn--n-a	_	17	Sub	_	_
-11	su	biti	V	Vcr3p	_	12	Aux	_	_
+11	su	biti	V	Var3p	_	12	Aux	_	_
 12	pratila	pratiti	V	Vmp-pn	_	10	Pred	_	_
 13	alternativna	alternativan	A	Agpnpa	_	15	Atr	_	_
 14	rok	rok	A	Agpnpa	_	15	Atr	_	_
@@ -1498,7 +1498,7 @@
 16	,	,	Z	Z	_	17	Punc	_	_
 17	i	i	C	Cc	_	8	Co	_	_
 18	koja	koji	P	Pi-npn--n-a	_	17	Sub	_	_
-19	su	biti	V	Vcr3p	_	20	Aux	_	_
+19	su	biti	V	Var3p	_	20	Aux	_	_
 20	pomogla	pomoći	V	Vmp-pn	_	18	Pred	_	_
 21	proboju	proboj	N	Ncmsd	_	20	Obj	_	_
 22	Azre	Azra	N	Npfsg	_	21	Atr	_	_
@@ -1533,7 +1533,7 @@
 
 1	Crno	crn	A	Agpnsn	_	2	Atr	_	_
 2	more	more	N	Ncnsn	_	4	Sb	_	_
-3	je	biti	V	Vcr3s	_	4	Aux	_	_
+3	je	biti	V	Var3s	_	4	Aux	_	_
 4	dobilo	dobiti	V	Vmp-sn	_	9	Pred	_	_
 5	ime	ime	N	Ncnsa	_	4	Obj	_	_
 6	po	po	S	Sl	_	4	Prep	_	_
@@ -1543,8 +1543,8 @@
 10	prema	prema	S	Sl	_	14	Prep	_	_
 11	drugoj	drugi	A	Agpfsl	_	12	Atr	_	_
 12	verziji	verzija	N	Ncfsl	_	10	Obj	_	_
-13	nazvano	nazvan	A	Appnsn	_	14	Pnom	_	_
-14	je	biti	V	Vcr3s	_	9	Pred	_	_
+13	nazvano	nazvati	A	Appnsn	_	14	Pnom	_	_
+14	je	biti	V	Var3s	_	9	Pred	_	_
 15	"	"	Z	Z	_	16	Punc	_	_
 16	crnim	crn	A	Agpnsi	_	14	Atv	_	_
 17	"	"	Z	Z	_	16	Punc	_	_
@@ -1587,13 +1587,13 @@
 13	.	.	Z	Z	_	0	Punc	_	_
 
 1	Profesor	profesor	N	Ncmsn	_	2	Sb	_	_
-2	je	biti	V	Vcr3s	_	0	Pred	_	_
+2	je	biti	V	Var3s	_	0	Pred	_	_
 3	osoba	osoba	N	Ncfsn	_	2	Pnom	_	_
 4	koja	koji	P	Pi-fsn--n-a	_	3	Sub	_	_
 5	se	sebe	P	Px--sa--ypn	_	6	Aux	_	_
 6	bavi	baviti	V	Vmr3s	_	4	Pred	_	_
 7	predavanjem	predavanje	N	Ncnsi	_	6	Obj	_	_
-8	određenog	određen	A	Appmsg	_	9	Atr	_	_
+8	određenog	određen	A	Agpmsg	_	9	Atr	_	_
 9	predmeta	predmet	N	Ncmsg	_	7	Atr	_	_
 10	u	u	S	Sl	_	15	Prep	_	_
 11	srednjoj	srednji	A	Agpfsl	_	12	Atr	_	_
@@ -1606,7 +1606,7 @@
 18	.	.	Z	Z	_	0	Punc	_	_
 
 1	Takođe	takođe	R	Rgp	_	2	Adv	_	_
-2	je	biti	V	Vcr3s	_	0	Pred	_	_
+2	je	biti	V	Var3s	_	0	Pred	_	_
 3	zvaničan	zvaničan	A	Agpmsn	_	4	Atr	_	_
 4	kandidat	kandidat	N	Ncmsn	_	10	Pnom	_	_
 5	za	za	S	Sa	_	4	Prep	_	_
@@ -1621,7 +1621,7 @@
 14	.	.	Z	Z	_	0	Punc	_	_
 
 1	Škola	škola	N	Ncfsn	_	2	Sb	_	_
-2	je	biti	V	Vcr3s	_	0	Pred	_	_
+2	je	biti	V	Var3s	_	0	Pred	_	_
 3	obrazovno-vaspitna	obrazovno-vaspitan	A	Agpfsn	_	4	Atr	_	_
 4	ustanova	ustanova	N	Ncfsn	_	2	Pnom	_	_
 5	u	u	S	Sl	_	4	Prep	_	_
@@ -1634,7 +1634,7 @@
 12	,	,	Z	Z	_	13	Punc	_	_
 13	po	po	S	Sl	_	20	Prep	_	_
 14	unapred	unapred	R	Rgp	_	15	Adv	_	_
-15	utvrđenom	utvrđen	A	Appmsl	_	16	Atr	_	_
+15	utvrđenom	utvrditi	A	Appmsl	_	16	Atr	_	_
 16	planu	plan	N	Ncmsl	_	17	Adv	_	_
 17	i	i	C	Cc	_	13	Co	_	_
 18	programu	program	N	Ncmsl	_	17	Adv	_	_
@@ -1757,7 +1757,7 @@
 1	Testovi	test	N	Ncmpn	_	2	Sb	_	_
 2	ukazuju	ukazivati	V	Vmr3p	_	0	Pred	_	_
 3	da	da	C	Cs	_	2	Pred	_	_
-4	je	biti	V	Vcr3s	_	12	Pred	_	_
+4	je	biti	V	Var3s	_	12	Pred	_	_
 5	mačji	mačji	A	Agpmsn	_	7	Atr	_	_
 6	noćni	noćni	A	Agpmsn	_	7	Atr	_	_
 7	vid	vid	N	Ncmsn	_	4	Sb	_	_
@@ -1781,8 +1781,8 @@
 9	ali	ali	C	Cc	_	0	Co	_	_
 10	takođe	takođe	R	Rgp	_	11	Adv	_	_
 11	može	moći	V	Vmr3s	_	9	Pred	_	_
-12	biti	biti	V	Vcn	_	11	Atv	_	_
-13	povezano	povezan	A	Appnsn	_	12	Pnom	_	_
+12	biti	biti	V	Van	_	11	Atv	_	_
+13	povezano	povezan	A	Agpnsn	_	12	Pnom	_	_
 14	i	i	C	Cc	_	15	Oth	_	_
 15	sa	s	S	Si	_	12	Prep	_	_
 16	građom	građa	N	Ncfsi	_	15	Obj	_	_
@@ -1791,9 +1791,9 @@
 
 1	Republika	republika	N	Ncfsn	_	2	Ap	_	_
 2	Srbija	Srbija	N	Npfsn	_	3	Sb	_	_
-3	je	biti	V	Vcr3s	_	0	Pred	_	_
+3	je	biti	V	Var3s	_	0	Pred	_	_
 4	član	član	N	Ncmsn	_	3	Pnom	_	_
-5	Ujedinjenih	ujedinjen	A	Appfpg	_	6	Atr	_	_
+5	Ujedinjenih	ujedinjen	A	Agpfpg	_	6	Atr	_	_
 6	Nacija	nacija	N	Ncfpg	_	21	Atr	_	_
 7	,	,	Z	Z	_	21	Punc	_	_
 8	Saveta	savet	N	Ncmsg	_	21	Atr	_	_
@@ -1831,8 +1831,8 @@
 12	,	,	Z	Z	_	13	Punc	_	_
 13	po	po	S	Sl	_	8	Prep	_	_
 14	kojoj	koji	P	Pi-fsl--n-a	_	13	Sub	_	_
-15	je	biti	V	Vcr3s	_	14	Pred	_	_
-16	nazvan	nazvan	A	Appmsn	_	15	Pnom	_	_
+15	je	biti	V	Var3s	_	14	Pred	_	_
+16	nazvan	nazvati	A	Appmsn	_	15	Pnom	_	_
 17	čitav	čitav	A	Agpmsn	_	18	Atr	_	_
 18	rod	rod	N	Ncmsn	_	15	Sb	_	_
 19	sisara	sisar	N	Ncmpg	_	18	Atr	_	_
@@ -1843,8 +1843,8 @@
 3	za	za	S	Sa	_	2	Prep	_	_
 4	aritmetičke	aritmetički	A	Agpfpa	_	5	Atr	_	_
 5	operacije	operacija	N	Ncfpa	_	3	Atr	_	_
-6	su	biti	V	Vcr3p	_	11	Pred	_	_
-7	definisana	definisan	A	Appnpn	_	6	Pnom	_	_
+6	su	biti	V	Var3p	_	11	Pred	_	_
+7	definisana	definisan	A	Agpnpn	_	6	Pnom	_	_
 8	u	u	S	Sl	_	6	Prep	_	_
 9	osnovnoj	osnovan	A	Agpfsl	_	10	Atr	_	_
 10	algebri	algebra	N	Ncfsl	_	8	Adv	_	_
@@ -1862,8 +1862,8 @@
 
 1	Crveno	crven	A	Agpnsn	_	2	Atr	_	_
 2	more	more	N	Ncnsn	_	3	Sb	_	_
-3	je	biti	V	Vcr3s	_	0	Pred	_	_
-4	nazvano	nazvan	A	Appnsn	_	3	Pnom	_	_
+3	je	biti	V	Var3s	_	0	Pred	_	_
+4	nazvano	nazvati	A	Appnsn	_	3	Pnom	_	_
 5	po	po	S	Sl	_	13	Prep	_	_
 6	boji	boja	N	Ncfsl	_	5	Obj	_	_
 7	algi	alga	N	Ncfpg	_	6	Atr	_	_
@@ -1890,7 +1890,7 @@
 7	godine	godina	N	Ncfsg	_	11	Adv	_	_
 8	,	,	Z	Z	_	7	Punc	_	_
 9	Džoni	Džoni	N	Npmsn	_	11	Sb	_	_
-10	je	biti	V	Vcr3s	_	11	Aux	_	_
+10	je	biti	V	Var3s	_	11	Aux	_	_
 11	raspustio	raspustiti	V	Vmp-sm	_	21	Pred	_	_
 12	Azru	Azra	N	Npfsa	_	11	Obj	_	_
 13	(	(	Z	Z	_	15	Punc	_	_
@@ -1914,7 +1914,7 @@
 1	U	u	S	Sa	_	6	Prep	_	_
 2	današnje	današnji	A	Agpnsa	_	3	Atr	_	_
 3	vreme	vreme	N	Ncnsa	_	1	Adv	_	_
-4	bi	biti	V	Vca3s	_	6	Aux	_	_
+4	bi	biti	V	Vaa3s	_	6	Aux	_	_
 5	matematika	matematika	N	Ncfsn	_	6	Sb	_	_
 6	mogla	moći	V	Vmp-sf	_	0	Pred	_	_
 7	da	da	C	Cs	_	9	Oth	_	_
@@ -1955,7 +1955,7 @@
 42	.	.	Z	Z	_	0	Punc	_	_
 
 1	Stablo	stablo	N	Ncnsn	_	2	Sb	_	_
-2	je	biti	V	Vcr3s	_	0	Pred	_	_
+2	je	biti	V	Var3s	_	0	Pred	_	_
 3	osovinski	osovinski	A	Agpmsn	_	4	Atr	_	_
 4	deo	deo	N	Ncmsn	_	2	Pnom	_	_
 5	izdanka	izdanak	N	Ncmsg	_	4	Atr	_	_
@@ -1972,7 +1972,7 @@
 3	za	za	S	Sa	_	2	Prep	_	_
 4	rešavanje	rešavanje	N	Ncnsa	_	3	Atr	_	_
 5	jednačina	jednačina	N	Ncfpg	_	4	Atr	_	_
-6	je	biti	V	Vcr3s	_	7	Aux	_	_
+6	je	biti	V	Var3s	_	7	Aux	_	_
 7	dovelo	dovesti	V	Vmp-sn	_	0	Pred	_	_
 8	do	do	S	Sg	_	7	Prep	_	_
 9	razvoja	razvoj	N	Ncmsg	_	8	Obj	_	_
@@ -1996,7 +1996,7 @@
 27	.	.	Z	Z	_	0	Punc	_	_
 
 1	SZO	SZO	Y	Npfsn	_	2	Sb	_	_
-2	je	biti	V	Vcr3s	_	0	Pred	_	_
+2	je	biti	V	Var3s	_	0	Pred	_	_
 3	naslednica	naslednica	N	Ncfsn	_	2	Pnom	_	_
 4	Zdravstvene	zdravstven	A	Agpfsg	_	5	Atr	_	_
 5	organizacije	organizacija	N	Ncfsg	_	3	Atr	_	_
@@ -2012,7 +2012,7 @@
 15	.	.	Z	Z	_	0	Punc	_	_
 
 1	Tako	tako	R	Rgp	_	2	Adv	_	_
-2	je	biti	V	Vcr3s	_	10	Pred	_	_
+2	je	biti	V	Var3s	_	10	Pred	_	_
 3	sever	sever	N	Ncmsn	_	2	Sb	_	_
 4	crn	crn	A	Agpmsn	_	2	Pnom	_	_
 5	(	(	Z	Z	_	7	Punc	_	_
@@ -2038,7 +2038,7 @@
 7	naslednica	naslednica	N	Ncfsn	_	5	Atv	_	_
 8	SCG	SCG	Y	Npfsg	_	7	Atr	_	_
 9	postala	postati	V	Vmp-sf	_	0	Pred	_	_
-10	je	biti	V	Vcr3s	_	9	Aux	_	_
+10	je	biti	V	Var3s	_	9	Aux	_	_
 11	suverena	suveren	A	Agpfsn	_	12	Atr	_	_
 12	i	i	C	Cc	_	14	Co	_	_
 13	nezavisna	nezavisan	A	Agpfsn	_	12	Atr	_	_
