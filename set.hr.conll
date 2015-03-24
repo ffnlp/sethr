@@ -10533,7 +10533,7 @@
 28	ali	ali	C	Cs	_	0	Co	_	_
 29	im	oni	P	Pp3-pd--y-n	_	31	Obj	_	_
 30	nije	biti	V	Var3s-y	_	31	Aux	_	_
-31	navješteno	navijestiti	A	Appnsn	_	28	Pred	_	_
+31	naviješteno	navijestiti	A	Appnsn	_	28	Pred	_	_
 32	kada	kada	R	Rgp	_	31	Sub	_	_
 33	bi	biti	V	Vaa3p	_	34	Aux	_	_
 34	mogle	moći	V	Vmp-pf	_	32	Pred	_	_
@@ -12341,7 +12341,7 @@
 15	sektor	sektor	N	Ncmsan	_	11	Atr	_	_
 16	.	.	Z	Z	_	0	Punc	_	_
 
-1	Najobeshrabrujući	obeshrabrujući	A	Agsmsn	_	2	Pnom	_	_
+1	Najobeshrabrujućiji	obeshrabrujući	A	Agsmsn	_	2	Pnom	_	_
 2	je	biti	V	Var3s	_	0	Pred	_	_
 3	mali	mal	A	Agpmsn	_	4	Atr	_	_
 4	broj	broj	N	Ncmsn	_	11	Sb	_	_
@@ -16274,7 +16274,7 @@
 15	DPA	DPA	N	Npfsn	_	12	Atr	_	_
 16	)	)	Z	Z	_	15	Punc	_	_
 17	zaprijetili	zaprijetiti	V	Vmp-pm	_	8	Pred	_	_
-18	bojktom	bojkot	N	Ncmsi	_	17	Obj	_	_
+18	bojkotom	bojkot	N	Ncmsi	_	17	Obj	_	_
 19	vladinih	vladin	A	Aspfpg	_	20	Atr	_	_
 20	institucija	institucija	N	Ncfpg	_	18	Atr	_	_
 21	.	.	Z	Z	_	0	Punc	_	_
@@ -24380,7 +24380,7 @@
 8	godine	godina	N	Ncfsg	_	9	Adv	_	_
 9	zamijenit	zamijeniti	V	Vmn	_	0	Pred	_	_
 10	će	htjeti	V	Var3s	_	9	Aux	_	_
-11	Passya	Passy	N	Npmsay	_	9	Obj	_	_
+11	Passyja	Passy	N	Npmsay	_	9	Obj	_	_
 12	na	na	S	Sl	_	9	Prep	_	_
 13	mjestu	mjesto	N	Ncnsl	_	12	Obj	_	_
 14	CiO-a	CiO	N	Npmsg	_	13	Atr	_	_
@@ -29064,7 +29064,7 @@
 16	dužnosti	dužnost	N	Ncfpa	_	15	Obj	_	_
 17	.	.	Z	Z	_	0	Punc	_	_
 
-1	Međitim	međutim	C	Cs	_	12	Oth	_	_
+1	Međutim	međutim	C	Cs	_	12	Oth	_	_
 2	,	,	Z	Z	_	1	Punc	_	_
 3	utjecaj	utjecaj	N	Ncmsn	_	12	Sb	_	_
 4	mladih	mlad	A	Agpmpg	_	5	Atr	_	_
@@ -29729,7 +29729,7 @@
 15	seksualno	seksualan	A	Agpnsn	_	16	Atr	_	_
 16	uznemiravanje	uznemiravanje	N	Ncnsn	_	31	Sb	_	_
 17	,	,	Z	Z	_	31	Punc	_	_
-18	uvrjede	uvrjeda	N	Ncfpn	_	31	Sb	_	_
+18	uvrede	uvreda	N	Ncfpn	_	31	Sb	_	_
 19	koje	koji	P	Pi-fpn--n-a	_	18	Sub	_	_
 20	se	sebe	P	Px--sa--ypn	_	21	Aux	_	_
 21	odnose	odnositi	V	Vmr3p	_	19	Pred	_	_
@@ -43740,7 +43740,7 @@
 15	festival	festival	N	Ncmsn	_	10	Sb	_	_
 16	.	.	Z	Z	_	0	Punc	_	_
 
-1	Dvodevnu	dvodnevan	A	Agpfsa	_	2	Atr	_	_
+1	Dvodnevnu	dvodnevan	A	Agpfsa	_	2	Atr	_	_
 2	manifestaciju	manifestacija	N	Ncfsa	_	5	Obj	_	_
 3	zajedno	zajedno	R	Rgp	_	5	Adv	_	_
 4	su	biti	V	Var3p	_	5	Aux	_	_
@@ -55882,7 +55882,7 @@
 28	savjesti	savjest	N	Ncfsg	_	26	Adv	_	_
 29	.	.	Z	Z	_	0	Punc	_	_
 
-1	EPP	EFP	N	Npmsn	_	2	Sb	_	_
+1	EPP	EPP	N	Npmsn	_	2	Sb	_	_
 2	poziva	pozivati	V	Vmr3s	_	0	Pred	_	_
 3	na	na	S	Sa	_	2	Prep	_	_
 4	obnovu	obnova	N	Ncfsa	_	3	Obj	_	_
@@ -75376,7 +75376,7 @@
 6	kada	kada	R	Rgp	_	5	Sub	_	_
 7	su	biti	V	Var3p	_	10	Aux	_	_
 8	tijekom	tijekom	S	Sg	_	10	Prep	_	_
-9	devedestih	devedesete	N	Ncfpg	_	8	Adv	_	_
+9	devedesetih	devedesete	N	Ncfpg	_	8	Adv	_	_
 10	nosili	nositi	V	Vmp-pm	_	6	Pred	_	_
 11	devetoznamenkaste	devetoznamenkast	A	Agpfpa	_	12	Atr	_	_
 12	novčanice	novčanica	N	Ncfpa	_	10	Obj	_	_
@@ -85515,7 +85515,7 @@
 9	za	za	S	Sa	_	8	Prep	_	_
 10	"	"	Z	Z	_	12	Punc	_	_
 11	pakt	pakt	N	Ncmsan	_	12	Atr	_	_
-12	konkuretnosti	konkurentnost	N	Ncfsg	_	9	Atr	_	_
+12	konkurentnosti	konkurentnost	N	Ncfsg	_	9	Atr	_	_
 13	"	"	Z	Z	_	12	Punc	_	_
 14	kojeg	koji	P	Pi-msg--n-a	_	8	Sub	_	_
 15	su	biti	V	Var3p	_	19	Aux	_	_
@@ -86503,7 +86503,7 @@
 10	sa	s	S	Si	_	7	Prep	_	_
 11	svojim	svoj	P	Px-fpi--nsa	_	13	Atr	_	_
 12	uravnoteženim	uravnotežiti	A	Appfpi	_	13	Atr	_	_
-13	incijativama	incijativa	N	Ncfpi	_	14	Obj	_	_
+13	inicijativama	inicijativa	N	Ncfpi	_	14	Obj	_	_
 14	i	i	C	Cc	_	10	Co	_	_
 15	posredovanjem	posredovanje	N	Ncnsi	_	14	Obj	_	_
 16	.	.	Z	Z	_	0	Punc	_	_
