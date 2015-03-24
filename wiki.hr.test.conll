@@ -463,7 +463,7 @@
 9	,	,	Z	Z	_	12	Punc	_	_
 10	na	na	S	Sl	_	12	Prep	_	_
 11	moru	more	N	Ncnsl	_	10	Adv	_	_
-12	kaleći	kaliti	R	Rs	_	6	Atv	_	_
+12	kaleći	kaliti	R	Rr	_	6	Atv	_	_
 13	se	sebe	P	Px--sa--ypn	_	12	Aux	_	_
 14	u	u	S	Sl	_	12	Prep	_	_
 15	direktnim	direktan	A	Agpmpl	_	16	Atr	_	_
@@ -685,7 +685,7 @@
 15	definirane	definiran	A	Agpfpa	_	17	Atr	_	_
 16	apstraktne	apstraktan	A	Agpfpa	_	17	Atr	_	_
 17	strukture	struktura	N	Ncfpa	_	13	Obj	_	_
-18	koristeći	koristiti	R	Rs	_	13	Atv	_	_
+18	koristeći	koristiti	R	Rr	_	13	Atv	_	_
 19	matematičku	matematički	A	Agpfsa	_	20	Atr	_	_
 20	logiku	logika	N	Ncfsa	_	18	Obj	_	_
 21	.	.	Z	Z	_	0	Punc	_	_
@@ -810,7 +810,7 @@
 9	račun	račun	N	Ncmsan	_	8	Obj	_	_
 10	vezivnog	vezivni	A	Agpnsg	_	11	Atr	_	_
 11	tkiva	tkivo	N	Ncnsg	_	9	Atr	_	_
-12	zahvaljujući	zahvaljivati	R	Rs	_	5	Atv	_	_
+12	zahvaljujući	zahvaljivati	R	Rr	_	5	Atv	_	_
 13	djelovanju	djelovanje	N	Ncnsd	_	12	Obj	_	_
 14	estradiola	estradiol	N	Ncmsg	_	15	Atr	_	_
 15	i	i	C	Cc	_	13	Co	_	_

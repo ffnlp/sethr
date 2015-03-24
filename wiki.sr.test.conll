@@ -173,7 +173,7 @@
 14	obliku	oblik	N	Ncmsl	_	13	Adv	_	_
 15	proreza	prorez	N	Ncmsg	_	14	Atr	_	_
 16	,	,	Z	Z	_	17	Punc	_	_
-17	smanjujući	smanjivati	R	Rs	_	10	Atv	_	_
+17	smanjujući	smanjivati	R	Rr	_	10	Atv	_	_
 18	količinu	količina	N	Ncfsa	_	17	Obj	_	_
 19	svetlosti	svetlost	N	Ncfsg	_	18	Atr	_	_
 20	koja	koji	P	Pi-fsn--n-a	_	18	Sub	_	_

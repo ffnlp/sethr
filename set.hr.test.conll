@@ -959,7 +959,7 @@
 10	kampanju	kampanja	N	Ncfsa	_	7	Obj	_	_
 11	u	u	S	Sl	_	7	Prep	_	_
 12	Mitrovici	Mitrovica	N	Npfsl	_	11	Adv	_	_
-13	kazavši	kazati	R	Rp	_	7	Atv	_	_
+13	kazavši	kazati	R	Rs	_	7	Atv	_	_
 14	kako	kako	C	Cs	_	13	Sub	_	_
 15	taj	taj	P	Pd-msn--n-a	_	17	Atr	_	_
 16	podijeljeni	podijeliti	A	Appmsn	_	17	Atr	_	_
@@ -1213,7 +1213,7 @@
 16	sjevernom	sjeveran	A	Agpnsl	_	17	Atr	_	_
 17	Kosovu	Kosovo	N	Npnsl	_	15	Atr	_	_
 18	,	,	Z	Z	_	19	Punc	_	_
-19	tražeći	tražiti	R	Rs	_	7	Atv	_	_
+19	tražeći	tražiti	R	Rr	_	7	Atv	_	_
 20	da	da	C	Cs	_	19	Sub	_	_
 21	samo	samo	R	Rgp	_	22	Oth	_	_
 22	predstavnici	predstavnik	N	Ncmpn	_	25	Sb	_	_
@@ -1353,7 +1353,7 @@
 25	bilo	bilo	Q	Qo	_	26	Oth	_	_
 26	gdje	gdje	R	Rgp	_	24	Adv	_	_
 27	,	,	Z	Z	_	28	Punc	_	_
-28	uključujući	uključivati	R	Rs	_	20	Atv	_	_
+28	uključujući	uključivati	R	Rr	_	20	Atv	_	_
 29	masovan	masovan	A	Agpmsan	_	31	Atr	_	_
 30	pričuvni	pričuvan	A	Agpmsan	_	31	Atr	_	_
 31	sastav	sastav	N	Ncmsan	_	28	Obj	_	_
@@ -1827,7 +1827,7 @@
 23	ne	ne	Q	Qz	_	24	Aux	_	_
 24	trošiti	trošiti	V	Vmn	_	22	Atv	_	_
 25	energiju	energija	N	Ncfsa	_	24	Obj	_	_
-26	opravdavajući	opravdavati	R	Rs	_	24	Atv	_	_
+26	opravdavajući	opravdavati	R	Rr	_	24	Atv	_	_
 27	[	[	Z	Z	_	28	Punc	_	_
 28	sadašnji	sadašnji	A	Agpmsan	_	30	Atr	_	_
 29	]	]	Z	Z	_	28	Punc	_	_
@@ -2117,7 +2117,7 @@
 19	Dalmacije	Dalmacija	N	Npfsg	_	18	Atr	_	_
 20	.	.	Z	Z	_	0	Punc	_	_
 
-1	Tvrdeći	tvrditi	R	Rs	_	25	Atv	_	_
+1	Tvrdeći	tvrditi	R	Rr	_	25	Atv	_	_
 2	kako	kako	C	Cs	_	1	Sub	_	_
 3	slijede	slijediti	V	Vmr3p	_	2	Pred	_	_
 4	oblik	oblik	N	Ncmsan	_	3	Obj	_	_
