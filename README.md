@@ -15,6 +15,8 @@ On top of that, we also provide an [Universal Dependencies (UD)](http://universa
 3. the UD [POS tags](http://universaldependencies.github.io/docs/u/pos/all.html), including the [universal morphological features](http://universaldependencies.github.io/docs/u/feat/all.html), and 
 4. the UD [syntactic dependencies](http://universaldependencies.github.io/docs/u/dep/all.html).
 
+The UD annotation layer for Croatian is also available through the UD repositories.
+
 We encode the treebank using the [CONLL-U format](http://universaldependencies.github.io/docs/format.html) from the UD project. Note that columns 4 and 5 contain the coarse- and fine-grained MTE4 tags, while column 6 splits the fine-grained MTE4 tags into the corresponding attribute-value pairs. Columns 9 and 10 capture the Universal Dependencies layer of the treebank, i.e, the head:label syntactic pairs (column 9), and the universal POS tags and morphological features as attribute-value pairs (column 10).
 
 The treebank is split into training and test sets. The training sets are in Croatian, while the test sets are further split by language (Croatian, Serbian) and domain (newswire, Wikipedia), following Agić et al. ([2013a](http://www.aclweb.org/anthology/W/W13/W13-2408.pdf), [2013b](http://www.aclweb.org/anthology/W/W13/W13-4903.pdf)).
