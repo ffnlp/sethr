@@ -20,16 +20,16 @@ The treebank is split into training and test sets. The training sets are in Croa
 
 The training sets are packaged in two files:
 
-* set.hr.conll: Contains 3,757 training sentences (83,640 words) with both annotation layers available (SETimes.HR & UD). Note that this dataset is split in the Croatian UD dataset into 3,557 training and 200 development sentences.
-* web.hr.conll: Contains 2,223 sentences (49,077 words) from the Croatian web-based corpus described by [Klubička & Ljubešić (2014)](http://nl.ijs.si/isjt14/proceedings/isjt2014_10.pdf). Currently, this dataset does not include the UD annotation layer.
+* `set.hr.conll` contains 3,757 training sentences (83,640 words) with both annotation layers available (SETimes.HR & UD). Note that this dataset is split in the Croatian UD dataset into 3,557 training and 200 development sentences.
+* `web.hr.conll` contains 2,223 sentences (49,077 words) from the Croatian web-based corpus described by [Klubička & Ljubešić (2014)](http://nl.ijs.si/isjt14/proceedings/isjt2014_10.pdf). Currently, this dataset does not include the UD annotation layer.
 
 The training sets are split into five 100-sentence (~2,000-word) files:
 
-* set.hr.test.conll: the Croatian newswire test set
-* set.sr.test.conll -- the Croatian newswire test set
-* wiki.hr.test.conll -- the Croatian Wikipedia test set
-* wiki.sr.test.conll -- the Serbian Wikipedia test set
-* web.hr.test.conll -- the Croatian web-based test set
+* `set.hr.test.conll`, the Croatian newswire test set
+* `set.sr.test.conll`, the Croatian newswire test set
+* `wiki.hr.test.conll`, the Croatian Wikipedia test set
+* `wiki.sr.test.conll`, the Serbian Wikipedia test set
+* `web.hr.test.conll`, the Croatian web-based test set
 
 For the Croatian and Serbian newswire and Wikipedia test sets, both annotation layers are available, while for the Croatian web-based test set, only the SETimes.HR annotations are currently included.
 
