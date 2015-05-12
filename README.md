@@ -2,8 +2,7 @@
 
 The treebank is a result of an effort in providing [free-culture](http://creativecommons.org/freeworks) language resources for Croatian by the [NLP group at FF Zagreb](http://nlp.ffzg.hr).
 
-The dataset is available under the [CC-BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/).
-Please cite [Agić and Ljubešić (2014)](http://www.lrec-conf.org/proceedings/lrec2014/pdf/690_Paper.pdf) ([bib](http://aclweb.org/anthology/L/L14/L14-1542.bib)) when using this resource.
+The dataset is available under the [CC-BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/). Please cite [Agić and Ljubešić (2014)](http://www.lrec-conf.org/proceedings/lrec2014/pdf/690_Paper.pdf) ([bib](http://aclweb.org/anthology/L/L14/L14-1542.bib)) when using this resource.
 
 There are currently 6,477 sentences (143,234 words) in the collection. All are manually split and tokenized, and then manually annotated for:
 
