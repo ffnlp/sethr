@@ -2,7 +2,7 @@
 
 The treebank is a result of an effort in providing [free-culture](http://creativecommons.org/freeworks) language resources for Croatian by the [NLP group at FF Zagreb](http://nlp.ffzg.hr).
 
-The dataset is available under the [CC-BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/). Please cite [Agić and Ljubešić (2014)](http://www.lrec-conf.org/proceedings/lrec2014/pdf/690_Paper.pdf) when using this resource.
+The dataset is available under the [CC-BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/). Please cite [Agić and Ljubešić (2014)](http://www.lrec-conf.org/proceedings/lrec2014/pdf/690_Paper.pdf) ([bib](http://aclweb.org/anthology/L/L14/L14-1542.bib)) when using this resource.
 
 There are currently 6,477 sentences in the collection. All are split and tokenized, and manually annotated for:
 
@@ -25,11 +25,8 @@ The training sets are packaged in two files:
 
 The training sets are split into five 100-sentence (~2,000-word) files:
 
-* `set.hr.test.conll`, the Croatian newswire test set
-* `set.sr.test.conll`, the Croatian newswire test set
-* `wiki.hr.test.conll`, the Croatian Wikipedia test set
-* `wiki.sr.test.conll`, the Serbian Wikipedia test set
-* `web.hr.test.conll`, the Croatian web-based test set
+* `{set|wiki}.{hr|sr}.test.conll` are the Croatian and Serbian newswire and Wikipedia test sets, and
+* `web.hr.test.conll` is the Croatian web-based test set.
 
 For the Croatian and Serbian newswire and Wikipedia test sets, both annotation layers are available, while for the Croatian web-based test set, only the SETimes.HR annotations are currently included.
 
