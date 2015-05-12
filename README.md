@@ -7,7 +7,7 @@ The dataset is available under the [CC-BY-SA 4.0 license](https://creativecommon
 There are currently 6,477 sentences (143,234 words) in the collection. All are manually split and tokenized, and then manually annotated for:
 
 1. parts of speech and morphological features in the [Multext East v4 (MTE4)](http://nlp.ffzg.hr/data/tagging/msd-hr.html) style, and for 
-2. syntactic dependencies following a simplified [PDT](https://ufal.mff.cuni.cz/pdt3.0)-motivated scheme [(Agić & Merkler 2013)](http://link.springer.com/chapter/10.1007/978-3-642-40585-3_70).
+2. syntactic dependencies following a simplified [PDT](https://ufal.mff.cuni.cz/pdt3.0)-motivated scheme [(Agić & Merkler 2013)](http://link.springer.com/chapter/10.1007/978-3-642-40585-3_70), referred to as the SETimes.HR scheme.
 
 On top of that, we also provide an [Universal Dependencies (UD)](http://universaldependencies.github.io/docs/) annotation layer for a large part of the treebank. This layer contains:
 
