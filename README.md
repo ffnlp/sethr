@@ -1,4 +1,4 @@
-## The SETimes.HR+ Croatian dependency treebank
+## The <span style="font-variant: small-caps">SETimes.HR+</span> Croatian dependency treebank
 
 The treebank is a result of an effort in providing [free-culture](http://creativecommons.org/freeworks) language resources for Croatian by the [NLP group at FF Zagreb](http://nlp.ffzg.hr).
 
