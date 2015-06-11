@@ -17,7 +17,7 @@
 17	ljudskim	ljudski	A	Agpmpl	Case=locative|Degree=positive|Gender=masculine|Number=plural|Type=general	18	Atr	18:amod	UposTag=ADJ|Case=Loc|Degree=Pos|Gender=Masc|Number=Plur
 18	jezicima	jezik	N	Ncmpl	Case=locative|Gender=masculine|Number=plural|Type=common	16	Adv	28:nmod	UposTag=NOUN|Case=Loc|Gender=Masc|Number=Plur
 19	,	,	Z	Z	_	20	Punc	21:punct	UposTag=PUNCT
-20	sa	s	S	Si	Case=instrumental	28	Prep	21:case	UposTag=ADP|Case=Ins
+20	sa	sa	S	Si	Case=instrumental	28	Prep	21:case	UposTag=ADP|Case=Ins
 21	izuzetkom	izuzetak	N	Ncmsi	Case=instrumental|Gender=masculine|Number=singular|Type=common	20	Obj	28:nmod	UposTag=NOUN|Case=Ins|Gender=Masc|Number=Sing
 22	nekih	neki	P	Pi-mpg--n-a	Case=genitive|Clitic=no|Gender=masculine|Number=plural|Syntactic_Type=adjectival|Type=indefinite	21	Elp	21:nmod	UposTag=PRON|Case=Gen|Gender=Masc|Number=Plur|PronType=Ind
 23	poput	poput	S	Sg	Case=genitive	24	Oth	24:case	UposTag=ADP|Case=Gen
@@ -62,7 +62,7 @@
 12	deo	deo	N	Ncmsn	Case=nominative|Gender=masculine|Number=singular|Type=common	10	Pnom	9:conj	UposTag=NOUN|Case=Nom|Gender=Masc|Number=Sing
 13	zajedničke	zajednički	A	Agpfsg	Case=genitive|Degree=positive|Gender=feminine|Number=singular|Type=general	14	Atr	14:amod	UposTag=ADJ|Case=Gen|Degree=Pos|Gender=Fem|Number=Sing
 14	države	država	N	Ncfsg	Case=genitive|Gender=feminine|Number=singular|Type=common	12	Atr	12:nmod	UposTag=NOUN|Case=Gen|Gender=Fem|Number=Sing
-15	sa	s	S	Si	Case=instrumental	8	Prep	16:case	UposTag=ADP|Case=Ins
+15	sa	sa	S	Si	Case=instrumental	8	Prep	16:case	UposTag=ADP|Case=Ins
 16	većinom	većina	N	Ncfsi	Case=instrumental|Gender=feminine|Number=singular|Type=common	15	Obj	12:nmod	UposTag=NOUN|Case=Ins|Gender=Fem|Number=Sing
 17	balkanskih	balkanski	A	Agpmpg	Case=genitive|Degree=positive|Gender=masculine|Number=plural|Type=general	19	Atr	19:amod	UposTag=ADJ|Case=Gen|Degree=Pos|Gender=Masc|Number=Plur
 18	Južnih	južan	A	Agpmpg	Case=genitive|Degree=positive|Gender=masculine|Number=plural|Type=general	19	Atr	19:amod	UposTag=ADJ|Case=Gen|Degree=Pos|Gender=Masc|Number=Plur
@@ -195,19 +195,19 @@
 11	figura	figura	N	Ncfpg	Case=genitive|Gender=feminine|Number=plural|Type=common	10	Atr	10:nmod	UposTag=NOUN|Case=Gen|Gender=Fem|Number=Plur
 12	i	i	C	Cc	Type=coordinating	9	Co	10:cc	UposTag=CONJ
 13	računanjem	računanje	N	Ncnsi	Case=instrumental|Gender=neuter|Number=singular|Type=common	12	Adv	10:conj	UposTag=NOUN|Case=Ins|Gender=Neut|Number=Sing
-14	s	s	S	Si	Case=instrumental	13	Prep	15:case	UposTag=ADP|Case=Ins
+14	s	sa	S	Si	Case=instrumental	13	Prep	15:case	UposTag=ADP|Case=Ins
 15	brojevima	broj	N	Ncmpi	Case=instrumental|Gender=masculine|Number=plural|Type=common	14	Atr	13:nmod	UposTag=NOUN|Case=Ins|Gender=Masc|Number=Plur
 16	.	.	Z	Z	_	0	Punc	6:punct	UposTag=PUNCT
 
 1	Izučavanje	izučavanje	N	Ncnsn	Case=nominative|Gender=neuter|Number=singular|Type=common	3	Sb	3:nsubj	UposTag=NOUN|Case=Nom|Gender=Neut|Number=Sing
 2	strukture	struktura	N	Ncfsg	Case=genitive|Gender=feminine|Number=singular|Type=common	1	Atr	1:nmod	UposTag=NOUN|Case=Gen|Gender=Fem|Number=Sing
 3	počinje	počinjati	V	Vmr3s	Number=singular|Person=third|Type=main|VForm=present	0	Pred	0:root	UposTag=VERB|Number=Sing|Person=3|Tense=Pres
-4	sa	s	S	Si	Case=instrumental	3	Prep	5:case	UposTag=ADP|Case=Ins
+4	sa	sa	S	Si	Case=instrumental	3	Prep	5:case	UposTag=ADP|Case=Ins
 5	brojevima	broj	N	Ncmpi	Case=instrumental|Gender=masculine|Number=plural|Type=common	4	Obj	3:nmod	UposTag=NOUN|Case=Ins|Gender=Masc|Number=Plur
 6	,	,	Z	Z	_	7	Punc	11:punct	UposTag=PUNCT
 7	u	u	S	Sl	Case=locative	3	Prep	8:case	UposTag=ADP|Case=Loc
 8	početku	početak	N	Ncmsl	Case=locative|Gender=masculine|Number=singular|Type=common	7	Adv	11:nmod	UposTag=NOUN|Case=Loc|Gender=Masc|Number=Sing
-9	sa	s	S	Si	Case=instrumental	8	Prep	11:case	UposTag=ADP|Case=Ins
+9	sa	sa	S	Si	Case=instrumental	8	Prep	11:case	UposTag=ADP|Case=Ins
 10	prirodnim	prirodan	A	Agpmpi	Case=instrumental|Degree=positive|Gender=masculine|Number=plural|Type=general	11	Atr	11:amod	UposTag=ADJ|Case=Ins|Degree=Pos|Gender=Masc|Number=Plur
 11	brojevima	broj	N	Ncmpi	Case=instrumental|Gender=masculine|Number=plural|Type=common	12	Obj	3:nmod	UposTag=NOUN|Case=Ins|Gender=Masc|Number=Plur
 12	i	i	C	Cc	Type=coordinating	9	Co	11:cc	UposTag=CONJ
@@ -342,7 +342,7 @@
 
 1	Deo	deo	N	Ncmsn	Case=nominative|Gender=masculine|Number=singular|Type=common	7	Sb	7:nsubj	UposTag=NOUN|Case=Nom|Gender=Masc|Number=Sing
 2	stabla	stablo	N	Ncnsg	Case=genitive|Gender=neuter|Number=singular|Type=common	1	Atr	1:nmod	UposTag=NOUN|Case=Gen|Gender=Neut|Number=Sing
-3	sa	s	S	Sg	Case=genitive	1	Prep	4:case	UposTag=ADP|Case=Gen
+3	sa	sa	S	Sg	Case=genitive	1	Prep	4:case	UposTag=ADP|Case=Gen
 4	koga	koji	P	Pi-msg--n-a	Case=genitive|Clitic=no|Gender=masculine|Number=singular|Syntactic_Type=adjectival|Type=indefinite	3	Sub	5:mark	UposTag=PRON|Case=Gen|Gender=Masc|Number=Sing|PronType=Ind
 5	polaze	polaziti	V	Vmr3p	Number=plural|Person=third|Type=main|VForm=present	4	Pred	1:acl	UposTag=VERB|Number=Plur|Person=3|Tense=Pres
 6	listovi	list	N	Ncmpn	Case=nominative|Gender=masculine|Number=plural|Type=common	5	Sb	5:nsubj	UposTag=NOUN|Case=Nom|Gender=Masc|Number=Plur
@@ -564,7 +564,7 @@
 29	dovesti	dovesti	V	Vmn	Type=main|VForm=infinitive	28	Atv	28:xcomp	UposTag=VERB|VerbForm=Inf
 30	u	u	S	Sa	Case=accusative	29	Prep	31:case	UposTag=ADP|Case=Acc
 31	vezu	veza	N	Ncfsa	Case=accusative|Gender=feminine|Number=singular|Type=common	30	Adv	29:nmod	UposTag=NOUN|Case=Acc|Gender=Fem|Number=Sing
-32	sa	s	S	Si	Case=instrumental	31	Prep	34:case	UposTag=ADP|Case=Ins
+32	sa	sa	S	Si	Case=instrumental	31	Prep	34:case	UposTag=ADP|Case=Ins
 33	grubom	grub	A	Agpfsi	Case=instrumental|Degree=positive|Gender=feminine|Number=singular|Type=general	34	Atr	34:amod	UposTag=ADJ|Case=Ins|Degree=Pos|Gender=Fem|Number=Sing
 34	podelom	podela	N	Ncfsi	Case=instrumental|Gender=feminine|Number=singular|Type=common	32	Atr	31:nmod	UposTag=NOUN|Case=Ins|Gender=Fem|Number=Sing
 35	matematike	matematika	N	Ncfsg	Case=genitive|Gender=feminine|Number=singular|Type=common	34	Atr	34:nmod	UposTag=NOUN|Case=Gen|Gender=Fem|Number=Sing
@@ -728,7 +728,7 @@
 1	Kasnije	kasno	R	Rgc	Degree=comparative|Type=general	7	Adv	7:advmod	UposTag=ADV|Degree=Cmp
 2	,	,	Z	Z	_	1	Punc	1:punct	UposTag=PUNCT
 3	sudari	sudar	N	Ncmpn	Case=nominative|Gender=masculine|Number=plural|Type=common	7	Sb	7:nsubj	UposTag=NOUN|Case=Nom|Gender=Masc|Number=Plur
-4	sa	s	S	Si	Case=instrumental	3	Prep	5:case	UposTag=ADP|Case=Ins
+4	sa	sa	S	Si	Case=instrumental	3	Prep	5:case	UposTag=ADP|Case=Ins
 5	asteroidima	asteroid	N	Ncmpi	Case=instrumental|Gender=masculine|Number=plural|Type=common	4	Atr	3:nmod	UposTag=NOUN|Case=Ins|Gender=Masc|Number=Plur
 6	su	biti	V	Var3p	Number=plural|Person=third|Type=auxiliary|VForm=present	7	Aux	7:aux	UposTag=AUX|Number=Plur|Person=3|Tense=Pres
 7	prouzrokovali	prouzrokovati	V	Vmp-pm	Gender=masculine|Number=plural|Type=main|VForm=participle	0	Pred	0:root	UposTag=VERB|Gender=Masc|Number=Plur|VerbForm=Part
@@ -883,7 +883,7 @@
 9	.	.	Z	Z	_	0	Punc	7:punct	UposTag=PUNCT
 
 1	Stablo	stablo	N	Ncnsn	Case=nominative|Gender=neuter|Number=singular|Type=common	4	Sb	4:nsubj	UposTag=NOUN|Case=Nom|Gender=Neut|Number=Sing
-2	sa	s	S	Si	Case=instrumental	1	Prep	3:case	UposTag=ADP|Case=Ins
+2	sa	sa	S	Si	Case=instrumental	1	Prep	3:case	UposTag=ADP|Case=Ins
 3	listovima	list	N	Ncmpi	Case=instrumental|Gender=masculine|Number=plural|Type=common	2	Atr	1:nmod	UposTag=NOUN|Case=Ins|Gender=Masc|Number=Plur
 4	naziva	nazivati	V	Vmr3s	Number=singular|Person=third|Type=main|VForm=present	0	Pred	0:root	UposTag=VERB|Number=Sing|Person=3|Tense=Pres
 5	se	sebe	P	Px--sa--ypn	Case=accusative|Clitic=yes|Number=singular|Referent_Type=personal|Syntactic_Type=nominal|Type=reflexive	4	Aux	4:compound	UposTag=PRON|Case=Acc|Number=Sing|Reflex=Yes
@@ -995,28 +995,28 @@
 3	na	na	S	Sl	Case=locative	5	Prep	4:case	UposTag=ADP|Case=Loc
 4	severu	sever	N	Ncmsl	Case=locative|Gender=masculine|Number=singular|Type=common	3	Adv	5:nmod	UposTag=NOUN|Case=Loc|Gender=Masc|Number=Sing
 5	graniči	graničiti	V	Vmr3s	Number=singular|Person=third|Type=main|VForm=present	32	Pred	0:root	UposTag=VERB|Number=Sing|Person=3|Tense=Pres
-6	sa	s	S	Si	Case=instrumental	5	Prep	7:case	UposTag=ADP|Case=Ins
+6	sa	sa	S	Si	Case=instrumental	5	Prep	7:case	UposTag=ADP|Case=Ins
 7	Mađarskom	Mađarska	N	Npfsi	Case=instrumental|Gender=feminine|Number=singular|Type=proper	6	Obj	5:nmod	UposTag=PROPN|Case=Ins|Gender=Fem|Number=Sing
 8	,	,	Z	Z	_	32	Punc	5:punct	UposTag=PUNCT
 9	na	na	S	Sl	Case=locative	32	Prep	10:case	UposTag=ADP|Case=Loc
 10	severoistoku	severoistok	N	Ncmsl	Case=locative|Gender=masculine|Number=singular|Type=common	9	Elp	4:remnant	UposTag=NOUN|Case=Loc|Gender=Masc|Number=Sing
-11	sa	s	S	Si	Case=instrumental	32	Prep	12:case	UposTag=ADP|Case=Ins
+11	sa	sa	S	Si	Case=instrumental	32	Prep	12:case	UposTag=ADP|Case=Ins
 12	Rumunijom	Rumunija	N	Npfsi	Case=instrumental|Gender=feminine|Number=singular|Type=proper	11	Elp	7:remnant	UposTag=PROPN|Case=Ins|Gender=Fem|Number=Sing
 13	,	,	Z	Z	_	32	Punc	5:punct	UposTag=PUNCT
 14	na	na	S	Sl	Case=locative	32	Prep	15:case	UposTag=ADP|Case=Loc
 15	istoku	istok	N	Ncmsl	Case=locative|Gender=masculine|Number=singular|Type=common	14	Elp	10:remnant	UposTag=NOUN|Case=Loc|Gender=Masc|Number=Sing
-16	sa	s	S	Si	Case=instrumental	32	Prep	17:case	UposTag=ADP|Case=Ins
+16	sa	sa	S	Si	Case=instrumental	32	Prep	17:case	UposTag=ADP|Case=Ins
 17	Bugarskom	Bugarska	N	Npfsi	Case=instrumental|Gender=feminine|Number=singular|Type=proper	16	Elp	12:remnant	UposTag=PROPN|Case=Ins|Gender=Fem|Number=Sing
 18	,	,	Z	Z	_	32	Punc	5:punct	UposTag=PUNCT
 19	na	na	S	Sl	Case=locative	32	Prep	20:case	UposTag=ADP|Case=Loc
 20	jugu	jug	N	Ncmsl	Case=locative|Gender=masculine|Number=singular|Type=common	19	Elp	15:remnant	UposTag=NOUN|Case=Loc|Gender=Masc|Number=Sing
-21	sa	s	S	Si	Case=instrumental	32	Prep	22:case	UposTag=ADP|Case=Ins
+21	sa	sa	S	Si	Case=instrumental	32	Prep	22:case	UposTag=ADP|Case=Ins
 22	Republikom	republika	N	Ncfsi	Case=instrumental|Gender=feminine|Number=singular|Type=common	23	Ap	17:remnant	UposTag=NOUN|Case=Ins|Gender=Fem|Number=Sing
 23	Makedonijom	Makedonija	N	Npfsi	Case=instrumental|Gender=feminine|Number=singular|Type=proper	21	Elp	22:name	UposTag=PROPN|Case=Ins|Gender=Fem|Number=Sing
 24	,	,	Z	Z	_	32	Punc	5:punct	UposTag=PUNCT
 25	na	na	S	Sl	Case=locative	32	Prep	26:case	UposTag=ADP|Case=Loc
 26	jugozapadu	jugozapad	N	Ncmsl	Case=locative|Gender=masculine|Number=singular|Type=common	25	Elp	20:remnant	UposTag=NOUN|Case=Loc|Gender=Masc|Number=Sing
-27	sa	s	S	Si	Case=instrumental	32	Prep	28:case	UposTag=ADP|Case=Ins
+27	sa	sa	S	Si	Case=instrumental	32	Prep	28:case	UposTag=ADP|Case=Ins
 28	Albanijom	Albanija	N	Npfsi	Case=instrumental|Gender=feminine|Number=singular|Type=proper	29	Elp	22:remnant	UposTag=PROPN|Case=Ins|Gender=Fem|Number=Sing
 29	i	i	C	Cc	Type=coordinating	27	Co	28:cc	UposTag=CONJ
 30	Crnom	Crna	N	Npfsi	Case=instrumental|Gender=feminine|Number=singular|Type=proper	31	Atr	28:conj	UposTag=PROPN|Case=Ins|Gender=Fem|Number=Sing
@@ -1024,7 +1024,7 @@
 32	a	a	C	Cc	Type=coordinating	0	Co	5:cc	UposTag=CONJ
 33	na	na	S	Sl	Case=locative	32	Prep	34:case	UposTag=ADP|Case=Loc
 34	zapadu	zapad	N	Ncmsl	Case=locative|Gender=masculine|Number=singular|Type=common	33	Elp	26:remnant	UposTag=NOUN|Case=Loc|Gender=Masc|Number=Sing
-35	sa	s	S	Si	Case=instrumental	32	Prep	36:case	UposTag=ADP|Case=Ins
+35	sa	sa	S	Si	Case=instrumental	32	Prep	36:case	UposTag=ADP|Case=Ins
 36	Hrvatskom	Hrvatska	N	Npfsi	Case=instrumental|Gender=feminine|Number=singular|Type=proper	37	Elp	28:remnant	UposTag=PROPN|Case=Ins|Gender=Fem|Number=Sing
 37	i	i	C	Cc	Type=coordinating	35	Co	36:cc	UposTag=CONJ
 38	Bosnom	Bosna	N	Npfsi	Case=instrumental|Gender=feminine|Number=singular|Type=proper	39	Elp	36:conj	UposTag=PROPN|Case=Ins|Gender=Fem|Number=Sing
@@ -1036,7 +1036,7 @@
 44	)	)	Z	Z	_	42	Punc	42:punct	UposTag=PUNCT
 45	.	.	Z	Z	_	0	Punc	5:punct	UposTag=PUNCT
 
-1	Sa	s	S	Si	Case=instrumental	14	Prep	3:case	UposTag=ADP|Case=Ins
+1	Sa	sa	S	Si	Case=instrumental	14	Prep	3:case	UposTag=ADP|Case=Ins
 2	1639121	1639121	M	Md	Form=digit	3	Atr	3:nummod	UposTag=NUM
 3	stanovnika	stanovnik	N	Ncmpg	Case=genitive|Gender=masculine|Number=plural|Type=common	1	Obj	18:nmod	UposTag=NOUN|Case=Gen|Gender=Masc|Number=Plur
 4	u	u	S	Sl	Case=locative	3	Prep	6:case	UposTag=ADP|Case=Loc
@@ -1271,7 +1271,7 @@
 7	slaboj	slab	A	Agpfsl	Case=locative|Degree=positive|Gender=feminine|Number=singular|Type=general	8	Atr	8:amod	UposTag=ADJ|Case=Loc|Degree=Pos|Gender=Fem|Number=Sing
 8	svetlosti	svetlost	N	Ncfsl	Case=locative|Gender=feminine|Number=singular|Type=common	6	Adv	3:nmod	UposTag=NOUN|Case=Loc|Gender=Fem|Number=Sing
 9	,	,	Z	Z	_	1	Punc	3:punct	UposTag=PUNCT
-10	s	s	S	Sg	Case=genitive	13	Prep	12:case	UposTag=ADP|Case=Gen
+10	s	sa	S	Sg	Case=genitive	13	Prep	12:case	UposTag=ADP|Case=Gen
 11	druge	drugi	A	Agpfsg	Case=genitive|Degree=positive|Gender=feminine|Number=singular|Type=general	12	Atr	12:amod	UposTag=ADJ|Case=Gen|Degree=Pos|Gender=Fem|Number=Sing
 12	strane	strana	N	Ncfsg	Case=genitive|Gender=feminine|Number=singular|Type=common	10	Adv	13:nmod	UposTag=NOUN|Case=Gen|Gender=Fem|Number=Sing
 13	umanjuje	umanjivati	V	Vmr3s	Number=singular|Person=third|Type=main|VForm=present	0	Pred	0:root	UposTag=VERB|Number=Sing|Person=3|Tense=Pres
@@ -1562,7 +1562,7 @@
 5	Srbiji	Srbija	N	Npfsl	Case=locative|Gender=feminine|Number=singular|Type=proper	3	Adv	4:name	UposTag=PROPN|Case=Loc|Gender=Fem|Number=Sing
 6	obično	obično	R	Rgp	Degree=positive|Type=general	7	Adv	7:advmod	UposTag=ADV|Degree=Pos
 7	počinje	počinjati	V	Vmr3s	Number=singular|Person=third|Type=main|VForm=present	0	Pred	0:root	UposTag=VERB|Number=Sing|Person=3|Tense=Pres
-8	sa	s	S	Si	Case=instrumental	7	Prep	9:case	UposTag=ADP|Case=Ins
+8	sa	sa	S	Si	Case=instrumental	7	Prep	9:case	UposTag=ADP|Case=Ins
 9	pozicijom	pozicija	N	Ncfsi	Case=instrumental|Gender=feminine|Number=singular|Type=common	8	Obj	7:nmod	UposTag=NOUN|Case=Ins|Gender=Fem|Number=Sing
 10	"	"	Z	Z	_	11	Punc	11:punct	UposTag=PUNCT
 11	asistenta	asistent	N	Ncmsg	Case=genitive|Gender=masculine|Number=singular|Type=common	9	Atr	9:nmod	UposTag=NOUN|Case=Gen|Gender=Masc|Number=Sing
@@ -1767,7 +1767,7 @@
 12	biti	biti	V	Van	Type=auxiliary|VForm=infinitive	11	Atv	11:xcomp	UposTag=AUX|VerbForm=Inf
 13	povezano	povezan	A	Agpnsn	Case=nominative|Degree=positive|Gender=neuter|Number=singular|Type=general	12	Pnom	12:xcomp	UposTag=ADJ|Case=Nom|Degree=Pos|Gender=Neut|Number=Sing
 14	i	i	C	Cc	Type=coordinating	15	Oth	16:discourse	UposTag=CONJ
-15	sa	s	S	Si	Case=instrumental	12	Prep	16:case	UposTag=ADP|Case=Ins
+15	sa	sa	S	Si	Case=instrumental	12	Prep	16:case	UposTag=ADP|Case=Ins
 16	građom	građa	N	Ncfsi	Case=instrumental|Gender=feminine|Number=singular|Type=common	15	Obj	13:nmod	UposTag=NOUN|Case=Ins|Gender=Fem|Number=Sing
 17	oka	oko	N	Ncnsg	Case=genitive|Gender=neuter|Number=singular|Type=common	16	Atr	16:nmod	UposTag=NOUN|Case=Gen|Gender=Neut|Number=Sing
 18	.	.	Z	Z	_	0	Punc	4:punct	UposTag=PUNCT

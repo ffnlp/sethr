@@ -59,7 +59,7 @@
 15	reguliranu	reguliran	A	Agpfsa	_	16	Atr	_	_
 16	mikroklimu	mikroklima	N	Ncfsa	_	14	Obj	_	_
 17	prostorija	prostorija	N	Ncfpg	_	16	Atr	_	_
-18	s	s	S	Si	_	17	Prep	_	_
+18	s	sa	S	Si	_	17	Prep	_	_
 19	umjerenom	umjeren	A	Agpfsi	_	20	Atr	_	_
 20	vlagom	vlaga	N	Ncfsi	_	18	Atr	_	_
 21	u	u	S	Sl	_	20	Prep	_	_
@@ -197,7 +197,7 @@
 43	.	.	Z	Z	_	0	Punc	_	_
 
 1	Suradnja	suradnja	N	Ncfsn	_	4	Sb	_	_
-2	s	s	S	Si	_	1	Prep	_	_
+2	s	sa	S	Si	_	1	Prep	_	_
 3	Danskom	danska	N	Npfsi	_	2	Atr	_	_
 4	zauzima	zauzimati	V	Vmr3s	_	0	Pred	_	_
 5	posebno	poseban	A	Agpnsa	_	6	Atr	_	_
@@ -533,7 +533,7 @@
 5	usmjerene	usmjeriti	A	Appfpn	_	4	Atv	_	_
 6	na	na	S	Sa	_	5	Prep	_	_
 7	suradnju	suradnja	N	Ncfsa	_	6	Obj	_	_
-8	s	s	S	Si	_	7	Prep	_	_
+8	s	sa	S	Si	_	7	Prep	_	_
 9	osnovnim	osnovni	A	Agpfpi	_	10	Atr	_	_
 10	školama	škola	N	Ncfpi	_	8	Atr	_	_
 11	,	,	Z	Z	_	12	Punc	_	_
@@ -543,7 +543,7 @@
 15	uspostavljena	uspostaviti	A	Appfsn	_	12	Pred	_	_
 16	odlična	odličan	A	Agpfsn	_	17	Atr	_	_
 17	suradnja	suradnja	N	Ncfsn	_	15	Sb	_	_
-18	s	s	S	Si	_	17	Prep	_	_
+18	s	sa	S	Si	_	17	Prep	_	_
 19	Gradskom	gradsko	N	Npmsi	_	20	Atr	_	_
 20	knjižnicom	knjižnica	N	Npmsi	_	21	Ap	_	_
 21	Zadar	zadar	N	Npmsn	_	18	Obj	_	_
@@ -696,7 +696,7 @@
 5	uopće	uopće	R	Rgp	_	3	Adv	_	_
 6	u	u	S	Sl	_	3	Prep	_	_
 7	skladu	sklad	N	Ncmsl	_	6	Pnom	_	_
-8	sa	s	S	Si	_	7	Prep	_	_
+8	sa	sa	S	Si	_	7	Prep	_	_
 9	zakonima	zakon	N	Ncmpi	_	8	Atr	_	_
 10	i	i	C	Cc	_	0	Co	_	_
 11	pitanje	pitanje	N	Ncnsn	_	12	Pnom	_	_
@@ -1107,7 +1107,7 @@
 23	se	sebe	P	Px--sa--ypn	_	22	Aux	_	_
 24	te	te	C	Cc	_	3	Co	_	_
 25	razgovor	razgovor	N	Ncmsan	_	24	Sb	_	_
-26	sa	s	S	Si	_	25	Prep	_	_
+26	sa	sa	S	Si	_	25	Prep	_	_
 27	zatvorenicima	zatvorenik	N	Ncmpi	_	26	Atr	_	_
 28	o	o	S	Sl	_	34	Prep	_	_
 29	programima	program	N	Ncmpl	_	28	Atr	_	_
@@ -1213,7 +1213,7 @@
 8	mogu	moći	V	Vmr3p	_	6	Pred	_	_
 9	nabaviti	nabaviti	V	Vmn	_	8	Atv	_	_
 10	samo	samo	R	Rgp	_	11	Oth	_	_
-11	s	s	S	Si	_	9	Prep	_	_
+11	s	sa	S	Si	_	9	Prep	_	_
 12	kompjutorom	kompjutor	N	Ncmsi	_	11	Obj	_	_
 13	.	.	Z	Z	_	0	Punc	_	_
 
@@ -1471,7 +1471,7 @@
 2	mogu	moći	V	Vmr3p	_	0	Pred	_	_
 3	reći	reći	V	Vmn	_	2	Atv	_	_
 4	da	da	C	Cs	_	3	Sub	_	_
-5	s	s	S	Si	_	11	Prep	_	_
+5	s	sa	S	Si	_	11	Prep	_	_
 6	godinama	godina	N	Ncfpi	_	5	Obj	_	_
 7	sve	sve	Q	Qo	_	9	Oth	_	_
 8	bolje	dobro	R	Rgc	_	9	Adv	_	_
@@ -1815,7 +1815,7 @@
 9	razredu	razred	N	Ncmsl	_	7	Adv	_	_
 10	,	,	Z	Z	_	11	Punc	_	_
 11	a	a	C	Cc	_	0	Co	_	_
-12	sa	s	S	Si	_	17	Prep	_	_
+12	sa	sa	S	Si	_	17	Prep	_	_
 13	samo	samo	R	Rgp	_	14	Oth	_	_
 14	1,2	1,2	M	Mdc	_	15	Atr	_	_
 15	dolara	dolar	N	Ncmsg	_	12	Obj	_	_
@@ -1958,7 +1958,7 @@
 8	tjedno	tjedno	R	Rgp	_	5	Adv	_	_
 9	.	.	Z	Z	_	0	Punc	_	_
 
-1	S	s	S	Sg	_	18	Prep	_	_
+1	S	sa	S	Sg	_	18	Prep	_	_
 2	druge	drugi	A	Agpfsg	_	3	Atr	_	_
 3	strane	strana	N	Ncfsg	_	1	Obj	_	_
 4	,	,	Z	Z	_	1	Punc	_	_
@@ -2264,7 +2264,7 @@
 13	bit	biti	V	Van	_	15	Aux	_	_
 14	će	htjeti	V	Var3s	_	15	Aux	_	_
 15	objedinjena	objediniti	A	Appfsn	_	10	Pred	_	_
-16	s	s	S	Si	_	15	Prep	_	_
+16	s	sa	S	Si	_	15	Prep	_	_
 17	asfaltiranjem	asfaltiranje	N	Ncnsi	_	16	Obj	_	_
 18	novog	nov	A	Agpnsg	_	19	Atr	_	_
 19	parkirališta	parkiralište	N	Ncnsg	_	17	Atr	_	_
