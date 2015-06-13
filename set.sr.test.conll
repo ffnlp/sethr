@@ -755,7 +755,7 @@
 3	3600	3600	M	Md	Form=digit	4	Atr	4:nummod	UposTag=NUM
 4	atletičara	atletičar	N	Ncmpg	Case=genitive|Gender=masculine|Number=plural|Type=common	8	Sb	8:nsubj	UposTag=NOUN|Case=Gen|Gender=Masc|Number=Plur
 5	iz	iz	S	Sg	Case=genitive	4	Prep	7:case	UposTag=ADP|Case=Gen
-6	celog	ceo	A	Agpmsgy	Case=genitive|Degree=positive|Gender=masculine|Number=singular|Type=general	7	Atr	7:amod	UposTag=ADJ|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing
+6	celog	cel	A	Agpmsgy	Case=genitive|Degree=positive|Gender=masculine|Number=singular|Type=general	7	Atr	7:amod	UposTag=ADJ|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing
 7	sveta	svet	N	Ncmsg	Case=genitive|Gender=masculine|Number=singular|Type=common	5	Atr	4:nmod	UposTag=NOUN|Case=Gen|Gender=Masc|Number=Sing
 8	počelo	početi	V	Vmp-sn	Gender=neuter|Number=singular|Type=main|VForm=participle	24	Pred	0:root	UposTag=VERB|Gender=Neut|Number=Sing|VerbForm=Part
 9	je	biti	V	Var3s	Number=singular|Person=third|Type=auxiliary|VForm=present	8	Aux	8:aux	UposTag=AUX|Number=Sing|Person=3|Tense=Pres
@@ -1754,7 +1754,7 @@
 25	.	.	Z	Z	_	0	Punc	15:punct	UposTag=PUNCT
 
 1	Nestanak	nestanak	N	Ncmsn	Case=nominative|Gender=masculine|Number=singular|Type=common	11	Sb	11:nsubj	UposTag=NOUN|Case=Nom|Gender=Masc|Number=Sing
-2	malih	mal	A	Agpfpgy	Case=genitive|Degree=positive|Gender=feminine|Number=plural|Type=general	4	Atr	4:amod	UposTag=ADJ|Case=Gen|Degree=Pos|Gender=Fem|Number=Plur
+2	malih	mali	A	Agpfpgy	Case=genitive|Degree=positive|Gender=feminine|Number=plural|Type=general	4	Atr	4:amod	UposTag=ADJ|Case=Gen|Degree=Pos|Gender=Fem|Number=Plur
 3	porodičnih	porodičan	A	Agpfpgy	Case=genitive|Degree=positive|Gender=feminine|Number=plural|Type=general	4	Atr	4:amod	UposTag=ADJ|Case=Gen|Degree=Pos|Gender=Fem|Number=Plur
 4	farmi	farma	N	Ncfpg	Case=genitive|Gender=feminine|Number=plural|Type=common	1	Atr	1:nmod	UposTag=NOUN|Case=Gen|Gender=Fem|Number=Plur
 5	--	--	Z	Z	_	7	Punc	7:punct	UposTag=PUNCT

@@ -211,7 +211,7 @@
 10	prirodnim	prirodan	A	Agpmpiy	Case=instrumental|Degree=positive|Gender=masculine|Number=plural|Type=general	11	Atr	11:amod	UposTag=ADJ|Case=Ins|Degree=Pos|Gender=Masc|Number=Plur
 11	brojevima	broj	N	Ncmpi	Case=instrumental|Gender=masculine|Number=plural|Type=common	12	Obj	3:nmod	UposTag=NOUN|Case=Ins|Gender=Masc|Number=Plur
 12	i	i	C	Cc	Type=coordinating	9	Co	11:cc	UposTag=CONJ
-13	celim	ceo	A	Agpmpiy	Case=instrumental|Degree=positive|Gender=masculine|Number=plural|Type=general	14	Atr	14:amod	UposTag=ADJ|Case=Ins|Degree=Pos|Gender=Masc|Number=Plur
+13	celim	cel	A	Agpmpiy	Case=instrumental|Degree=positive|Gender=masculine|Number=plural|Type=general	14	Atr	14:amod	UposTag=ADJ|Case=Ins|Degree=Pos|Gender=Masc|Number=Plur
 14	brojevima	broj	N	Ncmpi	Case=instrumental|Gender=masculine|Number=plural|Type=common	12	Obj	11:conj	UposTag=NOUN|Case=Ins|Gender=Masc|Number=Plur
 15	.	.	Z	Z	_	0	Punc	3:punct	UposTag=PUNCT
 
@@ -1357,7 +1357,7 @@
 
 1	Slovo	slovo	N	Ncnsn	Case=nominative|Gender=neuter|Number=singular|Type=common	2	Sb	4:nsubj	UposTag=NOUN|Case=Nom|Gender=Neut|Number=Sing
 2	je	biti	V	Var3s	Number=singular|Person=third|Type=auxiliary|VForm=present	0	Pred	4:cop	UposTag=AUX|Number=Sing|Person=3|Tense=Pres
-3	najmanja	mal	A	Agsfsny	Case=nominative|Degree=superlative|Gender=feminine|Number=singular|Type=general	4	Atr	4:amod	UposTag=ADJ|Case=Nom|Degree=Sup|Gender=Fem|Number=Sing
+3	najmanja	mali	A	Agsfsny	Case=nominative|Degree=superlative|Gender=feminine|Number=singular|Type=general	4	Atr	4:amod	UposTag=ADJ|Case=Nom|Degree=Sup|Gender=Fem|Number=Sing
 4	jedinica	jedinica	N	Ncfsn	Case=nominative|Gender=feminine|Number=singular|Type=common	2	Pnom	0:root	UposTag=NOUN|Case=Nom|Gender=Fem|Number=Sing
 5	zapisa	zapis	N	Ncmsg	Case=genitive|Gender=masculine|Number=singular|Type=common	4	Atr	4:nmod	UposTag=NOUN|Case=Gen|Gender=Masc|Number=Sing
 6	jezika	jezik	N	Ncmsg	Case=genitive|Gender=masculine|Number=singular|Type=common	5	Atr	5:nmod	UposTag=NOUN|Case=Gen|Gender=Masc|Number=Sing
@@ -1396,7 +1396,7 @@
 14	čak	čak	R	Rgp	Degree=positive|Type=general	15	Oth	15:advmod	UposTag=ADV|Degree=Pos
 15	sedam	sedam	M	Mlc-p	Form=letter|Number=plural|Type=cardinal	16	Atr	16:nummod	UposTag=NUM|Number=Plur|NumType=Card
 16	puta	put	N	Ncmpg	Case=genitive|Gender=masculine|Number=plural|Type=common	17	Atr	17:nmod	UposTag=NOUN|Case=Gen|Gender=Masc|Number=Plur
-17	manju	mal	A	Agcfsay	Case=accusative|Degree=comparative|Gender=feminine|Number=singular|Type=general	10	Atr	6:nmod	UposTag=ADJ|Case=Acc|Degree=Cmp|Gender=Fem|Number=Sing
+17	manju	mali	A	Agcfsay	Case=accusative|Degree=comparative|Gender=feminine|Number=singular|Type=general	10	Atr	6:nmod	UposTag=ADJ|Case=Acc|Degree=Cmp|Gender=Fem|Number=Sing
 18	od	od	S	Sg	Case=genitive	17	Prep	19:case	UposTag=ADP|Case=Gen
 19	one	onaj	P	Pd-fsg--n-a	Case=genitive|Clitic=no|Gender=feminine|Number=singular|Syntactic_Type=adjectival|Type=demonstrative	18	Atr	17:nmod	UposTag=PRON|Case=Gen|Gender=Fem|Number=Sing|PronType=Dem
 20	kod	kod	S	Sg	Case=genitive	19	Prep	21:case	UposTag=ADP|Case=Gen
@@ -1834,7 +1834,7 @@
 11	a	a	C	Cc	Type=coordinating	0	Co	7:cc	UposTag=CONJ
 12	dodatna	dodatan	A	Agpnpny	Case=nominative|Degree=positive|Gender=neuter|Number=plural|Type=general	13	Atr	13:amod	UposTag=ADJ|Case=Nom|Degree=Pos|Gender=Neut|Number=Plur
 13	svojstva	svojstvo	N	Ncnpn	Case=nominative|Gender=neuter|Number=plural|Type=common	17	Sb	17:nsubj	UposTag=NOUN|Case=Nom|Gender=Neut|Number=Plur
-14	celih	ceo	A	Agpmpgy	Case=genitive|Degree=positive|Gender=masculine|Number=plural|Type=general	15	Atr	15:amod	UposTag=ADJ|Case=Gen|Degree=Pos|Gender=Masc|Number=Plur
+14	celih	cel	A	Agpmpgy	Case=genitive|Degree=positive|Gender=masculine|Number=plural|Type=general	15	Atr	15:amod	UposTag=ADJ|Case=Gen|Degree=Pos|Gender=Masc|Number=Plur
 15	brojeva	broj	N	Ncmpg	Case=genitive|Gender=masculine|Number=plural|Type=common	13	Atr	13:nmod	UposTag=NOUN|Case=Gen|Gender=Masc|Number=Plur
 16	se	sebe	P	Px--sa--ypn	Case=accusative|Clitic=yes|Number=singular|Referent_Type=personal|Syntactic_Type=nominal|Type=reflexive	17	Aux	17:compound	UposTag=PRON|Case=Acc|Number=Sing|Reflex=Yes
 17	izučavaju	izučavati	V	Vmr3p	Number=plural|Person=third|Type=main|VForm=present	11	Pred	7:conj	UposTag=VERB|Number=Plur|Person=3|Tense=Pres

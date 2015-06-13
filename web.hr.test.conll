@@ -96,7 +96,7 @@
 15	da	da	C	Cs	_	14	Sub	_	_
 16	,	,	Z	Z	_	19	Punc	_	_
 17	kao	kao	R	Rgp	_	19	Oth	_	_
-18	mali	mal	A	Agpmsny	_	19	Atr	_	_
+18	mali	mali	A	Agpmsny	_	19	Atr	_	_
 19	narod	narod	N	Ncmsn	_	22	Elp	_	_
 20	Europe	Europa	N	Npfsg	_	19	Atr	_	_
 21	,	,	Z	Z	_	19	Punc	_	_
@@ -956,7 +956,7 @@
 37	velikim	velik	A	Agpmpiy	_	38	Atr	_	_
 38	psima	pas	N	Ncmpi	_	44	Obj	_	_
 39	,	,	Z	Z	_	44	Punc	_	_
-40	malim	mal	A	Agpmpiy	_	41	Atr	_	_
+40	malim	mali	A	Agpmpiy	_	41	Atr	_	_
 41	psima	pas	N	Ncmpi	_	44	Obj	_	_
 42	,	,	Z	Z	_	44	Punc	_	_
 43	mačkama	mačka	N	Ncfpi	_	44	Obj	_	_

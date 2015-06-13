@@ -1743,7 +1743,7 @@
 25	.	.	Z	Z	_	0	Punc	15:punct	UposTag=PUNCT
 
 1	Nestanak	nestanak	N	Ncmsn	Case=nominative|Gender=masculine|Number=singular|Type=common	11	Sb	11:nsubj	UposTag=NOUN|Case=Nom|Gender=Masc|Number=Sing
-2	malih	mal	A	Agpnpgy	Case=genitive|Degree=positive|Gender=neuter|Number=plural|Type=general	4	Atr	4:amod	UposTag=ADJ|Case=Gen|Degree=Pos|Gender=Neut|Number=Plur
+2	malih	mali	A	Agpnpgy	Case=genitive|Degree=positive|Gender=neuter|Number=plural|Type=general	4	Atr	4:amod	UposTag=ADJ|Case=Gen|Degree=Pos|Gender=Neut|Number=Plur
 3	obiteljskih	obiteljski	A	Agpnpgy	Case=genitive|Degree=positive|Gender=neuter|Number=plural|Type=general	4	Atr	4:amod	UposTag=ADJ|Case=Gen|Degree=Pos|Gender=Neut|Number=Plur
 4	gospodarstava	gospodarstvo	N	Ncnpg	Case=genitive|Gender=neuter|Number=plural|Type=common	1	Atr	1:nmod	UposTag=NOUN|Case=Gen|Gender=Neut|Number=Plur
 5	--	--	Z	Z	_	7	Punc	7:punct	UposTag=PUNCT

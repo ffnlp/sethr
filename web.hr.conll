@@ -1004,7 +1004,7 @@
 3	izražava	izražavati	V	Vmr3s	_	1	Pred	_	_
 4	zadovoljstvo	zadovoljstvo	N	Ncnsa	_	3	Sb	_	_
 5	zbog	zbog	S	Sg	_	3	Prep	_	_
-6	malih	mal	A	Agpmpgy	_	7	Atr	_	_
+6	malih	mali	A	Agpmpgy	_	7	Atr	_	_
 7	pomaka	pomak	N	Ncmpg	_	15	Adv	_	_
 8	u	u	S	Sl	_	7	Prep	_	_
 9	pojeftinjenju	pojeftinjenje	N	Ncnsl	_	8	Atr	_	_
@@ -1417,7 +1417,7 @@
 3	savjetuju	savjetovati	V	Vmr3p	_	0	Pred	_	_
 4	roditeljima	roditelj	N	Ncmpd	_	3	Obj	_	_
 5	da	da	C	Cs	_	3	Sub	_	_
-6	maloj	mal	A	Agpnpdy	_	7	Atr	_	_
+6	maloj	mali	A	Agpnpdy	_	7	Atr	_	_
 7	djeci	dijete	N	Ncnpd	_	8	Obj	_	_
 8	dopuste	dopustiti	V	Vmr3p	_	5	Pred	_	_
 9	gledanje	gledanje	N	Ncnsa	_	8	Obj	_	_
@@ -2153,7 +2153,7 @@
 14	sljedećim	sljedeći	A	Agpfply	_	15	Atr	_	_
 15	disciplinama	disciplina	N	Ncfpl	_	13	Atr	_	_
 16	:	:	Z	Z	_	15	Punc	_	_
-17	mali	mal	A	Agpmsny	_	18	Atr	_	_
+17	mali	mali	A	Agpmsny	_	18	Atr	_	_
 18	nogomet	nogomet	N	Ncmsn	_	39	Atr	_	_
 19	,	,	Z	Z	_	39	Punc	_	_
 20	rukomet	rukomet	N	Ncmsn	_	39	Atr	_	_
@@ -6708,7 +6708,7 @@
 5	po	po	S	Sl	_	4	Prep	_	_
 6	sebi	sebe	P	Px--sl--npn	_	5	Obj	_	_
 7	jedna	jedan	M	Mlcfsn	_	9	Atr	_	_
-8	mala	mal	A	Agpfsny	_	9	Atr	_	_
+8	mala	mali	A	Agpfsny	_	9	Atr	_	_
 9	katastrofa	katastrofa	N	Ncfsn	_	2	Pnom	_	_
 10	za	za	S	Sa	_	9	Prep	_	_
 11	Milan	Milan	N	Npmsan	_	10	Obj	_	_
@@ -11107,7 +11107,7 @@
 9	platou	Plato	N	Npmsl	_	7	Adv	_	_
 10	,	,	Z	Z	_	16	Punc	_	_
 11	u	u	S	Sl	_	16	Prep	_	_
-12	malom	mal	A	Agpmsly	_	13	Atr	_	_
+12	malom	mali	A	Agpmsly	_	13	Atr	_	_
 13	gradu	grad	N	Ncmsl	_	15	Ap	_	_
 14	Voda	Voda	N	Npmsn	_	15	Ap	_	_
 15	Castille	Castille	N	Npmsn	_	11	Adv	_	_
@@ -12169,7 +12169,7 @@
 10	Otočac	Otočac	N	Npmsn	_	11	Elp	_	_
 11	i	i	C	Cc	_	16	Co	_	_
 12	Brinje	Brinje	N	Npnsn	_	11	Elp	_	_
-13	mala	mal	A	Agpnpay	_	16	Sb	_	_
+13	mala	mali	A	Agpnpay	_	16	Sb	_	_
 14	moja	moj	P	Ps1fsns-n-a	_	13	Atr	_	_
 15	ne	ne	Q	Qz	_	16	Aux	_	_
 16	zaboravi	zaboraviti	V	Vmr3s	_	4	Pred	_	_
@@ -12341,7 +12341,7 @@
 4	na	na	S	Sl	_	1	Prep	_	_
 5	vrhu	vrh	N	Ncmsl	_	4	Adv	_	_
 6	liste	lista	N	Ncfsg	_	5	Atr	_	_
-7	malih	mal	A	Agpfpgy	_	8	Atr	_	_
+7	malih	mali	A	Agpfpgy	_	8	Atr	_	_
 8	kompanija	kompanija	N	Ncfpg	_	6	Atr	_	_
 9	koje	koji	P	Pi-fpn--n-a	_	8	Sub	_	_
 10	su	biti	V	Var3p	_	12	Aux	_	_
@@ -15180,7 +15180,7 @@
 11	ako	ako	C	Cs	_	20	Sub	_	_
 12	imate	imati	V	Vmr2p	_	11	Pred	_	_
 13	još	još	R	Rgp	_	12	Adv	_	_
-14	male	mal	A	Agpfsgy	_	15	Atr	_	_
+14	male	mali	A	Agpfsgy	_	15	Atr	_	_
 15	djece	djeca	N	Ncfsg	_	12	Adv	_	_
 16	,	,	Z	Z	_	20	Punc	_	_
 17	kreme	krema	N	Ncfpn	_	18	Sb	_	_
@@ -15306,7 +15306,7 @@
 43	doručak	doručak	N	Ncmsan	_	48	Obj	_	_
 44	,	,	Z	Z	_	48	Punc	_	_
 45	više	više	S	Sg	_	47	Atr	_	_
-46	manjih	mal	A	Agcmpgy	_	47	Atr	_	_
+46	manjih	mali	A	Agcmpgy	_	47	Atr	_	_
 47	obroka	obrok	N	Ncmpg	_	48	Obj	_	_
 48	,	,	Z	Z	_	42	Co	_	_
 49	dovoljnu	dovoljan	A	Agpfsay	_	50	Atr	_	_
@@ -15741,7 +15741,7 @@
 10	na	na	S	Sa	_	9	Prep	_	_
 11	književnost	književnost	N	Ncfsa	_	10	Atr	_	_
 12	jako	jako	R	Rgp	_	13	Adv	_	_
-13	mali	mal	A	Agpmsayn	_	6	Pnom	_	_
+13	mali	mali	A	Agpmsayn	_	6	Pnom	_	_
 14	,	,	Z	Z	_	4	Co	_	_
 15	gotovo	gotovo	R	Rgp	_	16	Oth	_	_
 16	da	da	C	Cs	_	14	Sub	_	_
@@ -18942,7 +18942,7 @@
 8	i	i	C	Cc	_	28	Co	_	_
 9	radi	radi	S	Sg	_	8	Prep	_	_
 10	nezadovoljstva	nezadovoljstvo	N	Ncnsg	_	9	Adv	_	_
-11	malih	mal	A	Agpmpgy	_	12	Atr	_	_
+11	malih	mali	A	Agpmpgy	_	12	Atr	_	_
 12	udjelničara	udjelničar	N	Ncmpg	_	10	Atr	_	_
 13	načinom	način	N	Ncmsi	_	16	Atr	_	_
 14	rada	rad	N	Ncmsg	_	13	Atr	_	_
@@ -18987,7 +18987,7 @@
 53	radnika	radnik	N	Ncmpg	_	54	Atr	_	_
 54	i	i	C	Cc	_	50	Co	_	_
 55	svih	sav	A	Agpmpgy	_	57	Atr	_	_
-56	malih	mal	A	Agpmpgy	_	57	Atr	_	_
+56	malih	mali	A	Agpmpgy	_	57	Atr	_	_
 57	udjelničara	udjelničar	N	Ncmpg	_	54	Atr	_	_
 58	,	,	Z	Z	_	59	Punc	_	_
 59	sprečavanjem	sprečavanje	N	Ncnsi	_	47	Obj	_	_
@@ -19204,7 +19204,7 @@
 
 1	Ona	on	P	Pp3fsn--n-n	_	5	Sb	_	_
 2	od	od	S	Sg	_	5	Prep	_	_
-3	malih	mal	A	Agpfpgy	_	4	Atr	_	_
+3	malih	mali	A	Agpfpgy	_	4	Atr	_	_
 4	nogu	noga	N	Ncfpg	_	2	Adv	_	_
 5	otvara	otvarati	V	Vmr3s	_	0	Pred	_	_
 6	vrata	vrata	N	Ncnpa	_	5	Obj	_	_
@@ -20466,7 +20466,7 @@
 14	prilikama	prilika	N	Ncfpl	_	12	Obj	_	_
 15	.	.	Z	Z	_	0	Punc	_	_
 
-1	Male	mal	A	Agpfpay	_	3	Atr	_	_
+1	Male	mali	A	Agpfpay	_	3	Atr	_	_
 2	su	biti	V	Var3p	_	4	Aux	_	_
 3	dvorane	dvorana	N	Ncfpa	_	4	Obj	_	_
 4	smjestili	smjestiti	V	Vmp-pm	_	13	Pred	_	_
@@ -20829,7 +20829,7 @@
 36	,	,	Z	Z	_	37	Punc	_	_
 37	potrebno	potrebno	R	Rgp	_	25	Pnom	_	_
 38	izgraditi	izgraditi	V	Vmn	_	25	Sb	_	_
-39	manji	mal	A	Agcmsayn	_	41	Atr	_	_
+39	manji	mali	A	Agcmsayn	_	41	Atr	_	_
 40	zajednički	zajednički	A	Agpmsayn	_	41	Atr	_	_
 41	uređaj	uređaj	N	Ncmsan	_	38	Atr	_	_
 42	za	za	S	Sa	_	41	Prep	_	_
@@ -21964,7 +21964,7 @@
 15	te	te	C	Cc	_	0	Co	_	_
 16	niti	niti	C	Cc	_	17	Oth	_	_
 17	u	u	S	Sl	_	21	Prep	_	_
-18	najmanjem	mal	A	Agsmsly	_	19	Atr	_	_
+18	najmanjem	mali	A	Agsmsly	_	19	Atr	_	_
 19	obliku	oblik	N	Ncmsl	_	17	Obj	_	_
 20	ne	ne	Q	Qz	_	21	Aux	_	_
 21	postoji	postojati	V	Vmr3s	_	15	Pred	_	_
@@ -22006,7 +22006,7 @@
 4	podijeljeni	podijeliti	A	Appmpny	_	0	Pred	_	_
 5	u	u	S	Sa	_	4	Prep	_	_
 6	sedam	sedam	M	Mlc-p	_	8	Atr	_	_
-7	manjih	mal	A	Agcfpgy	_	8	Atr	_	_
+7	manjih	mali	A	Agcfpgy	_	8	Atr	_	_
 8	skupina	skupina	N	Ncfpg	_	5	Obj	_	_
 9	u	u	S	Sl	_	8	Prep	_	_
 10	kojima	koji	P	Pi-fpl--n-a	_	9	Sub	_	_
@@ -23194,7 +23194,7 @@
 7	sastoji	sastojati	V	Vmr3s	_	0	Pred	_	_
 8	od	od	S	Sg	_	7	Prep	_	_
 9	nekoliko	nekoliko	R	Rgp	_	11	Atr	_	_
-10	malih	mal	A	Agpmpgy	_	11	Atr	_	_
+10	malih	mali	A	Agpmpgy	_	11	Atr	_	_
 11	češnjeva	češanj	N	Ncmpg	_	8	Obj	_	_
 12	koje	koji	P	Pi-mpa--n-a	_	11	Sub	_	_
 13	na	na	S	Sl	_	15	Prep	_	_
@@ -24402,7 +24402,7 @@
 11	je	biti	V	Var3s	_	5	Pred	_	_
 12	samo	samo	R	Rgp	_	11	Adv	_	_
 13	tvoja	tvoj	P	Ps2fsns-n-a	_	16	Atr	_	_
-14	mala	mal	A	Agpnpay	_	16	Atr	_	_
+14	mala	mali	A	Agpnpay	_	16	Atr	_	_
 15	slatka	sladak	A	Agpfsny	_	16	Atr	_	_
 16	i	i	C	Cc	_	18	Co	_	_
 17	zdrava	zdrav	A	Agpfsny	_	16	Atr	_	_
@@ -26620,7 +26620,7 @@
 10	zamolio	zamoliti	V	Vmp-sm	_	0	Pred	_	_
 11	je	biti	V	Var3s	_	10	Aux	_	_
 12	za	za	S	Sa	_	10	Prep	_	_
-13	mali	mal	A	Agpmsayn	_	15	Atr	_	_
+13	mali	mali	A	Agpmsayn	_	15	Atr	_	_
 14	"	"	Z	Z	_	15	Punc	_	_
 15	popust	popust	N	Ncmsan	_	12	Obj	_	_
 16	"	"	Z	Z	_	15	Punc	_	_
@@ -29908,14 +29908,14 @@
 1	Uvijek	uvijek	R	Rgp	_	2	Adv	_	_
 2	isprobati	isprobati	V	Vmn	_	0	Pred	_	_
 3	na	na	S	Sl	_	2	Prep	_	_
-4	malom	mal	A	Agpnsly	_	5	Atr	_	_
+4	malom	mali	A	Agpnsly	_	5	Atr	_	_
 5	području	područje	N	Ncnsl	_	3	Adv	_	_
 6	kože	koža	N	Ncfsg	_	5	Atr	_	_
 7	prije	prije	S	Sg	_	9	Prep	_	_
 8	uporabe	uporaba	N	Ncfsg	_	7	Adv	_	_
 9	i	i	C	Cc	_	2	Co	_	_
 10	u	u	S	Sl	_	9	Prep	_	_
-11	manjoj	mal	A	Agcfsly	_	12	Atr	_	_
+11	manjoj	mali	A	Agcfsly	_	12	Atr	_	_
 12	dozi	doza	N	Ncfsl	_	10	Adv	_	_
 13	.	.	Z	Z	_	0	Punc	_	_
 
@@ -31217,7 +31217,7 @@
 16	boji	boja	N	Ncfsl	_	15	Atr	_	_
 17	,	,	Z	Z	_	18	Punc	_	_
 18	u	u	S	Sl	_	7	Elp	_	_
-19	manjem	mal	A	Agcmsly	_	20	Atr	_	_
+19	manjem	mali	A	Agcmsly	_	20	Atr	_	_
 20	broju	broj	N	Ncmsl	_	18	Obj	_	_
 21	istovjetnih	istovjetan	A	Agpmpgy	_	22	Atr	_	_
 22	primjeraka	primjerak	N	Ncmpg	_	20	Atr	_	_
@@ -31510,7 +31510,7 @@
 53	Ožbolt	Ožbolt	N	Npmsn	_	50	Sb	_	_
 54	.	.	Z	Z	_	0	Punc	_	_
 
-1	Mala	mal	A	Agpfsny	_	2	Atr	_	_
+1	Mala	mali	A	Agpfsny	_	2	Atr	_	_
 2	državica	državica	N	Ncfsn	_	27	Sb	_	_
 3	koja	koji	P	Pi-fsn--n-a	_	2	Sub	_	_
 4	se	sebe	P	Px--sa--ypn	_	5	Aux	_	_
@@ -32830,7 +32830,7 @@
 28	.	.	Z	Z	_	0	Punc	_	_
 
 1	Vidite	vidjeti	V	Vmr2p	_	10	Pred	_	_
-2	male	mal	A	Agpfpay	_	3	Atr	_	_
+2	male	mali	A	Agpfpay	_	3	Atr	_	_
 3	ručice	ručica	N	Ncfpa	_	4	Obj	_	_
 4	i	i	C	Cc	_	1	Co	_	_
 5	dijete	dijete	N	Ncnsa	_	4	Obj	_	_
@@ -33626,7 +33626,7 @@
 6	,	,	Z	Z	_	7	Punc	_	_
 7	koji	koji	P	Pi-mpn--n-a	_	4	Elp	_	_
 8	su	biti	V	Var3p	_	7	Pred	_	_
-9	manji	mal	A	Agcmsny	_	8	Pnom	_	_
+9	manji	mali	A	Agcmsny	_	8	Pnom	_	_
 10	od	od	S	Sg	_	9	Prep	_	_
 11	30	30	M	Mdc	_	12	Atr	_	_
 12	litara	litar	N	Ncmpg	_	10	Atr	_	_
@@ -34131,7 +34131,7 @@
 19	su	biti	V	Var3p	_	20	Aux	_	_
 20	napisali	napisati	V	Vmp-pm	_	17	Pred	_	_
 21	roditelji	roditelj	N	Ncmpn	_	20	Sb	_	_
-22	male	mal	A	Agpfsgy	_	24	Atr	_	_
+22	male	mali	A	Agpfsgy	_	24	Atr	_	_
 23	Nike	Nika	N	Npfsg	_	24	Ap	_	_
 24	Kager	Kager	N	Npfsg	_	21	Atr	_	_
 25	koja	koji	P	Pi-fsn--n-a	_	32	Sub	_	_
@@ -35310,7 +35310,7 @@
 3	obuhvaćen	obuhvatiti	A	Appmsnn	_	0	Pred	_	_
 4	je	biti	V	Var3s	_	3	Aux	_	_
 5	jako	jako	R	Rgp	_	6	Oth	_	_
-6	mali	mal	A	Agpmsny	_	7	Atr	_	_
+6	mali	mali	A	Agpmsny	_	7	Atr	_	_
 7	broj	broj	N	Ncmsn	_	4	Sb	_	_
 8	parova	par	N	Ncmpg	_	7	Atr	_	_
 9	koji	koji	P	Pi-mpn--n-a	_	8	Sub	_	_
@@ -37372,7 +37372,7 @@
 39	EU	Ea	N	Npfsa	_	38	Atr	_	_
 40	,	,	Z	Z	_	41	Punc	_	_
 41	a	a	C	Cc	_	35	Co	_	_
-42	mali	mal	A	Agpmpny	_	41	Elp	_	_
+42	mali	mali	A	Agpmpny	_	41	Elp	_	_
 43	za	za	S	Sa	_	42	Prep	_	_
 44	BiH	Bih	N	Npfsa	_	43	Atr	_	_
 45	,	,	Z	Z	_	46	Punc	_	_
@@ -45227,7 +45227,7 @@
 4	proslavu	proslava	N	Ncfsa	_	3	Obj	_	_
 5	vjerskog	vjerski	A	Agpmsgy	_	6	Atr	_	_
 6	blagdana	blagdan	N	Ncmsg	_	4	Atr	_	_
-7	male	mal	A	Agpfsgy	_	8	Atr	_	_
+7	male	mali	A	Agpfsgy	_	8	Atr	_	_
 8	Gospe	Gospa	N	Npfsg	_	6	Atr	_	_
 9	u	u	S	Sl	_	4	Prep	_	_
 10	Ključu	Ključ	N	Npmsl	_	9	Atr	_	_
@@ -45786,7 +45786,7 @@
 6	u	u	S	Sa	_	5	Prep	_	_
 7	svjetovni	svjetovan	A	Agpmsayn	_	8	Atr	_	_
 8	institut	institut	N	Ncmsan	_	11	Ap	_	_
-9	Mala	mal	A	Agpfsny	_	11	Atr	_	_
+9	Mala	mali	A	Agpfsny	_	11	Atr	_	_
 10	franjevačka	franjevački	A	Agpfsny	_	11	Atr	_	_
 11	obitelj	obitelj	N	Ncfsn	_	6	Adv	_	_
 12	i	i	C	Cc	_	0	Co	_	_
@@ -49457,7 +49457,7 @@
 5	tehničkoj	tehnički	A	Agpfsly	_	6	Atr	_	_
 6	kulturi	kultura	N	Ncfsl	_	4	Atr	_	_
 7	Grada	Grad	N	Npmsg	_	9	Ap	_	_
-8	Malog	mal	A	Agpmsgy	_	9	Atr	_	_
+8	Malog	mali	A	Agpmsgy	_	9	Atr	_	_
 9	Lošinja	Lošinj	N	Npmsg	_	6	Atr	_	_
 10	u	u	S	Sl	_	6	Prep	_	_
 11	2010.	2010.	M	Mdo	_	12	Atr	_	_
@@ -50235,7 +50235,7 @@
 17	neobičnoj	neobičan	A	Agpfsly	_	18	Atr	_	_
 18	akciji	akcija	N	Ncfsl	_	16	Obj	_	_
 19	spašavanja	spašavanje	N	Ncnsg	_	18	Atr	_	_
-20	malih	mal	A	Agpmpgy	_	21	Atr	_	_
+20	malih	mali	A	Agpmpgy	_	21	Atr	_	_
 21	psića	psić	N	Ncmpg	_	19	Atr	_	_
 22	koje	koji	P	Pi-mpa--n-a	_	21	Sub	_	_
 23	je	biti	V	Var3s	_	26	Aux	_	_

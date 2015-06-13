@@ -475,7 +475,7 @@
 21	publikom	publika	N	Ncfsi	Case=instrumental|Gender=feminine|Number=singular|Type=common	17	Atr	16:nmod	UposTag=NOUN|Case=Ins|Gender=Fem|Number=Sing
 22	.	.	Z	Z	_	0	Punc	6:punct	UposTag=PUNCT
 
-1	Najmanji	mal	A	Agsmsny	Case=nominative|Degree=superlative|Gender=masculine|Number=singular|Type=general	2	Atr	2:amod	UposTag=ADJ|Case=Nom|Degree=Sup|Gender=Masc|Number=Sing
+1	Najmanji	mali	A	Agsmsny	Case=nominative|Degree=superlative|Gender=masculine|Number=singular|Type=general	2	Atr	2:amod	UposTag=ADJ|Case=Nom|Degree=Sup|Gender=Masc|Number=Sing
 2	metak	metak	N	Ncmsn	Case=nominative|Gender=masculine|Number=singular|Type=common	6	Sb	7:nsubj	UposTag=NOUN|Case=Nom|Gender=Masc|Number=Sing
 3	za	za	S	Sa	Case=accusative	2	Prep	5:case	UposTag=ADP|Case=Acc
 4	vatreno	vatren	A	Agpnsay	Case=accusative|Degree=positive|Gender=neuter|Number=singular|Type=general	5	Atr	5:amod	UposTag=ADJ|Case=Acc|Degree=Pos|Gender=Neut|Number=Sing
@@ -1385,7 +1385,7 @@
 2	je	biti	V	Var3s	Number=singular|Person=third|Type=auxiliary|VForm=present	0	Pred	6:cop	UposTag=AUX|Number=Sing|Person=3|Tense=Pres
 3	također	također	R	Rgp	Degree=positive|Type=general	2	Adv	6:discourse	UposTag=ADV|Degree=Pos
 4	,	,	Z	Z	_	3	Punc	3:punct	UposTag=PUNCT
-5	najmanja	mal	A	Agsfsny	Case=nominative|Degree=superlative|Gender=feminine|Number=singular|Type=general	6	Atr	6:amod	UposTag=ADJ|Case=Nom|Degree=Sup|Gender=Fem|Number=Sing
+5	najmanja	mali	A	Agsfsny	Case=nominative|Degree=superlative|Gender=feminine|Number=singular|Type=general	6	Atr	6:amod	UposTag=ADJ|Case=Nom|Degree=Sup|Gender=Fem|Number=Sing
 6	jedinica	jedinica	N	Ncfsn	Case=nominative|Gender=feminine|Number=singular|Type=common	2	Pnom	0:root	UposTag=NOUN|Case=Nom|Gender=Fem|Number=Sing
 7	zapisa	zapis	N	Ncmsg	Case=genitive|Gender=masculine|Number=singular|Type=common	6	Atr	6:nmod	UposTag=NOUN|Case=Gen|Gender=Masc|Number=Sing
 8	jezika	jezik	N	Ncmsg	Case=genitive|Gender=masculine|Number=singular|Type=common	7	Atr	7:nmod	UposTag=NOUN|Case=Gen|Gender=Masc|Number=Sing
@@ -1735,7 +1735,7 @@
 12	u	u	S	Sl	Case=locative	17	Prep	13:case	UposTag=ADP|Case=Loc
 13	protivnom	protivan	A	Agpnsly	Case=locative|Degree=positive|Gender=neuter|Number=singular|Type=general	12	Adv	17:nmod	UposTag=ADJ|Case=Loc|Degree=Pos|Gender=Neut|Number=Sing
 14	na	na	S	Sl	Case=locative	17	Prep	16:case	UposTag=ADP|Case=Loc
-15	malim	mal	A	Agpnply	Case=locative|Degree=positive|Gender=neuter|Number=plural|Type=general	16	Atr	16:amod	UposTag=ADJ|Case=Loc|Degree=Pos|Gender=Neut|Number=Plur
+15	malim	mali	A	Agpnply	Case=locative|Degree=positive|Gender=neuter|Number=plural|Type=general	16	Atr	16:amod	UposTag=ADJ|Case=Loc|Degree=Pos|Gender=Neut|Number=Plur
 16	odstojanjima	odstojanje	N	Ncnpl	Case=locative|Gender=neuter|Number=plural|Type=common	14	Adv	17:nmod	UposTag=NOUN|Case=Loc|Gender=Neut|Number=Plur
 17	može	moći	V	Vmr3s	Number=singular|Person=third|Type=main|VForm=present	11	Pred	7:parataxis	UposTag=VERB|Number=Sing|Person=3|Tense=Pres
 18	izazvati	izazvati	V	Vmn	Type=main|VForm=infinitive	17	Atv	17:xcomp	UposTag=VERB|VerbForm=Inf
