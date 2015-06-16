@@ -1,0 +1,18 @@
+all:
+	cat ~/tools/apertium/apertium-hbs/apertium-hbs.hbs_HR_purist.mte | ./look_for_diff.py ../set.hr.conll|sort|uniq
+	./look_for_diff.py hr.conll < ~/tools/apertium/apertium-hbs/apertium-hbs.hbs_HR_purist.mte
+merge_hr:
+	cat ../set.hr.conll ../set.hr.test.conll ../wiki.hr.test.conll ../web.hr.test.conll ../web.hr.conll > hr.conll
+merge_hr2:
+	cat ../set.hr.conll ../set.hr.test.conll ../wiki.hr.test.conll ../web.hr.test.conll > hr2.conll
+divide_hr:
+	head -87397 hr.conll > ..set.hr.conll
+	head -$$((87397+2358)) hr.conll | tail -2358 > ../set.hr.test.conll
+	head -$$((87397+2358+1967)) hr.conll | tail -1967 > ../wiki.hr.test.conll
+	head -$$((87397+2358+1967+2278)) hr.conll |tail -2278 > ../web.hr.test.conll
+	head -$$((87397+2358+1967+2278+51300)) hr.conll | tail -51300 > ../web.hr.conll
+divide_hr2:
+	head -87397 hr.conll > ..set.hr.conll
+	head -$$((87397+2358)) hr.conll | tail -2358 > ../set.hr.test.conll
+	head -$$((87397+2358+1967)) hr.conll | tail -1967 > ../wiki.hr.test.conll
+	head -$$((87397+2358+1967+2278)) hr.conll |tail -2278 > ../web.hr.test.conll

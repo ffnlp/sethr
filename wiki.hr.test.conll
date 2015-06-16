@@ -70,7 +70,7 @@
 25	.	.	Z	Z	_	0	Punc	5:punct	UposTag=PUNCT
 
 1	Plave	plav	A	Agpfpny	Case=nominative|Degree=positive|Gender=feminine|Number=plural|Type=general	2	Atr	2:amod	UposTag=ADJ|Case=Nom|Degree=Pos|Gender=Fem|Number=Plur
-2	oči	oko	N	Ncnpn	Case=nominative|Gender=neuter|Number=plural|Type=common	5	Sb	5:nsubj	UposTag=NOUN|Case=Nom|Gender=Neut|Number=Plur
+2	oči	oko	N	Ncfpn	Case=nominative|Gender=neuter|Number=plural|Type=common	5	Sb	5:nsubj	UposTag=NOUN|Case=Nom|Gender=Neut|Number=Plur
 3	najčešće	često	R	Rgs	Degree=superlative|Type=general	5	Adv	5:advmod	UposTag=ADV|Degree=Sup
 4	se	sebe	P	Px--sa--ypn	Case=accusative|Clitic=yes|Number=singular|Referent_Type=personal|Syntactic_Type=nominal|Type=reflexive	5	Aux	5:compound	UposTag=PRON|Case=Acc|Number=Sing|Reflex=Yes
 5	povezuju	povezivati	V	Vmr3p	Number=plural|Person=third|Type=main|VForm=present	10	Pred	0:root	UposTag=VERB|Number=Plur|Person=3|Tense=Pres
@@ -87,7 +87,7 @@
 16	albino	albino	A	Agpfpgy	Case=genitive|Degree=positive|Gender=feminine|Number=plural|Type=general	17	Atr	17:amod	UposTag=ADJ|Case=Gen|Degree=Pos|Gender=Fem|Number=Plur
 17	mačaka	mačka	N	Ncfpg	Case=genitive|Gender=feminine|Number=plural|Type=common	15	Obj	13:nmod	UposTag=NOUN|Case=Gen|Gender=Fem|Number=Plur
 18	,	,	Z	Z	_	19	Punc	17:punct	UposTag=PUNCT
-19	te	te	C	Cs	Type=subordinating	13	Co	17:cc	UposTag=SCONJ
+19	te	te	C	Cc	Type=subordinating	13	Co	17:cc	UposTag=SCONJ
 20	kod	kod	S	Sg	Case=genitive	19	Prep	22:case	UposTag=ADP|Case=Gen
 21	nekih	neki	P	Pi-fpg--n-a	Case=genitive|Clitic=no|Gender=feminine|Number=plural|Syntactic_Type=adjectival|Type=indefinite	22	Atr	22:amod	UposTag=PRON|Case=Gen|Gender=Fem|Number=Plur|PronType=Ind
 22	pasmina	pasmina	N	Ncfpg	Case=genitive|Gender=feminine|Number=plural|Type=common	20	Obj	17:conj	UposTag=NOUN|Case=Gen|Gender=Fem|Number=Plur
@@ -106,7 +106,7 @@
 7	država	država	N	Ncfsn	Case=nominative|Gender=feminine|Number=singular|Type=common	4	Adv	4:nmod	UposTag=NOUN|Case=Nom|Gender=Fem|Number=Sing
 8	2006.	2006.	M	Mdo	Form=digit|Type=ordinal	4	Elp	4:nmod	UposTag=NUM|NumType=Ord
 9	nakon	nakon	C	Cs	Type=subordinating	11	Oth	10:mwe	UposTag=SCONJ
-10	što	što	C	Cs	Type=subordinating	4	Sub	17:mark	UposTag=SCONJ
+10	što	što	P	Pi3n-n--n-nn	Type=subordinating	4	Sub	17:mark	UposTag=SCONJ
 11	su	biti	V	Var3p	Number=plural|Person=third|Type=auxiliary|VForm=present	17	Aux	17:aux	UposTag=AUX|Number=Plur|Person=3|Tense=Pres
 12	građani	građanin	N	Ncmpn	Case=nominative|Gender=masculine|Number=plural|Type=common	17	Sb	17:nsubj	UposTag=NOUN|Case=Nom|Gender=Masc|Number=Plur
 13	Crne	Crna	N	Npfsg	Case=genitive|Gender=feminine|Number=singular|Type=proper	14	Atr	14:compound	UposTag=PROPN|Case=Gen|Gender=Fem|Number=Sing
@@ -146,7 +146,7 @@
 13	.	.	Z	Z	_	0	Punc	3:punct	UposTag=PUNCT
 
 1	Boja	boja	N	Ncfsn	Case=nominative|Gender=feminine|Number=singular|Type=common	5	Sb	5:nsubj	UposTag=NOUN|Case=Nom|Gender=Fem|Number=Sing
-2	očiju	oko	N	Ncnpg	Case=genitive|Gender=neuter|Number=plural|Type=common	1	Atr	1:nmod	UposTag=NOUN|Case=Gen|Gender=Neut|Number=Plur
+2	očiju	oko	N	Ncfpg	Case=genitive|Gender=neuter|Number=plural|Type=common	1	Atr	1:nmod	UposTag=NOUN|Case=Gen|Gender=Neut|Number=Plur
 3	kod	kod	S	Sg	Case=genitive	5	Prep	4:case	UposTag=ADP|Case=Gen
 4	mačaka	mačka	N	Ncfpg	Case=genitive|Gender=feminine|Number=plural|Type=common	3	Obj	1:nmod	UposTag=NOUN|Case=Gen|Gender=Fem|Number=Plur
 5	varira	varirati	V	Vmr3s	Number=singular|Person=third|Type=main|VForm=present	0	Pred	0:root	UposTag=VERB|Number=Sing|Person=3|Tense=Pres
@@ -218,7 +218,7 @@
 6	kada	kada	R	Rgp	Degree=positive|Type=general	12	Sub	8:mark	UposTag=ADV|Degree=Pos
 7	mačka	mačka	N	Ncfsn	Case=nominative|Gender=feminine|Number=singular|Type=common	8	Sb	8:nsubj	UposTag=NOUN|Case=Nom|Gender=Fem|Number=Sing
 8	otvara	otvarati	V	Vmr3s	Number=singular|Person=third|Type=main|VForm=present	6	Pred	5:acl	UposTag=VERB|Number=Sing|Person=3|Tense=Pres
-9	oči	oko	N	Ncnpa	Case=accusative|Gender=neuter|Number=plural|Type=common	8	Obj	8:dobj	UposTag=NOUN|Case=Acc|Gender=Neut|Number=Plur
+9	oči	oko	N	Ncfpa	Case=accusative|Gender=neuter|Number=plural|Type=common	8	Obj	8:dobj	UposTag=NOUN|Case=Acc|Gender=Neut|Number=Plur
 10	,	,	Z	Z	_	11	Punc	8:punct	UposTag=PUNCT
 11	kao	kao	C	Cs	Type=subordinating	12	Oth	12:discourse	UposTag=SCONJ
 12	i	i	C	Cc	Type=coordinating	5	Co	8:cc	UposTag=CONJ
@@ -303,8 +303,8 @@
 5	radničkoj	radnički	A	Agpfsly	Case=locative|Degree=positive|Gender=feminine|Number=singular|Type=general	6	Atr	6:amod	UposTag=ADJ|Case=Loc|Degree=Pos|Gender=Fem|Number=Sing
 6	obitelji	obitelj	N	Ncfsl	Case=locative|Gender=feminine|Number=singular|Type=common	3	Obj	1:nmod	UposTag=NOUN|Case=Loc|Gender=Fem|Number=Sing
 7	s	sa	S	Si	Case=instrumental	1	Prep	9:case	UposTag=ADP|Case=Ins
-8	troje	troje	N	Ncnsi	Case=instrumental|Gender=neuter|Number=singular|Type=common	10	Obj	9:nummod	UposTag=NOUN|Case=Ins|Gender=Neut|Number=Sing
-9	braće	braća	N	Ncfsg	Case=genitive|Gender=feminine|Number=singular|Type=common	8	Atr	1:nmod	UposTag=NOUN|Case=Gen|Gender=Fem|Number=Sing
+8	troje	troje	M	Mls	Case=instrumental|Gender=neuter|Number=singular|Type=common	10	Obj	9:nummod	UposTag=NOUN|Case=Ins|Gender=Neut|Number=Sing
+9	braće	braća	N	Ncfpg	Case=genitive|Gender=feminine|Number=singular|Type=common	8	Atr	1:nmod	UposTag=NOUN|Case=Gen|Gender=Fem|Number=Sing
 10	i	i	C	Cc	Type=coordinating	7	Co	9:cc	UposTag=CONJ
 11	sestrom	sestra	N	Ncfsi	Case=instrumental|Gender=feminine|Number=singular|Type=common	10	Obj	9:conj	UposTag=NOUN|Case=Ins|Gender=Fem|Number=Sing
 12	.	.	Z	Z	_	0	Punc	1:punct	UposTag=PUNCT
@@ -408,7 +408,7 @@
 5	se	sebe	P	Px--sa--ypn	Case=accusative|Clitic=yes|Number=singular|Referent_Type=personal|Syntactic_Type=nominal|Type=reflexive	6	Aux	6:compound	UposTag=PRON|Case=Acc|Number=Sing|Reflex=Yes
 6	pridružio	pridružiti	V	Vmp-sm	Gender=masculine|Number=singular|Type=main|VForm=participle	0	Pred	0:root	UposTag=VERB|Gender=Masc|Number=Sing|VerbForm=Part
 7	i	i	C	Cc	Type=coordinating	10	Oth	8:discourse	UposTag=CONJ
-8	basista	basista	N	Ncmsn	Case=nominative|Gender=masculine|Number=singular|Type=common	10	Ap	6:nsubj	UposTag=NOUN|Case=Nom|Gender=Masc|Number=Sing
+8	basist	basist	N	Ncmsn	Case=nominative|Gender=masculine|Number=singular|Type=common	10	Ap	6:nsubj	UposTag=NOUN|Case=Nom|Gender=Masc|Number=Sing
 9	Mišo	Mišo	N	Npmsn	Case=nominative|Gender=masculine|Number=singular|Type=proper	10	Ap	8:appos	UposTag=PROPN|Case=Nom|Gender=Masc|Number=Sing
 10	Hrnjak	Hrnjak	N	Npmsn	Case=nominative|Gender=masculine|Number=singular|Type=proper	6	Sb	9:name	UposTag=PROPN|Case=Nom|Gender=Masc|Number=Sing
 11	.	.	Z	Z	_	0	Punc	6:punct	UposTag=PUNCT
@@ -700,7 +700,7 @@
 8	se	sebe	P	Px--sa--ypn	Case=accusative|Clitic=yes|Number=singular|Referent_Type=personal|Syntactic_Type=nominal|Type=reflexive	7	Aux	7:compound	UposTag=PRON|Case=Acc|Number=Sing|Reflex=Yes
 9	pojmovi	pojam	N	Ncmpn	Case=nominative|Gender=masculine|Number=plural|Type=common	7	Sb	7:nsubj	UposTag=NOUN|Case=Nom|Gender=Masc|Number=Plur
 10	kao	kao	C	Cs	Type=subordinating	11	Oth	11:mwe	UposTag=SCONJ
-11	što	što	C	Cs	Type=subordinating	9	Sub	15:mark	UposTag=SCONJ
+11	što	što	P	Pi3n-n--n-nn	Type=subordinating	9	Sub	15:mark	UposTag=SCONJ
 12	su	biti	V	Var3p	Number=plural|Person=third|Type=auxiliary|VForm=present	11	Pred	15:cop	UposTag=AUX|Number=Plur|Person=3|Tense=Pres
 13	:	:	Z	Z	_	12	Punc	15:punct	UposTag=PUNCT
 14	"	"	Z	Z	_	15	Punc	15:punct	UposTag=PUNCT
@@ -756,7 +756,7 @@
 8	imati	imati	V	Vmn	Type=main|VForm=infinitive	7	Atv	7:xcomp	UposTag=VERB|VerbForm=Inf
 9	najmanje	malo	R	Rgs	Degree=superlative|Type=general	10	Adv	10:advmod	UposTag=ADV|Degree=Sup
 10	10	10	M	Md	Form=digit	11	Atr	11:nummod	UposTag=NUM
-11	cm	cm	N	Ncmsn	Case=nominative|Gender=masculine|Number=singular|Type=common	8	Obj	8:dobj	UposTag=NOUN|Case=Nom|Gender=Masc|Number=Sing
+11	cm	cm	Y	Y	Case=nominative|Gender=masculine|Number=singular|Type=common	8	Obj	8:dobj	UposTag=NOUN|Case=Nom|Gender=Masc|Number=Sing
 12	promjera	promjer	N	Ncmsg	Case=genitive|Gender=masculine|Number=singular|Type=common	11	Atr	11:nmod	UposTag=NOUN|Case=Gen|Gender=Masc|Number=Sing
 13	debla	deblo	N	Ncnsg	Case=genitive|Gender=neuter|Number=singular|Type=common	12	Atr	12:nmod	UposTag=NOUN|Case=Gen|Gender=Neut|Number=Sing
 14	.	.	Z	Z	_	0	Punc	3:punct	UposTag=PUNCT
@@ -764,7 +764,7 @@
 1	Mačke	mačka	N	Ncfpn	Case=nominative|Gender=feminine|Number=plural|Type=common	2	Sb	2:nsubj	UposTag=NOUN|Case=Nom|Gender=Fem|Number=Plur
 2	posjeduju	posjedovati	V	Vmr3p	Number=plural|Person=third|Type=main|VForm=present	0	Pred	0:root	UposTag=VERB|Number=Plur|Person=3|Tense=Pres
 3	i	i	C	Cc	Type=coordinating	6	Oth	6:discourse	UposTag=CONJ
-4	treći	treći	A	Agpmsayn	Case=accusative|Definiteness=no|Degree=positive|Gender=masculine|Number=singular|Type=general	6	Atr	6:nummod	UposTag=ADJ|Case=Acc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing
+4	treći	treći	M	Mlomsan	Case=accusative|Definiteness=no|Degree=positive|Gender=masculine|Number=singular|Type=general	6	Atr	6:nummod	UposTag=ADJ|Case=Acc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing
 5	očni	očni	A	Agpmsayn	Case=accusative|Definiteness=no|Degree=positive|Gender=masculine|Number=singular|Type=general	6	Atr	6:amod	UposTag=ADJ|Case=Acc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing
 6	kapak	kapak	N	Ncmsan	Animate=no|Case=accusative|Gender=masculine|Number=singular|Type=common	2	Obj	2:dobj	UposTag=NOUN|Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing
 7	,	,	Z	Z	_	8	Punc	12:punct	UposTag=PUNCT
@@ -775,7 +775,7 @@
 12	membranu	membrana	N	Ncfsa	Case=accusative|Gender=feminine|Number=singular|Type=common	2	Obj	6:appos	UposTag=NOUN|Case=Acc|Gender=Fem|Number=Sing
 13	koja	koji	P	Pi-fsn--n-a	Case=nominative|Clitic=no|Gender=feminine|Number=singular|Syntactic_Type=adjectival|Type=indefinite	12	Sub	14:mark	UposTag=PRON|Case=Nom|Gender=Fem|Number=Sing|PronType=Ind
 14	prekriva	prekrivati	V	Vmr3s	Number=singular|Person=third|Type=main|VForm=present	13	Pred	12:acl	UposTag=VERB|Number=Sing|Person=3|Tense=Pres
-15	oči	oko	N	Ncnpa	Case=accusative|Gender=neuter|Number=plural|Type=common	14	Obj	14:dobj	UposTag=NOUN|Case=Acc|Gender=Neut|Number=Plur
+15	oči	oko	N	Ncfpa	Case=accusative|Gender=neuter|Number=plural|Type=common	14	Obj	14:dobj	UposTag=NOUN|Case=Acc|Gender=Neut|Number=Plur
 16	sa	sa	S	Sg	Case=genitive	14	Prep	17:case	UposTag=ADP|Case=Gen
 17	strane	strana	N	Ncfsg	Case=genitive|Gender=feminine|Number=singular|Type=common	16	Adv	14:nmod	UposTag=NOUN|Case=Gen|Gender=Fem|Number=Sing
 18	.	.	Z	Z	_	0	Punc	2:punct	UposTag=PUNCT
@@ -799,7 +799,7 @@
 17	Split	Split	N	Npmsan	Animate=no|Case=accusative|Gender=masculine|Number=singular|Type=proper	16	Adv	15:nmod	UposTag=PROPN|Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing
 18	.	.	Z	Z	_	0	Punc	4:punct	UposTag=PUNCT
 
-1	Tijekom	tijekom	R	Rgp	Degree=positive|Type=general	5	Adv	2:case	UposTag=ADV|Degree=Pos
+1	Tijekom	tijekom	S	Sg	Degree=positive|Type=general	5	Adv	2:case	UposTag=ADV|Degree=Pos
 2	trudnoće	trudnoća	N	Ncfsg	Case=genitive|Gender=feminine|Number=singular|Type=common	1	Atr	5:nmod	UposTag=NOUN|Case=Gen|Gender=Fem|Number=Sing
 3	se	sebe	P	Px--sa--ypn	Case=accusative|Clitic=yes|Number=singular|Referent_Type=personal|Syntactic_Type=nominal|Type=reflexive	5	Aux	5:compound	UposTag=PRON|Case=Acc|Number=Sing|Reflex=Yes
 4	znatno	znatno	R	Rgp	Degree=positive|Type=general	5	Adv	5:advmod	UposTag=ADV|Degree=Pos
@@ -952,7 +952,7 @@
 15	Euklid	Euklid	N	Npmsn	Case=nominative|Gender=masculine|Number=singular|Type=proper	16	Sb	16:nsubj	UposTag=PROPN|Case=Nom|Gender=Masc|Number=Sing
 16	postavio	postaviti	V	Vmp-sm	Gender=masculine|Number=singular|Type=main|VForm=participle	13	Pred	12:advcl	UposTag=VERB|Gender=Masc|Number=Sing|VerbForm=Part
 17	svojih	svoj	P	Px-mpg--nsa	Case=genitive|Clitic=no|Gender=masculine|Number=plural|Referent_Type=possessive|Syntactic_Type=adjectival|Type=reflexive	19	Atr	19:nmod	UposTag=PRON|Case=Gen|Gender=Masc|Number=Plur|Reflex=Yes
-18	pet	pet	M	Mlc-p	Form=letter|Number=plural|Type=cardinal	19	Atr	19:nummod	UposTag=NUM|Number=Plur|NumType=Card
+18	pet	pet	M	Mlc	Form=letter|Number=plural|Type=cardinal	19	Atr	19:nummod	UposTag=NUM|Number=Plur|NumType=Card
 19	aksioma	aksiom	N	Ncmpg	Case=genitive|Gender=masculine|Number=plural|Type=common	16	Obj	16:dobj	UposTag=NOUN|Case=Gen|Gender=Masc|Number=Plur
 20	o	o	S	Sl	Case=locative	19	Prep	21:case	UposTag=ADP|Case=Loc
 21	prostoru	prostor	N	Ncmsl	Case=locative|Gender=masculine|Number=singular|Type=common	20	Atr	19:nmod	UposTag=NOUN|Case=Loc|Gender=Masc|Number=Sing
@@ -1134,7 +1134,7 @@
 23	3	3	M	Md	Form=digit	22	Sb	26:nsubj	UposTag=NUM
 24	među	među	S	Si	Case=instrumental	22	Prep	26:case	UposTag=ADP|Case=Ins
 25	prvih	prvi	A	Agpmpgy	Case=genitive|Degree=positive|Gender=masculine|Number=plural|Type=general	26	Atr	26:nummod	UposTag=ADJ|Case=Gen|Degree=Pos|Gender=Masc|Number=Plur
-26	deset	deset	M	Mlc-p	Form=letter|Number=plural|Type=cardinal	24	Pnom	18:acl	UposTag=NUM|Number=Plur|NumType=Card
+26	deset	deset	M	Mlc	Form=letter|Number=plural|Type=cardinal	24	Pnom	18:acl	UposTag=NUM|Number=Plur|NumType=Card
 27	.	.	Z	Z	_	0	Punc	13:punct	UposTag=PUNCT
 
 1	Vezivno	vezivni	A	Agpnsny	Case=nominative|Degree=positive|Gender=neuter|Number=singular|Type=general	2	Atr	2:amod	UposTag=ADJ|Case=Nom|Degree=Pos|Gender=Neut|Number=Sing
@@ -1308,7 +1308,7 @@
 11	,	,	Z	Z	_	19	Punc	10:punct	UposTag=PUNCT
 12	neka	neki	P	Pi-npn--n-a	Case=nominative|Clitic=no|Gender=neuter|Number=plural|Syntactic_Type=adjectival|Type=indefinite	13	Sb	13:nsubj	UposTag=PRON|Case=Nom|Gender=Neut|Number=Plur|PronType=Ind
 13	žive	živjeti	V	Vmr3p	Number=plural|Person=third|Type=main|VForm=present	19	Pred	10:conj	UposTag=VERB|Number=Plur|Person=3|Tense=Pres
-14	i	i	Q	Qo	Type=modal	15	Oth	15:discourse	UposTag=PART
+14	i	i	C	Cc	Type=modal	15	Oth	15:discourse	UposTag=PART
 15	nekoliko	nekoliko	R	Rgp	Degree=positive|Type=general	16	Adv	16:advmod	UposTag=ADV|Degree=Pos
 16	tisuća	tisuća	N	Ncfpg	Case=genitive|Gender=feminine|Number=plural|Type=common	13	Adv	17:nummod	UposTag=NOUN|Case=Gen|Gender=Fem|Number=Plur
 17	godina	godina	N	Ncfpg	Case=genitive|Gender=feminine|Number=plural|Type=common	16	Atr	13:nmod	UposTag=NOUN|Case=Gen|Gender=Fem|Number=Plur
@@ -1318,7 +1318,7 @@
 21	narasti	narasti	V	Vmn	Type=main|VForm=infinitive	20	Atv	20:xcomp	UposTag=VERB|VerbForm=Inf
 22	do	do	S	Sg	Case=genitive	23	Oth	23:case	UposTag=ADP|Case=Gen
 23	115	115	M	Md	Form=digit	24	Atr	24:nummod	UposTag=NUM
-24	m	m	N	Ncmsn	Case=nominative|Gender=masculine|Number=singular|Type=common	21	Adv	21:nmod	UposTag=NOUN|Case=Nom|Gender=Masc|Number=Sing
+24	m	m	Y	Y	Case=nominative|Gender=masculine|Number=singular|Type=common	21	Adv	21:nmod	UposTag=NOUN|Case=Nom|Gender=Masc|Number=Sing
 25	visine	visina	N	Ncfsg	Case=genitive|Gender=feminine|Number=singular|Type=common	24	Atr	24:nmod	UposTag=NOUN|Case=Gen|Gender=Fem|Number=Sing
 26	.	.	Z	Z	_	0	Punc	10:punct	UposTag=PUNCT
 
@@ -1361,7 +1361,7 @@
 7	mogla	moći	V	Vmp-sf	Gender=feminine|Number=singular|Type=main|VForm=participle	12	Pred	0:root	UposTag=VERB|Gender=Fem|Number=Sing|VerbForm=Part
 8	priuštiti	priuštiti	V	Vmn	Type=main|VForm=infinitive	7	Atv	7:xcomp	UposTag=VERB|VerbForm=Inf
 9	školovanje	školovanje	N	Ncnsa	Case=accusative|Gender=neuter|Number=singular|Type=common	8	Obj	7:dobj	UposTag=NOUN|Case=Acc|Gender=Neut|Number=Sing
-10	četiri	četiri	M	Mlc-p	Form=letter|Number=plural|Type=cardinal	11	Atr	11:nummod	UposTag=NUM|Number=Plur|NumType=Card
+10	četiri	četiri	M	Mlc	Form=letter|Number=plural|Type=cardinal	11	Atr	11:nummod	UposTag=NUM|Number=Plur|NumType=Card
 11	djeteta	dijete	N	Ncnsg	Case=genitive|Gender=neuter|Number=singular|Type=common	9	Atr	9:nmod	UposTag=NOUN|Case=Gen|Gender=Neut|Number=Sing
 12	te	te	C	Cc	Type=coordinating	0	Co	7:cc	UposTag=CONJ
 13	je	biti	V	Var3s	Number=singular|Person=third|Type=auxiliary|VForm=present	17	Aux	17:aux	UposTag=AUX|Number=Sing|Person=3|Tense=Pres
@@ -1436,7 +1436,7 @@
 1	Ako	ako	C	Cs	Type=subordinating	9	Sub	3:mark	UposTag=SCONJ
 2	mačka	mačka	N	Ncfsn	Case=nominative|Gender=feminine|Number=singular|Type=common	3	Sb	3:nsubj	UposTag=NOUN|Case=Nom|Gender=Fem|Number=Sing
 3	ima	imati	V	Vmr3s	Number=singular|Person=third|Type=main|VForm=present	1	Pred	10:advcl	UposTag=VERB|Number=Sing|Person=3|Tense=Pres
-4	dva	dva	M	Mlc-p	Form=letter|Number=plural|Type=cardinal	6	Atr	6:nummod	UposTag=NUM|Number=Plur|NumType=Card
+4	dva	dva	M	Mlc	Form=letter|Number=plural|Type=cardinal	6	Atr	6:nummod	UposTag=NUM|Number=Plur|NumType=Card
 5	plava	plav	A	Agpnsgn	Case=genitive|Degree=positive|Gender=neuter|Number=singular|Type=general	6	Atr	6:amod	UposTag=ADJ|Case=Gen|Degree=Pos|Gender=Neut|Number=Sing
 6	oka	oko	N	Ncnsg	Case=genitive|Gender=neuter|Number=singular|Type=common	3	Obj	3:dobj	UposTag=NOUN|Case=Gen|Gender=Neut|Number=Sing
 7	,	,	Z	Z	_	1	Punc	3:punct	UposTag=PUNCT
@@ -1448,7 +1448,7 @@
 13	ako	ako	C	Cs	Type=subordinating	18	Sub	17:mark	UposTag=SCONJ
 14	su	biti	V	Var3p	Number=plural|Person=third|Type=auxiliary|VForm=present	13	Pred	17:cop	UposTag=AUX|Number=Plur|Person=3|Tense=Pres
 15	joj	on	P	Pp3fsd--y-n	Case=dative|Clitic=yes|Gender=feminine|Number=singular|Person=third|Syntactic_Type=nominal|Type=personal	14	Obj	17:dobj	UposTag=PRON|Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs
-16	oči	oko	N	Ncnpn	Case=nominative|Gender=neuter|Number=plural|Type=common	14	Sb	17:nsubj	UposTag=NOUN|Case=Nom|Gender=Neut|Number=Plur
+16	oči	oko	N	Ncfpn	Case=nominative|Gender=neuter|Number=plural|Type=common	14	Sb	17:nsubj	UposTag=NOUN|Case=Nom|Gender=Neut|Number=Plur
 17	narančaste	narančast	A	Agpfpny	Case=nominative|Degree=positive|Gender=feminine|Number=plural|Type=general	14	Pnom	18:advcl	UposTag=ADJ|Case=Nom|Degree=Pos|Gender=Fem|Number=Plur
 18	nema	nemati	V	Vmr3s	Number=singular|Person=third|Type=main|VForm=present	12	Pred	10:conj	UposTag=VERB|Number=Sing|Person=3|Tense=Pres
 19	problema	problem	N	Ncmpg	Case=genitive|Gender=masculine|Number=plural|Type=common	18	Obj	18:xcomp	UposTag=NOUN|Case=Gen|Gender=Masc|Number=Plur
@@ -1470,8 +1470,8 @@
 12	.	.	Z	Z	_	0	Punc	3:punct	UposTag=PUNCT
 
 1	Ove	ovaj	P	Pd-fpn--n-a	Case=nominative|Clitic=no|Gender=feminine|Number=plural|Syntactic_Type=adjectival|Type=demonstrative	3	Atr	3:det	UposTag=PRON|Case=Nom|Gender=Fem|Number=Plur|PronType=Dem
-2	tri	tri	M	Mlc-p	Form=letter|Number=plural|Type=cardinal	3	Atr	3:nummod	UposTag=NUM|Number=Plur|NumType=Card
-3	primjene	primjena	N	Ncfpn	Case=nominative|Gender=feminine|Number=plural|Type=common	4	Sb	4:nsubj	UposTag=NOUN|Case=Nom|Gender=Fem|Number=Plur
+2	tri	tri	M	Mlc	Form=letter|Number=plural|Type=cardinal	3	Atr	3:nummod	UposTag=NUM|Number=Plur|NumType=Card
+3	primjene	primjena	N	Ncfsg	Case=nominative|Gender=feminine|Number=plural|Type=common	4	Sb	4:nsubj	UposTag=NOUN|Case=Nom|Gender=Fem|Number=Plur
 4	mogu	moći	V	Vmr3p	Number=plural|Person=third|Type=main|VForm=present	0	Pred	0:root	UposTag=VERB|Number=Plur|Person=3|Tense=Pres
 5	se	sebe	P	Px--sa--ypn	Case=accusative|Clitic=yes|Number=singular|Referent_Type=personal|Syntactic_Type=nominal|Type=reflexive	4	Aux	4:compound	UposTag=PRON|Case=Acc|Number=Sing|Reflex=Yes
 6	dovesti	dovesti	V	Vmn	Type=main|VForm=infinitive	4	Atv	4:xcomp	UposTag=VERB|VerbForm=Inf
@@ -1668,10 +1668,10 @@
 9	je	biti	V	Var3s	Number=singular|Person=third|Type=auxiliary|VForm=present	0	Pred	12:cop	UposTag=AUX|Number=Sing|Person=3|Tense=Pres
 10	od	od	S	Sg	Case=genitive	9	Prep	12:case	UposTag=ADP|Case=Gen
 11	3	3	M	Md	Form=digit	12	Atr	12:nummod	UposTag=NUM
-12	m	m	N	Ncmsn	Case=nominative|Gender=masculine|Number=singular|Type=common	10	Adv	0:root	UposTag=NOUN|Case=Nom|Gender=Masc|Number=Sing
+12	m	m	Y	Y	Case=nominative|Gender=masculine|Number=singular|Type=common	10	Adv	0:root	UposTag=NOUN|Case=Nom|Gender=Masc|Number=Sing
 13	do	do	S	Sg	Case=genitive	9	Prep	15:case	UposTag=ADP|Case=Gen
 14	6	6	M	Md	Form=digit	15	Atr	15:nummod	UposTag=NUM
-15	m	m	N	Ncmsn	Case=nominative|Gender=masculine|Number=singular|Type=common	13	Adv	12:conj	UposTag=NOUN|Case=Nom|Gender=Masc|Number=Sing
+15	m	m	Y	Y	Case=nominative|Gender=masculine|Number=singular|Type=common	13	Adv	12:conj	UposTag=NOUN|Case=Nom|Gender=Masc|Number=Sing
 16	,	,	Z	Z	_	17	Punc	19:punct	UposTag=PUNCT
 17	ovisno	ovisno	R	Rgp	Degree=positive|Type=general	9	Adv	19:advmod	UposTag=ADV|Degree=Pos
 18	o	o	S	Sl	Case=locative	17	Prep	19:case	UposTag=ADP|Case=Loc
@@ -1917,7 +1917,7 @@
 
 1	Također	također	R	Rgp	Degree=positive|Type=general	2	Adv	5:discourse	UposTag=ADV|Degree=Pos
 2	je	biti	V	Var3s	Number=singular|Person=third|Type=auxiliary|VForm=present	0	Pred	5:cop	UposTag=AUX|Number=Sing|Person=3|Tense=Pres
-3	i	i	Q	Qo	Type=modal	5	Oth	5:discourse	UposTag=PART
+3	i	i	C	Cc	Type=modal	5	Oth	5:discourse	UposTag=PART
 4	životna	životan	A	Agpfsny	Case=nominative|Degree=positive|Gender=feminine|Number=singular|Type=general	5	Atr	5:amod	UposTag=ADJ|Case=Nom|Degree=Pos|Gender=Fem|Number=Sing
 5	zajednica	zajednica	N	Ncfsn	Case=nominative|Gender=feminine|Number=singular|Type=common	2	Pnom	0:root	UposTag=NOUN|Case=Nom|Gender=Fem|Number=Sing
 6	.	.	Z	Z	_	0	Punc	5:punct	UposTag=PUNCT
@@ -1939,7 +1939,7 @@
 2	se	sebe	P	Px--sa--ypn	Case=accusative|Clitic=yes|Number=singular|Referent_Type=personal|Syntactic_Type=nominal|Type=reflexive	3	Aux	3:compound	UposTag=PRON|Case=Acc|Number=Sing|Reflex=Yes
 3	dijele	dijeliti	V	Vmr3p	Number=plural|Person=third|Type=main|VForm=present	0	Pred	0:root	UposTag=VERB|Number=Plur|Person=3|Tense=Pres
 4	u	u	S	Sa	Case=accusative	3	Prep	6:case	UposTag=ADP|Case=Acc
-5	tri	tri	M	Mlc-p	Form=letter|Number=plural|Type=cardinal	6	Atr	6:nummod	UposTag=NUM|Number=Plur|NumType=Card
+5	tri	tri	M	Mlc	Form=letter|Number=plural|Type=cardinal	6	Atr	6:nummod	UposTag=NUM|Number=Plur|NumType=Card
 6	oceana	ocean	N	Ncmsg	Case=genitive|Gender=masculine|Number=singular|Type=common	4	Adv	3:nmod	UposTag=NOUN|Case=Gen|Gender=Masc|Number=Sing
 7	:	:	Z	Z	_	6	Punc	13:punct	UposTag=PUNCT
 8	Tihi	tih	A	Agpmsny	Case=nominative|Degree=positive|Gender=masculine|Number=singular|Type=general	11	Atr	13:compound	UposTag=ADJ|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing

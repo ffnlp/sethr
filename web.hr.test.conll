@@ -4,7 +4,7 @@
 4	dolazimo	dolaziti	V	Vmr1p	_	0	Pred	_	_
 5	do	do	S	Sg	_	4	Prep	_	_
 6	pitanja	pitanje	N	Ncnsg	_	5	Obj	_	_
-7	zašto	zašto	C	Cs	_	6	Sub	_	_
+7	zašto	zašto	R	Rgp	_	6	Sub	_	_
 8	se	sebe	P	Px--sa--ypn	_	11	Aux	_	_
 9	hrvatskom	hrvatski	A	Agpmsdy	_	10	Atr	_	_
 10	narodu	narod	N	Ncmsd	_	11	Obj	_	_
@@ -86,7 +86,7 @@
 5	zahvalni	zahvalan	A	Agpmpny	_	3	Pnom	_	_
 6	Svetom	svet	N	Ncmsd	_	7	Atr	_	_
 7	ocu	otac	N	Ncmsd	_	5	Obj	_	_
-8	što	što	C	Cs	_	5	Sub	_	_
+8	što	što	P	Pi3n-n--n-nn	_	5	Sub	_	_
 9	nam	mi	P	Pp1-pd--y-n	_	13	Obj	_	_
 10	je	biti	V	Var3s	_	13	Aux	_	_
 11	još	još	R	Rgp	_	12	Oth	_	_
@@ -153,7 +153,7 @@
 23	.	.	Z	Z	_	0	Punc	_	_
 
 1	Tijekom	tijekom	S	Sg	_	8	Prep	_	_
-2	srednjega	srednjega	A	Agsmsgy	_	3	Atr	_	_
+2	srednjega	srednji	A	Agsmsgy	_	3	Atr	_	_
 3	vijeka	vijek	N	Ncmsg	_	1	Adv	_	_
 4	teolozi	teolog	N	Ncmpn	_	8	Sb	_	_
 5	su	biti	V	Var3p	_	8	Aux	_	_
@@ -216,7 +216,7 @@
 
 1	Nastupilo	nastupiti	V	Vmp-sn	_	0	Pred	_	_
 2	je	biti	V	Var3s	_	1	Aux	_	_
-3	šest	šest	M	Mlc-p	_	5	Atr	_	_
+3	šest	šest	M	Mlc	_	5	Atr	_	_
 4	Osnovnih	osnovan	A	Agpfpgy	_	5	Atr	_	_
 5	škola	škola	N	Ncfpg	_	6	Sb	_	_
 6	-	-	Z	Z	_	1	Co	_	_
@@ -336,7 +336,7 @@
 2	godine	godina	N	Ncfsg	_	3	Adv	_	_
 3	obilježava	obilježavati	V	Vmr3s	_	0	Pred	_	_
 4	se	sebe	P	Px--sa--ypn	_	3	Aux	_	_
-5	petnaest	petnaest	M	Mlc-p	_	6	Atr	_	_
+5	petnaest	petnaest	M	Mlc	_	6	Atr	_	_
 6	godina	godina	N	Ncfpg	_	3	Adv	_	_
 7	od	od	S	Sg	_	6	Prep	_	_
 8	potpisivanja	potpisivanje	N	Ncnsg	_	7	Atr	_	_
@@ -520,7 +520,7 @@
 30	događale	događati	V	Vmp-pf	_	25	Pred	_	_
 31	u	u	S	Sg	_	30	Prep	_	_
 32	proteklih	protekao	A	Agpnpgy	_	36	Atr	_	_
-33	četiri	četiri	M	Mlc-p	_	36	Atr	_	_
+33	četiri	četiri	M	Mlc	_	36	Atr	_	_
 34	i	i	C	Cc	_	35	Oth	_	_
 35	pol	pola	R	Rgp	_	33	Atr	_	_
 36	desetljeća	desetljeće	N	Ncnsg	_	31	Adv	_	_
@@ -592,11 +592,11 @@
 41	istodobno	istodobno	R	Rgp	_	43	Adv	_	_
 42	je	biti	V	Var3s	_	43	Aux	_	_
 43	počela	početi	V	Vmp-sf	_	40	Pred	_	_
-44	tiha	tiha	N	Ncfsn	_	45	Atr	_	_
+44	tiha	tih	A	Agpfsny	_	45	Atr	_	_
 45	evakuacija	evakuacija	N	Ncfsn	_	43	Sb	_	_
 46	obitelji	obitelj	N	Ncfpg	_	45	Atr	_	_
 47	oficira	oficir	N	Ncmpg	_	46	Atr	_	_
-48	JNA	Jn	N	Npmsg	_	47	Atr	_	_
+48	JNA	JNA	N	Npfsg	_	47	Atr	_	_
 49	,	,	Z	Z	_	51	Punc	_	_
 50	kao	kao	C	Cs	_	51	Oth	_	_
 51	najava	najava	N	Ncfsn	_	45	Atr	_	_
@@ -788,7 +788,7 @@
 8	koristi	koristiti	V	Vmr3s	_	6	Pred	_	_
 9	u	u	S	Sl	_	8	Prep	_	_
 10	procesu	proces	N	Ncmsl	_	9	Obj	_	_
-11	virusne	virusan	A	Agpfsgy	_	12	Atr	_	_
+11	virusne	virusni	A	Agpfsgy	_	12	Atr	_	_
 12	replikacije	replikacija	N	Ncfsg	_	10	Atr	_	_
 13	.	.	Z	Z	_	0	Punc	_	_
 
@@ -800,7 +800,7 @@
 6	nekoliko	nekoliko	R	Rgp	_	8	Atr	_	_
 7	vojnih	vojni	A	Agpfpgy	_	8	Atr	_	_
 8	baza	baza	N	Ncfpg	_	5	Adv	_	_
-9	diljem	diljem	R	Rgp	_	8	Prep	_	_
+9	diljem	diljem	S	Sg	_	8	Prep	_	_
 10	zemlje	zemlja	N	Ncfsg	_	9	Atr	_	_
 11	.	.	Z	Z	_	0	Punc	_	_
 
@@ -937,8 +937,8 @@
 18	bez	bez	S	Sg	_	20	Prep	_	_
 19	pogovora	pogovor	N	Ncmsg	_	18	Obj	_	_
 20	plaćaju	plaćati	V	Vmr3p	_	24	Pred	_	_
-21	sto	sto	M	Mlc-p	_	22	Oth	_	_
-22	pedeset	pedeset	M	Mlc-p	_	23	Atr	_	_
+21	sto	sto	M	Mlc	_	22	Oth	_	_
+22	pedeset	pedeset	M	Mlc	_	23	Atr	_	_
 23	kuna	kuna	N	Ncfpg	_	20	Adv	_	_
 24	i	i	C	Cc	_	0	Co	_	_
 25	ne	ne	Q	Qz	_	26	Aux	_	_
@@ -950,7 +950,7 @@
 31	pregled	pregled	N	Ncmsan	_	30	Obj	_	_
 32	morali	morati	V	Vmp-pm	_	28	Pred	_	_
 33	čekati	čekati	V	Vmn	_	32	Atv	_	_
-34	dva	dva	M	Mlc-p	_	35	Atr	_	_
+34	dva	dva	M	Mlc	_	35	Atr	_	_
 35	sata	sat	N	Ncmsg	_	33	Adv	_	_
 36	okruženi	okružiti	A	Appmpny	_	33	Atv	_	_
 37	velikim	velik	A	Agpmpiy	_	38	Atr	_	_
@@ -982,7 +982,7 @@
 16	je	biti	V	Var3s	_	15	Pred	_	_
 17	svega	svega	R	Rgp	_	18	Oth	_	_
 18	oko	oko	S	Sg	_	19	Oth	_	_
-19	tri	tri	M	Mlc-p	_	20	Atr	_	_
+19	tri	tri	M	Mlc	_	20	Atr	_	_
 20	posto	posto	R	Rgp	_	16	Adv	_	_
 21	novoupisanih	novoupisan	A	Agpmpgy	_	22	Atr	_	_
 22	studenata	student	N	Ncmpg	_	20	Atr	_	_
@@ -1270,7 +1270,7 @@
 2	engleski	engleski	A	Agpmsayn	_	3	Atr	_	_
 3	jezik	jezik	N	Ncmsan	_	1	Obj	_	_
 4	otpada	otpadati	V	Vmr3s	_	11	Pred	_	_
-5	osamdeset	osamdeset	M	Mlc-p	_	6	Atr	_	_
+5	osamdeset	osamdeset	M	Mlc	_	6	Atr	_	_
 6	posto	posto	R	Rgp	_	4	Sb	_	_
 7	polaznika	polaznik	N	Ncmpg	_	6	Atr	_	_
 8	jezičnih	jezični	A	Agpmpgy	_	9	Atr	_	_
@@ -1339,7 +1339,7 @@
 6	nije	biti	V	Var3s-y	_	7	Aux	_	_
 7	proširilo	proširiti	V	Vmp-sn	_	0	Pred	_	_
 8	na	na	S	Sa	_	7	Prep	_	_
-9	susjedne	susjedan	A	Agpfpay	_	10	Atr	_	_
+9	susjedne	susjedni	A	Agpfpay	_	10	Atr	_	_
 10	zemlje	zemlja	N	Ncfpa	_	8	Obj	_	_
 11	kod	kod	S	Sg	_	10	Prep	_	_
 12	kojih	koji	P	Pi-fpg--n-a	_	11	Sub	_	_
@@ -1394,9 +1394,9 @@
 8	koji	koji	P	Pi-msn--n-a	_	7	Sub	_	_
 9	je	biti	V	Var3s	_	8	Pred	_	_
 10	posljednje	posljednji	A	Agpfpay	_	12	Atr	_	_
-11	tri	tri	M	Mlc-p	_	12	Atr	_	_
+11	tri	tri	M	Mlc	_	12	Atr	_	_
 12	godine	godina	N	Ncfsg	_	13	Adv	_	_
-13	primjetan	primijetiti	A	Appmsnn	_	9	Pnom	_	_
+13	primjetan	primjetan	A	Agpmsnn	_	9	Pnom	_	_
 14	i	i	C	Cc	_	15	Oth	_	_
 15	u	u	S	Sl	_	13	Prep	_	_
 16	Hrvatskoj	Hrvatska	N	Npfsl	_	15	Adv	_	_
@@ -1431,7 +1431,7 @@
 27	je	biti	V	Var3s	_	29	Aux	_	_
 28	pjevač	pjevač	N	Ncmsn	_	29	Sb	_	_
 29	pozvao	pozvati	V	Vmp-sm	_	26	Pred	_	_
-30	sve	svi	A	Agpmpay	_	33	Atr	_	_
+30	sve	sav	A	Agpmpay	_	33	Atr	_	_
 31	zainteresirane	zainteresiran	A	Agpmpay	_	33	Atr	_	_
 32	momke	momak	N	Ncmpa	_	33	Obj	_	_
 33	i	i	C	Cc	_	29	Co	_	_
@@ -1615,10 +1615,10 @@
 
 1	Klape	Klape	N	Npmsn	_	2	Sb	_	_
 2	pjevaju	pjevati	V	Vmr3p	_	0	Pred	_	_
-3	u	u	S	Sa	_	2	Prep	_	_
+3	u	u	S	Sl	_	2	Prep	_	_
 4	a	a	X	Xf	_	5	Oth	_	_
 5	capella	capella	X	Xf	_	6	Atr	_	_
-6	formi	formi	V	Vmn	_	3	Obj	_	_
+6	formi	forma	N	Ncfsl	_	3	Obj	_	_
 7	bez	bez	S	Sg	_	6	Prep	_	_
 8	instrumentalne	instrumentalan	A	Agpfsgy	_	9	Atr	_	_
 9	pratnje	pratnja	N	Ncfsg	_	7	Atr	_	_
@@ -1748,7 +1748,7 @@
 4	upalio	upaliti	V	Vmp-sm	_	16	Pred	_	_
 5	jer	jer	C	Cs	_	4	Sub	_	_
 6	su	biti	V	Var3p	_	9	Aux	_	_
-7	oba	oba	M	Mlsmpn	_	8	Atr	_	_
+7	oba	oba	M	Mlcm-n	_	8	Atr	_	_
 8	filma	film	N	Ncmsg	_	9	Sb	_	_
 9	postali	postati	V	Vmp-sm	_	11	Pred	_	_
 10	hitovi	hit	N	Ncmpn	_	9	Pnom	_	_
@@ -1767,7 +1767,7 @@
 23	predmet	predmet	N	Ncmsn	_	20	Atv	_	_
 24	istrage	istraga	N	Ncfsg	_	23	Atr	_	_
 25	,	,	Z	Z	_	26	Punc	_	_
-26	nakon	nakon	S	Sg	_	20	Prep	_	_
+26	nakon	nakon	C	Cs	_	20	Prep	_	_
 27	što	što	P	Pi3n-a--n-nn	_	26	Sub	_	_
 28	je	biti	V	Var3s	_	32	Aux	_	_
 29	na	na	S	Sl	_	32	Prep	_	_
@@ -1898,7 +1898,7 @@
 16	a	a	C	Cc	_	0	Co	_	_
 17	nije	biti	V	Var3s-y	_	18	Aux	_	_
 18	izostao	izostati	V	Vmp-sm	_	16	Pred	_	_
-19	ni	ni	C	Cc	_	21	Oth	_	_
+19	ni	ni	Q	Qz	_	21	Oth	_	_
 20	noćni	noćni	A	Agpmsny	_	21	Atr	_	_
 21	tulum	tulum	N	Ncmsn	_	18	Sb	_	_
 22	.	.	Z	Z	_	0	Punc	_	_
@@ -1937,8 +1937,8 @@
 15	Marić	Marić	N	Npfsn	_	10	Elp	_	_
 16	.	.	Z	Z	_	0	Punc	_	_
 
-1	Motovunska	motovunska	N	Ncfsn	_	2	Atr	_	_
-2	šuma	šuma	N	Ncfpg	_	3	Sb	_	_
+1	Motovunska	motovunski	A	Agpfsny	_	2	Atr	_	_
+2	šuma	šuma	N	Ncfsn	_	3	Sb	_	_
 3	je	biti	V	Var3s	_	0	Pred	_	_
 4	već	već	R	Rgp	_	3	Oth	_	_
 5	nekoliko	nekoliko	R	Rgp	_	6	Atr	_	_
