@@ -76,7 +76,7 @@
 8	institucije	institucija	N	Ncfpa	_	1	Obj	_	_
 9	Hrvata	Hrvat	N	Npmpg	_	8	Atr	_	_
 10	u	u	S	Sl	_	8	Prep	_	_
-11	BiH	Bih	N	Npmsl	_	10	Atr	_	_
+11	BiH	BiH	N	Npfsl	_	10	Atr	_	_
 12	.	.	Z	Z	_	0	Punc	_	_
 
 1	Zbog	zbog	S	Sg	_	3	Prep	_	_
@@ -95,7 +95,7 @@
 14	prigodu	prigoda	N	Ncfsa	_	13	Obj	_	_
 15	da	da	C	Cs	_	14	Sub	_	_
 16	,	,	Z	Z	_	19	Punc	_	_
-17	kao	kao	R	Rgp	_	19	Oth	_	_
+17	kao	kao	C	Cs	_	19	Oth	_	_
 18	mali	mali	A	Agpmsny	_	19	Atr	_	_
 19	narod	narod	N	Ncmsn	_	22	Elp	_	_
 20	Europe	Europa	N	Npfsg	_	19	Atr	_	_
@@ -241,7 +241,7 @@
 10	jasan	jasan	A	Agpmsnn	_	11	Pnom	_	_
 11	i	i	C	Cc	_	9	Co	_	_
 12	izravan	izravan	A	Agpmsnn	_	11	Pnom	_	_
-13	tako	tako	R	Rgp	_	14	Oth	_	_
+13	tako	tako	C	Cs	_	14	Oth	_	_
 14	da	da	C	Cs	_	9	Sub	_	_
 15	će	htjeti	V	Var3s	_	17	Aux	_	_
 16	njegova	njegov	P	Ps3fsnsmn-a	_	17	Atr	_	_
@@ -321,15 +321,15 @@
 12	državno	državni	A	Agpnsay	_	13	Atr	_	_
 13	prvenstvo	prvenstvo	N	Ncnsa	_	8	Obj	_	_
 14	u	u	S	Sl	_	13	Prep	_	_
-15	mini	mini	X	Xf	_	16	Atr	_	_
+15	mini	mini	A	Agpmsly	_	16	Atr	_	_
 16	i	i	C	Cc	_	19	Co	_	_
-17	super	super	X	Xf	_	18	Oth	_	_
-18	mini	mini	X	Xf	_	16	Atr	_	_
+17	super	super	A	Agpmsly	_	18	Oth	_	_
+18	mini	mini	A	Agpmsly	_	16	Atr	_	_
 19	rukometu	rukomet	N	Ncmsl	_	14	Atr	_	_
 20	za	za	S	Sa	_	19	Prep	_	_
-21	djevojčice	Djevojčica	N	Npfpa	_	22	Atr	_	_
+21	djevojčice	djevojčica	N	Ncfpa	_	22	Atr	_	_
 22	i	i	C	Cc	_	20	Co	_	_
-23	dječake	Dječak	N	Npmpa	_	22	Atr	_	_
+23	dječake	dječak	N	Ncmpa	_	22	Atr	_	_
 24	.	.	Z	Z	_	0	Punc	_	_
 
 1	Ove	ovaj	P	Pd-fsg--n-a	_	2	Atr	_	_
@@ -413,7 +413,7 @@
 6	ako	ako	C	Cs	_	13	Elp	_	_
 7	uđe	ući	V	Vmr3s	_	6	Pred	_	_
 8	u	u	S	Sa	_	7	Prep	_	_
-9	EU	Ea	N	Npfsa	_	8	Adv	_	_
+9	EU	EU	N	Npfsa	_	8	Adv	_	_
 10	,	,	Z	Z	_	6	Punc	_	_
 11	na	na	S	Sl	_	13	Prep	_	_
 12	raspolaganju	raspolaganje	N	Ncnsl	_	11	Obj	_	_
@@ -713,14 +713,14 @@
 2	,	,	Z	Z	_	1	Punc	_	_
 3	napravit	napraviti	V	Vmn	_	0	Pred	_	_
 4	ćemo	htjeti	V	Var1p	_	3	Aux	_	_
-5	sve	sve	P	Pi-nsa----a	_	3	Obj	_	_
+5	sve	sve	P	Pi-nsa--n-a	_	3	Obj	_	_
 6	da	da	C	Cs	_	3	Sub	_	_
 7	bismo	biti	V	Vaa1p	_	8	Aux	_	_
 8	nastavili	nastaviti	V	Vmp-pm	_	6	Pred	_	_
 9	kontinuitet	kontinuitet	N	Ncmsan	_	8	Obj	_	_
 10	odličnih	odličan	A	Agpmpgy	_	11	Atr	_	_
 11	nastupa	nastup	N	Ncmpg	_	9	Atr	_	_
-12	koje	koji	P	Pi-mpn--n-a	_	11	Sub	_	_
+12	koje	koji	P	Pi-mpa--n-a	_	11	Sub	_	_
 13	već	već	R	Rgp	_	15	Oth	_	_
 14	godinama	godina	N	Ncfpi	_	15	Adv	_	_
 15	držimo	držati	V	Vmr1p	_	12	Pred	_	_
@@ -834,7 +834,7 @@
 13	srednje	srednji	A	Agpfpay	_	12	Atr	_	_
 14	škole	škola	N	Ncfpa	_	9	Obj	_	_
 15	te	te	C	Cc	_	6	Co	_	_
-16	polaznici	polaznik	N	Ncmsn	_	15	Sb	_	_
+16	polaznici	polaznik	N	Ncmpn	_	15	Sb	_	_
 17	Centra	centar	N	Ncmsg	_	23	Ap	_	_
 18	za	za	S	Sa	_	17	Prep	_	_
 19	odgoj	odgoj	N	Ncmsan	_	20	Atr	_	_
@@ -883,8 +883,8 @@
 9	,	,	Z	Z	_	10	Punc	_	_
 10	ali	ali	C	Cc	_	0	Co	_	_
 11	ne	ne	Q	Qz	_	19	Elp	_	_
-12	zato	zato	R	Rgp	_	13	Oth	_	_
-13	što	što	P	Pi3n-n--n-nn	_	11	Sub	_	_
+12	zato	zato	C	Cs	_	13	Oth	_	_
+13	što	što	C	Cs	_	11	Sub	_	_
 14	potiskujem	potiskivati	V	Vmr1s	_	13	Pred	_	_
 15	svoje	svoj	P	Px-mpa--nsa	_	16	Atr	_	_
 16	osjećaje	osjećaj	N	Ncmpa	_	14	Obj	_	_
@@ -912,9 +912,9 @@
 12	temelji	temeljiti	V	Vmr3s	_	10	Pred	_	_
 13	na	na	S	Sl	_	12	Prep	_	_
 14	izgradnji	izgradnja	N	Ncfsl	_	13	Obj	_	_
-15	vlastite	vlastit	A	Agpfsay	_	17	Atr	_	_
-16	telekomunikacijske	telekomunikacijski	A	Agpfsay	_	17	Atr	_	_
-17	infrastrukture	infrastruktura	N	Ncfsa	_	14	Atr	_	_
+15	vlastite	vlastit	A	Agpfsgy	_	17	Atr	_	_
+16	telekomunikacijske	telekomunikacijski	A	Agpfsgy	_	17	Atr	_	_
+17	infrastrukture	infrastruktura	N	Ncfsg	_	14	Atr	_	_
 18	.	.	Z	Z	_	0	Punc	_	_
 
 1	Pederi	peder	N	Ncmpn	_	2	Sb	_	_
@@ -1106,7 +1106,7 @@
 22	obrazuju	obrazovati	V	Vmr3p	_	21	Pred	_	_
 23	se	sebe	P	Px--sa--ypn	_	22	Aux	_	_
 24	te	te	C	Cc	_	3	Co	_	_
-25	razgovor	razgovor	N	Ncmsan	_	24	Sb	_	_
+25	razgovor	razgovor	N	Ncmsn	_	24	Sb	_	_
 26	sa	sa	S	Si	_	25	Prep	_	_
 27	zatvorenicima	zatvorenik	N	Ncmpi	_	26	Atr	_	_
 28	o	o	S	Sl	_	34	Prep	_	_
@@ -1188,7 +1188,7 @@
 5	je	biti	V	Var3s	_	0	Pred	_	_
 6	intenzivan	intenzivan	A	Agpmsnn	_	5	Pnom	_	_
 7	,	,	Z	Z	_	9	Punc	_	_
-8	tako	tako	R	Rgp	_	9	Oth	_	_
+8	tako	tako	C	Cs	_	9	Oth	_	_
 9	da	da	C	Cs	_	5	Sub	_	_
 10	u	u	S	Sl	_	14	Prep	_	_
 11	6	6	M	Mdc	_	12	Atr	_	_
@@ -1368,7 +1368,7 @@
 6	100	100	M	Mdc	_	7	Atr	_	_
 7	%	%	Z	Z	_	5	Adv	_	_
 8	omogućilo	omogućiti	V	Vmp-sn	_	0	Pred	_	_
-9	mi	mi	P	Pp1-sd--y-n	_	8	Obj	_	_
+9	mi	ja	P	Pp1-sd--y-n	_	8	Obj	_	_
 10	je	biti	V	Var3s	_	8	Aux	_	_
 11	da	da	C	Cs	_	8	Sub	_	_
 12	situaciju	situacija	N	Ncfsa	_	13	Obj	_	_
@@ -1407,7 +1407,7 @@
 3	imala	imati	V	Vmp-sf	_	12	Pred	_	_
 4	svoju	svoj	P	Px-fsa--nsa	_	5	Atr	_	_
 5	premijeru	premijera	N	Ncfsa	_	3	Obj	_	_
-6	krajem	kraj	N	Ncmsi	_	3	Adv	_	_
+6	krajem	krajem	S	Sg	_	3	Adv	_	_
 7	siječnja	siječanj	N	Ncmsg	_	6	Atr	_	_
 8	na	na	S	Sl	_	3	Prep	_	_
 9	Narodnom	narodni	A	Agpmsly	_	10	Atr	_	_
@@ -1517,10 +1517,10 @@
 11	rezultat	rezultat	N	Ncmsn	_	17	Atv	_	_
 12	tih	taj	P	Pd-mpg--n-a	_	13	Atr	_	_
 13	napora	napor	N	Ncmpg	_	11	Atr	_	_
-14	mnoga	mnogi	A	Agpfpny	_	15	Atr	_	_
-15	djeca	djeca	N	Ncfpn	_	17	Sb	_	_
+14	mnoga	mnogi	A	Agpfsny	_	15	Atr	_	_
+15	djeca	dijete	N	Ncnpn	_	17	Sb	_	_
 16	su	biti	V	Var3p	_	17	Aux	_	_
-17	dobila	dobiti	V	Vmp-pn	_	9	Pred	_	_
+17	dobila	dobiti	V	Vmp-sf	_	9	Pred	_	_
 18	obrazovanje	obrazovanje	N	Ncnsa	_	17	Obj	_	_
 19	po	po	S	Sa	_	17	Prep	_	_
 20	prvi	prvi	A	Agpmsayn	_	21	Atr	_	_
@@ -1634,7 +1634,7 @@
 8	te	taj	P	Pd-fsg--n-a	_	0	Co	_	_
 9	je	biti	V	Var3s	_	8	Pred	_	_
 10	prizemlje	prizemlje	N	Ncnsn	_	9	Pred	_	_
-11	puno	puno	A	Agpnsny	_	9	Pnom	_	_
+11	puno	pun	A	Agpnsny	_	9	Pnom	_	_
 12	vlage	vlaga	N	Ncfsg	_	11	Obj	_	_
 13	.	.	Z	Z	_	0	Punc	_	_
 
@@ -1768,7 +1768,7 @@
 24	istrage	istraga	N	Ncfsg	_	23	Atr	_	_
 25	,	,	Z	Z	_	26	Punc	_	_
 26	nakon	nakon	C	Cs	_	20	Prep	_	_
-27	što	što	P	Pi3n-a--n-nn	_	26	Sub	_	_
+27	što	što	C	Cs	_	26	Sub	_	_
 28	je	biti	V	Var3s	_	32	Aux	_	_
 29	na	na	S	Sl	_	32	Prep	_	_
 30	snimanju	snimanje	N	Ncnsl	_	29	Adv	_	_
@@ -2062,7 +2062,7 @@
 1	Pirotehniku	pirotehnika	N	Ncfsa	_	4	Obj	_	_
 2	dakako	dakako	R	Rgp	_	4	Adv	_	_
 3	ne	ne	Q	Qz	_	4	Aux	_	_
-4	smijete	smjeti	V	Vmm2p	_	0	Pred	_	_
+4	smijete	smjeti	V	Vmr2p	_	0	Pred	_	_
 5	koristiti	koristiti	V	Vmn	_	4	Atv	_	_
 6	na	na	S	Sl	_	15	Prep	_	_
 7	mjestima	mjesto	N	Ncnpl	_	6	Adv	_	_
@@ -2079,7 +2079,7 @@
 18	automobila	automobil	N	Ncmpg	_	17	Atr	_	_
 19	,	,	Z	Z	_	26	Punc	_	_
 20	u	u	S	Sa	_	26	Prep	_	_
-21	suhu	suh	N	Ncfsa	_	22	Atr	_	_
+21	suhu	suh	A	Agpfsay	_	22	Atr	_	_
 22	travu	trava	N	Ncfsa	_	20	Atr	_	_
 23	,	,	Z	Z	_	26	Punc	_	_
 24	u	u	S	Sa	_	26	Prep	_	_
@@ -2200,7 +2200,7 @@
 12	izglađuje	izglađivati	V	Vmr3s	_	11	Pred	_	_
 13	područje	područje	N	Ncnsa	_	12	Obj	_	_
 14	oko	oko	S	Sg	_	13	Prep	_	_
-15	očiju	Oko	N	Npnpg	_	14	Atr	_	_
+15	očiju	oko	N	Ncfpg	_	14	Atr	_	_
 16	.	.	Z	Z	_	0	Punc	_	_
 
 1	-	-	Z	Z	_	8	Punc	_	_
