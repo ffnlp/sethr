@@ -1165,7 +1165,7 @@
 19	21	21	M	Mdc	Form=digit	16	Elp	12:remnant	UposTag=NUM
 20	.	.	Z	Z	_	0	Punc	6:punct	UposTag=PUNCT
 
-1	Neko	neko	P	Pi3m-ny	Animate=yes|Case=nominative|Clitic=no|Gender=masculine|Person=third|Syntactic_Type=nominal|Type=indefinite	3	Sb	3:nsubj	UposTag=PRON|Animacy=Anim|Case=Nom|Gender=Masc|Person=3|PronType=Ind
+1	Neko	neko	P	Pi3m-n	Animate=yes|Case=nominative|Clitic=no|Gender=masculine|Person=third|Syntactic_Type=nominal|Type=indefinite	3	Sb	3:nsubj	UposTag=PRON|Animacy=Anim|Case=Nom|Gender=Masc|Person=3|PronType=Ind
 2	će	htjeti	V	Var3s	Number=singular|Person=third|Type=auxiliary|VForm=present	3	Aux	3:aux	UposTag=AUX|Number=Sing|Person=3|Tense=Pres
 3	morati	morati	V	Vmn	Type=main|VForm=infinitive	9	Pred	0:root	UposTag=VERB|VerbForm=Inf
 4	da	da	C	Cs	Type=subordinating	5	Oth	5:mark	UposTag=SCONJ

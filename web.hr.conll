@@ -2081,7 +2081,7 @@
 26	popričao	popričati	V	Vmp-sm	_	22	Pred	_	_
 27	.	.	Z	Z	_	0	Punc	_	_
 
-1	Tko	tko	P	Pq3m-ny	_	5	Sb	_	_
+1	Tko	tko	P	Pq3m-n	_	5	Sb	_	_
 2	od	od	S	Sg	_	1	Prep	_	_
 3	ovih	ovaj	P	Pd-fpg	_	4	Atr	_	_
 4	ekipa	ekipa	N	Ncfpg	_	2	Atr	_	_
@@ -3003,7 +3003,7 @@
 53	.	.	Z	Z	_	0	Punc	_	_
 
 1	Ako	ako	C	Cs	_	6	Sub	_	_
-2	itko	itko	P	Pi3m-ny	_	1	Elp	_	_
+2	itko	itko	P	Pi3m-n	_	1	Elp	_	_
 3	,	,	Z	Z	_	6	Punc	_	_
 4	to	taj	P	Pd-nsn	_	6	Oth	_	_
 5	on	on	P	Pp3msn	_	6	Sb	_	_
@@ -3788,7 +3788,7 @@
 25	kuću	kuća	N	Ncfsa	_	24	Atr	_	_
 26	.	.	Z	Z	_	0	Punc	_	_
 
-1	Tko	tko	P	Pq3m-ny	_	2	Sb	_	_
+1	Tko	tko	P	Pq3m-n	_	2	Sb	_	_
 2	je	biti	V	Var3s	_	0	Pred	_	_
 3	zaslužan	zaslužan	A	Agpmsnn	_	2	Pnom	_	_
 4	za	za	S	Sa	_	3	Prep	_	_
@@ -4013,7 +4013,7 @@
 4	kako	kako	C	Cs	_	2	Sub	_	_
 5	stečaj	stečaj	N	Ncmsan	_	6	Sb	_	_
 6	nije	biti	V	Var3s-y	_	11	Pred	_	_
-7	nikome	nitko	P	Pi3m-dy	_	6	Obj	_	_
+7	nikome	nitko	P	Pi3m-d	_	6	Obj	_	_
 8	u	u	S	Sl	_	7	Prep	_	_
 9	interesu	interes	N	Ncmsl	_	8	Atr	_	_
 10	,	,	Z	Z	_	11	Punc	_	_
@@ -5604,7 +5604,7 @@
 15	,	,	Z	Z	_	16	Punc	_	_
 16	vjerujem	vjerovati	V	Vmr1s	_	21	Elp	_	_
 17	,	,	Z	Z	_	16	Punc	_	_
-18	nitko	nitko	P	Pi3m-ny	_	21	Sb	_	_
+18	nitko	nitko	P	Pi3m-n	_	21	Sb	_	_
 19	ne	ne	Q	Qz	_	21	Aux	_	_
 20	bi	biti	V	Vaa3s	_	21	Aux	_	_
 21	protivio	protiviti	V	Vmp-sm	_	13	Pred	_	_
@@ -7763,7 +7763,7 @@
 5	pokušala	pokušati	V	Vmp-sf	_	0	Pred	_	_
 6	kandidirati	kandidirati	V	Vmn	_	5	Atv	_	_
 7	bilo	bilo	Q	Qo	_	8	Oth	_	_
-8	koga	tko	P	Pi3m-ay	_	6	Obj	_	_
+8	koga	tko	P	Pi3m-a	_	6	Obj	_	_
 9	u	u	S	Sl	_	6	Prep	_	_
 10	ovom	ovaj	P	Pd-msl	_	11	Atr	_	_
 11	postupku	postupak	N	Ncmsl	_	9	Obj	_	_
@@ -8381,7 +8381,7 @@
 32	objektivno	objektivan	A	Agpnsny	_	31	Pnom	_	_
 33	te	te	C	Cc	_	19	Co	_	_
 34	da	da	C	Cs	_	33	Sub	_	_
-35	nitko	nitko	P	Pi3m-ny	_	39	Sb	_	_
+35	nitko	nitko	P	Pi3m-n	_	39	Sb	_	_
 36	u	u	S	Sl	_	35	Prep	_	_
 37	Hrvatskoj	Hrvatska	N	Npfsl	_	36	Atr	_	_
 38	ne	ne	Q	Qz	_	39	Aux	_	_
@@ -8413,7 +8413,7 @@
 1	U	u	S	Sl	_	5	Prep	_	_
 2	nas	mi	P	Pp1-pa	_	1	Obj	_	_
 3	malo	malo	R	Rgp	_	4	Atr	_	_
-4	tko	tko	P	Pi3m-ny	_	5	Sb	_	_
+4	tko	tko	P	Pi3m-n	_	5	Sb	_	_
 5	ima	imati	V	Vmr3s	_	12	Pred	_	_
 6	razumijevanja	razumijevanje	N	Ncnsg	_	5	Obj	_	_
 7	za	za	S	Sa	_	6	Prep	_	_
@@ -9267,7 +9267,7 @@
 1	Tvoji	tvoji	P	Pi-mpn	_	2	Atr	_	_
 2	susjedi	susjed	N	Ncmpn	_	3	Sb	_	_
 3	odlučuju	odlučivati	V	Vmr3p	_	0	Pred	_	_
-4	tko	tko	P	Pi3m-ny	_	3	Sub	_	_
+4	tko	tko	P	Pi3m-n	_	3	Sub	_	_
 5	će	htjeti	V	Var3s	_	6	Aux	_	_
 6	dobiti	dobiti	V	Vmn	_	4	Pred	_	_
 7	mlijeko	mlijeko	N	Ncnsa	_	6	Obj	_	_
@@ -9943,7 +9943,7 @@
 1	Kao	kao	C	Cs	_	2	Oth	_	_
 2	što	što	C	Cs	_	7	Sub	_	_
 3	je	biti	V	Var3s	_	5	Aux	_	_
-4	netko	netko	P	Pi3m-ny	_	5	Sb	_	_
+4	netko	netko	P	Pi3m-n	_	5	Sb	_	_
 5	rekao	reći	V	Vmp-sm	_	2	Pred	_	_
 6	:	:	Z	Z	_	2	Punc	_	_
 7	grabi	grabiti	V	Vmm2s	_	0	Pred	_	_
@@ -10348,8 +10348,8 @@
 18	te	te	C	Cc	_	12	Co	_	_
 19	omogućiti	omogućiti	V	Vmn	_	18	Pred	_	_
 20	san	san	N	Ncmsan	_	19	Obj	_	_
-21	nekome	netko	P	Pi3m-dy	_	19	Obj	_	_
-22	tko	tko	P	Pi3m-ny	_	21	Sub	_	_
+21	nekome	netko	P	Pi3m-d	_	19	Obj	_	_
+22	tko	tko	P	Pi3m-n	_	21	Sub	_	_
 23	ga	on	P	Pp3msa	_	25	Obj	_	_
 24	ne	ne	Q	Qz	_	25	Aux	_	_
 25	može	moći	V	Vmr3s	_	22	Pred	_	_
@@ -12361,7 +12361,7 @@
 6	završavaju	završavati	V	Vmr3p	_	0	Pred	_	_
 7	.	.	Z	Z	_	0	Punc	_	_
 
-1	Netko	netko	P	Pi3m-ny	_	6	Sb	_	_
+1	Netko	netko	P	Pi3m-n	_	6	Sb	_	_
 2	će	htjeti	V	Var3s	_	6	Aux	_	_
 3	od	od	S	Sg	_	1	Prep	_	_
 4	vas	vi	P	Pp2-pa	_	3	Atr	_	_
@@ -14127,7 +14127,7 @@
 33	.	.	Z	Z	_	0	Punc	_	_
 
 1	Onaj	onaj	P	Pd-msn	_	10	Sb	_	_
-2	tko	tko	P	Pi3m-ny	_	1	Sub	_	_
+2	tko	tko	P	Pi3m-n	_	1	Sub	_	_
 3	je	biti	V	Var3s	_	4	Aux	_	_
 4	pozvan	pozvati	A	Appmsnn	_	2	Pred	_	_
 5	na	na	S	Sa	_	4	Prep	_	_
@@ -14179,7 +14179,7 @@
 23	sigurno	sigurno	R	Rgp	_	24	Adv	_	_
 24	zapitati	zapitati	V	Vmn	_	17	Pred	_	_
 25	-	-	Z	Z	_	29	Punc	_	_
-26	tko	tko	P	Pi3m-ny	_	29	Sb	_	_
+26	tko	tko	P	Pi3m-n	_	29	Sb	_	_
 27	me	ja	P	Pp1-sa	_	29	Obj	_	_
 28	to	to	Q	Qo	_	26	Atr	_	_
 29	gleda	gledati	V	Vmr3s	_	24	Pred	_	_
@@ -14775,7 +14775,7 @@
 13	nego	nego	C	Cc	_	4	Co	_	_
 14	u	u	S	Sl	_	13	Prep	_	_
 15	onome	onaj	P	Pd-msl	_	14	Atr	_	_
-16	tko	tko	P	Pi3m-ny	_	15	Sub	_	_
+16	tko	tko	P	Pi3m-n	_	15	Sub	_	_
 17	je	biti	V	Var3s	_	21	Aux	_	_
 18	te	taj	P	Pd-mpa	_	19	Atr	_	_
 19	materijale	materijal	N	Ncmpa	_	21	Obj	_	_
@@ -15430,7 +15430,7 @@
 16	svoj	svoj	P	Px-msan	_	17	Atr	_	_
 17	ured	ured	N	Ncmsan	_	15	Obj	_	_
 18	prepustiti	prepustiti	V	Vmn	_	15	Atv	_	_
-19	nikome	nitko	P	Pi3m-dy	_	18	Obj	_	_
+19	nikome	nitko	P	Pi3m-d	_	18	Obj	_	_
 20	.	.	Z	Z	_	0	Punc	_	_
 
 1	Filter	filter	N	Ncmsn	_	3	Sb	_	_
@@ -15962,7 +15962,7 @@
 12	ZA	za	S	Sa	_	10	Prep	_	_
 13	SEBE	sebe	P	Px--sa	_	14	Obj	_	_
 14	I	i	C	Cc	_	12	Co	_	_
-15	NIKOG	nitko	P	Pi3m-ay	_	14	Obj	_	_
+15	NIKOG	nitko	P	Pi3m-a	_	14	Obj	_	_
 16	DRUGOG	drugi	M	Mlomsay	_	15	Atr	_	_
 17	...	...	Z	Z	_	0	Punc	_	_
 
@@ -16280,9 +16280,9 @@
 3	je	biti	V	Var3s	_	4	Aux	_	_
 4	objavljen	objaviti	A	Appmsnn	_	0	Pred	_	_
 5	u	u	S	Sl	_	4	Prep	_	_
-6	Tko	tko	P	Pq3m-ny	_	7	Sb	_	_
+6	Tko	tko	P	Pq3m-n	_	7	Sb	_	_
 7	je	biti	V	Var3s	_	5	Elp	_	_
-8	tko	tko	P	Pq3m-ny	_	7	Pnom	_	_
+8	tko	tko	P	Pq3m-n	_	7	Pnom	_	_
 9	u	u	S	Sl	_	8	Prep	_	_
 10	NDH	Ndh	N	Npmsl	_	9	Adv	_	_
 11	,	,	Z	Z	_	12	Punc	_	_
@@ -16950,7 +16950,7 @@
 
 1	Ako	ako	C	Cs	_	39	Sub	_	_
 2	vam	vi	P	Pp2-pd	_	6	Obj	_	_
-3	netko	netko	P	Pi3m-ny	_	6	Sb	_	_
+3	netko	netko	P	Pi3m-n	_	6	Sb	_	_
 4	pred	pred	S	Si	_	6	Prep	_	_
 5	policijom	policija	N	Ncfsi	_	4	Obj	_	_
 6	prizna	priznati	V	Vmr3s	_	11	Pred	_	_
@@ -18851,7 +18851,7 @@
 3	upravi	uprava	N	Ncfsl	_	1	Adv	_	_
 4	o	o	S	Sl	_	8	Prep	_	_
 5	tome	taj	P	Pd-nsl	_	4	Obj	_	_
-6	nitko	nitko	P	Pi3m-ny	_	8	Sb	_	_
+6	nitko	nitko	P	Pi3m-n	_	8	Sb	_	_
 7	pojma	pojam	N	Ncmsg	_	8	Obj	_	_
 8	nema	nemati	V	Vmr3s-y	_	10	Pred	_	_
 9	,	,	Z	Z	_	10	Punc	_	_
@@ -20450,7 +20450,7 @@
 35	godine	godina	N	Ncfsg	_	33	Atr	_	_
 36	.	.	Z	Z	_	0	Punc	_	_
 
-1	Svatko	svatko	P	Pi3m-ny	_	5	Sb	_	_
+1	Svatko	svatko	P	Pi3m-n	_	5	Sb	_	_
 2	u	u	S	Sl	_	1	Prep	_	_
 3	sebi	sebe	P	Px--sl	_	2	Atr	_	_
 4	vjerojatno	vjerojatno	R	Rgp	_	5	Adv	_	_
@@ -20667,7 +20667,7 @@
 20	to	taj	P	Pd-nsn	_	21	Oth	_	_
 21	besplatno	besplatno	R	Rgp	_	16	Elp	_	_
 22	,	,	Z	Z	_	26	Punc	_	_
-23	nitko	nitko	P	Pi3m-ny	_	25	Sb	_	_
+23	nitko	nitko	P	Pi3m-n	_	25	Sb	_	_
 24	ne	ne	Q	Qz	_	25	Aux	_	_
 25	zna	znati	V	Vmr3s	_	26	Pred	_	_
 26	ili	ili	C	Cc	_	0	Co	_	_
@@ -22953,7 +22953,7 @@
 18	.	.	Z	Z	_	0	Punc	_	_
 
 1	Kad	kad	R	Rgp	_	7	Sub	_	_
-2	nekome	netko	P	Pi3m-dy	_	3	Obj	_	_
+2	nekome	netko	P	Pi3m-d	_	3	Obj	_	_
 3	posvećujemo	posvećivati	V	Vmr1p	_	1	Pred	_	_
 4	pažnju	pažnja	N	Ncfsa	_	3	Obj	_	_
 5	,	,	Z	Z	_	1	Punc	_	_
@@ -25341,7 +25341,7 @@
 1	Za	za	S	Sa	_	5	Prep	_	_
 2	jadnu	jadan	A	Agpfsay	_	3	Atr	_	_
 3	dječicu	dječica	N	Ncfsa	_	1	Obj	_	_
-4	koga	tko	P	Pi3m-ay	_	5	Obj	_	_
+4	koga	tko	P	Pi3m-a	_	5	Obj	_	_
 5	briga	brigati	V	Vmr3s	_	0	Elp	_	_
 6	.	.	Z	Z	_	0	Punc	_	_
 
@@ -29260,7 +29260,7 @@
 8	10000	10000	M	Mdc	_	9	Atr	_	_
 9	kn	kn	X	Xf	_	7	Atr	_	_
 10	ako	ako	C	Cs	_	3	Sub	_	_
-11	itko	itko	P	Pi3m-ny	_	12	Sb	_	_
+11	itko	itko	P	Pi3m-n	_	12	Sb	_	_
 12	može	moći	V	Vmr3s	_	10	Pred	_	_
 13	naći	naći	V	Vmn	_	12	Atv	_	_
 14	ijedan	ijedan	A	Agpmsayn	_	15	Atr	_	_
@@ -29706,7 +29706,7 @@
 9	a	a	C	Cc	_	1	Co	_	_
 10	da	da	C	Cs	_	9	Sub	_	_
 11	se	sebe	P	Px--sa	_	16	Aux	_	_
-12	nitko	nitko	P	Pi3m-ny	_	16	Sb	_	_
+12	nitko	nitko	P	Pi3m-n	_	16	Sb	_	_
 13	nije	biti	V	Var3s-y	_	16	Aux	_	_
 14	na	na	S	Sa	_	16	Prep	_	_
 15	to	taj	P	Pd-nsa	_	14	Obj	_	_
@@ -30829,7 +30829,7 @@
 21	orbitu	orbita	N	Ncfsa	_	20	Adv	_	_
 22	.	.	Z	Z	_	0	Punc	_	_
 
-1	Tko	tko	P	Pq3m-ny	_	4	Sb	_	_
+1	Tko	tko	P	Pq3m-n	_	4	Sb	_	_
 2	danas	danas	R	Rgp	_	4	Adv	_	_
 3	tako	tako	R	Rgp	_	4	Adv	_	_
 4	može	moći	V	Vmr3s	_	0	Pred	_	_
@@ -33323,7 +33323,7 @@
 29	mišljenja	mišljenje	N	Ncnsg	_	27	Obj	_	_
 30	i	i	C	Cc	_	31	Oth	_	_
 31	onako	onako	R	Rgp	_	50	Adv	_	_
-32	nitko	nitko	P	Pi3m-ny	_	50	Sb	_	_
+32	nitko	nitko	P	Pi3m-n	_	50	Sb	_	_
 33	ozbiljan	ozbiljan	A	Agpmsnn	_	32	Atr	_	_
 34	u	u	S	Sl	_	50	Prep	_	_
 35	Zagrebu	Zagreb	N	Npmsl	_	34	Adv	_	_
@@ -34234,7 +34234,7 @@
 
 1	Zar	zar	Q	Qq	_	5	Oth	_	_
 2	bi	biti	V	Vaa3s	_	5	Aux	_	_
-3	netko	netko	P	Pi3m-ny	_	5	Sb	_	_
+3	netko	netko	P	Pi3m-n	_	5	Sb	_	_
 4	kontroliran	kontroliran	A	Agpmsnyn	_	3	Atv	_	_
 5	pisao	pisati	V	Vmp-sm	_	0	Pred	_	_
 6	takve	takav	P	Pd-fpa	_	7	Atr	_	_
@@ -35853,7 +35853,7 @@
 5	da	da	C	Cs	_	4	Sub	_	_
 6	se	sebe	P	Px--sa	_	13	Aux	_	_
 7	bilo	bilo	Q	Qo	_	8	Oth	_	_
-8	tko	tko	P	Pi3m-ny	_	13	Sb	_	_
+8	tko	tko	P	Pi3m-n	_	13	Sb	_	_
 9	na	na	S	Sa	_	13	Prep	_	_
 10	bilo	bilo	Q	Qo	_	11	Oth	_	_
 11	koji	koji	P	Pi-msan	_	12	Atr	_	_
@@ -37619,7 +37619,7 @@
 12	nosio	nositi	V	Vmp-sm	_	10	Pred	_	_
 13	Napoleon	Napoleon	N	Npmsn	_	14	Sb	_	_
 14	ili	ili	C	Cc	_	12	Co	_	_
-15	netko	netko	P	Pi3m-ny	_	14	Sb	_	_
+15	netko	netko	P	Pi3m-n	_	14	Sb	_	_
 16	od	od	S	Sg	_	15	Prep	_	_
 17	njegovih	njegov	P	Ps3mpg	_	19	Atr	_	_
 18	bližih	bližih	A	Agsmpgy	_	19	Atr	_	_
@@ -41457,7 +41457,7 @@
 7	lako	lako	R	Rgp	_	8	Adv	_	_
 8	naći	naći	V	Vmn	_	6	Atv	_	_
 9	nekoga	neki	P	Pi-msay	_	8	Obj	_	_
-10	tko	tko	P	Pi3m-ny	_	9	Sub	_	_
+10	tko	tko	P	Pi3m-n	_	9	Sub	_	_
 11	će	htjeti	V	Var3s	_	14	Aux	_	_
 12	ti	ti	P	Pp2-sd	_	14	Sb	_	_
 13	tako	tako	R	Rgp	_	14	Adv	_	_
@@ -42055,7 +42055,7 @@
 26	.	.	Z	Z	_	0	Punc	_	_
 
 1	A	a	C	Cc	_	2	Oth	_	_
-2	tko	tko	P	Pi3m-ny	_	6	Sub	_	_
+2	tko	tko	P	Pi3m-n	_	6	Sub	_	_
 3	voli	voljeti	V	Vmr3s	_	2	Pred	_	_
 4	orahe	orah	N	Ncmpa	_	3	Obj	_	_
 5	,	,	Z	Z	_	6	Punc	_	_
@@ -43500,7 +43500,7 @@
 22	a	a	C	Cc	_	17	Co	_	_
 23	što	što	P	Pi3n-an	_	22	Sub	_	_
 24	možda	možda	R	Rgp	_	28	Adv	_	_
-25	netko	netko	P	Pi3m-ny	_	28	Sb	_	_
+25	netko	netko	P	Pi3m-n	_	28	Sb	_	_
 26	drugi	drugi	M	Mlompn	_	25	Atr	_	_
 27	ne	ne	Q	Qz	_	28	Aux	_	_
 28	vidi	vidjeti	V	Vmr3s	_	29	Pred	_	_
@@ -43512,7 +43512,7 @@
 34	percepciju	percepcija	N	Ncfsa	_	32	Obj	_	_
 35	.	.	Z	Z	_	0	Punc	_	_
 
-1	Nikome	nitko	P	Pi3m-dy	_	3	Obj	_	_
+1	Nikome	nitko	P	Pi3m-d	_	3	Obj	_	_
 2	ne	ne	Q	Qz	_	3	Aux	_	_
 3	objašnjavamo	objašnjavati	V	Vmr1p	_	0	Pred	_	_
 4	da	da	C	Cs	_	3	Sub	_	_
@@ -44355,7 +44355,7 @@
 8	teško	teško	R	Rgp	_	0	Elp	_	_
 9	da	da	C	Cs	_	8	Sub	_	_
 10	je	biti	V	Var3s	_	14	Aux	_	_
-11	itko	itko	P	Pi3m-ny	_	14	Sb	_	_
+11	itko	itko	P	Pi3m-n	_	14	Sb	_	_
 12	o	o	S	Sl	_	14	Prep	_	_
 13	tome	taj	P	Pd-nsl	_	12	Obj	_	_
 14	razmišljao	razmišljati	V	Vmp-sm	_	9	Pred	_	_
@@ -45510,7 +45510,7 @@
 28	pri	pri	S	Sl	_	22	Prep	_	_
 29	čemu	što	P	Pi3n-ln	_	28	Sub	_	_
 30	je	biti	V	Var3s	_	32	Aux	_	_
-31	svatko	svatko	P	Pi3m-ny	_	32	Sb	_	_
+31	svatko	svatko	P	Pi3m-n	_	32	Sb	_	_
 32	bio	biti	V	Vap-sm	_	38	Pred	_	_
 33	i	i	C	Cc	_	35	Oth	_	_
 34	poučavatelj	poučavatelj	N	Ncmsn	_	35	Pnom	_	_
@@ -47193,7 +47193,7 @@
 4	nisu	biti	V	Var3p-y	_	5	Aux	_	_
 5	mogli	moći	V	Vmp-pm	_	19	Pred	_	_
 6	vidjeti	vidjeti	V	Vmn	_	5	Atv	_	_
-7	tko	tko	P	Pi3m-ny	_	6	Sub	_	_
+7	tko	tko	P	Pi3m-n	_	6	Sub	_	_
 8	baca	bac	N	Ncmpg	_	7	Pred	_	_
 9	,	,	Z	Z	_	0	Punc	_	_
 10	moja	moj	P	Ps1fsn	_	11	Atr	_	_
@@ -48199,7 +48199,7 @@
 4	mjestu	mjesto	N	Ncnsl	_	2	Obj	_	_
 5	da	da	C	Cs	_	1	Sub	_	_
 6	bi	biti	V	Vaa3s	_	12	Aux	_	_
-7	svatko	svatko	P	Pi3m-ny	_	12	Sb	_	_
+7	svatko	svatko	P	Pi3m-n	_	12	Sb	_	_
 8	s	sa	S	Sg	_	7	Prep	_	_
 9	prostora	prostor	N	Ncmsg	_	8	Atr	_	_
 10	bivše	bivši	A	Agpfsgy	_	11	Atr	_	_
@@ -48647,7 +48647,7 @@
 29	.	.	Z	Z	_	0	Punc	_	_
 
 1	Ma	ma	I	I	_	4	Oth	_	_
-2	tko	tko	P	Pq3m-ny	_	4	Sb	_	_
+2	tko	tko	P	Pq3m-n	_	4	Sb	_	_
 3	to	taj	P	Pd-nsa	_	4	Obj	_	_
 4	kaže	kazati	V	Vmr3s	_	0	Pred	_	_
 5	da	da	C	Cs	_	4	Sub	_	_
@@ -49671,7 +49671,7 @@
 
 1	Također	također	R	Rgp	_	5	Oth	_	_
 2	se	sebe	P	Px--sa	_	5	Aux	_	_
-3	nitko	nitko	P	Pi3m-ny	_	5	Sb	_	_
+3	nitko	nitko	P	Pi3m-n	_	5	Sb	_	_
 4	ne	ne	Q	Qz	_	5	Aux	_	_
 5	usudi	usuditi	V	Vmr3s	_	0	Pred	_	_
 6	pitati	pitati	V	Vmn	_	5	Atv	_	_
