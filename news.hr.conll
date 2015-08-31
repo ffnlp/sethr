@@ -2423,7 +2423,7 @@
 20	sile	sila	N	Ncfpa	_	18	Obj	_	_
 21	.	.	Z	Z	_	0	Punc	_	_
 
-1	Što	što	P	Pq3n-n--n-nn	_	2	Oth	_	_
+1	Što	što	P	Pi3n-a--n-nn	_	2	Oth	_	_
 2	god	god	Q	Qo	_	13	Sub	_	_
 3	u	u	S	Sl	_	6	Prep	_	_
 4	budućnosti	budućnost	N	Ncfsl	_	3	Adv	_	_
@@ -2955,7 +2955,7 @@
 6	gotovo	gotovo	R	Rgp	_	7	Adv	_	_
 7	jednaki	jednak	A	Agpmpny	_	3	Pnom	_	_
 8	uz	uz	S	Sa	_	7	Prep	_	_
-9	manje	malen	A	Agcfpay	_	10	Atr	_	_
+9	manje	mali	A	Agcfpay	_	10	Atr	_	_
 10	varijacije	varijacija	N	Ncfpa	_	11	Atr	_	_
 11	i	i	C	Cc	_	8	Co	_	_
 12	iznenađenja	iznenađenje	N	Ncnpa	_	11	Atr	_	_
@@ -3431,7 +3431,7 @@
 8	za	za	S	Sa	_	7	Prep	_	_
 9	srednje	srednji	A	Agpmpay	_	10	Atr	_	_
 10	i	i	C	Cc	_	12	Co	_	_
-11	male	malen	A	Agpmpay	_	10	Atr	_	_
+11	male	mali	A	Agpmpay	_	10	Atr	_	_
 12	korisnike	korisnik	N	Ncmpa	_	8	Atr	_	_
 13	eksplicitno	eksplicitno	R	Rgp	_	15	Adv	_	_
 14	se	sebe	P	Px--sa--ypn	_	15	Aux	_	_
@@ -3469,7 +3469,7 @@
 7	više	mnogo	R	Rgc	_	8	Adv	_	_
 8	očekivao	očekivati	V	Vmp-sm	_	4	Pred	_	_
 9	od	od	S	Sg	_	17	Prep	_	_
-10	manjeg	malen	A	Agcmsgy	_	11	Atr	_	_
+10	manjeg	mali	A	Agcmsgy	_	11	Atr	_	_
 11	dobavljača	dobavljač	N	Ncmsg	_	9	Obj	_	_
 12	opreme	oprema	N	Ncfsg	_	11	Atr	_	_
 13	ili	ili	C	Cc	_	9	Co	_	_
@@ -5956,7 +5956,7 @@
 48	umu	um	N	Ncmsl	_	47	Obj	_	_
 49	kako	kako	C	Cs	_	46	Sub	_	_
 50	postoji	postojati	V	Vmr3s	_	49	Pred	_	_
-51	manja	malen	A	Agcfsny	_	53	Atr	_	_
+51	manja	mali	A	Agcfsny	_	53	Atr	_	_
 52	lokalna	lokalan	A	Agpfsny	_	53	Atr	_	_
 53	baza	baza	N	Ncfsn	_	50	Sb	_	_
 54	s	sa	S	Si	_	53	Prep	_	_
@@ -6875,7 +6875,7 @@
 4	s	sa	S	Si	_	2	Prep	_	_
 5	preostala	preostao	A	Agpmsgn	_	8	Atr	_	_
 6	dva	dva	M	Mlc	_	8	Atr	_	_
-7	manja	malen	A	Agcmsgy	_	8	Atr	_	_
+7	manja	mali	A	Agcmsgy	_	8	Atr	_	_
 8	utora	utor	N	Ncmsg	_	4	Obj	_	_
 9	.	.	Z	Z	_	0	Punc	_	_
 
@@ -7085,7 +7085,7 @@
 41	isprobali	isprobati	V	Vmp-pm	_	38	Pred	_	_
 42	.	.	Z	Z	_	0	Punc	_	_
 
-1	Tko	tko	P	Pq3m-n--n-ny	_	2	Oth	_	_
+1	Tko	tko	P	Pi3m-n--n-ny	_	2	Oth	_	_
 2	god	god	Q	Qo	_	10	Sub	_	_
 3	je	biti	V	Var3s	_	5	Aux	_	_
 4	jednom	jednom	R	Rgp	_	5	Adv	_	_
@@ -9143,7 +9143,7 @@
 5	softvera	softver	N	Ncmpg	_	4	Atr	_	_
 6	bilježe	bilježiti	V	Vmr3p	_	17	Pred	_	_
 7	ipak	ipak	R	Rgp	_	6	Oth	_	_
-8	manji	malen	A	Agcmsayn	_	10	Atr	_	_
+8	manji	mali	A	Agcmsayn	_	10	Atr	_	_
 9	silazni	silazan	A	Agpmsayn	_	10	Atr	_	_
 10	trend	trend	N	Ncmsan	_	6	Obj	_	_
 11	i	i	C	Cc	_	12	Oth	_	_
@@ -9258,7 +9258,7 @@
 5	godinu	godina	N	Ncfsa	_	3	Adv	_	_
 6	predviđa	predviđati	V	Vmr3s	_	11	Pred	_	_
 7	nešto	nešto	R	Rgp	_	8	Oth	_	_
-8	manji	malen	A	Agcmsayn	_	9	Atr	_	_
+8	manji	mali	A	Agcmsayn	_	9	Atr	_	_
 9	pad	pad	N	Ncmsan	_	6	Obj	_	_
 10	,	,	Z	Z	_	11	Punc	_	_
 11	a	a	C	Cc	_	0	Co	_	_
@@ -11336,7 +11336,7 @@
 1	Za	za	S	Sa	_	10	Prep	_	_
 2	samo	samo	R	Rgp	_	3	Oth	_	_
 3	jedan	jedan	M	Mlcmsan	_	5	Atr	_	_
-4	mali	malen	A	Agpmsayn	_	5	Atr	_	_
+4	mali	mali	A	Agpmsayn	_	5	Atr	_	_
 5	automobil	automobil	N	Ncmsan	_	1	Obj	_	_
 6	,	,	Z	Z	_	7	Punc	_	_
 7	veličine	veličina	N	Ncfsg	_	5	Elp	_	_
@@ -12120,7 +12120,7 @@
 43	kapacitet	kapacitet	N	Ncmsn	_	41	Sb	_	_
 44	Hrvatske	Hrvatska	N	Npfsg	_	43	Atr	_	_
 45	mnogo	mnogo	R	Rgp	_	46	Oth	_	_
-46	manji	malen	A	Agcmsny	_	41	Pnom	_	_
+46	manji	mali	A	Agcmsny	_	41	Pnom	_	_
 47	i	i	C	Cc	_	39	Co	_	_
 48	da	da	C	Cs	_	47	Sub	_	_
 49	na	na	S	Sa	_	53	Prep	_	_
@@ -12345,7 +12345,7 @@
 18	proračunski	proračunski	A	Agpmpny	_	19	Atr	_	_
 19	prihodi	prihod	N	Ncmpn	_	17	Sb	_	_
 20	sve	sve	Q	Qo	_	21	Oth	_	_
-21	manji	malen	A	Agcmsny	_	17	Pnom	_	_
+21	manji	mali	A	Agcmsny	_	17	Pnom	_	_
 22	,	,	Z	Z	_	25	Punc	_	_
 23	baš	baš	R	Rgp	_	24	Oth	_	_
 24	kao	kao	C	Cs	_	25	Oth	_	_
@@ -12838,7 +12838,7 @@
 7	1,2	1,2	M	Mdc	_	8	Atr	_	_
 8	posto	posto	R	Rgp	_	9	Adv	_	_
 9	je	biti	V	Var3s	_	15	Pred	_	_
-10	manji	malen	A	Agcmsny	_	9	Pnom	_	_
+10	manji	mali	A	Agcmsny	_	9	Pnom	_	_
 11	nego	nego	C	Cc	_	10	Prep	_	_
 12	ove	ovaj	P	Pd-fsg--n-a	_	13	Atr	_	_
 13	godine	godina	N	Ncfsg	_	11	Adv	_	_
@@ -18182,7 +18182,7 @@
 4	nisu	biti	V	Var3p-y	_	5	Aux	_	_
 5	otkrivene	otkriti	A	Appfpny	_	0	Pred	_	_
 6	niti	niti	Q	Qo	_	7	Oth	_	_
-7	najmanje	malen	A	Agsfpny	_	8	Atr	_	_
+7	najmanje	mali	A	Agsfpny	_	8	Atr	_	_
 8	deformacije	deformacija	N	Ncfpn	_	5	Sb	_	_
 9	,	,	Z	Z	_	10	Punc	_	_
 10	što	što	P	Pi3n-n--n-nn	_	5	Sub	_	_
@@ -22116,7 +22116,7 @@
 4	proizvoda	proizvod	N	Ncmsg	_	1	Atr	_	_
 5	bit	biti	V	Van	_	0	Pred	_	_
 6	će	htjeti	V	Var3s	_	5	Aux	_	_
-7	najmanji	malen	A	Agsmsny	_	5	Pnom	_	_
+7	najmanji	mali	A	Agsmsny	_	5	Pnom	_	_
 8	od	od	S	Sg	_	7	Prep	_	_
 9	2000.	2000.	M	Mdo	_	10	Atr	_	_
 10	godine	godina	N	Ncfsg	_	8	Adv	_	_
@@ -22242,7 +22242,7 @@
 3	stvaraju	stvarati	V	Vmr3p	_	2	Pred	_	_
 4	prostor	prostor	N	Ncmsan	_	3	Obj	_	_
 5	za	za	S	Sa	_	4	Prep	_	_
-6	manji	malen	A	Agcmsayn	_	7	Atr	_	_
+6	manji	mali	A	Agcmsayn	_	7	Atr	_	_
 7	rad	rad	N	Ncmsan	_	5	Atr	_	_
 8	produbljuju	produbljivati	V	Vmr3p	_	0	Pred	_	_
 9	krizu	kriza	N	Ncfsa	_	8	Obj	_	_
@@ -22287,7 +22287,7 @@
 2	naše	naš	P	Ps1fsgp-n-a	_	3	Atr	_	_
 3	krize	kriza	N	Ncfsg	_	1	Atr	_	_
 4	je	biti	V	Var3s	_	0	Pred	_	_
-5	mali	malen	A	Agpmsny	_	6	Atr	_	_
+5	mali	mali	A	Agpmsny	_	6	Atr	_	_
 6	rad	rad	N	Ncmsn	_	4	Sb	_	_
 7	.	.	Z	Z	_	0	Punc	_	_
 
@@ -22328,7 +22328,7 @@
 2	zbog	zbog	S	Sg	_	4	Prep	_	_
 3	toga	taj	P	Pd-nsg--n-a	_	2	Adv	_	_
 4	ima	imati	V	Vmr3s	_	0	Pred	_	_
-5	najmanji	malen	A	Agsmsayn	_	7	Atr	_	_
+5	najmanji	mali	A	Agsmsayn	_	7	Atr	_	_
 6	radni	radni	A	Agpmsayn	_	7	Atr	_	_
 7	kontingent	kontingent	N	Ncmsan	_	4	Obj	_	_
 8	od	od	S	Sg	_	7	Prep	_	_
@@ -22352,7 +22352,7 @@
 13	Hrvatskoj	Hrvatska	N	Npfsl	_	12	Atr	_	_
 14	je	biti	V	Var3s	_	0	Pred	_	_
 15	među	među	S	Si	_	14	Prep	_	_
-16	najmanjima	malen	A	Agsfpiy	_	15	Pnom	_	_
+16	najmanjima	mali	A	Agsfpiy	_	15	Pnom	_	_
 17	u	u	S	Sl	_	16	Prep	_	_
 18	Europi	Europa	N	Npfsl	_	17	Atr	_	_
 19	-	-	Z	Z	_	22	Punc	_	_
@@ -22366,7 +22366,7 @@
 3	i	i	C	Cc	_	5	Co	_	_
 4	Srbija	Srbija	N	Npfsn	_	3	Sb	_	_
 5	imaju	imati	V	Vmr3p	_	0	Pred	_	_
-6	manju	malen	A	Agcfsay	_	7	Atr	_	_
+6	manju	mali	A	Agcfsay	_	7	Atr	_	_
 7	stopu	stopa	N	Ncfsa	_	5	Obj	_	_
 8	.	.	Z	Z	_	0	Punc	_	_
 
@@ -22423,7 +22423,7 @@
 8	.	.	Z	Z	_	0	Punc	_	_
 
 1	Kako	kako	C	Cs	_	5	Adv	_	_
-2	mali	malen	A	Agpmsny	_	3	Atr	_	_
+2	mali	mali	A	Agpmsny	_	3	Atr	_	_
 3	broj	broj	N	Ncmsn	_	5	Sb	_	_
 4	zaposlenih	zaposlen	A	Agpmpgy	_	3	Atr	_	_
 5	može	moći	V	Vmr3s	_	0	Pred	_	_
@@ -22643,7 +22643,7 @@
 8	stvara	stvarati	V	Vmr3s	_	7	Pred	_	_
 9	prostor	prostor	N	Ncmsan	_	8	Obj	_	_
 10	za	za	S	Sa	_	9	Prep	_	_
-11	manji	malen	A	Agcmsayn	_	12	Atr	_	_
+11	manji	mali	A	Agcmsayn	_	12	Atr	_	_
 12	rad	rad	N	Ncmsan	_	10	Atr	_	_
 13	,	,	Z	Z	_	14	Punc	_	_
 14	produbit	produbiti	V	Vmn	_	0	Pred	_	_
@@ -26347,7 +26347,7 @@
 4	da	da	C	Cs	_	3	Sub	_	_
 5	im	oni	P	Pp3-pd--y-n	_	6	Obj	_	_
 6	je	biti	V	Var3s	_	4	Pred	_	_
-7	mala	malen	A	Agpfsny	_	6	Pnom	_	_
+7	mala	mali	A	Agpfsny	_	6	Pnom	_	_
 8	plaća	plaća	N	Ncfsn	_	6	Sb	_	_
 9	zato	zato	C	Cs	_	10	Oth	_	_
 10	što	što	C	Cs	_	6	Sub	_	_
@@ -26425,7 +26425,7 @@
 37	velikim	velik	A	Agpmpiy	_	38	Atr	_	_
 38	psima	pas	N	Ncmpi	_	44	Obj	_	_
 39	,	,	Z	Z	_	44	Punc	_	_
-40	malim	malen	A	Agpmpiy	_	41	Atr	_	_
+40	malim	mali	A	Agpmpiy	_	41	Atr	_	_
 41	psima	pas	N	Ncmpi	_	44	Obj	_	_
 42	,	,	Z	Z	_	44	Punc	_	_
 43	mačkama	mačka	N	Ncfpi	_	44	Obj	_	_
@@ -28955,7 +28955,7 @@
 23	su	biti	V	Var3p	_	22	Aux	_	_
 24	se	sebe	P	Px--sa--ypn	_	22	Aux	_	_
 25	zadovoljiti	zadovoljiti	V	Vmn	_	22	Atv	_	_
-26	manjim	malen	A	Agcmsiy	_	27	Atr	_	_
+26	manjim	mali	A	Agcmsiy	_	27	Atr	_	_
 27	brojem	broj	N	Ncmsi	_	25	Obj	_	_
 28	nagrada	nagrada	N	Ncfpg	_	27	Atr	_	_
 29	od	od	S	Sg	_	28	Prep	_	_
@@ -29602,7 +29602,7 @@
 3	radi	raditi	V	Vmr3s	_	0	Pred	_	_
 4	na	na	S	Sl	_	3	Prep	_	_
 5	proizvodnji	proizvodnja	N	Ncfsl	_	4	Obj	_	_
-6	manjih	malen	A	Agcfpgy	_	7	Atr	_	_
+6	manjih	mali	A	Agcfpgy	_	7	Atr	_	_
 7	baterija	baterija	N	Ncfpg	_	5	Atr	_	_
 8	,	,	Z	Z	_	9	Punc	_	_
 9	međutim	međutim	R	Rgp	_	3	Sub	_	_
@@ -31548,7 +31548,7 @@
 1	Alternativci	alternativac	N	Ncmpn	_	6	Sb	_	_
 2	ipak	ipak	R	Rgp	_	6	Oth	_	_
 3	na	na	S	Sa	_	6	Prep	_	_
-4	mala	malen	A	Agpnpay	_	5	Atr	_	_
+4	mala	mali	A	Agpnpay	_	5	Atr	_	_
 5	vrata	vrata	N	Ncnpa	_	3	Adv	_	_
 6	ulaze	ulaziti	V	Vmr3p	_	10	Pred	_	_
 7	u	u	S	Sa	_	6	Prep	_	_
@@ -35505,7 +35505,7 @@
 1	Iako	iako	C	Cs	_	14	Sub	_	_
 2	bez	bez	S	Sg	_	1	Elp	_	_
 3	utjecaja	utjecaj	N	Ncmsg	_	2	Obj	_	_
-4	manjih	malen	A	Agcmpgy	_	5	Atr	_	_
+4	manjih	mali	A	Agcmpgy	_	5	Atr	_	_
 5	planeta	planet	N	Ncmpg	_	3	Atr	_	_
 6	koji	koji	P	Pi-mpn--n-a	_	5	Sub	_	_
 7	donesu	donijeti	V	Vmr3p	_	6	Pred	_	_
@@ -41180,7 +41180,7 @@
 38	,	,	Z	Z	_	39	Punc	_	_
 39	a	a	C	Cc	_	14	Co	_	_
 40	na	na	S	Sa	_	43	Prep	_	_
-41	male	malen	A	Agpmpay	_	42	Atr	_	_
+41	male	mali	A	Agpmpay	_	42	Atr	_	_
 42	trgovce	trgovac	N	Ncmpa	_	40	Obj	_	_
 43	otpada	otpadati	V	Vmr3s	_	39	Pred	_	_
 44	tek	tek	R	Rgp	_	46	Oth	_	_
@@ -41372,7 +41372,7 @@
 26	elektronske	elektronski	A	Agpmpay	_	27	Atr	_	_
 27	čitače	čitač	N	Ncmpa	_	28	Obj	_	_
 28	i	i	C	Cc	_	17	Co	_	_
-29	mala	malen	A	Agpnpay	_	31	Atr	_	_
+29	mala	mali	A	Agpnpay	_	31	Atr	_	_
 30	prijenosna	prijenosni	A	Agpnpay	_	31	Atr	_	_
 31	računala	računalo	N	Ncnpa	_	28	Obj	_	_
 32	.	.	Z	Z	_	0	Punc	_	_
@@ -42864,7 +42864,7 @@
 35	otprilike	otprilike	R	Rgp	_	37	Oth	_	_
 36	pet	pet	M	Mlc	_	37	Atr	_	_
 37	puta	put	R	Rgp	_	34	Adv	_	_
-38	manji	malen	A	Agcmsny	_	39	Atr	_	_
+38	manji	mali	A	Agcmsny	_	39	Atr	_	_
 39	iznos	iznos	N	Ncmsn	_	34	Pnom	_	_
 40	od	od	S	Sg	_	39	Prep	_	_
 41	onog	onaj	P	Pd-msg--n-a	_	40	Elp	_	_
@@ -43197,7 +43197,7 @@
 14	streamingu	streaming	X	Xf	_	12	Atr	_	_
 15	.	.	Z	Z	_	0	Punc	_	_
 
-1	Najmanjih	malen	A	Agsfpgy	_	2	Atr	_	_
+1	Najmanjih	mali	A	Agsfpgy	_	2	Atr	_	_
 2	dimenzija	dimenzija	N	Ncfpg	_	9	Atr	_	_
 3	sa	sa	S	Si	_	2	Prep	_	_
 4	pet	pet	M	Mlc	_	5	Atr	_	_
@@ -43231,7 +43231,7 @@
 15	grama	gram	N	Ncmpg	_	13	Atv	_	_
 16	.	.	Z	Z	_	0	Punc	_	_
 
-1	Mali	malen	A	Agpmsny	_	3	Atr	_	_
+1	Mali	mali	A	Agpmsny	_	3	Atr	_	_
 2	Dellov	dellov	A	Aspmsnn	_	3	Atr	_	_
 3	tablet	tablet	N	Ncmsn	_	4	Sb	_	_
 4	služi	služiti	V	Vmr3s	_	8	Pred	_	_
@@ -43526,7 +43526,7 @@
 30	)	)	Z	Z	_	29	Punc	_	_
 31	,	,	Z	Z	_	32	Punc	_	_
 32	a	a	C	Cc	_	47	Co	_	_
-33	manji	malen	A	Agcmsny	_	34	Atr	_	_
+33	manji	mali	A	Agcmsny	_	34	Atr	_	_
 34	broj	broj	N	Ncmsn	_	35	Sb	_	_
 35	smješten	smjestiti	A	Appmsnn	_	32	Pred	_	_
 36	je	biti	V	Var3s	_	35	Aux	_	_
@@ -43655,7 +43655,7 @@
 15	dok	dok	C	Cs	_	0	Co	_	_
 16	se	sebe	P	Px--sa--ypn	_	22	Aux	_	_
 17	tek	tek	R	Rgp	_	18	Oth	_	_
-18	manji	malen	A	Agcmsny	_	19	Atr	_	_
+18	manji	mali	A	Agcmsny	_	19	Atr	_	_
 19	broj	broj	N	Ncmsn	_	22	Sb	_	_
 20	krajnjih	krajnji	A	Agpmpgy	_	21	Atr	_	_
 21	korisnika	korisnik	N	Ncmpg	_	19	Atr	_	_
@@ -44379,7 +44379,7 @@
 4	banke	banka	N	Ncfpn	_	5	Sb	_	_
 5	bilježile	bilježiti	V	Vmp-pf	_	12	Pred	_	_
 6	rast	rast	N	Ncmsan	_	5	Obj	_	_
-7	manji	malen	A	Agcmsny	_	6	Atr	_	_
+7	manji	mali	A	Agcmsny	_	6	Atr	_	_
 8	od	od	S	Sg	_	7	Prep	_	_
 9	prosjeka	prosjek	N	Ncmsg	_	8	Atr	_	_
 10	sustava	sustav	N	Ncmsg	_	9	Atr	_	_
@@ -44435,7 +44435,7 @@
 17	80	80	M	Mdc	_	18	Atr	_	_
 18	milijuna	milijun	N	Ncmpg	_	19	Atr	_	_
 19	kuna	kuna	N	Ncfpg	_	20	Atr	_	_
-20	manju	malen	A	Agcfsay	_	12	Elp	_	_
+20	manju	mali	A	Agcfsay	_	12	Elp	_	_
 21	.	.	Z	Z	_	0	Punc	_	_
 
 1	Na	na	S	Sl	_	6	Prep	_	_
@@ -45653,7 +45653,7 @@
 7	ostvare	ostvariti	V	Vmr3p	_	6	Pred	_	_
 8	li	li	Q	Qq	_	7	Aux	_	_
 9	i	i	Q	Qo	_	10	Oth	_	_
-10	najmanji	malen	A	Agsmsayn	_	11	Atr	_	_
+10	najmanji	mali	A	Agsmsayn	_	11	Atr	_	_
 11	pomak	pomak	N	Ncmsan	_	7	Obj	_	_
 12	u	u	S	Sl	_	11	Prep	_	_
 13	odnosu	odnos	N	Ncmsl	_	12	Atr	_	_
@@ -46008,7 +46008,7 @@
 2	za	za	S	Sa	_	1	Prep	_	_
 3	grijanje	grijanje	N	Ncnsa	_	2	Atr	_	_
 4	jednog	jedan	M	Mlcnsg	_	6	Atr	_	_
-5	manjeg	malen	A	Agcnsgy	_	6	Atr	_	_
+5	manjeg	mali	A	Agcnsgy	_	6	Atr	_	_
 6	mjesta	mjesto	N	Ncnsg	_	3	Atr	_	_
 7	jačine	jačina	N	Ncfsg	_	1	Atr	_	_
 8	između	između	S	Sg	_	12	Prep	_	_
@@ -48995,7 +48995,7 @@
 3	kamata	kamata	N	Ncfsn	_	14	Sb	_	_
 4	za	za	S	Sa	_	3	Prep	_	_
 5	oročenje	oročenje	N	Ncnsa	_	4	Atr	_	_
-6	manje	malen	A	Agcnsay	_	7	Oth	_	_
+6	manje	mali	A	Agcnsay	_	7	Oth	_	_
 7	od	od	S	Sg	_	8	Oth	_	_
 8	deset	deset	M	Mlc	_	9	Atr	_	_
 9	tisuća	tisuća	N	Ncfpg	_	10	Atr	_	_
@@ -49057,7 +49057,7 @@
 23	bodova	bod	N	Ncmpg	_	20	Obj	_	_
 24	od	od	S	Sg	_	19	Prep	_	_
 25	iznosa	iznos	N	Ncmpg	_	24	Obj	_	_
-26	manjih	malen	A	Agcmpgy	_	27	Oth	_	_
+26	manjih	mali	A	Agcmpgy	_	27	Oth	_	_
 27	od	od	S	Sg	_	28	Oth	_	_
 28	deset	deset	M	Mlc	_	29	Atr	_	_
 29	tisuća	tisuća	N	Ncfpg	_	30	Atr	_	_
@@ -49542,7 +49542,7 @@
 3	projekti	projekt	N	Ncmpn	_	4	Sb	_	_
 4	i	i	C	Cc	_	1	Co	_	_
 5	inicijative	inicijativa	N	Ncfpn	_	4	Sb	_	_
-6	malih	malen	A	Agpmpgy	_	7	Atr	_	_
+6	malih	mali	A	Agpmpgy	_	7	Atr	_	_
 7	developera	developer	N	Ncmpg	_	5	Atr	_	_
 8	,	,	Z	Z	_	9	Punc	_	_
 9	no	no	C	Cc	_	0	Co	_	_
@@ -49779,7 +49779,7 @@
 6	i	i	Q	Qo	_	7	Oth	_	_
 7	jamstva	jamstvo	N	Ncnpn	_	5	Sb	_	_
 8	za	za	S	Sa	_	7	Prep	_	_
-9	malo	malen	A	Agpnsay	_	10	Atr	_	_
+9	malo	mali	A	Agpnsay	_	10	Atr	_	_
 10	gospodarstvo	gospodarstvo	N	Ncnsa	_	8	Atr	_	_
 11	,	,	Z	Z	_	12	Punc	_	_
 12	kojima	koji	A	Agpnpiy	_	10	Sub	_	_
@@ -49850,7 +49850,7 @@
 21	vrijedne	vrijedan	A	Agpfpay	_	22	Atv	_	_
 22	investicije	investicija	N	Ncfpa	_	17	Obj	_	_
 23	u	u	S	Sl	_	22	Prep	_	_
-24	malom	malen	A	Agpnsly	_	25	Atr	_	_
+24	malom	mali	A	Agpnsly	_	25	Atr	_	_
 25	gospodarstvu	gospodarstvo	N	Ncnsl	_	23	Atr	_	_
 26	,	,	Z	Z	_	27	Punc	_	_
 27	a	a	C	Cc	_	8	Co	_	_
@@ -49952,7 +49952,7 @@
 10	preraspodjele	preraspodjela	N	Ncfpa	_	9	Obj	_	_
 11	sredstava	sredstvo	N	Ncnpg	_	10	Atr	_	_
 12	namijenjenih	namijenjen	A	Agpnpgy	_	11	Atv	_	_
-13	malom	malen	A	Agpnsdy	_	14	Atr	_	_
+13	malom	mali	A	Agpnsdy	_	14	Atr	_	_
 14	gospodarstvu	gospodarstvo	N	Ncnsd	_	12	Obj	_	_
 15	,	,	Z	Z	_	16	Punc	_	_
 16	no	no	C	Cc	_	0	Co	_	_
@@ -50014,7 +50014,7 @@
 24	ukupna	ukupan	A	Agpnpny	_	25	Atr	_	_
 25	sredstva	sredstvo	N	Ncnpn	_	29	Sb	_	_
 26	za	za	S	Sa	_	25	Prep	_	_
-27	malo	malen	A	Agpnsay	_	28	Atr	_	_
+27	malo	mali	A	Agpnsay	_	28	Atr	_	_
 28	gospodarstvo	gospodarstvo	N	Ncnsa	_	26	Atr	_	_
 29	biti	biti	V	Van	_	22	Pred	_	_
 30	čak	čak	R	Rgp	_	31	Oth	_	_
@@ -50047,7 +50047,7 @@
 18	Operativni	operativan	A	Agpmsayn	_	19	Atr	_	_
 19	plan	plan	N	Ncmsan	_	17	Sb	_	_
 20	za	za	S	Sa	_	19	Prep	_	_
-21	malo	malen	A	Agpnsay	_	22	Atr	_	_
+21	malo	mali	A	Agpnsay	_	22	Atr	_	_
 22	i	i	C	Cc	_	24	Co	_	_
 23	srednje	srednji	A	Agpnsay	_	22	Atr	_	_
 24	poduzetništvo	poduzetništvo	N	Ncnsa	_	20	Atr	_	_
@@ -50233,7 +50233,7 @@
 5	su	biti	V	Var3p	_	4	Aux	_	_
 6	desetak	desetak	M	Mls	_	7	Atr	_	_
 7	puta	put	R	Rgp	_	8	Oth	_	_
-8	manji	malen	A	Agcmsayn	_	9	Atr	_	_
+8	manji	mali	A	Agcmsayn	_	9	Atr	_	_
 9	iznos	iznos	N	Ncmsan	_	4	Obj	_	_
 10	,	,	Z	Z	_	14	Punc	_	_
 11	oko	oko	R	Rgp	_	12	Oth	_	_
@@ -50523,7 +50523,7 @@
 6	da	da	C	Cs	_	5	Sub	_	_
 7	je	biti	V	Var3s	_	8	Aux	_	_
 8	napala	napasti	V	Vmp-sf	_	6	Pred	_	_
-9	male	malen	A	Agpmpay	_	10	Atr	_	_
+9	male	mali	A	Agpmpay	_	10	Atr	_	_
 10	subjekte	subjekt	N	Ncmpa	_	8	Obj	_	_
 11	u	u	S	Sl	_	10	Prep	_	_
 12	prehrambenoj	prehramben	A	Agpfsly	_	13	Atr	_	_
@@ -50539,7 +50539,7 @@
 22	bi	biti	V	Vaa3p	_	23	Aux	_	_
 23	živjeli	živjeti	V	Vmp-pm	_	21	Pred	_	_
 24	i	i	Q	Qo	_	25	Oth	_	_
-25	mali	malen	A	Agpmpny	_	23	Sb	_	_
+25	mali	mali	A	Agpmpny	_	23	Sb	_	_
 26	.	.	Z	Z	_	0	Punc	_	_
 
 1	"	"	Z	Z	_	2	Punc	_	_
@@ -50550,7 +50550,7 @@
 6	i	i	C	Cc	_	4	Co	_	_
 7	tehnologije	tehnologija	N	Ncfsg	_	6	Atr	_	_
 8	što	što	P	Pi3n-a--n-nn	_	4	Sub	_	_
-9	mali	malen	A	Agpmpny	_	11	Sb	_	_
+9	mali	mali	A	Agpmpny	_	11	Sb	_	_
 10	ne	ne	Q	Qz	_	11	Aux	_	_
 11	mogu	moći	V	Vmr3p	_	8	Pred	_	_
 12	isfinancirati	isfinancirati	V	Vmn	_	11	Atv	_	_
@@ -52154,7 +52154,7 @@
 4	glavnih	glavni	A	Agpfpgy	_	5	Atr	_	_
 5	prednosti	prednost	N	Ncfpg	_	3	Atr	_	_
 6	sektora	sektor	N	Ncmsg	_	5	Atr	_	_
-7	malih	malen	A	Agpfpgy	_	8	Atr	_	_
+7	malih	mali	A	Agpfpgy	_	8	Atr	_	_
 8	samoposluga	samoposluga	N	Ncfpg	_	6	Atr	_	_
 9	to	taj	P	Pd-nsn--n-a	_	2	Sb	_	_
 10	što	što	P	Pi3n-n--n-nn	_	9	Sub	_	_
@@ -52192,7 +52192,7 @@
 1	IGD-ov	IGD-ov	A	Aspmsnn	_	2	Atr	_	_
 2	izvještaj	izvještaj	N	Ncmsn	_	6	Sb	_	_
 3	o	o	S	Sl	_	2	Prep	_	_
-4	malim	malen	A	Agpfply	_	5	Atr	_	_
+4	malim	mali	A	Agpfply	_	5	Atr	_	_
 5	trgovinama	trgovina	N	Ncfpl	_	3	Atr	_	_
 6	pokazuje	pokazivati	V	Vmr3s	_	0	Pred	_	_
 7	kako	kako	C	Cs	_	6	Sub	_	_
@@ -52216,7 +52216,7 @@
 2	je	biti	V	Var3s	_	10	Aux	_	_
 3	godine	godina	N	Ncfsg	_	10	Adv	_	_
 4	prosječna	prosječan	A	Agpfsny	_	6	Atr	_	_
-5	mala	malen	A	Agpfsny	_	6	Atr	_	_
+5	mala	mali	A	Agpfsny	_	6	Atr	_	_
 6	trgovina	trgovina	N	Ncfsn	_	10	Sb	_	_
 7	tijekom	tijekom	S	Sg	_	10	Prep	_	_
 8	sedmodnevnog	sedmodnevan	A	Agpnsgy	_	9	Atr	_	_
@@ -52458,7 +52458,7 @@
 2	IGD-ovu	IGD-ov	A	Aspmsln	_	3	Atr	_	_
 3	izvještaju	izvještaj	N	Ncmsl	_	1	Adv	_	_
 4	o	o	S	Sl	_	3	Prep	_	_
-5	malim	malen	A	Agpfply	_	6	Atr	_	_
+5	malim	mali	A	Agpfply	_	6	Atr	_	_
 6	trgovinama	trgovina	N	Ncfpl	_	4	Atr	_	_
 7	,	,	Z	Z	_	1	Punc	_	_
 8	2,9	2,9	M	Mdc	_	11	Atr	_	_
@@ -52565,7 +52565,7 @@
 4	prirodi	priroda	N	Ncfsl	_	1	Adv	_	_
 5	,	,	Z	Z	_	1	Punc	_	_
 6	sektor	sektor	N	Ncmsn	_	11	Sb	_	_
-7	malih	malen	A	Agpfpgy	_	9	Atr	_	_
+7	malih	mali	A	Agpfpgy	_	9	Atr	_	_
 8	kvartovskih	kvartovski	A	Agpfpgy	_	9	Atr	_	_
 9	samoposluga	samoposluga	N	Ncfpg	_	6	Atr	_	_
 10	sklon	sklon	A	Agpmsnn	_	11	Pnom	_	_
@@ -54197,7 +54197,7 @@
 8	Hrvatske	hrvatski	A	Agpfsgy	_	9	Atr	_	_
 9	agencije	agencija	N	Ncfsg	_	7	Obj	_	_
 10	za	za	S	Sa	_	9	Prep	_	_
-11	malo	malen	A	Agpnsay	_	12	Atr	_	_
+11	malo	mali	A	Agpnsay	_	12	Atr	_	_
 12	gospodarstvo	gospodarstvo	N	Ncnsa	_	10	Atr	_	_
 13	,	,	Z	Z	_	14	Punc	_	_
 14	koja	koji	P	Pi-fsn--n-a	_	9	Sub	_	_
@@ -54236,7 +54236,7 @@
 19	financijsku	financijski	A	Agpfsay	_	20	Atr	_	_
 20	podršku	podrška	N	Ncfsa	_	16	Atr	_	_
 21	sektoru	sektor	N	Ncmsd	_	20	Atr	_	_
-22	malog	malen	A	Agpnsgy	_	23	Atr	_	_
+22	malog	mali	A	Agpnsgy	_	23	Atr	_	_
 23	i	i	C	Cc	_	25	Co	_	_
 24	srednjeg	srednji	A	Agpnsgy	_	23	Atr	_	_
 25	poduzetništva	poduzetništvo	N	Ncnsg	_	21	Atr	_	_
@@ -55829,7 +55829,7 @@
 3	se	sebe	P	Px--sa--ypn	_	4	Aux	_	_
 4	odvijati	odvijati	V	Vmn	_	0	Pred	_	_
 5	u	u	S	Sl	_	4	Prep	_	_
-6	malim	malen	A	Agpmply	_	7	Atr	_	_
+6	malim	mali	A	Agpmply	_	7	Atr	_	_
 7	koracima	korak	N	Ncmpl	_	5	Adv	_	_
 8	tako	tako	C	Cs	_	9	Oth	_	_
 9	da	da	C	Cs	_	4	Sub	_	_
@@ -55864,7 +55864,7 @@
 6	je	biti	V	Var3s	_	25	Pred	_	_
 7	prvi	prvi	M	Mlomsn	_	6	Pnom	_	_
 8	od	od	S	Sg	_	7	Prep	_	_
-9	malih	malen	A	Agpmpgy	_	10	Atr	_	_
+9	malih	mali	A	Agpmpgy	_	10	Atr	_	_
 10	koraka	korak	N	Ncmpg	_	8	Atr	_	_
 11	prema	prema	S	Sl	_	10	Prep	_	_
 12	ponovnom	ponovan	A	Agpmsly	_	13	Atr	_	_
@@ -56249,7 +56249,7 @@
 25	tako	tako	R	Rgp	_	26	Adv	_	_
 26	imamo	imati	V	Vmr1p	_	24	Pred	_	_
 27	i	i	Q	Qo	_	28	Oth	_	_
-28	manji	malen	A	Agcmsayn	_	30	Atr	_	_
+28	manji	mali	A	Agcmsayn	_	30	Atr	_	_
 29	ukupni	ukupan	A	Agpmsayn	_	30	Atr	_	_
 30	promet	promet	N	Ncmsan	_	26	Obj	_	_
 31	,	,	Z	Z	_	32	Punc	_	_
@@ -56608,7 +56608,7 @@
 4	faktoru	faktor	N	Ncmsd	_	5	Obj	_	_
 5	posvećivala	posvećivati	V	Vmp-sf	_	0	Pred	_	_
 6	tako	tako	R	Rgp	_	7	Oth	_	_
-7	mala	malen	A	Agpfsny	_	8	Atr	_	_
+7	mala	mali	A	Agpfsny	_	8	Atr	_	_
 8	pozornost	pozornost	N	Ncfsn	_	5	Sb	_	_
 9	u	u	S	Sl	_	8	Prep	_	_
 10	menadžerskim	menadžerski	A	Agpfply	_	11	Atr	_	_
@@ -57431,7 +57431,7 @@
 6	su	biti	V	Var3p	_	7	Aux	_	_
 7	razvijene	razviti	A	Appfpny	_	5	Pred	_	_
 8	u	u	S	Sl	_	7	Prep	_	_
-9	manjoj	malen	A	Agcfsly	_	10	Atr	_	_
+9	manjoj	mali	A	Agcfsly	_	10	Atr	_	_
 10	mjeri	mjera	N	Ncfsl	_	8	Adv	_	_
 11	,	,	Z	Z	_	13	Punc	_	_
 12	kao	kao	C	Cs	_	13	Oth	_	_
@@ -57602,7 +57602,7 @@
 14	fokusirajući	fokusirati	R	Rr	_	25	Atv	_	_
 15	se	sebe	P	Px--sa--ypn	_	14	Obj	_	_
 16	na	na	S	Sa	_	14	Prep	_	_
-17	male	malen	A	Agpfpay	_	18	Atr	_	_
+17	male	mali	A	Agpfpay	_	18	Atr	_	_
 18	,	,	Z	Z	_	20	Co	_	_
 19	nezavisne	nezavisan	A	Agpfpay	_	18	Atr	_	_
 20	trgovine	trgovina	N	Ncfpa	_	21	Obj	_	_
@@ -59957,7 +59957,7 @@
 5	nazivali	nazivati	V	Vmp-pm	_	13	Pred	_	_
 6	i	i	Q	Qo	_	8	Oth	_	_
 7	"	"	Z	Z	_	8	Punc	_	_
-8	manjim	malen	A	Agcmsiy	_	5	Atv	_	_
+8	manjim	mali	A	Agcmsiy	_	5	Atv	_	_
 9	od	od	S	Sg	_	8	Prep	_	_
 10	miša	miš	N	Ncmsg	_	9	Atr	_	_
 11	"	"	Z	Z	_	8	Punc	_	_
