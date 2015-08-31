@@ -2312,7 +2312,7 @@
 28	Online	online	X	Xf	_	25	Atr	_	_
 29	.	.	Z	Z	_	0	Punc	_	_
 
-1	Tko	Tko	P	Pi3m-n--n-ny	_	15	Sub	_	_
+1	Tko	Tko	P	Pq3m-n--n-ny	_	15	Sub	_	_
 2	zna	znati	V	Vmr3s	_	1	Pred	_	_
 3	,	,	Z	Z	_	1	Punc	_	_
 4	možda	možda	R	Rgp	_	10	Adv	_	_
@@ -8483,7 +8483,7 @@
 2	sad	sad	R	Rgp	_	6	Elp	_	_
 3	,	,	Z	Z	_	2	Punc	_	_
 4	u	u	S	Sl	_	6	Prep	_	_
-5	čemu	što	P	Pi3n-l--n-nn	_	4	Adv	_	_
+5	čemu	što	P	Pq3n-l--n-nn	_	4	Adv	_	_
 6	je	biti	V	Var3s	_	0	Pred	_	_
 7	sva	sav	A	Agpfsny	_	8	Atr	_	_
 8	posebnost	posebnost	N	Ncfsn	_	6	Sb	_	_
@@ -14090,7 +14090,7 @@
 1	6.	6.	M	Mdo	_	8	Oth	_	_
 2	Na	na	S	Sl	_	8	Prep	_	_
 3	stranici	stranica	N	Ncfsl	_	2	Adv	_	_
-4	Kakvu	kakav	P	Pi-fsa--n-a	_	5	Atr	_	_
+4	Kakvu	kakav	P	Pq-fsa--n-a	_	5	Atr	_	_
 5	instalaciju	instalacija	N	Ncfsa	_	6	Obj	_	_
 6	želite	željeti	V	Vmr2p	_	3	Pred	_	_
 7	?	?	Z	Z	_	6	Punc	_	_
@@ -24964,7 +24964,7 @@
 43	tako	tako	R	Rgp	_	44	Oth	_	_
 44	velike	velik	A	Agpmpay	_	45	Atr	_	_
 45	događaje	događaj	N	Ncmpa	_	37	Obj	_	_
-46	.	.	Z	Z	_	0	Punc	_	_
+46	?	?	Z	Z	_	0	Punc	_	_
 
 1	Jacques-Bénigne	Jacques-Bénigne	N	Npmsn	_	2	Ap	_	_
 2	Bossuet	Bossuet	N	Npmsn	_	3	Elp	_	_
@@ -26044,8 +26044,7 @@
 23	gledamo	gledati	V	Vmr1p	_	20	Pred	_	_
 24	ove	ovaj	P	Pd-mpa--n-a	_	25	Atr	_	_
 25	kretene	kreten	N	Ncmpa	_	23	Obj	_	_
-26	?	?	Z	Z	_	23	Punc	_	_
-27	.	.	Z	Z	_	0	Punc	_	_
+26	?	?	Z	Z	_	0	Punc	_	_
 
 1	Peder	peder	N	Ncmsn	_	2	Sb	_	_
 2	pere	prati	V	Vmr3s	_	0	Pred	_	_
@@ -26839,14 +26838,13 @@
 7	voli	voljeti	V	Vmr3s	_	6	Pred	_	_
 8	žene	žena	N	Ncfpa	_	7	Obj	_	_
 9	,	,	Z	Z	_	1	Punc	_	_
-10	tko	tko	P	Pi3m-n--n-ny	_	11	Sb	_	_
+10	tko	tko	P	Pq3m-n--n-ny	_	11	Sb	_	_
 11	su	biti	V	Var3p	_	0	Pred	_	_
 12	muškarci	muškarac	N	Ncmpn	_	11	Pnom	_	_
 13	koji	koji	P	Pi-mpn--n-a	_	12	Sub	_	_
 14	vole	voljeti	V	Vmr3p	_	13	Pred	_	_
 15	muškarce	muškarac	N	Ncmpa	_	14	Obj	_	_
-16	?	?	Z	Z	_	11	Punc	_	_
-17	.	.	Z	Z	_	0	Punc	_	_
+16	?	?	Z	Z	_	0	Punc	_	_
 
 1	Muškarci	muškarac	N	Ncmpn	_	5	Sb	_	_
 2	koji	koji	P	Pi-mpn--n-a	_	1	Sub	_	_
@@ -27232,8 +27230,7 @@
 10	nedovoljno	nedovoljno	R	Rgp	_	11	Adv	_	_
 11	cijenjene	cijenjen	A	Agpfsgy	_	9	Atr	_	_
 12	struke	struka	N	Ncfsg	_	5	Atr	_	_
-13	?	?	Z	Z	_	3	Punc	_	_
-14	.	.	Z	Z	_	0	Punc	_	_
+13	?	?	Z	Z	_	0	Punc	_	_
 
 1	Njegovatelj	njegovatelj	N	Ncmsn	_	4	Sb	_	_
 2	u	u	S	Sl	_	1	Prep	_	_

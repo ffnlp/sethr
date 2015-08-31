@@ -213,7 +213,7 @@
 
 1	SETimes	SETimes	N	Npmsn	Case=nominative|Gender=masculine|Number=singular|Type=proper	2	Elp	3:parataxis	UposTag=PROPN|Case=Nom|Gender=Masc|Number=Sing
 2	:	:	Z	Z	_	0	Co	1:punct	UposTag=PUNCT
-3	Kakva	kakav	P	Pi-fsn--n-a	Case=nominative|Clitic=no|Gender=feminine|Number=singular|Syntactic_Type=adjectival|Type=indefinite	4	Pnom	0:root	UposTag=PRON|Case=Nom|Gender=Fem|Number=Sing|PronType=Ind
+3	Kakva	kakav	P	Pq-fsn--n-a	Case=nominative|Clitic=no|Gender=feminine|Number=singular|Syntactic_Type=adjectival|Type=indefinite	4	Pnom	0:root	UposTag=PRON|Case=Nom|Gender=Fem|Number=Sing|PronType=Ind
 4	je	biti	V	Var3s	Number=singular|Person=third|Type=auxiliary|VForm=present	2	Pred	3:cop	UposTag=AUX|Number=Sing|Person=3|Tense=Pres
 5	precizno	precizno	R	Rgp	Degree=positive|Type=general	4	Adv	3:advmod	UposTag=ADV|Degree=Pos
 6	uloga	uloga	N	Ncfsn	Case=nominative|Gender=feminine|Number=singular|Type=common	4	Sb	3:nsubj	UposTag=NOUN|Case=Nom|Gender=Fem|Number=Sing
