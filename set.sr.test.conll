@@ -79,7 +79,7 @@
 13	od	od	S	Sg	Case=genitive	11	Prep	14:case	UposTag=ADP|Case=Gen
 14	Srbije	Srbija	N	Npfsg	Case=genitive|Gender=feminine|Number=singular|Type=proper	13	Atr	11:nmod	UposTag=PROPN|Case=Gen|Gender=Fem|Number=Sing
 15	,	,	Z	Z	_	16	Punc	18:punct	UposTag=PUNCT
-16	što	što	P	Pi3n-nn	Type=subordinating	9	Sub	18:mark	UposTag=SCONJ
+16	što	što	P	Pi3n-n	Type=subordinating	9	Sub	18:mark	UposTag=SCONJ
 17	je	biti	V	Var3s	Number=singular|Person=third|Type=auxiliary|VForm=present	16	Pred	18:cop	UposTag=AUX|Number=Sing|Person=3|Tense=Pres
 18	cena	cena	N	Ncfsn	Case=nominative|Gender=feminine|Number=singular|Type=common	17	Pnom	11:acl	UposTag=NOUN|Case=Nom|Gender=Fem|Number=Sing
 19	za	za	S	Sa	Case=accusative	18	Prep	20:case	UposTag=ADP|Case=Acc
@@ -281,7 +281,7 @@
 2	je	biti	V	Var3s	Number=singular|Person=third|Type=auxiliary|VForm=present	0	Pred	4:aux	UposTag=AUX|Number=Sing|Person=3|Tense=Pres
 3	u	u	S	Sl	Case=locative	2	Prep	4:case	UposTag=ADP|Case=Loc
 4	tome	taj	P	Pd-nsl	Case=locative|Clitic=no|Gender=neuter|Number=singular|Syntactic_Type=adjectival|Type=demonstrative	3	Pnom	0:root	UposTag=PRON|Case=Loc|Gender=Neut|Number=Sing|PronType=Dem
-5	što	što	P	Pi3n-nn	Type=subordinating	4	Sub	10:mark	UposTag=SCONJ
+5	što	što	P	Pi3n-n	Type=subordinating	4	Sub	10:mark	UposTag=SCONJ
 6	je	biti	V	Var3s	Number=singular|Person=third|Type=auxiliary|VForm=present	5	Pred	10:auxpass	UposTag=AUX|Number=Sing|Person=3|Tense=Pres
 7	međunarodna	međunarodni	A	Agpfsny	Case=nominative|Degree=positive|Gender=feminine|Number=singular|Type=general	8	Atr	8:amod	UposTag=ADJ|Case=Nom|Degree=Pos|Gender=Fem|Number=Sing
 8	zajednica	zajednica	N	Ncfsn	Case=nominative|Gender=feminine|Number=singular|Type=common	6	Sb	10:nsubjpass	UposTag=NOUN|Case=Nom|Gender=Fem|Number=Sing
@@ -340,7 +340,7 @@
 28	zemlji	zemlja	N	Ncfsl	Case=locative|Gender=feminine|Number=singular|Type=common	27	Atr	26:nmod	UposTag=NOUN|Case=Loc|Gender=Fem|Number=Sing
 29	.	.	Z	Z	_	0	Punc	11:punct	UposTag=PUNCT
 
-1	Što	što	P	Pi3n-nn	Type=subordinating	19	Sub	3:mark	UposTag=SCONJ
+1	Što	što	P	Pi3n-n	Type=subordinating	19	Sub	3:mark	UposTag=SCONJ
 2	se	sebe	P	Px--sa	Case=accusative|Clitic=yes|Number=singular|Referent_Type=personal|Syntactic_Type=nominal|Type=reflexive	3	Aux	3:compound	UposTag=PRON|Case=Acc|Number=Sing|Reflex=Yes
 3	tiče	ticati	V	Vmr3s	Number=singular|Person=third|Type=main|VForm=present	1	Pred	19:advcl	UposTag=VERB|Number=Sing|Person=3|Tense=Pres
 4	rumunskih	rumunski	A	Agpfpgy	Case=genitive|Degree=positive|Gender=feminine|Number=plural|Type=general	5	Atr	5:amod	UposTag=ADJ|Case=Gen|Degree=Pos|Gender=Fem|Number=Plur
@@ -503,7 +503,7 @@
 9	zaista	zaista	R	Rgp	Degree=positive|Type=general	11	Adv	11:advmod	UposTag=ADV|Degree=Pos
 10	da	da	C	Cs	Type=subordinating	11	Oth	11:mark	UposTag=SCONJ
 11	promeni	promeniti	V	Vmr3s	Number=singular|Person=third|Type=main|VForm=present	3	Atv	3:xcomp	UposTag=VERB|Number=Sing|Person=3|Tense=Pres
-12	nešto	nešto	P	Pi3n-an	Animate=no|Case=accusative|Clitic=no|Gender=neuter|Person=third|Syntactic_Type=nominal|Type=indefinite	11	Obj	11:dobj	UposTag=PRON|Animacy=Inan|Case=Acc|Gender=Neut|Person=3|PronType=Ind
+12	nešto	nešto	P	Pi3n-a	Animate=no|Case=accusative|Clitic=no|Gender=neuter|Person=third|Syntactic_Type=nominal|Type=indefinite	11	Obj	11:dobj	UposTag=PRON|Animacy=Inan|Case=Acc|Gender=Neut|Person=3|PronType=Ind
 13	kada	kada	R	Rgp	Degree=positive|Type=general	3	Sub	36:mark	UposTag=ADV|Degree=Pos
 14	su	biti	V	Var3p	Number=plural|Person=third|Type=auxiliary|VForm=present	13	Pred	36:cop	UposTag=AUX|Number=Plur|Person=3|Tense=Pres
 15	velika	velik	A	Agpnpny	Case=nominative|Degree=positive|Gender=neuter|Number=plural|Type=general	16	Atr	16:amod	UposTag=ADJ|Case=Nom|Degree=Pos|Gender=Neut|Number=Plur
@@ -700,7 +700,7 @@
 6	evra	evro	N	Ncmpg	Case=genitive|Gender=masculine|Number=plural|Type=common	5	Atr	2:nmod	UposTag=NOUN|Case=Gen|Gender=Masc|Number=Plur
 7	,	,	Z	Z	_	8	Punc	13:punct	UposTag=PUNCT
 8	od	od	S	Sg	Case=genitive	5	Prep	9:case	UposTag=ADP|Case=Gen
-9	čega	što	P	Pi3n-gn	Animate=no|Case=genitive|Clitic=no|Gender=neuter|Person=third|Syntactic_Type=nominal|Type=indefinite	8	Sub	13:mark	UposTag=PRON|Animacy=Inan|Case=Gen|Gender=Neut|Person=3|PronType=Ind
+9	čega	što	P	Pi3n-g	Animate=no|Case=genitive|Clitic=no|Gender=neuter|Person=third|Syntactic_Type=nominal|Type=indefinite	8	Sub	13:mark	UposTag=PRON|Animacy=Inan|Case=Gen|Gender=Neut|Person=3|PronType=Ind
 10	je	biti	V	Var3s	Number=singular|Person=third|Type=auxiliary|VForm=present	13	Aux	13:aux	UposTag=AUX|Number=Sing|Person=3|Tense=Pres
 11	70	70	M	Mdc	Form=digit	12	Atr	12:nummod	UposTag=NUM
 12	odsto	odsto	R	Rgp	Case=genitive|Gender=masculine|Number=singular|Type=common	13	Obj	13:nmod	UposTag=NOUN|Case=Gen|Gender=Masc|Number=Sing
@@ -793,7 +793,7 @@
 6	,	,	Z	Z	_	4	Punc	4:punct	UposTag=PUNCT
 7	je	biti	V	Var3s	Number=singular|Person=third|Type=auxiliary|VForm=present	0	Pred	8:cop	UposTag=AUX|Number=Sing|Person=3|Tense=Pres
 8	to	taj	P	Pd-nsn	Case=nominative|Clitic=no|Gender=neuter|Number=singular|Syntactic_Type=adjectival|Type=demonstrative	7	Sb	0:root	UposTag=PRON|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem
-9	što	što	P	Pi3n-nn	Type=subordinating	8	Sub	11:mark	UposTag=SCONJ
+9	što	što	P	Pi3n-n	Type=subordinating	8	Sub	11:mark	UposTag=SCONJ
 10	nije	biti	V	Var3s-y	Negative=yes|Number=singular|Person=third|Type=auxiliary|VForm=present	9	Pred	11:cop	UposTag=AUX|Negative=Neg|Number=Sing|Person=3|Tense=Pres
 11	originalan	originalan	A	Agpmsnn	Case=nominative|Degree=positive|Gender=masculine|Number=singular|Type=general	10	Pnom	8:acl	UposTag=ADJ|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing
 12	.	.	Z	Z	_	0	Punc	8:punct	UposTag=PUNCT
@@ -1559,8 +1559,8 @@
 11	naredio	narediti	V	Vmp-sm	Gender=masculine|Number=singular|Type=main|VForm=participle	12	Pred	7:conj	UposTag=VERB|Gender=Masc|Number=Sing|VerbForm=Part
 12	ili	ili	C	Cc	Type=coordinating	4	Co	7:cc	UposTag=CONJ
 13	izvršio	izvršiti	V	Vmp-sm	Gender=masculine|Number=singular|Type=main|VForm=participle	12	Pred	7:conj	UposTag=VERB|Gender=Masc|Number=Sing|VerbForm=Part
-14	nešto	nešto	P	Pi3n-an	Animate=no|Case=accusative|Clitic=no|Gender=neuter|Person=third|Syntactic_Type=nominal|Type=indefinite	13	Obj	13:dobj	UposTag=PRON|Animacy=Inan|Case=Acc|Gender=Neut|Person=3|PronType=Ind
-15	što	što	P	Pi3n-nn	Animate=no|Case=nominative|Clitic=no|Gender=neuter|Person=third|Syntactic_Type=nominal|Type=indefinite	14	Sub	16:mark	UposTag=PRON|Animacy=Inan|Case=Nom|Gender=Neut|Person=3|PronType=Ind
+14	nešto	nešto	P	Pi3n-a	Animate=no|Case=accusative|Clitic=no|Gender=neuter|Person=third|Syntactic_Type=nominal|Type=indefinite	13	Obj	13:dobj	UposTag=PRON|Animacy=Inan|Case=Acc|Gender=Neut|Person=3|PronType=Ind
+15	što	što	P	Pi3n-n	Animate=no|Case=nominative|Clitic=no|Gender=neuter|Person=third|Syntactic_Type=nominal|Type=indefinite	14	Sub	16:mark	UposTag=PRON|Animacy=Inan|Case=Nom|Gender=Neut|Person=3|PronType=Ind
 16	predstavlja	predstavljati	V	Vmr3s	Number=singular|Person=third|Type=main|VForm=present	15	Pred	14:acl	UposTag=VERB|Number=Sing|Person=3|Tense=Pres
 17	povredu	povreda	N	Ncfsa	Case=accusative|Gender=feminine|Number=singular|Type=common	16	Obj	16:dobj	UposTag=NOUN|Case=Acc|Gender=Fem|Number=Sing
 18	običaja	običaj	N	Ncmpg	Case=genitive|Gender=masculine|Number=plural|Type=common	17	Atr	17:nmod	UposTag=NOUN|Case=Gen|Gender=Masc|Number=Plur
