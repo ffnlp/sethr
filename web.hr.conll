@@ -2490,8 +2490,8 @@
 57	natovariti	natovariti	V	Vmn	_	41	Pred	_	_
 58	na	na	S	Sa	_	57	Prep	_	_
 59	grbaču	grbača	N	Ncfsa	_	58	Obj	_	_
-60	Borisa	Boris	N	Npmsa	_	61	Atr	_	_
-61	Šprema	Šprem	N	Npmsa	_	57	Obj	_	_
+60	Borisa	Boris	N	Npmsay	_	61	Atr	_	_
+61	Šprema	Šprem	N	Npmsay	_	57	Obj	_	_
 62	kao	kao	C	Cs	_	65	Atr	_	_
 63	predsjednika	predsjednik	N	Ncmsay	_	65	Ap	_	_
 64	skupštine	skupština	N	Ncfsg	_	63	Atr	_	_
@@ -2723,8 +2723,8 @@
 27	našeg	naš	P	Ps1msay	_	29	Atr	_	_
 28	novog	nov	A	Agpmsay	_	29	Atr	_	_
 29	člana	član	N	Ncmsay	_	31	Ap	_	_
-30	Antuna	Antun	N	Npmsa	_	31	Ap	_	_
-31	Novoselovića	Novoselović	N	Npmsa	_	26	Obj	_	_
+30	Antuna	Antun	N	Npmsay	_	31	Ap	_	_
+31	Novoselovića	Novoselović	N	Npmsay	_	26	Obj	_	_
 32	.	.	Z	Z	_	0	Punc	_	_
 
 1	Kao	kao	C	Cs	_	3	Oth	_	_
@@ -6667,7 +6667,7 @@
 25	prijedloga	prijedlog	N	Ncmsg	_	24	Atr	_	_
 26	da	da	C	Cs	_	25	Sub	_	_
 27	se	sebe	P	Px--sa	_	29	Aux	_	_
-28	Mladića	Mladić	N	Npmsa	_	29	Obj	_	_
+28	Mladića	Mladić	N	Npmsay	_	29	Obj	_	_
 29	proglasi	proglasiti	V	Vmr3s	_	26	Pred	_	_
 30	mrtvim	mrtav	A	Agpmsiy	_	29	Atv	_	_
 31	neće	htjeti	V	Var3s-y	_	32	Aux	_	_
@@ -7682,7 +7682,7 @@
 5	spomenuti	spomenuti	V	Vmn	_	1	Sb	_	_
 6	dobrog	dobar	A	Agpmsay	_	8	Atr	_	_
 7	starog	stari	A	Agpmsay	_	8	Atr	_	_
-8	Indyja	Indy	N	Npmsa	_	5	Obj	_	_
+8	Indyja	Indy	N	Npmsay	_	5	Obj	_	_
 9	koji	koji	P	Pi-msn	_	8	Sub	_	_
 10	u	u	S	Sl	_	15	Prep	_	_
 11	potrazi	potraga	N	Ncfsl	_	10	Obj	_	_
@@ -10064,8 +10064,8 @@
 15	svojeg	svoj	P	Px-msay	_	17	Atr	_	_
 16	dugogodišnjeg	dugogodišnji	A	Agpmsayy	_	17	Atr	_	_
 17	dečka	dečko	N	Ncmsay	_	19	Ap	_	_
-18	Thomasa	Thomas	N	Npmsa	_	19	Ap	_	_
-19	Marsa	Mars	N	Npmsa	_	14	Obj	_	_
+18	Thomasa	Thomas	N	Npmsay	_	19	Ap	_	_
+19	Marsa	Mars	N	Npmsay	_	14	Obj	_	_
 20	.	.	Z	Z	_	0	Punc	_	_
 
 1	Prije	prije	R	Rgp	_	3	Adv	_	_
@@ -26157,11 +26157,11 @@
 17	pritiskali	pritiskati	V	Vmp-pm	_	18	Pred	_	_
 18	i	i	C	Cc	_	8	Co	_	_
 19	izbezumili	izbezumiti	V	Vmp-pm	_	18	Pred	_	_
-20	Stama	Stam	N	Npmsa	_	21	Obj	_	_
+20	Stama	Stam	N	Npmsay	_	21	Obj	_	_
 21	i	i	C	Cc	_	18	Co	_	_
 22	Van	van	X	Xf	_	24	Oth	_	_
 23	der	der	X	Xf	_	24	Oth	_	_
-24	Wiela	Wiel	N	Npmsa	_	21	Obj	_	_
+24	Wiela	Wiel	N	Npmsay	_	21	Obj	_	_
 25	.	.	Z	Z	_	0	Punc	_	_
 
 1	Ipak	ipak	R	Rgp	_	5	Oth	_	_

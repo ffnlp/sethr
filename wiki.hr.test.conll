@@ -1824,7 +1824,7 @@
 5	par	par	N	Ncmsn	Case=nominative|Gender=masculine|Number=singular|Type=common	6	Sb	6:nsubj	UposTag=NOUN|Case=Nom|Gender=Masc|Number=Sing
 6	odlazi	odlaziti	V	Vmr3s	Number=singular|Person=third|Type=main|VForm=present	0	Pred	0:root	UposTag=VERB|Number=Sing|Person=3|Tense=Pres
 7	u	u	S	Sa	Case=accusative	6	Prep	8:case	UposTag=ADP|Case=Acc
-8	Innsbruck	Innsbruck	N	Npmsa	Case=locative|Gender=masculine|Number=singular|Type=common	7	Adv	6:nmod	UposTag=NOUN|Case=Loc|Gender=Masc|Number=Sing
+8	Innsbruck	Innsbruck	N	Npmsan	Case=locative|Gender=masculine|Number=singular|Type=common	7	Adv	6:nmod	UposTag=NOUN|Case=Loc|Gender=Masc|Number=Sing
 9	(	(	Z	Z	_	10	Punc	10:punct	UposTag=PUNCT
 10	Austrija	Austrija	N	Npfsn	Case=nominative|Gender=feminine|Number=singular|Type=proper	8	Atr	8:parataxis	UposTag=PROPN|Case=Nom|Gender=Fem|Number=Sing
 11	)	)	Z	Z	_	10	Punc	10:punct	UposTag=PUNCT
