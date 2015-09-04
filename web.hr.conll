@@ -7968,7 +7968,7 @@
 11	pale	paliti	V	Vmr3p	_	0	Pred	_	_
 12	.	.	Z	Z	_	0	Punc	_	_
 
-1	Njemačka	njemački	A	Agpfsn	_	2	Atr	_	_
+1	Njemačka	njemački	A	Agpfsny	_	2	Atr	_	_
 2	oporba	oporba	N	Ncfsn	_	3	Sb	_	_
 3	zahtjevala	zahtjevati	V	Vmp-sf	_	0	Pred	_	_
 4	je	biti	V	Var3s	_	3	Aux	_	_
@@ -18953,7 +18953,7 @@
 19	donošenja	donošenje	N	Ncnsg	_	18	Atr	_	_
 20	odluka	odluka	N	Ncfpg	_	19	Atr	_	_
 21	temeljem	temeljem	S	Sg	_	19	Atr	_	_
-22	bjanko	bjanko	A	Agpfsgn	_	23	Atr	_	_
+22	bjanko	bjanko	A	Agpfsgy	_	23	Atr	_	_
 23	punomoći	punomoć	N	Ncfsg	_	21	Atr	_	_
 24	,	,	Z	Z	_	28	Punc	_	_
 25	Sindikat	sindikat	N	Ncmsn	_	28	Sb	_	_
@@ -30796,7 +30796,7 @@
 2	je	biti	V	Var3s	_	0	Pred	_	_
 3	živa	živ	A	Agpfsny	_	4	Pnom	_	_
 4	i	i	C	Cc	_	2	Co	_	_
-5	djelotvorna	djelotvoran	A	Agpfsn	_	4	Pnom	_	_
+5	djelotvorna	djelotvoran	A	Agpfsny	_	4	Pnom	_	_
 6	ukoliko	ukoliko	C	Cs	_	4	Sub	_	_
 7	je	biti	V	Var3s	_	10	Obj	_	_
 8	tijekom	tijekom	S	Sg	_	10	Prep	_	_
@@ -31598,7 +31598,7 @@
 6	tradicionalni	tradicionalan	A	Agpmsayn	_	8	Atr	_	_
 7	uskrsni	uskrsni	A	Agpmsayn	_	8	Atr	_	_
 8	kruh	kruh	N	Ncmsan	_	9	Ap	_	_
-9	pincu	pinca	N	Ncmfs	_	5	Atr	_	_
+9	pincu	pinca	N	Ncfsa	_	5	Atr	_	_
 
 1	Ova	ovaj	P	Pd-fsn	_	3	Atr	_	_
 2	novocirkuska	novocirkuski	A	Agpfsny	_	3	Atr	_	_
@@ -36250,7 +36250,7 @@
 2	,	,	Z	Z	_	4	Co	_	_
 3	današnji	današnji	A	Agpmsayn	_	2	Atr	_	_
 4	izgled	izgled	N	Ncmsan	_	8	Obj	_	_
-5	španjolska	španjolski	A	Agpfsn	_	7	Atr	_	_
+5	španjolska	španjolski	A	Agpfsny	_	7	Atr	_	_
 6	je	biti	V	Var3s	_	8	Aux	_	_
 7	zastava	zastava	N	Ncfsn	_	8	Sb	_	_
 8	dobila	dobiti	V	Vmp-sf	_	0	Pred	_	_
@@ -42900,7 +42900,7 @@
 53	koju	koji	P	Pi-fsa	_	52	Sub	_	_
 54	je	biti	V	Var3s	_	57	Aux	_	_
 55	providnost	providnost	N	Ncfsn	_	57	Sb	_	_
-56	Božja	božji	A	Agpfsn	_	55	Atr	_	_
+56	Božja	božji	A	Agpfsny	_	55	Atr	_	_
 57	darovala	darovati	V	Vmp-sf	_	53	Pred	_	_
 58	baš	baš	R	Rgp	_	59	Oth	_	_
 59	našem	naš	P	Ps1msd	_	60	Atr	_	_
@@ -44433,7 +44433,7 @@
 3	postao	postati	V	Vmp-sm	_	1	Pred	_	_
 4	predsjednik	predsjednik	N	Ncmsn	_	3	Pnom	_	_
 5	,	,	Z	Z	_	1	Punc	_	_
-6	obično	običan	A	Agpnsan	_	7	Atr	_	_
+6	obično	običan	A	Agpnsay	_	7	Atr	_	_
 7	pismo	pismo	N	Ncnsa	_	24	Obj	_	_
 8	koje	koji	P	Pi-nsa	_	7	Sub	_	_
 9	su	biti	V	Var3p	_	12	Aux	_	_
