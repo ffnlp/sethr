@@ -35,4 +35,4 @@ The test sets are split into five 100-sentence (~2,000-word) files:
 
 For the Croatian and Serbian newswire and Wikipedia test sets, both annotation layers are available, while for the Croatian web-based test set, only the SETimes.HR annotations are currently included.
 
-#On top of these resources, we also provide the Apertium morphological lexicon of Croatian mapped to the tagset used in the above datasets (file `apertium.lexicon.2013-04-19.txt.gz`), and the tag and morphological feature mappings between MTE4r and UD (file `mte4r-upos.mapping`).
+On top of these resources, we also provide the Apertium morphological lexicons of Croatian and Serbian mapped to the tagset used in the above datasets (available from the [ReLDI project GitHub](https://github.com/uzh/reldi/)), and the tag and morphological feature mappings between MTE4r and UD (file `mte4r-upos.mapping`).
