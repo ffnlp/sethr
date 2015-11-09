@@ -4,9 +4,9 @@ The treebank is a result of an effort in providing [free-culture](http://creativ
 
 The SETimes.HR dataset (set.hr.conll) is available under the [CC-BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/). Please cite [Agić and Ljubešić (2014)](http://www.lrec-conf.org/proceedings/lrec2014/pdf/690_Paper.pdf) ([bib](http://aclweb.org/anthology/L/L14/L14-1542.bib)) when using this resource.
 
-The remaining datasets (web.hr.conll and news.hr.conll) are available under the [CC-BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/). For the time being, please cite [Agić and Ljubešić (2014)](http://www.lrec-conf.org/proceedings/lrec2014/pdf/690_Paper.pdf) ([bib](http://aclweb.org/anthology/L/L14/L14-1542.bib)) as well when using this resource.
+The remaining datasets (web.hr.conll and news.hr.conll) are available under the [CC-BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/). For the time being, please cite [Agić and Ljubešić (2014)](http://www.lrec-conf.org/proceedings/lrec2014/pdf/690_Paper.pdf) ([bib](http://aclweb.org/anthology/L/L14/L14-1542.bib)) when using these resources as well.
 
-There are currently 6,477 sentences (143,234 words) in the collection. All are manually split and tokenized, and then manually annotated for:
+There are currently 8,579 sentences (190,735 tokens) in the training collections. All are manually split and tokenized, and then manually annotated for:
 
 1. parts of speech and morphological features in the [Multext East v4 (MTE4)](http://nlp.ffzg.hr/data/tagging/msd-hr.html) style, and for 
 2. syntactic dependencies following a simplified [PDT](https://ufal.mff.cuni.cz/pdt3.0)-motivated scheme [(Agić & Merkler 2013)](http://link.springer.com/chapter/10.1007/978-3-642-40585-3_70), referred to as the SETimes.HR scheme.
@@ -24,14 +24,15 @@ The treebank is split into training and test sets. The training sets are in Croa
 
 The training sets are packaged in two files:
 
-* `set.hr.conll` contains 3,757 training sentences (83,640 words) with both annotation layers available (SETimes.HR & UD). Note that this dataset is split in the Croatian UD dataset into 3,557 training and 200 development sentences.
-* `web.hr.conll` contains 2,223 sentences (49,077 words) from the Croatian web-based corpus described by [Klubička & Ljubešić (2014)](http://nl.ijs.si/isjt14/proceedings/isjt2014_10.pdf). Currently, this dataset does not include the UD annotation layer.
+* `set.hr.conll` contains 3,757 training sentences (83,637 tokens) with both annotation layers available (SETimes.HR & UD). Note that this dataset is split in the Croatian UD dataset into 3,557 training and 200 development sentences.
+* `web.hr.conll` contains 2,223 sentences (49,077 tokens) from the Croatian web-based corpus described by [Klubička & Ljubešić (2014)](http://nl.ijs.si/isjt14/proceedings/isjt2014_10.pdf). Currently, this dataset does not include the UD annotation layer.
+* `news.hr.conll` contains 2,599 sentences (58,021 tokens) from various news portals
 
-The training sets are split into five 100-sentence (~2,000-word) files:
+The test sets are split into five 100-sentence (~2,000-word) files:
 
 * `{set|wiki}.{hr|sr}.test.conll` which represent the Croatian and Serbian newswire and Wikipedia test sets, and
 * `web.hr.test.conll` which contains the Croatian web-based test set.
 
 For the Croatian and Serbian newswire and Wikipedia test sets, both annotation layers are available, while for the Croatian web-based test set, only the SETimes.HR annotations are currently included.
 
-On top of these resources, we also provide the Apertium morphological lexicon of Croatian mapped to the tagset used in the above datasets (file `apertium.lexicon.2013-04-19.txt.gz`), and the tag and morphological feature mappings between MTE4 and UD (file `mte4-upos.mapping`).
+#On top of these resources, we also provide the Apertium morphological lexicon of Croatian mapped to the tagset used in the above datasets (file `apertium.lexicon.2013-04-19.txt.gz`), and the tag and morphological feature mappings between MTE4r and UD (file `mte4r-upos.mapping`).
