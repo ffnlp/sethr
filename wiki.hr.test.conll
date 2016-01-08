@@ -328,7 +328,7 @@
 17	događaji	događaj	N	Ncmpn	Type=common|Gender=masculine|Number=plural|Case=nominative	15	Sb	15:nsubj	UposTag=NOUN|Case=Nom|Gender=Masc|Number=Plur
 18	.	.	Z	Z	_	0	Punc	1:punct	UposTag=PUNCT
 
-1	Mjesečeva	mjesečev	A	Aspnsny	Type=possessive|Degree=positive|Gender=neuter|Number=singular|Case=nominative|Definiteness=yes	2	Atr	2:nmod	UposTag=ADJ|Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Poss=Yes
+1	Mjesečeva	mjesečev	A	Aspnpny	Type=possessive|Degree=positive|Gender=neuter|Number=plural|Case=nominative|Definiteness=yes	2	Atr	2:nmod	UposTag=ADJ|Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Poss=Yes
 2	mora	more	N	Ncnpn	Type=common|Gender=neuter|Number=plural|Case=nominative	3	Sb	6:nsubj	UposTag=NOUN|Case=Nom|Gender=Neut|Number=Plur
 3	su	biti	V	Var3p	Type=auxiliary|VForm=present|Person=third|Number=plural	0	Pred	6:cop	UposTag=AUX|Number=Plur|Person=3|Tense=Pres
 4	ogromne	ogroman	A	Agpfpny	Type=general|Degree=positive|Gender=feminine|Number=plural|Case=nominative|Definiteness=yes	6	Atr	6:amod	UposTag=ADJ|Case=Nom|Degree=Pos|Gender=Fem|Number=Plur
@@ -1353,7 +1353,7 @@
 8	.	.	Z	Z	_	0	Punc	1:punct	UposTag=PUNCT
 
 1	Imovinski	imovinski	R	Rgp	Type=general|Degree=positive	2	Adv	2:advmod	UposTag=ADV|Degree=Pos
-2	skormna	skroman	A	Agpfsny	Type=general|Degree=positive|Gender=feminine|Number=singular|Case=nominative|Definiteness=yes	3	Atr	3:amod	UposTag=ADJ|Case=Nom|Degree=Pos|Gender=Fem|Number=Sing
+2	skromna	skroman	A	Agpfsny	Type=general|Degree=positive|Gender=feminine|Number=singular|Case=nominative|Definiteness=yes	3	Atr	3:amod	UposTag=ADJ|Case=Nom|Degree=Pos|Gender=Fem|Number=Sing
 3	obitelj	obitelj	N	Ncfsn	Type=common|Gender=feminine|Number=singular|Case=nominative	7	Sb	7:nsubj	UposTag=NOUN|Case=Nom|Gender=Fem|Number=Sing
 4	Sanaderovih	Sanaderov	A	Aspmpgy	Type=possessive|Degree=positive|Gender=masculine|Number=plural|Case=genitive|Definiteness=yes	3	Atr	3:nmod	UposTag=ADJ|Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Poss=Yes
 5	nije	biti	V	Var3s-y	Type=auxiliary|VForm=present|Person=third|Number=singular|Negative=Yes	7	Aux	7:aux	UposTag=AUX|Negative=Neg|Number=Sing|Person=3|Tense=Pres
