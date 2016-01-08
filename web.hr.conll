@@ -1979,7 +1979,7 @@
 
 1	Eliezer	Eliezer	N	Npmsn	Type=proper|Gender=masculine|Number=singular|Case=nominative	6	Sb	_	_
 2	,	,	Z	Z	_	1	Punc	_	_
-3	Abrahamov	Abrahamov	A	Aspmsny	Type=possessive|Degree=positive|Gender=masculine|Number=singular|Case=nominative|Definiteness=yes	4	Atr	_	_
+3	Abrahamov	Abrahamov	A	Aspmsnn	Type=possessive|Degree=positive|Gender=masculine|Number=singular|Case=nominative|Definiteness=no	4	Atr	_	_
 4	sluga	sluga	N	Ncmsn	Type=common|Gender=masculine|Number=singular|Case=nominative	1	Ap	_	_
 5	je	biti	V	Var3s	Type=auxiliary|VForm=present|Person=third|Number=singular	6	Aux	_	_
 6	rekao	reći	V	Vmp-sm	Type=main|VForm=participle|Number=singular|Gender=masculine	0	Pred	_	_
@@ -26608,7 +26608,7 @@
 10	razreda	razred	N	Ncmpg	Type=common|Gender=masculine|Number=plural|Case=genitive	8	Obj	_	_
 11	.	.	Z	Z	_	0	Punc	_	_
 
-1	Blankin	blankin	A	Aspmsny	Type=possessive|Degree=positive|Gender=masculine|Number=singular|Case=nominative|Definiteness=yes	3	Atr	_	_
+1	Blankin	blankin	A	Aspmsnn	Type=possessive|Degree=positive|Gender=masculine|Number=singular|Case=nominative|Definiteness=no	3	Atr	_	_
 2	tata	tata	N	Ncmsn	Type=common|Gender=masculine|Number=singular|Case=nominative	3	Ap	_	_
 3	i	i	C	Cc	Type=coordinating	6	Co	_	_
 4	trener	trener	N	Ncmsn	Type=common|Gender=masculine|Number=singular|Case=nominative	3	Ap	_	_
