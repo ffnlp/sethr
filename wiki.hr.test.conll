@@ -1450,7 +1450,7 @@
 15	joj	on	P	Pp3fsd	Type=personal|Person=third|Gender=feminine|Number=singular|Case=dative	14	Obj	17:dobj	UposTag=PRON|Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs
 16	oči	oko	N	Ncfpn	Type=common|Gender=feminine|Number=plural|Case=nominative	14	Sb	17:nsubj	UposTag=NOUN|Case=Nom|Gender=Neut|Number=Plur
 17	narančaste	narančast	A	Agpfpny	Type=general|Degree=positive|Gender=feminine|Number=plural|Case=nominative|Definiteness=yes	14	Pnom	18:advcl	UposTag=ADJ|Case=Nom|Degree=Pos|Gender=Fem|Number=Plur
-18	nema	nemati	V	Vmr3s-y	Type=main|VForm=present|Person=third|Number=singular|Negative=Yes	12	Pred	10:conj	UposTag=VERB|Number=Sing|Person=3|Tense=Pres
+18	nema	nemati	V	Vmr3s	Type=main|VForm=present|Person=third|Number=singular	12	Pred	10:conj	UposTag=VERB|Number=Sing|Person=3|Tense=Pres
 19	problema	problem	N	Ncmpg	Type=common|Gender=masculine|Number=plural|Case=genitive	18	Obj	18:xcomp	UposTag=NOUN|Case=Gen|Gender=Masc|Number=Plur
 20	sa	sa	S	Si	Case=instrumental	19	Prep	21:case	UposTag=ADP|Case=Ins
 21	sluhom	sluh	N	Ncmsi	Type=common|Gender=masculine|Number=singular|Case=instrumental	20	Atr	19:nmod	UposTag=NOUN|Case=Ins|Gender=Masc|Number=Sing

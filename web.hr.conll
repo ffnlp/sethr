@@ -1123,7 +1123,7 @@
 25	.	.	Z	Z	_	0	Punc	_	_
 
 1	Politika	politika	N	Ncfsn	Type=common|Gender=feminine|Number=singular|Case=nominative	2	Sb	_	_
-2	nema	nemati	V	Vmr3s-y	Type=main|VForm=present|Person=third|Number=singular|Negative=Yes	8	Pred	_	_
+2	nema	nemati	V	Vmr3s	Type=main|VForm=present|Person=third|Number=singular	8	Pred	_	_
 3	s	sa	S	Si	Case=instrumental	2	Prep	_	_
 4	tim	taj	P	Pd-nsi	Type=demonstrative|Gender=neuter|Number=singular|Case=instrumental	3	Obj	_	_
 5	nikakve	nikakav	P	Pi-fsg	Type=indefinite|Gender=feminine|Number=singular|Case=genitive	6	Atr	_	_
@@ -4509,7 +4509,7 @@
 7	da	da	C	Cs	Type=subordinating	6	Sub	_	_
 8	u	u	S	Sl	Case=locative	10	Prep	_	_
 9	uredništvu	uredništvo	N	Ncnsl	Type=common|Gender=neuter|Number=singular|Case=locative	8	Adv	_	_
-10	nemaju	nemati	V	Vmr3p-y	Type=main|VForm=present|Person=third|Number=plural|Negative=Yes	7	Pred	_	_
+10	nemaju	nemati	V	Vmr3p	Type=main|VForm=present|Person=third|Number=plural	7	Pred	_	_
 11	barem	barem	R	Rgp	Type=general|Degree=positive	12	Oth	_	_
 12	jednog	jedan	M	Mlcmsay	Form=letter|Type=cardinal|Gender=masculine|Number=singular|Case=accusative|Animate=yes	13	Atr	_	_
 13	lektora	lektor	N	Ncmsay	Type=common|Gender=masculine|Number=singular|Case=accusative|Animate=yes	10	Obj	_	_
@@ -5039,7 +5039,7 @@
 24	ali	ali	C	Cc	Type=coordinating	2	Co	_	_
 25	da	da	C	Cs	Type=subordinating	24	Sub	_	_
 26	još	još	R	Rgp	Type=general|Degree=positive	27	Adv	_	_
-27	nema	nemati	V	Vmr3s-y	Type=main|VForm=present|Person=third|Number=singular|Negative=Yes	25	Pred	_	_
+27	nema	nemati	V	Vmr3s	Type=main|VForm=present|Person=third|Number=singular	25	Pred	_	_
 28	potvrde	potvrditi	V	Vmr3p	Type=main|VForm=present|Person=third|Number=plural	27	Sb	_	_
 29	za	za	S	Sa	Case=accusative	28	Prep	_	_
 30	ta	taj	P	Pd-npa	Type=demonstrative|Gender=neuter|Number=plural|Case=accusative	31	Atr	_	_
@@ -6444,7 +6444,7 @@
 3	postupanju	postupanje	N	Ncnsl	Type=common|Gender=neuter|Number=singular|Case=locative	1	Adv	_	_
 4	Ministarstva	ministarstvo	N	Ncnsg	Type=common|Gender=neuter|Number=singular|Case=genitive	5	Atr	_	_
 5	financija	financije	N	Ncfpg	Type=common|Gender=feminine|Number=plural|Case=genitive	3	Atr	_	_
-6	nema	nemati	V	Vmr3s-y	Type=main|VForm=present|Person=third|Number=singular|Negative=Yes	0	Pred	_	_
+6	nema	nemati	V	Vmr3s	Type=main|VForm=present|Person=third|Number=singular	0	Pred	_	_
 7	retroaktivnosti	retroaktivnost	N	Ncfsg	Type=common|Gender=feminine|Number=singular|Case=genitive	6	Obj	_	_
 8	iz	iz	S	Sg	Case=genitive	6	Prep	_	_
 9	razloga	razlog	N	Ncmsg	Type=common|Gender=masculine|Number=singular|Case=genitive	8	Adv	_	_
@@ -9697,7 +9697,7 @@
 1	Niti	niti	Q	Qo	Type=modal	2	Oth	_	_
 2	ove	ovaj	P	Pd-fsg	Type=demonstrative|Gender=feminine|Number=singular|Case=genitive	3	Atr	_	_
 3	godine	godina	N	Ncfsg	Type=common|Gender=feminine|Number=singular|Case=genitive	4	Adv	_	_
-4	nema	nemati	V	Vmr3s-y	Type=main|VForm=present|Person=third|Number=singular|Negative=Yes	8	Pred	_	_
+4	nema	nemati	V	Vmr3s	Type=main|VForm=present|Person=third|Number=singular	8	Pred	_	_
 5	iznimke	iznimka	N	Ncfsg	Type=common|Gender=feminine|Number=singular|Case=genitive	4	Sb	_	_
 6	,	,	Z	Z	_	8	Punc	_	_
 7	jedino	jedino	C	Cs	Type=subordinating	8	Oth	_	_
@@ -12078,7 +12078,7 @@
 1	-	-	Z	Z	_	4	Punc	_	_
 2	Istina	istina	N	Ncfsn	Type=common|Gender=feminine|Number=singular|Case=nominative	4	Elp	_	_
 3	,	,	Z	Z	_	2	Punc	_	_
-4	nemamo	nemati	V	Vmr1p-y	Type=main|VForm=present|Person=first|Number=plural|Negative=Yes	0	Pred	_	_
+4	nemamo	nemati	V	Vmr1p	Type=main|VForm=present|Person=first|Number=plural	0	Pred	_	_
 5	generalnog	generalan	A	Agpmsayy	Type=general|Degree=positive|Gender=masculine|Number=singular|Case=accusative|Definiteness=yes|Animate=yes	6	Atr	_	_
 6	sponzora	sponzor	N	Ncmsay	Type=common|Gender=masculine|Number=singular|Case=accusative|Animate=yes	4	Obj	_	_
 7	jer	jer	C	Cs	Type=subordinating	4	Sub	_	_
@@ -12682,7 +12682,7 @@
 18	.	.	Z	Z	_	0	Punc	_	_
 
 1	Odluke	odluka	N	Ncfsg	Type=common|Gender=feminine|Number=singular|Case=genitive	2	Sb	_	_
-2	nema	nemati	V	Vmr3s-y	Type=main|VForm=present|Person=third|Number=singular|Negative=Yes	3	Pred	_	_
+2	nema	nemati	V	Vmr3s	Type=main|VForm=present|Person=third|Number=singular	3	Pred	_	_
 3	,	,	Z	Z	_	0	Co	_	_
 4	možemo	moći	V	Vmr1p	Type=main|VForm=present|Person=first|Number=plural	3	Pred	_	_
 5	samo	samo	R	Rgp	Type=general|Degree=positive	6	Adv	_	_
@@ -15142,7 +15142,7 @@
 5	,	,	Z	Z	_	6	Punc	_	_
 6	iako	iako	C	Cs	Type=subordinating	1	Sub	_	_
 7	ga	on	P	Pp3msa	Type=personal|Person=third|Gender=masculine|Number=singular|Case=accusative	8	Sb	_	_
-8	nema	nemati	V	Vmr3s-y	Type=main|VForm=present|Person=third|Number=singular|Negative=Yes	6	Pred	_	_
+8	nema	nemati	V	Vmr3s	Type=main|VForm=present|Person=third|Number=singular	6	Pred	_	_
 9	nigdje	nigdje	R	Rgp	Type=general|Degree=positive	8	Adv	_	_
 10	na	na	S	Sl	Case=locative	9	Prep	_	_
 11	vidiku	vidik	N	Ncmsl	Type=common|Gender=masculine|Number=singular|Case=locative	10	Atr	_	_
@@ -16545,7 +16545,7 @@
 4	o	o	S	Sl	Case=locative	3	Prep	_	_
 5	sebi	sebe	P	Px--sl	Type=reflexive|Number=singular|Case=locative	4	Obj	_	_
 6	i	i	C	Cc	Type=coordinating	13	Co	_	_
-7	nemamo	nemati	V	Vmr1p-y	Type=main|VForm=present|Person=first|Number=plural|Negative=Yes	6	Pred	_	_
+7	nemamo	nemati	V	Vmr1p	Type=main|VForm=present|Person=first|Number=plural	6	Pred	_	_
 8	namjeru	namjera	N	Ncfsa	Type=common|Gender=feminine|Number=singular|Case=accusative	7	Obj	_	_
 9	izgubiti	izgubiti	V	Vmn	Type=main|VForm=infinitive	8	Atv	_	_
 10	na	na	S	Sl	Case=locative	9	Prep	_	_
@@ -16974,7 +16974,7 @@
 24	porekne	poreknuti	V	Vmr3s	Type=main|VForm=present|Person=third|Number=singular	18	Pred	_	_
 25	,	,	Z	Z	_	39	Punc	_	_
 26	onda	onda	R	Rgp	Type=general|Degree=positive	27	Adv	_	_
-27	nema	nemati	V	Vmr3s-y	Type=main|VForm=present|Person=third|Number=singular|Negative=Yes	39	Pred	_	_
+27	nema	nemati	V	Vmr3s	Type=main|VForm=present|Person=third|Number=singular	39	Pred	_	_
 28	dokaza	dokaz	N	Ncmpg	Type=common|Gender=masculine|Number=plural|Case=genitive	27	Sb	_	_
 29	,	,	Z	Z	_	39	Punc	_	_
 30	vi	vi	P	Pp2-pn	Type=personal|Person=second|Number=plural|Case=nominative	32	Sb	_	_
@@ -16990,7 +16990,7 @@
 40	od	od	S	Sg	Case=genitive	43	Prep	_	_
 41	tog	taj	P	Pd-nsg	Type=demonstrative|Gender=neuter|Number=singular|Case=genitive	42	Atr	_	_
 42	saznanja	saznanje	N	Ncnsg	Type=common|Gender=neuter|Number=singular|Case=genitive	40	Obj	_	_
-43	nema	nemati	V	Vmr3s-y	Type=main|VForm=present|Person=third|Number=singular|Negative=Yes	39	Pred	_	_
+43	nema	nemati	V	Vmr3s	Type=main|VForm=present|Person=third|Number=singular	39	Pred	_	_
 44	nikakve	nikakav	P	Pi-mpa	Type=indefinite|Gender=masculine|Number=plural|Case=accusative	45	Atr	_	_
 45	koristi	korist	N	Ncfsg	Type=common|Gender=feminine|Number=singular|Case=genitive	43	Sb	_	_
 46	.	.	Z	Z	_	0	Punc	_	_
@@ -17050,7 +17050,7 @@
 18	,	,	Z	Z	_	19	Punc	_	_
 19	primjerice	primjerice	R	Rgp	Type=general|Degree=positive	21	Elp	_	_
 20	,	,	Z	Z	_	19	Punc	_	_
-21	nemaju	nemati	V	Vmr3p-y	Type=main|VForm=present|Person=third|Number=plural|Negative=Yes	17	Pred	_	_
+21	nemaju	nemati	V	Vmr3p	Type=main|VForm=present|Person=third|Number=plural	17	Pred	_	_
 22	veću	velik	A	Agcfsay	Type=general|Degree=comparative|Gender=feminine|Number=singular|Case=accusative|Definiteness=yes	23	Atr	_	_
 23	sposobnost	sposobnost	N	Ncfsa	Type=common|Gender=feminine|Number=singular|Case=accusative	21	Obj	_	_
 24	od	od	S	Sg	Case=genitive	23	Prep	_	_
@@ -17437,7 +17437,7 @@
 2	drugo	drugi	M	Mlonsn	Form=letter|Type=ordinal|Gender=neuter|Number=singular|Case=nominative	5	Elp	_	_
 3	,	,	Z	Z	_	2	Punc	_	_
 4	apsolutno	apsolutno	R	Rgp	Type=general|Degree=positive	5	Adv	_	_
-5	nema	nemati	V	Vmr3s-y	Type=main|VForm=present|Person=third|Number=singular|Negative=Yes	0	Pred	_	_
+5	nema	nemati	V	Vmr3s	Type=main|VForm=present|Person=third|Number=singular	0	Pred	_	_
 6	šanse	šansa	N	Ncfsg	Type=common|Gender=feminine|Number=singular|Case=genitive	5	Sb	_	_
 7	da	da	C	Cs	Type=subordinating	6	Sub	_	_
 8	bi	biti	V	Vaa3s	Type=auxiliary|VForm=aorist|Person=third|Number=singular	13	Aux	_	_
@@ -17490,7 +17490,7 @@
 18	no	no	C	Cc	Type=coordinating	0	Co	_	_
 19	TO	taj	P	Pd-nsn	Type=demonstrative|Gender=neuter|Number=singular|Case=nominative	20	Atr	_	_
 20	PIVO	pivo	N	Ncnsn	Type=common|Gender=neuter|Number=singular|Case=nominative	21	Sb	_	_
-21	NEMA	nemati	V	Vmr3s-y	Type=main|VForm=present|Person=third|Number=singular|Negative=Yes	18	Pred	_	_
+21	NEMA	nemati	V	Vmr3s	Type=main|VForm=present|Person=third|Number=singular	18	Pred	_	_
 22	NIKAKVE	nikakav	A	Agpfsgy	Type=general|Degree=positive|Gender=feminine|Number=singular|Case=genitive|Definiteness=yes	23	Atr	_	_
 23	VEZE	veza	N	Ncfsg	Type=common|Gender=feminine|Number=singular|Case=genitive	21	Obj	_	_
 24	SA	sa	S	Si	Case=instrumental	23	Prep	_	_
@@ -17851,7 +17851,7 @@
 19	talijanskih	talijanski	A	Agpfpgy	Type=general|Degree=positive|Gender=feminine|Number=plural|Case=genitive|Definiteness=yes	20	Atr	_	_
 20	lira	lira	N	Ncfpg	Type=common|Gender=feminine|Number=plural|Case=genitive	15	Adv	_	_
 
-1	Nema	nemati	V	Vmr3s-y	Type=main|VForm=present|Person=third|Number=singular|Negative=Yes	0	Pred	_	_
+1	Nema	nemati	V	Vmr3s	Type=main|VForm=present|Person=third|Number=singular	0	Pred	_	_
 2	za	za	S	Sa	Case=accusative	1	Prep	_	_
 3	nju	on	P	Pp3fsa	Type=personal|Person=third|Gender=feminine|Number=singular|Case=accusative	2	Obj	_	_
 4	opravdanja	opravdanje	N	Ncnsg	Type=common|Gender=neuter|Number=singular|Case=genitive	1	Sb	_	_
@@ -18853,7 +18853,7 @@
 5	tome	taj	P	Pd-nsl	Type=demonstrative|Gender=neuter|Number=singular|Case=locative	4	Obj	_	_
 6	nitko	nitko	P	Pi3m-n	Type=indefinite|Person=third|Gender=masculine|Case=nominative	8	Sb	_	_
 7	pojma	pojam	N	Ncmsg	Type=common|Gender=masculine|Number=singular|Case=genitive	8	Obj	_	_
-8	nema	nemati	V	Vmr3s-y	Type=main|VForm=present|Person=third|Number=singular|Negative=Yes	10	Pred	_	_
+8	nema	nemati	V	Vmr3s	Type=main|VForm=present|Person=third|Number=singular	10	Pred	_	_
 9	,	,	Z	Z	_	10	Punc	_	_
 10	a	a	C	Cc	Type=coordinating	0	Co	_	_
 11	Juraković	Juraković	N	Npmsn	Type=proper|Gender=masculine|Number=singular|Case=nominative	12	Sb	_	_
@@ -19026,7 +19026,7 @@
 7	radnih	radni	A	Agpnpgy	Type=general|Degree=positive|Gender=neuter|Number=plural|Case=genitive|Definiteness=yes	8	Atr	_	_
 8	mjesta	mjesto	N	Ncnpg	Type=common|Gender=neuter|Number=plural|Case=genitive	4	Sb	_	_
 9	pa	pa	C	Cc	Type=coordinating	0	Co	_	_
-10	nema	nemati	V	Vmr3s-y	Type=main|VForm=present|Person=third|Number=singular|Negative=Yes	9	Pred	_	_
+10	nema	nemati	V	Vmr3s	Type=main|VForm=present|Person=third|Number=singular	9	Pred	_	_
 11	ni	ni	C	Cc	Type=coordinating	12	Oth	_	_
 12	poreza	porez	N	Ncmsg	Type=common|Gender=masculine|Number=singular|Case=genitive	13	Sb	_	_
 13	ni	ni	C	Cc	Type=coordinating	10	Co	_	_
@@ -19383,7 +19383,7 @@
 33	završila	završiti	V	Vmp-sf	Type=main|VForm=participle|Number=singular|Gender=feminine	35	Pred	_	_
 34	školovanje	školovanje	N	Ncnsa	Type=common|Gender=neuter|Number=singular|Case=accusative	33	Obj	_	_
 35	ili	ili	C	Cc	Type=coordinating	30	Co	_	_
-36	nemaju	nemati	V	Vmr3p-y	Type=main|VForm=present|Person=third|Number=plural|Negative=Yes	35	Pred	_	_
+36	nemaju	nemati	V	Vmr3p	Type=main|VForm=present|Person=third|Number=plural	35	Pred	_	_
 37	djecu	dijete	N	Ncnpa	Type=common|Gender=neuter|Number=plural|Case=accusative	36	Obj	_	_
 38	i	i	C	Cc	Type=coordinating	26	Co	_	_
 39	umirovljenike	umirovljenik	N	Ncmpa	Type=common|Gender=masculine|Number=plural|Case=accusative	38	Atr	_	_
@@ -21077,7 +21077,7 @@
 36	zgrade	zgrada	N	Ncfsg	Type=common|Gender=feminine|Number=singular|Case=genitive	35	Atr	_	_
 37	pa	pa	C	Cc	Type=coordinating	0	Co	_	_
 38	isto	isto	R	Rgp	Type=general|Degree=positive	39	Adv	_	_
-39	nema	nemati	V	Vmr3s-y	Type=main|VForm=present|Person=third|Number=singular|Negative=Yes	37	Pred	_	_
+39	nema	nemati	V	Vmr3s	Type=main|VForm=present|Person=third|Number=singular	37	Pred	_	_
 40	osjećaja	osjećaj	N	Ncmsg	Type=common|Gender=masculine|Number=singular|Case=genitive	39	Obj	_	_
 41	za	za	S	Sa	Case=accusative	40	Prep	_	_
 42	to	taj	P	Pd-nsa	Type=demonstrative|Gender=neuter|Number=singular|Case=accusative	41	Atr	_	_
@@ -22144,7 +22144,7 @@
 46	.	.	Z	Z	_	0	Punc	_	_
 
 1	Ako	ako	C	Cs	Type=subordinating	7	Sub	_	_
-2	nemate	nemati	V	Vmr2p-y	Type=main|VForm=present|Person=second|Number=plural|Negative=Yes	1	Pred	_	_
+2	nemate	nemati	V	Vmr2p	Type=main|VForm=present|Person=second|Number=plural	1	Pred	_	_
 3	love	lova	N	Ncfsg	Type=common|Gender=feminine|Number=singular|Case=genitive	2	Obj	_	_
 4	za	za	S	Sa	Case=accusative	3	Prep	_	_
 5	sud	sud	N	Ncmsan	Type=common|Gender=masculine|Number=singular|Case=accusative|Animate=no	4	Atr	_	_
@@ -22314,7 +22314,7 @@
 10	dokaz	dokaz	N	Ncmsn	Type=common|Gender=masculine|Number=singular|Case=nominative	9	Pnom	_	_
 11	da	da	C	Cs	Type=subordinating	10	Sub	_	_
 12	on	on	P	Pp3msn	Type=personal|Person=third|Gender=masculine|Number=singular|Case=nominative	13	Sb	_	_
-13	nema	nemati	V	Vmr3s-y	Type=main|VForm=present|Person=third|Number=singular|Negative=Yes	11	Pred	_	_
+13	nema	nemati	V	Vmr3s	Type=main|VForm=present|Person=third|Number=singular	11	Pred	_	_
 14	rješenje	rješenje	N	Ncnsa	Type=common|Gender=neuter|Number=singular|Case=accusative	13	Obj	_	_
 15	.	.	Z	Z	_	0	Punc	_	_
 
@@ -22554,7 +22554,7 @@
 2	,	,	Z	Z	_	1	Punc	_	_
 3	kod	kod	S	Sg	Case=genitive	5	Prep	_	_
 4	nas	mi	P	Pp1-pg	Type=personal|Person=first|Number=plural|Case=genitive	3	Obj	_	_
-5	nema	nemati	V	Vmr3s-y	Type=main|VForm=present|Person=third|Number=singular|Negative=Yes	0	Pred	_	_
+5	nema	nemati	V	Vmr3s	Type=main|VForm=present|Person=third|Number=singular	0	Pred	_	_
 6	skrivenih	skriven	A	Agpmpgy	Type=general|Degree=positive|Gender=masculine|Number=plural|Case=genitive|Definiteness=yes	7	Atr	_	_
 7	troškova	trošak	N	Ncmpg	Type=common|Gender=masculine|Number=plural|Case=genitive	5	Sb	_	_
 8	koje	koji	P	Pi-mpa	Type=indefinite|Gender=masculine|Number=plural|Case=accusative	7	Sub	_	_
@@ -23566,7 +23566,7 @@
 40	mjestu	mjesto	N	Ncnsl	Type=common|Gender=neuter|Number=singular|Case=locative	37	Adv	_	_
 41	živi	živjeti	V	Vmr3s	Type=main|VForm=present|Person=third|Number=singular	35	Pred	_	_
 42	kada	kada	R	Rgp	Type=general|Degree=positive	41	Sub	_	_
-43	nema	nemati	V	Vmr3s-y	Type=main|VForm=present|Person=third|Number=singular|Negative=Yes	42	Pred	_	_
+43	nema	nemati	V	Vmr3s	Type=main|VForm=present|Person=third|Number=singular	42	Pred	_	_
 44	turista	turist	N	Ncmpg	Type=common|Gender=masculine|Number=plural|Case=genitive	43	Sb	_	_
 45	.	.	Z	Z	_	0	Punc	_	_
 
@@ -24245,7 +24245,7 @@
 12	ovu	ovaj	P	Pd-fsa	Type=demonstrative|Gender=feminine|Number=singular|Case=accusative	13	Atr	_	_
 13	vijest	vijest	N	Ncfsn	Type=common|Gender=feminine|Number=singular|Case=nominative	11	Obj	_	_
 14	da	da	C	Cs	Type=subordinating	13	Sub	_	_
-15	nema	nemati	V	Vmr3s-y	Type=main|VForm=present|Person=third|Number=singular|Negative=Yes	14	Pred	_	_
+15	nema	nemati	V	Vmr3s	Type=main|VForm=present|Person=third|Number=singular	14	Pred	_	_
 16	ničeg	ništa	P	Pi3n-g	Type=indefinite|Person=third|Gender=neuter|Case=genitive	15	Obj	_	_
 17	sumnjivog	sumnjiv	A	Agpnsgy	Type=general|Degree=positive|Gender=neuter|Number=singular|Case=genitive|Definiteness=yes	16	Atr	_	_
 18	kod	kod	S	Sg	Case=genitive	16	Prep	_	_
@@ -24536,7 +24536,7 @@
 11	drugi	drugi	M	Mlomsan	Form=letter|Type=ordinal|Gender=masculine|Number=singular|Case=accusative|Animate=no	10	Elp	_	_
 12	.	.	Z	Z	_	0	Punc	_	_
 
-1	Nema	nemati	V	Vmr3s-y	Type=main|VForm=present|Person=third|Number=singular|Negative=Yes	0	Pred	_	_
+1	Nema	nemati	V	Vmr3s	Type=main|VForm=present|Person=third|Number=singular	0	Pred	_	_
 2	službeni	služben	A	Agpmsayn	Type=general|Degree=positive|Gender=masculine|Number=singular|Case=accusative|Definiteness=yes|Animate=no	3	Atr	_	_
 3	sporazum	sporazum	N	Ncmsan	Type=common|Gender=masculine|Number=singular|Case=accusative|Animate=no	1	Obj	_	_
 4	s	sa	S	Si	Case=instrumental	3	Prep	_	_
@@ -25118,7 +25118,7 @@
 2	za	za	S	Sa	Case=accusative	5	Prep	_	_
 3	sada	sada	R	Rgp	Type=general|Degree=positive	2	Adv	_	_
 4	,	,	Z	Z	_	5	Punc	_	_
-5	nema	nemati	V	Vmr3s-y	Type=main|VForm=present|Person=third|Number=singular|Negative=Yes	0	Pred	_	_
+5	nema	nemati	V	Vmr3s	Type=main|VForm=present|Person=third|Number=singular	0	Pred	_	_
 6	te	taj	P	Pd-fsg	Type=demonstrative|Gender=feminine|Number=singular|Case=genitive	7	Atr	_	_
 7	bojazni	bojazan	N	Ncfsg	Type=common|Gender=feminine|Number=singular|Case=genitive	5	Obj	_	_
 8	.	.	Z	Z	_	0	Punc	_	_
@@ -25229,7 +25229,7 @@
 8	uredno	uredan	A	Agpnsay	Type=general|Degree=positive|Gender=neuter|Number=singular|Case=accusative|Definiteness=yes	9	Atr	_	_
 9	mišljenje	mišljenje	N	Ncnsa	Type=common|Gender=neuter|Number=singular|Case=accusative	4	Obj	_	_
 10	,	,	Z	Z	_	0	Co	_	_
-11	nema	nemati	V	Vmr3s-y	Type=main|VForm=present|Person=third|Number=singular|Negative=Yes	10	Pred	_	_
+11	nema	nemati	V	Vmr3s	Type=main|VForm=present|Person=third|Number=singular	10	Pred	_	_
 12	razloga	razlog	N	Ncmsg	Type=common|Gender=masculine|Number=singular|Case=genitive	11	Obj	_	_
 13	da	da	C	Cs	Type=subordinating	12	Sub	_	_
 14	dijete	dijete	N	Ncnsn	Type=common|Gender=neuter|Number=singular|Case=nominative	16	Sb	_	_
@@ -25287,7 +25287,7 @@
 36	zbrinut	zbrinuti	A	Appmsnn	Type=participle|Degree=positive|Gender=masculine|Number=singular|Case=nominative|Definiteness=no	29	Pnom	_	_
 37	i	i	C	Cc	Type=coordinating	28	Co	_	_
 38	više	mnogo	R	Rgc	Type=general|Degree=comparative	39	Adv	_	_
-39	nema	nemati	V	Vmr3s-y	Type=main|VForm=present|Person=third|Number=singular|Negative=Yes	37	Pred	_	_
+39	nema	nemati	V	Vmr3s	Type=main|VForm=present|Person=third|Number=singular	37	Pred	_	_
 40	pravo	pravo	N	Ncnsa	Type=common|Gender=neuter|Number=singular|Case=accusative	39	Obj	_	_
 41	tražiti	tražiti	V	Vmn	Type=main|VForm=infinitive	40	Atv	_	_
 42	novi	nov	A	Agpmsayn	Type=general|Degree=positive|Gender=masculine|Number=singular|Case=accusative|Definiteness=yes|Animate=no	43	Atr	_	_
@@ -25906,7 +25906,7 @@
 9	odlučili	odlučiti	V	Vmp-pm	Type=main|VForm=participle|Number=plural|Gender=masculine	0	Pred	_	_
 10	su	biti	V	Var3p	Type=auxiliary|VForm=present|Person=third|Number=plural	9	Aux	_	_
 11	da	da	C	Cs	Type=subordinating	9	Sub	_	_
-12	nema	nemati	V	Vmr3s-y	Type=main|VForm=present|Person=third|Number=singular|Negative=Yes	11	Pred	_	_
+12	nema	nemati	V	Vmr3s	Type=main|VForm=present|Person=third|Number=singular	11	Pred	_	_
 13	izbora	izbor	N	Ncmpg	Type=common|Gender=masculine|Number=plural|Case=genitive	12	Obj	_	_
 14	nego	nego	C	Cc	Type=coordinating	16	Oth	_	_
 15	azilante	azilant	N	Ncmpa	Type=common|Gender=masculine|Number=plural|Case=accusative	16	Obj	_	_
@@ -25918,7 +25918,7 @@
 3	mobilnog	mobilan	A	Agpmsgy	Type=general|Degree=positive|Gender=masculine|Number=singular|Case=genitive|Definiteness=yes	4	Atr	_	_
 4	bontona	bonton	N	Ncmsg	Type=common|Gender=masculine|Number=singular|Case=genitive	2	Atr	_	_
 
-1	Nema	nemati	V	Vmr3s-y	Type=main|VForm=present|Person=third|Number=singular|Negative=Yes	3	Pred	_	_
+1	Nema	nemati	V	Vmr3s	Type=main|VForm=present|Person=third|Number=singular	3	Pred	_	_
 2	problema	problem	N	Ncmpg	Type=common|Gender=masculine|Number=plural|Case=genitive	1	Obj	_	_
 3	,	,	Z	Z	_	0	Co	_	_
 4	samo	samo	R	Rgp	Type=general|Degree=positive	5	Adv	_	_
@@ -29723,7 +29723,7 @@
 26	o	o	S	Sl	Case=locative	24	Prep	_	_
 27	tome	taj	P	Pd-nsl	Type=demonstrative|Gender=neuter|Number=singular|Case=locative	26	Obj	_	_
 28	kako	kako	C	Cs	Type=subordinating	27	Sub	_	_
-29	nema	nemati	V	Vmr3s-y	Type=main|VForm=present|Person=third|Number=singular|Negative=Yes	28	Pred	_	_
+29	nema	nemati	V	Vmr3s	Type=main|VForm=present|Person=third|Number=singular	28	Pred	_	_
 30	smisla	smisao	N	Ncmsg	Type=common|Gender=masculine|Number=singular|Case=genitive	29	Obj	_	_
 31	rasprodaja	rasprodaja	N	Ncfsn	Type=common|Gender=feminine|Number=singular|Case=nominative	29	Sb	_	_
 32	svih	sav	A	Agpfpgy	Type=general|Degree=positive|Gender=feminine|Number=plural|Case=genitive|Definiteness=yes	34	Atr	_	_
@@ -30492,7 +30492,7 @@
 28	.	.	Z	Z	_	0	Punc	_	_
 
 1	Zločin	zločin	N	Ncmsn	Type=common|Gender=masculine|Number=singular|Case=nominative	2	Sb	_	_
-2	nema	nemati	V	Vmr3s-y	Type=main|VForm=present|Person=third|Number=singular|Negative=Yes	5	Pred	_	_
+2	nema	nemati	V	Vmr3s	Type=main|VForm=present|Person=third|Number=singular	5	Pred	_	_
 3	nacionalnost	nacionalnost	N	Ncfsa	Type=common|Gender=feminine|Number=singular|Case=accusative	2	Obj	_	_
 4	,	,	Z	Z	_	5	Punc	_	_
 5	ali	ali	C	Cc	Type=coordinating	0	Co	_	_
@@ -31907,7 +31907,7 @@
 15	)	)	Z	Z	_	14	Punc	_	_
 16	kanonske	kanonski	A	Agpfsgy	Type=general|Degree=positive|Gender=feminine|Number=singular|Case=genitive|Definiteness=yes	17	Atr	_	_
 17	kazne	kazna	N	Ncfsg	Type=common|Gender=feminine|Number=singular|Case=genitive	18	Sb	_	_
-18	nema	nemati	V	Vmr3s-y	Type=main|VForm=present|Person=third|Number=singular|Negative=Yes	19	Pred	_	_
+18	nema	nemati	V	Vmr3s	Type=main|VForm=present|Person=third|Number=singular	19	Pred	_	_
 19	:	:	Z	Z	_	0	Co	_	_
 20	naprosto	naprosto	R	Rgp	Type=general|Degree=positive	23	Adv	_	_
 21	se	sebe	P	Px--sa	Type=reflexive|Number=singular|Case=accusative	23	Aux	_	_
@@ -32020,7 +32020,7 @@
 
 1	DINKA	Dinka	N	Npfsn	Type=proper|Gender=feminine|Number=singular|Case=nominative	2	Elp	_	_
 2	:	:	Z	Z	_	0	Co	_	_
-3	Nemam	nemati	V	Vmr1s-y	Type=main|VForm=present|Person=first|Number=singular|Negative=Yes	2	Pred	_	_
+3	Nemam	nemati	V	Vmr1s	Type=main|VForm=present|Person=first|Number=singular	2	Pred	_	_
 4	osjećaj	osjećaj	N	Ncmsan	Type=common|Gender=masculine|Number=singular|Case=accusative|Animate=no	3	Obj	_	_
 5	da	da	C	Cs	Type=subordinating	4	Sub	_	_
 6	sam	biti	V	Var1s	Type=auxiliary|VForm=present|Person=first|Number=singular	8	Aux	_	_
@@ -33929,7 +33929,7 @@
 23	na	na	S	Sa	Case=accusative	22	Prep	_	_
 24	cestu	cesta	N	Ncfsa	Type=common|Gender=feminine|Number=singular|Case=accusative	23	Atr	_	_
 25	jer	jer	C	Cs	Type=subordinating	21	Sub	_	_
-26	nema	nemati	V	Vmr3s-y	Type=main|VForm=present|Person=third|Number=singular|Negative=Yes	25	Pred	_	_
+26	nema	nemati	V	Vmr3s	Type=main|VForm=present|Person=third|Number=singular	25	Pred	_	_
 27	adekvatnog	adekvatan	A	Agpnsgy	Type=general|Degree=positive|Gender=neuter|Number=singular|Case=genitive|Definiteness=yes	28	Atr	_	_
 28	ugibališta	ugibalište	N	Ncnsg	Type=common|Gender=neuter|Number=singular|Case=genitive	26	Obj	_	_
 29	.	.	Z	Z	_	0	Punc	_	_
@@ -34503,7 +34503,7 @@
 13	za	za	S	Sa	Case=accusative	16	Prep	_	_
 14	njih	oni	P	Pp3-pa	Type=personal|Person=third|Number=plural|Case=accusative	13	Obj	_	_
 15	zapravo	zapravo	R	Rgp	Type=general|Degree=positive	16	Adv	_	_
-16	nema	nemati	V	Vmr3s-y	Type=main|VForm=present|Person=third|Number=singular|Negative=Yes	12	Pred	_	_
+16	nema	nemati	V	Vmr3s	Type=main|VForm=present|Person=third|Number=singular	12	Pred	_	_
 17	mjesta	mjesto	N	Ncnsg	Type=common|Gender=neuter|Number=singular|Case=genitive	16	Obj	_	_
 18	u	u	S	Sl	Case=locative	17	Prep	_	_
 19	Večernjem	večernji	A	Agpmsly	Type=general|Degree=positive|Gender=masculine|Number=singular|Case=locative|Definiteness=yes	20	Atr	_	_
@@ -35876,7 +35876,7 @@
 4	tu	taj	P	Pd-fsa	Type=demonstrative|Gender=feminine|Number=singular|Case=accusative	5	Atr	_	_
 5	točku	točka	N	Ncfsa	Type=common|Gender=feminine|Number=singular|Case=accusative	7	Obj	_	_
 6	jednostavno	jednostavno	R	Rgp	Type=general|Degree=positive	7	Adv	_	_
-7	nemaju	nemati	V	Vmr3p-y	Type=main|VForm=present|Person=third|Number=plural|Negative=Yes	9	Pred	_	_
+7	nemaju	nemati	V	Vmr3p	Type=main|VForm=present|Person=third|Number=plural	9	Pred	_	_
 8	,	,	Z	Z	_	9	Punc	_	_
 9	a	a	C	Cc	Type=coordinating	0	Co	_	_
 10	one	onaj	P	Pd-fpn	Type=demonstrative|Gender=feminine|Number=plural|Case=nominative	14	Sb	_	_
@@ -37565,7 +37565,7 @@
 9	ukinuto	ukinuti	A	Appnsny	Type=participle|Degree=positive|Gender=neuter|Number=singular|Case=nominative|Definiteness=yes	6	Pred	_	_
 10	i	i	C	Cc	Type=coordinating	5	Co	_	_
 11	da	da	C	Cs	Type=subordinating	10	Sub	_	_
-12	nema	nemati	V	Vmr3s-y	Type=main|VForm=present|Person=third|Number=singular|Negative=Yes	11	Pred	_	_
+12	nema	nemati	V	Vmr3s	Type=main|VForm=present|Person=third|Number=singular	11	Pred	_	_
 13	obaveze	obaveza	N	Ncfsg	Type=common|Gender=feminine|Number=singular|Case=genitive	12	Obj	_	_
 14	tlake	tlaka	N	Ncfsg	Type=common|Gender=feminine|Number=singular|Case=genitive	15	Atr	_	_
 15	i	i	C	Cc	Type=coordinating	13	Co	_	_
@@ -40502,7 +40502,7 @@
 9	glazbenih	glazben	A	Agpmpgy	Type=general|Degree=positive|Gender=masculine|Number=plural|Case=genitive|Definiteness=yes	10	Atr	_	_
 10	spotova	spot	N	Ncmpg	Type=common|Gender=masculine|Number=plural|Case=genitive	7	Atr	_	_
 
-1	Nemaju	nemati	V	Vmr3p-y	Type=main|VForm=present|Person=third|Number=plural|Negative=Yes	0	Pred	_	_
+1	Nemaju	nemati	V	Vmr3p	Type=main|VForm=present|Person=third|Number=plural	0	Pred	_	_
 2	sve	sav	A	Agpfpny	Type=general|Degree=positive|Gender=feminine|Number=plural|Case=nominative|Definiteness=yes	3	Atr	_	_
 3	trajnice	trajnica	N	Ncfpn	Type=common|Gender=feminine|Number=plural|Case=nominative	1	Sb	_	_
 4	iste	isti	A	Agpmpay	Type=general|Degree=positive|Gender=masculine|Number=plural|Case=accusative|Definiteness=yes	5	Atr	_	_
@@ -40767,7 +40767,7 @@
 16	minuta	minuta	N	Ncfpg	Type=common|Gender=feminine|Number=plural|Case=genitive	14	Adv	_	_
 17	.	.	Z	Z	_	0	Punc	_	_
 
-1	Nemate	nemati	V	Vmr2p-y	Type=main|VForm=present|Person=second|Number=plural|Negative=Yes	14	Pred	_	_
+1	Nemate	nemati	V	Vmr2p	Type=main|VForm=present|Person=second|Number=plural	14	Pred	_	_
 2	li	li	C	Cs	Type=subordinating	1	Aux	_	_
 3	namjeru	namjera	N	Ncfsa	Type=common|Gender=feminine|Number=singular|Case=accusative	1	Obj	_	_
 4	širiti	širiti	V	Vmn	Type=main|VForm=infinitive	3	Atv	_	_
@@ -42032,7 +42032,7 @@
 3	od	od	S	Sg	Case=genitive	2	Prep	_	_
 4	mojih	moj	P	Ps1fpg	Type=possessive|Person=first|Gender=feminine|Number=plural|Case=genitive	5	Atr	_	_
 5	kćeri	kći	N	Ncfpg	Type=common|Gender=feminine|Number=plural|Case=genitive	3	Atr	_	_
-6	nema	nemati	V	Vmr3s-y	Type=main|VForm=present|Person=third|Number=singular|Negative=Yes	7	Pred	_	_
+6	nema	nemati	V	Vmr3s	Type=main|VForm=present|Person=third|Number=singular	7	Pred	_	_
 7	i	i	C	Cc	Type=coordinating	17	Co	_	_
 8	nije	biti	V	Var3s-y	Type=auxiliary|VForm=present|Person=third|Number=singular|Negative=Yes	9	Aux	_	_
 9	imala	imati	V	Vmp-sf	Type=main|VForm=participle|Number=singular|Gender=feminine	7	Pred	_	_
@@ -43910,7 +43910,7 @@
 29	,	,	Z	Z	_	30	Punc	_	_
 30	i	i	C	Cc	Type=coordinating	19	Co	_	_
 31	gdje	gdje	R	Rgp	Type=general|Degree=positive	30	Sub	_	_
-32	nema	nemati	V	Vmr3s-y	Type=main|VForm=present|Person=third|Number=singular|Negative=Yes	31	Pred	_	_
+32	nema	nemati	V	Vmr3s	Type=main|VForm=present|Person=third|Number=singular	31	Pred	_	_
 33	slobode	sloboda	N	Ncfsg	Type=common|Gender=feminine|Number=singular|Case=genitive	32	Obj	_	_
 34	kakvu	kakav	P	Pi-fsa	Type=indefinite|Gender=feminine|Number=singular|Case=accusative	33	Sub	_	_
 35	bi	biti	V	Vaa3s	Type=auxiliary|VForm=aorist|Person=third|Number=singular	39	Aux	_	_
@@ -46792,7 +46792,7 @@
 1	Za	za	S	Sa	Case=accusative	4	Prep	_	_
 2	navedeni	naveden	A	Agpmsayn	Type=general|Degree=positive|Gender=masculine|Number=singular|Case=accusative|Definiteness=yes|Animate=no	3	Atr	_	_
 3	rad	rad	N	Ncmsan	Type=common|Gender=masculine|Number=singular|Case=accusative|Animate=no	1	Obj	_	_
-4	nema	nemati	V	Vmr3s-y	Type=main|VForm=present|Person=third|Number=singular|Negative=Yes	0	Pred	_	_
+4	nema	nemati	V	Vmr3s	Type=main|VForm=present|Person=third|Number=singular	0	Pred	_	_
 5	pismenu	pismen	A	Agpfsay	Type=general|Degree=positive|Gender=feminine|Number=singular|Case=accusative|Definiteness=yes	6	Atr	_	_
 6	suglasnost	suglasnost	N	Ncfsa	Type=common|Gender=feminine|Number=singular|Case=accusative	4	Obj	_	_
 7	ostalih	ostali	A	Agpmpgy	Type=general|Degree=positive|Gender=masculine|Number=plural|Case=genitive|Definiteness=yes	8	Atr	_	_
@@ -51002,7 +51002,7 @@
 16	ljubavi	ljubav	N	Ncfsi	Type=common|Gender=feminine|Number=singular|Case=instrumental	14	Atr	_	_
 17	prema	prema	S	Sl	Case=locative	16	Prep	_	_
 18	automobilima	automobilo	N	Ncnpl	Type=common|Gender=neuter|Number=plural|Case=locative	17	Atr	_	_
-19	nema	nemati	V	Vmr3s-y	Type=main|VForm=present|Person=third|Number=singular|Negative=Yes	4	Pred	_	_
+19	nema	nemati	V	Vmr3s	Type=main|VForm=present|Person=third|Number=singular	4	Pred	_	_
 20	jaču	jak	A	Agcfsay	Type=general|Degree=comparative|Gender=feminine|Number=singular|Case=accusative|Definiteness=yes	21	Atr	_	_
 21	autoindustriju	autoindustrija	N	Ncfsa	Type=common|Gender=feminine|Number=singular|Case=accusative	19	Obj	_	_
 22	.	.	Z	Z	_	0	Punc	_	_
