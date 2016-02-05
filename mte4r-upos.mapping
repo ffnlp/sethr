@@ -877,6 +877,11 @@ Vae2p	AUX	Type=auxiliary|VForm=imperfect|Person=second|Number=plural	Tense=Imp|P
 Vae2s	AUX	Type=auxiliary|VForm=imperfect|Person=second|Number=singular	Tense=Imp|Person=2|Number=Sing
 Vae3p	AUX	Type=auxiliary|VForm=imperfect|Person=third|Number=plural	Tense=Imp|Person=3|Number=Plur
 Vae3s	AUX	Type=auxiliary|VForm=imperfect|Person=third|Number=singular	Tense=Imp|Person=3|Number=Sing
+Vaf1p	AUX	Type=auxiliary|VForm=future|Person=first|Number=plural	Tense=Fut|Person=1|Number=Plur
+Vaf1s	AUX	Type=auxiliary|VForm=future|Person=first|Number=singular	Tense=Fut|Person=1|Number=Sing
+Vaf2p	AUX	Type=auxiliary|VForm=future|Person=second|Number=plural	Tense=Fut|Person=2|Number=Plur
+Vaf2s	AUX	Type=auxiliary|VForm=future|Person=second|Number=singular	Tense=Fut|Person=2|Number=Sing
+Vaf3p	AUX	Type=auxiliary|VForm=future|Person=third|Number=plural	Tense=Fut|Person=3|Number=Plur
 Vaf3s	AUX	Type=auxiliary|VForm=future|Person=third|Number=singular	Tense=Fut|Person=3|Number=Sing
 Vam1p	AUX	Type=auxiliary|VForm=imperative|Person=first|Number=plural	Mood=Imp|Person=1|Number=Plur
 Vam2p	AUX	Type=auxiliary|VForm=imperative|Person=second|Number=plural	Mood=Imp|Person=2|Number=Plur
