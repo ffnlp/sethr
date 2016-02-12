@@ -912,6 +912,9 @@ Vme2s	VERB	Type=main|VForm=imperfect|Person=second|Number=singular	Tense=Imp|Per
 Vme3p	VERB	Type=main|VForm=imperfect|Person=third|Number=plural	Tense=Imp|Person=3|Number=Plur
 Vme3s	VERB	Type=main|VForm=imperfect|Person=third|Number=singular	Tense=Imp|Person=3|Number=Sing
 Vmf1p	VERB	Type=main|VForm=future|Person=first|Number=plural	Tense=Fut|Person=1|Number=Plur
+Vmf1s	VERB	Type=main|VForm=future|Person=first|Number=singular	Tense=Fut|Person=1|Number=Sing
+Vmf2p	VERB	Type=main|VForm=future|Person=second|Number=plural	Tense=Fut|Person=2|Number=Plur
+Vmf2s	VERB	Type=main|VForm=future|Person=second|Number=singular	Tense=Fut|Person=2|Number=Sing
 Vmf3p	VERB	Type=main|VForm=future|Person=third|Number=plural	Tense=Fut|Person=3|Number=Plur
 Vmf3s	VERB	Type=main|VForm=future|Person=third|Number=singular	Tense=Fut|Person=3|Number=Sing
 Vmm1p	VERB	Type=main|VForm=imperative|Person=first|Number=plural	Mood=Imp|Person=1|Number=Plur
