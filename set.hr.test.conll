@@ -40,7 +40,7 @@
 7	to	taj	P	Pd-nsn	Type=demonstrative|Gender=neuter|Number=singular|Case=nominative	6	Pnom	0:root	UposTag=PRON|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem
 8	što	što	P	Pi3n-n	Type=indefinite|Person=third|Gender=neuter|Case=nominative	7	Sub	12:mark	UposTag=PRON|Animacy=Inan|Case=Nom|Gender=Neut|Person=3|PronType=Ind
 9	njime	on	P	Pp3msi	Type=personal|Person=third|Gender=masculine|Number=singular|Case=instrumental	10	Obj	12:dobj	UposTag=PRON|Case=Ins|Gender=Masc|Number=Sing|Person=3|PronType=Prs
-10	nije	biti	V	Var3s-y	Type=auxiliary|VForm=present|Person=third|Number=singular|Negative=Yes	8	Pred	12:cop	UposTag=AUX|Negative=Neg|Number=Sing|Person=3|Tense=Pres
+10	nije	biti	V	Var3s	Type=auxiliary|VForm=present|Person=third|Number=singular	8	Pred	12:cop	UposTag=AUX|Negative=Neg|Number=Sing|Person=3|Tense=Pres
 11	strogo	strogo	R	Rgp	Type=general|Degree=positive	12	Adv	12:advmod	UposTag=ADV|Degree=Pos
 12	određeno	određen	A	Agpnsny	Type=general|Degree=positive|Gender=neuter|Number=singular|Case=nominative|Definiteness=yes	10	Pnom	7:acl	UposTag=ADJ|Case=Nom|Degree=Pos|Gender=Neut|Number=Sing
 13	da	da	C	Cs	Type=subordinating	10	Sub	21:mark	UposTag=SCONJ
@@ -556,7 +556,7 @@
 29	,	,	Z	Z	_	30	Punc	22:punct	UposTag=PUNCT
 30	ali	ali	C	Cc	Type=coordinating	23	Co	22:cc	UposTag=CONJ
 31	ja	ja	P	Pp1-sn	Type=personal|Person=first|Number=singular|Case=nominative	33	Sb	33:nsubj	UposTag=PRON|Case=Nom|Number=Sing|Person=1|PronType=Prs
-32	nisam	biti	V	Var1s-y	Type=auxiliary|VForm=present|Person=first|Number=singular|Negative=Yes	33	Aux	33:aux	UposTag=AUX|Negative=Neg|Number=Sing|Person=1|Tense=Pres
+32	nisam	biti	V	Var1s	Type=auxiliary|VForm=present|Person=first|Number=singular	33	Aux	33:aux	UposTag=AUX|Negative=Neg|Number=Sing|Person=1|Tense=Pres
 33	mogla	moći	V	Vmp-sf	Type=main|VForm=participle|Number=singular|Gender=feminine	30	Pred	22:conj	UposTag=VERB|Gender=Fem|Number=Sing|VerbForm=Part
 34	čekati	čekati	V	Vmn	Type=main|VForm=infinitive	33	Atv	33:xcomp	UposTag=VERB|VerbForm=Inf
 35	dulje	dugo	R	Rgc	Type=general|Degree=comparative	34	Adv	34:advmod	UposTag=ADV|Degree=Cmp
@@ -778,7 +778,7 @@
 7	jest	biti	V	Var3s	Type=auxiliary|VForm=present|Person=third|Number=singular	0	Pred	0:root	UposTag=AUX|Number=Sing|Person=3|Tense=Pres
 8	što	što	P	Pi3n-n	Type=indefinite|Person=third|Gender=neuter|Case=nominative	7	Sub	11:mark	UposTag=PRON|Animacy=Inan|Case=Nom|Gender=Neut|Person=3|PronType=Ind
 9	on	on	P	Pp3msn	Type=personal|Person=third|Gender=masculine|Number=singular|Case=nominative	10	Sb	11:nsubj	UposTag=PRON|Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs
-10	nije	biti	V	Var3s-y	Type=auxiliary|VForm=present|Person=third|Number=singular|Negative=Yes	8	Pred	11:cop	UposTag=AUX|Negative=Neg|Number=Sing|Person=3|Tense=Pres
+10	nije	biti	V	Var3s	Type=auxiliary|VForm=present|Person=third|Number=singular	8	Pred	11:cop	UposTag=AUX|Negative=Neg|Number=Sing|Person=3|Tense=Pres
 11	originalan	originalan	A	Agpmsnn	Type=general|Degree=positive|Gender=masculine|Number=singular|Case=nominative|Definiteness=no	10	Pnom	7:ccomp	UposTag=ADJ|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing
 12	.	.	Z	Z	_	0	Punc	7:punct	UposTag=PUNCT
 
@@ -836,7 +836,7 @@
 1	To	taj	P	Pd-nsn	Type=demonstrative|Gender=neuter|Number=singular|Case=nominative	5	Sb	7:nsubj	UposTag=PRON|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem
 2	za	za	S	Sa	Case=accusative	5	Prep	3:case	UposTag=ADP|Case=Acc
 3	nas	mi	P	Pp1-pa	Type=personal|Person=first|Number=plural|Case=accusative	2	Obj	7:nmod	UposTag=PRON|Case=Acc|Number=Plur|Person=1|PronType=Prs
-4	nije	biti	V	Var3s-y	Type=auxiliary|VForm=present|Person=third|Number=singular|Negative=Yes	5	Aux	7:aux	UposTag=AUX|Negative=Neg|Number=Sing|Person=3|Tense=Pres
+4	nije	biti	V	Var3s	Type=auxiliary|VForm=present|Person=third|Number=singular	5	Aux	7:aux	UposTag=AUX|Negative=Neg|Number=Sing|Person=3|Tense=Pres
 5	bila	biti	V	Vap-sf	Type=auxiliary|VForm=participle|Number=singular|Gender=feminine	9	Pred	7:cop	UposTag=AUX|Gender=Fem|Number=Sing|VerbForm=Part
 6	jednostavna	jednostavan	A	Agpfsny	Type=general|Degree=positive|Gender=feminine|Number=singular|Case=nominative|Definiteness=yes	7	Atr	7:amod	UposTag=ADJ|Case=Nom|Degree=Pos|Gender=Fem|Number=Sing
 7	odluka	odluka	N	Ncfsn	Type=common|Gender=feminine|Number=singular|Case=nominative	5	Pnom	0:root	UposTag=NOUN|Case=Nom|Gender=Fem|Number=Sing
@@ -940,7 +940,7 @@
 30	eurozoni	eurozona	N	Ncfsd	Type=common|Gender=feminine|Number=singular|Case=dative	29	Atr	29:nmod	UposTag=NOUN|Case=Dat|Gender=Fem|Number=Sing
 31	.	.	Z	Z	_	0	Punc	3:punct	UposTag=PUNCT
 
-1	Nije	biti	V	Var3s-y	Type=auxiliary|VForm=present|Person=third|Number=singular|Negative=Yes	3	Aux	3:aux	UposTag=AUX|Negative=Neg|Number=Sing|Person=3|Tense=Pres
+1	Nije	biti	V	Var3s	Type=auxiliary|VForm=present|Person=third|Number=singular	3	Aux	3:aux	UposTag=AUX|Negative=Neg|Number=Sing|Person=3|Tense=Pres
 2	dugo	dugo	R	Rgp	Type=general|Degree=positive	3	Adv	3:advmod	UposTag=ADV|Degree=Pos
 3	ostao	ostati	V	Vmp-sm	Type=main|VForm=participle|Number=singular|Gender=masculine	0	Pred	0:root	UposTag=VERB|Gender=Masc|Number=Sing|VerbForm=Part
 4	u	u	S	Sl	Case=locative	3	Prep	5:case	UposTag=ADP|Case=Loc
@@ -964,7 +964,7 @@
 15	taj	taj	P	Pd-msn	Type=demonstrative|Gender=masculine|Number=singular|Case=nominative	17	Atr	17:det	UposTag=PRON|Case=Nom|Gender=Masc|Number=Sing|PronType=Dem
 16	podijeljeni	podijeliti	A	Appmsny	Type=participle|Degree=positive|Gender=masculine|Number=singular|Case=nominative|Definiteness=yes	17	Atr	17:amod	UposTag=ADJ|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|VerbForm=Part
 17	grad	grad	N	Ncmsn	Type=common|Gender=masculine|Number=singular|Case=nominative	18	Sb	19:nsubj	UposTag=NOUN|Case=Nom|Gender=Masc|Number=Sing
-18	nije	biti	V	Var3s-y	Type=auxiliary|VForm=present|Person=third|Number=singular|Negative=Yes	14	Pred	19:aux	UposTag=AUX|Negative=Neg|Number=Sing|Person=3|Tense=Pres
+18	nije	biti	V	Var3s	Type=auxiliary|VForm=present|Person=third|Number=singular	14	Pred	19:aux	UposTag=AUX|Negative=Neg|Number=Sing|Person=3|Tense=Pres
 19	problem	problem	N	Ncmsn	Type=common|Gender=masculine|Number=singular|Case=nominative	21	Pnom	13:ccomp	UposTag=NOUN|Case=Nom|Gender=Masc|Number=Sing
 20	,	,	Z	Z	_	21	Punc	19:punct	UposTag=PUNCT
 21	već	već	R	Rgp	Type=general|Degree=positive	18	Co	19:cc	UposTag=ADV|Degree=Pos
@@ -1452,7 +1452,7 @@
 14	strana	strana	N	Ncfsn	Type=common|Gender=feminine|Number=singular|Case=nominative	18	Sb	18:nsubj	UposTag=ADJ|Case=Nom|Degree=Pos|Gender=Fem|Number=Sing
 15	kosovskih	kosovski	A	Agpmpgy	Type=general|Degree=positive|Gender=masculine|Number=plural|Case=genitive|Definiteness=yes	16	Atr	16:amod	UposTag=ADJ|Case=Gen|Degree=Pos|Gender=Masc|Number=Plur
 16	Albanaca	Albanac	N	Npmpg	Type=proper|Gender=masculine|Number=plural|Case=genitive	14	Atr	14:nmod	UposTag=PROPN|Case=Gen|Gender=Masc|Number=Plur
-17	neće	htjeti	V	Var3s-y	Type=auxiliary|VForm=present|Person=third|Number=singular|Negative=Yes	18	Aux	18:aux	UposTag=AUX|Negative=Neg|Number=Sing|Person=3|Tense=Pres
+17	neće	htjeti	V	Var3s	Type=auxiliary|VForm=present|Person=third|Number=singular	18	Aux	18:aux	UposTag=AUX|Negative=Neg|Number=Sing|Person=3|Tense=Pres
 18	prihvatiti	prihvatiti	V	Vmn	Type=main|VForm=infinitive	13	Pred	12:ccomp	UposTag=VERB|VerbForm=Inf
 19	"	"	Z	Z	_	20	Punc	20:punct	UposTag=PUNCT
 20	niti	niti	Q	Qz	Type=negative	22	Oth	22:neg	UposTag=CONJ
@@ -1531,7 +1531,7 @@
 8	svijetu	svijet	N	Ncmsl	Type=common|Gender=masculine|Number=singular|Case=locative	7	Atr	6:nmod	UposTag=NOUN|Case=Loc|Gender=Masc|Number=Sing
 9	,	,	Z	Z	_	10	Punc	6:punct	UposTag=PUNCT
 10	ali	ali	C	Cc	Type=coordinating	0	Co	6:cc	UposTag=CONJ
-11	nije	biti	V	Var3s-y	Type=auxiliary|VForm=present|Person=third|Number=singular|Negative=Yes	10	Pred	12:cop	UposTag=AUX|Negative=Neg|Number=Sing|Person=3|Tense=Pres
+11	nije	biti	V	Var3s	Type=auxiliary|VForm=present|Person=third|Number=singular	10	Pred	12:cop	UposTag=AUX|Negative=Neg|Number=Sing|Person=3|Tense=Pres
 12	prepotentan	prepotentan	A	Agpmsnn	Type=general|Degree=positive|Gender=masculine|Number=singular|Case=nominative|Definiteness=no	11	Pnom	6:conj	UposTag=ADJ|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing
 13	kao	kao	C	Cs	Type=subordinating	14	Oth	14:case	UposTag=SCONJ
 14	ostali	ostali	A	Agpmpny	Type=general|Degree=positive|Gender=masculine|Number=plural|Case=nominative|Definiteness=yes	11	Adv	12:nmod	UposTag=ADJ|Case=Nom|Degree=Pos|Gender=Masc|Number=Plur
@@ -1542,7 +1542,7 @@
 3	Znam	znati	V	Vmr1s	Type=main|VForm=present|Person=first|Number=singular	0	Pred	0:root	UposTag=VERB|Number=Sing|Person=1|Tense=Pres
 4	da	da	C	Cs	Type=subordinating	3	Sub	7:mark	UposTag=SCONJ
 5	nikada	nikada	R	Rgp	Type=general|Degree=positive	7	Adv	7:advmod	UposTag=ADV|Degree=Pos
-6	nisam	biti	V	Var1s-y	Type=auxiliary|VForm=present|Person=first|Number=singular|Negative=Yes	7	Aux	7:aux	UposTag=AUX|Negative=Neg|Number=Sing|Person=1|Tense=Pres
+6	nisam	biti	V	Var1s	Type=auxiliary|VForm=present|Person=first|Number=singular	7	Aux	7:aux	UposTag=AUX|Negative=Neg|Number=Sing|Person=1|Tense=Pres
 7	radio	raditi	V	Vmp-sm	Type=main|VForm=participle|Number=singular|Gender=masculine	12	Pred	3:ccomp	UposTag=VERB|Gender=Masc|Number=Sing|VerbForm=Part
 8	,	,	Z	Z	_	12	Punc	7:punct	UposTag=PUNCT
 9	vidio	vidjeti	V	Vmp-sm	Type=main|VForm=participle|Number=singular|Gender=masculine	12	Pred	7:conj	UposTag=VERB|Gender=Masc|Number=Sing|VerbForm=Part
@@ -1683,7 +1683,7 @@
 16	u	u	S	Sl	Case=locative	15	Prep	18:case	UposTag=ADP|Case=Loc
 17	toj	taj	P	Pd-fsl	Type=demonstrative|Gender=feminine|Number=singular|Case=locative	18	Atr	18:det	UposTag=PRON|Case=Loc|Gender=Fem|Number=Sing|PronType=Dem
 18	zemlji	zemlja	N	Ncfsl	Type=common|Gender=feminine|Number=singular|Case=locative	16	Adv	15:nmod	UposTag=NOUN|Case=Loc|Gender=Fem|Number=Sing
-19	nisu	biti	V	Var3p-y	Type=auxiliary|VForm=present|Person=third|Number=plural|Negative=Yes	8	Pred	21:aux	UposTag=AUX|Negative=Neg|Number=Plur|Person=3|Tense=Pres
+19	nisu	biti	V	Var3p	Type=auxiliary|VForm=present|Person=third|Number=plural	8	Pred	21:aux	UposTag=AUX|Negative=Neg|Number=Plur|Person=3|Tense=Pres
 20	lako	lako	R	Rgp	Type=general|Degree=positive	21	Adv	21:advmod	UposTag=ADV|Degree=Pos
 21	dostupni	dostupan	A	Agpmpny	Type=general|Degree=positive|Gender=masculine|Number=plural|Case=nominative|Definiteness=yes	19	Pnom	6:conj	UposTag=ADJ|Case=Nom|Degree=Pos|Gender=Masc|Number=Plur
 22	.	.	Z	Z	_	0	Punc	6:punct	UposTag=PUNCT
@@ -1710,7 +1710,7 @@
 20	javnosti	javnost	N	Ncfsg	Type=common|Gender=feminine|Number=singular|Case=genitive	18	Atr	18:nmod	UposTag=NOUN|Case=Gen|Gender=Fem|Number=Sing
 21	i	i	C	Cc	Type=coordinating	13	Co	16:cc	UposTag=CONJ
 22	nikada	nikada	R	Rgp	Type=general|Degree=positive	23	Adv	24:advmod	UposTag=ADV|Degree=Pos
-23	nije	biti	V	Var3s-y	Type=auxiliary|VForm=present|Person=third|Number=singular|Negative=Yes	21	Pred	24:auxpass	UposTag=AUX|Negative=Neg|Number=Sing|Person=3|Tense=Pres
+23	nije	biti	V	Var3s	Type=auxiliary|VForm=present|Person=third|Number=singular	21	Pred	24:auxpass	UposTag=AUX|Negative=Neg|Number=Sing|Person=3|Tense=Pres
 24	ratificiran	ratificirati	A	Appmsnn	Type=participle|Degree=positive|Gender=masculine|Number=singular|Case=nominative|Definiteness=no	23	Pnom	16:conj	UposTag=ADJ|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|VerbForm=Part
 25	u	u	S	Sl	Case=locative	23	Prep	26:case	UposTag=ADP|Case=Loc
 26	Saboru	Sabor	N	Npmsl	Type=proper|Gender=masculine|Number=singular|Case=locative	25	Adv	24:nmod	UposTag=PROPN|Case=Loc|Gender=Masc|Number=Sing
@@ -1918,7 +1918,7 @@
 
 1	Kosovska	kosovski	A	Agpfsny	Type=general|Degree=positive|Gender=feminine|Number=singular|Case=nominative|Definiteness=yes	2	Atr	2:amod	UposTag=ADJ|Case=Nom|Degree=Pos|Gender=Fem|Number=Sing
 2	policija	policija	N	Ncfsn	Type=common|Gender=feminine|Number=singular|Case=nominative	4	Sb	5:nsubj	UposTag=NOUN|Case=Nom|Gender=Fem|Number=Sing
-3	neće	htjeti	V	Var3s-y	Type=auxiliary|VForm=present|Person=third|Number=singular|Negative=Yes	4	Aux	5:aux	UposTag=AUX|Negative=Neg|Number=Sing|Person=3|Tense=Pres
+3	neće	htjeti	V	Var3s	Type=auxiliary|VForm=present|Person=third|Number=singular	4	Aux	5:aux	UposTag=AUX|Negative=Neg|Number=Sing|Person=3|Tense=Pres
 4	biti	biti	V	Van	Type=auxiliary|VForm=infinitive	0	Pred	5:cop	UposTag=AUX|VerbForm=Inf
 5	prisutna	prisutan	A	Agpfsny	Type=general|Degree=positive|Gender=feminine|Number=singular|Case=nominative|Definiteness=yes	4	Pnom	0:root	UposTag=ADJ|Case=Nom|Degree=Pos|Gender=Fem|Number=Sing
 6	na	na	S	Sl	Case=locative	4	Prep	7:case	UposTag=ADP|Case=Loc
@@ -2061,7 +2061,7 @@
 2	kažu	kazati	V	Vmr3p	Type=main|VForm=present|Person=third|Number=plural	8	Pred	0:root	UposTag=VERB|Number=Plur|Person=3|Tense=Pres
 3	kako	kako	C	Cs	Type=subordinating	2	Sub	6:mark	UposTag=SCONJ
 4	film	film	N	Ncmsn	Type=common|Gender=masculine|Number=singular|Case=nominative	5	Sb	6:nsubjpass	UposTag=NOUN|Case=Nom|Gender=Masc|Number=Sing
-5	nije	biti	V	Var3s-y	Type=auxiliary|VForm=present|Person=third|Number=singular|Negative=Yes	3	Pred	6:auxpass	UposTag=AUX|Negative=Neg|Number=Sing|Person=3|Tense=Pres
+5	nije	biti	V	Var3s	Type=auxiliary|VForm=present|Person=third|Number=singular	3	Pred	6:auxpass	UposTag=AUX|Negative=Neg|Number=Sing|Person=3|Tense=Pres
 6	zabranjen	zabraniti	A	Appmsnn	Type=participle|Degree=positive|Gender=masculine|Number=singular|Case=nominative|Definiteness=no	5	Pnom	2:ccomp	UposTag=ADJ|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|VerbForm=Part
 7	,	,	Z	Z	_	8	Punc	2:punct	UposTag=PUNCT
 8	dok	dok	C	Cs	Type=subordinating	0	Co	2:cc	UposTag=SCONJ

@@ -1356,7 +1356,7 @@
 2	skromna	skroman	A	Agpfsny	Type=general|Degree=positive|Gender=feminine|Number=singular|Case=nominative|Definiteness=yes	3	Atr	3:amod	UposTag=ADJ|Case=Nom|Degree=Pos|Gender=Fem|Number=Sing
 3	obitelj	obitelj	N	Ncfsn	Type=common|Gender=feminine|Number=singular|Case=nominative	7	Sb	7:nsubj	UposTag=NOUN|Case=Nom|Gender=Fem|Number=Sing
 4	Sanaderovih	Sanaderov	A	Aspmpgy	Type=possessive|Degree=positive|Gender=masculine|Number=plural|Case=genitive|Definiteness=yes	3	Atr	3:nmod	UposTag=ADJ|Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Poss=Yes
-5	nije	biti	V	Var3s-y	Type=auxiliary|VForm=present|Person=third|Number=singular|Negative=Yes	7	Aux	7:aux	UposTag=AUX|Negative=Neg|Number=Sing|Person=3|Tense=Pres
+5	nije	biti	V	Var3s	Type=auxiliary|VForm=present|Person=third|Number=singular	7	Aux	7:aux	UposTag=AUX|Negative=Neg|Number=Sing|Person=3|Tense=Pres
 6	si	sebe	P	Px--sd	Type=reflexive|Number=singular|Case=dative	7	Obj	7:iobj	UposTag=PRON|Case=Dat|Number=Sing|Reflex=Yes
 7	mogla	moći	V	Vmp-sf	Type=main|VForm=participle|Number=singular|Gender=feminine	12	Pred	0:root	UposTag=VERB|Gender=Fem|Number=Sing|VerbForm=Part
 8	priuštiti	priuštiti	V	Vmn	Type=main|VForm=infinitive	7	Atv	7:xcomp	UposTag=VERB|VerbForm=Inf
@@ -1911,7 +1911,7 @@
 14	,	,	Z	Z	_	15	Punc	15:punct	UposTag=PUNCT
 15	naravno	naravno	R	Rgp	Type=general|Degree=positive	17	Adv	18:discourse	UposTag=ADV|Degree=Pos
 16	,	,	Z	Z	_	15	Punc	15:punct	UposTag=PUNCT
-17	nije	biti	V	Var3s-y	Type=auxiliary|VForm=present|Person=third|Number=singular|Negative=Yes	12	Pred	18:aux	UposTag=AUX|Negative=Neg|Number=Sing|Person=3|Tense=Pres
+17	nije	biti	V	Var3s	Type=auxiliary|VForm=present|Person=third|Number=singular	12	Pred	18:aux	UposTag=AUX|Negative=Neg|Number=Sing|Person=3|Tense=Pres
 18	slučaj	slučaj	N	Ncmsn	Type=common|Gender=masculine|Number=singular|Case=nominative	17	Pnom	7:parataxis	UposTag=NOUN|Case=Nom|Gender=Masc|Number=Sing
 19	.	.	Z	Z	_	0	Punc	7:punct	UposTag=PUNCT
 

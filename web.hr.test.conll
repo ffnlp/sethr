@@ -624,7 +624,7 @@
 16	od	od	S	Sg	Case=genitive	15	Prep	_	_
 17	33	33	M	Mdc	Form=digit|Type=cardinal	18	Atr	_	_
 18	poglavlja	poglavlje	N	Ncnsg	Type=common|Gender=neuter|Number=singular|Case=genitive	16	Atr	_	_
-19	neće	htjeti	V	Var3p-y	Type=auxiliary|VForm=present|Person=third|Number=plural|Negative=Yes	21	Aux	_	_
+19	neće	htjeti	V	Var3p	Type=auxiliary|VForm=present|Person=third|Number=plural	21	Aux	_	_
 20	se	sebe	P	Px--sa	Type=reflexive|Number=singular|Case=accusative	21	Aux	_	_
 21	tražiti	tražiti	V	Vmn	Type=main|VForm=infinitive	12	Pred	_	_
 22	dodatni	dodatan	A	Agpmpny	Type=general|Degree=positive|Gender=masculine|Number=plural|Case=nominative|Definiteness=yes	23	Atr	_	_
@@ -892,7 +892,7 @@
 18	,	,	Z	Z	_	19	Punc	_	_
 19	nego	nego	C	Cc	Type=coordinating	10	Co	_	_
 20	jednostavno	jednostavno	R	Rgp	Type=general|Degree=positive	21	Adv	_	_
-21	nisam	biti	V	Var1s-y	Type=auxiliary|VForm=present|Person=first|Number=singular|Negative=Yes	19	Pred	_	_
+21	nisam	biti	V	Var1s	Type=auxiliary|VForm=present|Person=first|Number=singular	19	Pred	_	_
 22	tužna	tužan	A	Agpfsny	Type=general|Degree=positive|Gender=feminine|Number=singular|Case=nominative|Definiteness=yes	21	Pnom	_	_
 23	tako	tako	R	Rgp	Type=general|Degree=positive	24	Oth	_	_
 24	često	često	R	Rgp	Type=general|Degree=positive	21	Adv	_	_
@@ -1014,7 +1014,7 @@
 21	osim	osim	S	Sg	Case=genitive	25	Prep	_	_
 22	obdukcije	obdukcija	N	Ncfsg	Type=common|Gender=feminine|Number=singular|Case=genitive	21	Obj	_	_
 23	ploda	plod	N	Ncfsg	Type=common|Gender=feminine|Number=singular|Case=genitive	22	Atr	_	_
-24	nije	biti	V	Var3s-y	Type=auxiliary|VForm=present|Person=third|Number=singular|Negative=Yes	25	Aux	_	_
+24	nije	biti	V	Var3s	Type=auxiliary|VForm=present|Person=third|Number=singular	25	Aux	_	_
 25	pregledana	pregledati	A	Appfsny	Type=participle|Degree=positive|Gender=feminine|Number=singular|Case=nominative|Definiteness=yes	20	Pred	_	_
 26	i	i	C	Cc	Type=coordinating	27	Oth	_	_
 27	posteljica	posteljica	N	Ncfsn	Type=common|Gender=feminine|Number=singular|Case=nominative	25	Sb	_	_
@@ -1031,7 +1031,7 @@
 9	,	,	Z	Z	_	10	Punc	_	_
 10	ali	ali	C	Cc	Type=coordinating	0	Co	_	_
 11	to	taj	P	Pd-nsn	Type=demonstrative|Gender=neuter|Number=singular|Case=nominative	13	Obj	_	_
-12	nisam	biti	V	Var1s-y	Type=auxiliary|VForm=present|Person=first|Number=singular|Negative=Yes	13	Aux	_	_
+12	nisam	biti	V	Var1s	Type=auxiliary|VForm=present|Person=first|Number=singular	13	Aux	_	_
 13	slikala	slikati	V	Vmp-sf	Type=main|VForm=participle|Number=singular|Gender=feminine	10	Pred	_	_
 14	.	.	Z	Z	_	0	Punc	_	_
 
@@ -1218,7 +1218,7 @@
 13	.	.	Z	Z	_	0	Punc	_	_
 
 1	Internet	internet	N	Ncmsn	Type=common|Gender=masculine|Number=singular|Case=nominative	2	Sb	_	_
-2	nije	biti	V	Var3s-y	Type=auxiliary|VForm=present|Person=third|Number=singular|Negative=Yes	0	Pred	_	_
+2	nije	biti	V	Var3s	Type=auxiliary|VForm=present|Person=third|Number=singular	0	Pred	_	_
 3	samo	sam	A	Agpnsny	Type=general|Degree=positive|Gender=neuter|Number=singular|Case=nominative|Definiteness=yes	2	Adv	_	_
 4	sredstvo	sredstvo	N	Ncnsn	Type=common|Gender=neuter|Number=singular|Case=nominative	2	Pnom	_	_
 5	zabave	zabava	N	Ncfsg	Type=common|Gender=feminine|Number=singular|Case=genitive	6	Atr	_	_
@@ -1256,7 +1256,7 @@
 27	se	sebe	P	Px--sa	Type=reflexive|Number=singular|Case=accusative	28	Aux	_	_
 28	dogodilo	dogoditi	V	Vmp-sn	Type=main|VForm=participle|Number=singular|Gender=neuter	24	Pred	_	_
 29	da	da	C	Cs	Type=subordinating	28	Sub	_	_
-30	nisu	biti	V	Var3p-y	Type=auxiliary|VForm=present|Person=third|Number=plural|Negative=Yes	31	Aux	_	_
+30	nisu	biti	V	Var3p	Type=auxiliary|VForm=present|Person=third|Number=plural	31	Aux	_	_
 31	mogli	moći	V	Vmp-pm	Type=main|VForm=participle|Number=plural|Gender=masculine	29	Pred	_	_
 32	uplatiti	uplatiti	V	Vmn	Type=main|VForm=infinitive	31	Atv	_	_
 33	listić	Listić	N	Npmsan	Type=proper|Gender=masculine|Number=singular|Case=accusative|Animate=no	32	Obj	_	_
@@ -1336,7 +1336,7 @@
 3	ono	onaj	P	Pd-nsn	Type=demonstrative|Gender=neuter|Number=singular|Case=nominative	7	Sb	_	_
 4	još	još	R	Rgp	Type=general|Degree=positive	5	Oth	_	_
 5	uvijek	uvijek	R	Rgp	Type=general|Degree=positive	7	Adv	_	_
-6	nije	biti	V	Var3s-y	Type=auxiliary|VForm=present|Person=third|Number=singular|Negative=Yes	7	Aux	_	_
+6	nije	biti	V	Var3s	Type=auxiliary|VForm=present|Person=third|Number=singular	7	Aux	_	_
 7	proširilo	proširiti	V	Vmp-sn	Type=main|VForm=participle|Number=singular|Gender=neuter	0	Pred	_	_
 8	na	na	S	Sa	Case=accusative	7	Prep	_	_
 9	susjedne	susjedni	A	Agpfpay	Type=general|Degree=positive|Gender=feminine|Number=plural|Case=accusative|Definiteness=yes	10	Atr	_	_
@@ -1896,7 +1896,7 @@
 14	postanka	postanak	N	Ncmsg	Type=common|Gender=masculine|Number=singular|Case=genitive	13	Atr	_	_
 15	,	,	Z	Z	_	16	Punc	_	_
 16	a	a	C	Cc	Type=coordinating	0	Co	_	_
-17	nije	biti	V	Var3s-y	Type=auxiliary|VForm=present|Person=third|Number=singular|Negative=Yes	18	Aux	_	_
+17	nije	biti	V	Var3s	Type=auxiliary|VForm=present|Person=third|Number=singular	18	Aux	_	_
 18	izostao	izostati	V	Vmp-sm	Type=main|VForm=participle|Number=singular|Gender=masculine	16	Pred	_	_
 19	ni	ni	Q	Qo	Type=modal	21	Oth	_	_
 20	noćni	noćni	A	Agpmsny	Type=general|Degree=positive|Gender=masculine|Number=singular|Case=nominative|Definiteness=yes	21	Atr	_	_
@@ -1992,7 +1992,7 @@
 8	njihova	njihov	P	Ps3fsn	Type=possessive|Person=third|Gender=feminine|Number=singular|Case=nominative	9	Atr	_	_
 9	studija	studija	N	Ncfsn	Type=common|Gender=feminine|Number=singular|Case=nominative	12	Sb	_	_
 10	vjerojatno	vjerojatno	R	Rgp	Type=general|Degree=positive	12	Adv	_	_
-11	neće	htjeti	V	Var3s-y	Type=auxiliary|VForm=present|Person=third|Number=singular|Negative=Yes	12	Aux	_	_
+11	neće	htjeti	V	Var3s	Type=auxiliary|VForm=present|Person=third|Number=singular	12	Aux	_	_
 12	dati	dati	V	Vmn	Type=main|VForm=infinitive	7	Pred	_	_
 13	odgovor	odgovor	N	Ncmsan	Type=common|Gender=masculine|Number=singular|Case=accusative|Animate=no	12	Obj	_	_
 14	na	na	S	Sa	Case=accusative	13	Prep	_	_

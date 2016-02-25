@@ -265,7 +265,7 @@
 2	,	,	Z	Z	_	1	Punc	1:punct	UposTag=PUNCT
 3	ova	ovaj	P	Pd-fsn	Type=demonstrative|Gender=feminine|Number=singular|Case=nominative	4	Atr	4:det	UposTag=PRON|Case=Nom|Gender=Fem|Number=Sing|PronType=Dem
 4	postava	postava	N	Ncfsn	Type=common|Gender=feminine|Number=singular|Case=nominative	7	Sb	7:nsubj	UposTag=NOUN|Case=Nom|Gender=Fem|Number=Sing
-5	nije	biti	V	Var3s-y	Type=auxiliary|VForm=present|Person=third|Number=singular|Negative=Yes	7	Aux	7:aux	UposTag=AUX|Negative=Neg|Number=Sing|Person=3|Tense=Pres
+5	nije	biti	V	Var3s	Type=auxiliary|VForm=present|Person=third|Number=singular	7	Aux	7:aux	UposTag=AUX|Negative=Neg|Number=Sing|Person=3|Tense=Pres
 6	dugo	dugo	R	Rgp	Type=general|Degree=positive	7	Adv	7:advmod	UposTag=ADV|Degree=Pos
 7	potrajala	potrajati	V	Vmp-sf	Type=main|VForm=participle|Number=singular|Gender=feminine	0	Pred	0:root	UposTag=VERB|Gender=Fem|Number=Sing|VerbForm=Part
 8	jer	jer	C	Cs	Type=subordinating	7	Sub	14:mark	UposTag=SCONJ
@@ -1120,7 +1120,7 @@
 8	studente	student	N	Ncmpa	Type=common|Gender=masculine|Number=plural|Case=accusative	7	Obj	7:dobj	UposTag=NOUN|Case=Acc|Gender=Masc|Number=Plur
 9	,	,	Z	Z	_	10	Punc	5:punct	UposTag=PUNCT
 10	i	i	C	Cc	Type=coordinating	0	Co	5:cc	UposTag=CONJ
-11	nije	biti	V	Var3s-y	Type=auxiliary|VForm=present|Person=third|Number=singular|Negative=Yes	10	Pred	12:cop	UposTag=AUX|Negative=Neg|Number=Sing|Person=3|Tense=Pres
+11	nije	biti	V	Var3s	Type=auxiliary|VForm=present|Person=third|Number=singular	10	Pred	12:cop	UposTag=AUX|Negative=Neg|Number=Sing|Person=3|Tense=Pres
 12	potrebno	potreban	A	Agpnsny	Type=general|Degree=positive|Gender=neuter|Number=singular|Case=nominative|Definiteness=yes	11	Pnom	5:conj	UposTag=ADJ|Case=Nom|Degree=Pos|Gender=Neut|Number=Sing
 13	da	da	C	Cs	Type=subordinating	14	Oth	14:mark	UposTag=SCONJ
 14	ima	imati	V	Vmr3s	Type=main|VForm=present|Person=third|Number=singular	11	Atv	12:csubj	UposTag=VERB|Number=Sing|Person=3|Tense=Pres
