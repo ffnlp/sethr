@@ -15,7 +15,7 @@
 15	,	,	Z	Z	_	19	Punc	6:punct	UposTag=PUNCT
 16	upravo	upravo	R	Rgp	Type=general|Degree=positive	17	Oth	19:advmod	UposTag=ADV|Degree=Pos
 17	kao	kao	C	Cs	Type=subordinating	19	Oth	18:discourse	UposTag=SCONJ
-18	i	i	C	Cc	Type=coordinating	17	Oth	6:cc	UposTag=CONJ
+18	i	i	Q	Qo	Type=modal	17	Oth	6:cc	UposTag=PART
 19	izvoz	izvoz	N	Ncmsn	Type=common|Gender=masculine|Number=singular|Case=nominative	12	Adv	6:conj	UposTag=NOUN|Case=Nom|Gender=Masc|Number=Sing
 20	.	.	Z	Z	_	0	Punc	2:punct	UposTag=PUNCT
 

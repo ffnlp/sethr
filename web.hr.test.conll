@@ -544,8 +544,8 @@
 16	odlična	odličan	A	Agpfsny	Type=general|Degree=positive|Gender=feminine|Number=singular|Case=nominative|Definiteness=yes	17	Atr	_	_
 17	suradnja	suradnja	N	Ncfsn	Type=common|Gender=feminine|Number=singular|Case=nominative	15	Sb	_	_
 18	s	sa	S	Si	Case=instrumental	17	Prep	_	_
-19	Gradskom	Gradsko	N	Npmsi	Type=proper|Gender=masculine|Number=singular|Case=instrumental	20	Atr	_	_
-20	knjižnicom	Knjižnica	N	Npmsi	Type=proper|Gender=masculine|Number=singular|Case=instrumental	21	Ap	_	_
+19	Gradskom	gradski	A	Agpfsiy	Type=general|Degree=positive|Gender=feminine|Number=singular|Case=instrumental|Definiteness=yes	20	Atr	_	_
+20	knjižnicom	knjižnica	N	Ncfsi	Type=common|Gender=feminine|Number=singular|Case=instrumental	21	Ap	_	_
 21	Zadar	Zadar	N	Npmsn	Type=proper|Gender=masculine|Number=singular|Case=nominative	18	Obj	_	_
 22	.	.	Z	Z	_	0	Punc	_	_
 
