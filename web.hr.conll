@@ -1542,7 +1542,7 @@
 19	namrgođenih	namrgođen	A	Appmpgy	Type=participle|Degree=positive|Gender=masculine|Number=plural|Case=genitive|Definiteness=yes	20	Atr	_	_
 20	specijalaca	specijalac	N	Ncmpg	Type=common|Gender=masculine|Number=plural|Case=genitive	15	Sb	_	_
 21	,	,	Z	Z	_	22	Punc	_	_
-22	prepriječivši	prepriječiti	R	Rs	Type=participle	15	Atv	_	_
+22	prepriječivši	prepriječiti	R	Rr	Type=participle	15	Atv	_	_
 23	im	oni	P	Pp3-pd	Type=personal|Person=third|Number=plural|Case=dative	22	Obj	_	_
 24	put	put	N	Ncmsan	Type=common|Gender=masculine|Number=singular|Case=accusative|Animate=no	22	Obj	_	_
 25	do	do	S	Sg	Case=genitive	24	Prep	_	_
@@ -8066,7 +8066,7 @@
 7	razradio	razraditi	V	Vmp-sm	Type=main|VForm=participle|Number=singular|Gender=masculine	5	Pred	_	_
 8	Clausewitz	Clausewitz	N	Npmsn	Type=proper|Gender=masculine|Number=singular|Case=nominative	5	Sb	_	_
 9	,	,	Z	Z	_	10	Punc	_	_
-10	zaključivši	zaključiti	R	Rs	Type=participle	5	Atv	_	_
+10	zaključivši	zaključiti	R	Rr	Type=participle	5	Atv	_	_
 11	kako	kako	C	Cs	Type=subordinating	10	Sub	_	_
 12	rat	rat	N	Ncmsn	Type=common|Gender=masculine|Number=singular|Case=nominative	13	Sb	_	_
 13	spada	spadati	V	Vmr3s	Type=main|VForm=present|Person=third|Number=singular	19	Pred	_	_
@@ -8365,7 +8365,7 @@
 16	kazao	kazati	V	Vmp-sm	Type=main|VForm=participle|Number=singular|Gender=masculine	0	Pred	_	_
 17	je	biti	V	Var3s	Type=auxiliary|VForm=present|Person=third|Number=singular	16	Aux	_	_
 18	Miliša	Miliša	N	Npmsn	Type=proper|Gender=masculine|Number=singular|Case=nominative	16	Sb	_	_
-19	dodavši	dodati	R	Rs	Type=participle	16	Atv	_	_
+19	dodavši	dodati	R	Rr	Type=participle	16	Atv	_	_
 20	da	da	C	Cs	Type=subordinating	33	Sub	_	_
 21	Vladino	vladin	A	Aspnsny	Type=possessive|Degree=positive|Gender=neuter|Number=singular|Case=nominative|Definiteness=yes	22	Atr	_	_
 22	izvješće	izvješće	N	Ncnsn	Type=common|Gender=neuter|Number=singular|Case=nominative	31	Sb	_	_
@@ -12873,7 +12873,7 @@
 1	U	u	S	Sl	Case=locative	22	Prep	_	_
 2	prvim	prvi	M	Mlofpl	Form=letter|Type=ordinal|Gender=feminine|Number=plural|Case=locative	3	Atr	_	_
 3	godinama	godina	N	Ncfpl	Type=common|Gender=feminine|Number=plural|Case=locative	1	Adv	_	_
-4	XIX	XIX	M	Mro-p	Form=roman|Type=ordinal|Number=plural	5	Atr	_	_
+4	XIX.	XIX.	M	Mro	Form=roman|Type=ordinal	5	Atr	_	_
 5	stoljeća	stoljeće	N	Ncnsg	Type=common|Gender=neuter|Number=singular|Case=genitive	3	Atr	_	_
 6	zadarsko	zadarski	A	Agpnsny	Type=general|Degree=positive|Gender=neuter|Number=singular|Case=nominative|Definiteness=yes	8	Atr	_	_
 7	je	biti	V	Var3s	Type=auxiliary|VForm=present|Person=third|Number=singular	22	Aux	_	_
@@ -14093,7 +14093,7 @@
 18	.	.	Z	Z	_	0	Punc	_	_
 
 1	Ne	ne	Q	Qz	Type=negative	2	Aux	_	_
-2	našavši	naći	R	Rs	Type=participle	14	Atv	_	_
+2	našavši	naći	R	Rr	Type=participle	14	Atv	_	_
 3	ni	ni	Q	Qz	Type=negative	4	Oth	_	_
 4	u	u	S	Sl	Case=locative	2	Prep	_	_
 5	jednom	jedan	M	Mlcmsl	Form=letter|Type=cardinal|Gender=masculine|Number=singular|Case=locative	4	Obj	_	_
@@ -14916,7 +14916,7 @@
 7	Luka	Luka	N	Npmsn	Type=proper|Gender=masculine|Number=singular|Case=nominative	8	Ap	_	_
 8	Kolovrat	Kolovrat	N	Npmsn	Type=proper|Gender=masculine|Number=singular|Case=nominative	4	Sb	_	_
 9	,	,	Z	Z	_	10	Punc	_	_
-10	ispričavši	ispričati	R	Rs	Type=participle	4	Atv	_	_
+10	ispričavši	ispričati	R	Rr	Type=participle	4	Atv	_	_
 11	se	sebe	P	Px--sa	Type=reflexive|Number=singular|Case=accusative	10	Aux	_	_
 12	ujedno	ujedno	R	Rgp	Type=general|Degree=positive	10	Adv	_	_
 13	i	i	C	Cc	Type=coordinating	14	Oth	_	_
@@ -16333,7 +16333,7 @@
 11	Češku	Češka	N	Npfsa	Type=proper|Gender=feminine|Number=singular|Case=accusative	10	Obj	_	_
 12	s	sa	S	Si	Case=instrumental	10	Prep	_	_
 13	31:29:00	31:29:00	M	Mdm	Form=digit|Type=multiple	12	Adv	_	_
-14	došavši	doći	R	Rs	Type=participle	10	Atv	_	_
+14	došavši	doći	R	Rr	Type=participle	10	Atv	_	_
 15	tako	tako	R	Rgp	Type=general|Degree=positive	14	Adv	_	_
 16	do	do	S	Sg	Case=genitive	14	Prep	_	_
 17	šeste	šesta	N	Ncfsg	Type=common|Gender=feminine|Number=singular|Case=genitive	19	Atr	_	_
@@ -18240,7 +18240,7 @@
 12	napomenuo	napomenuti	V	Vmp-sm	Type=main|VForm=participle|Number=singular|Gender=masculine	0	Pred	_	_
 13	je	biti	V	Var3s	Type=auxiliary|VForm=present|Person=third|Number=singular	12	Aux	_	_
 14	Uglešić	Uglešić	N	Npmsn	Type=proper|Gender=masculine|Number=singular|Case=nominative	12	Sb	_	_
-15	dodavši	dodati	R	Rs	Type=participle	12	Atv	_	_
+15	dodavši	dodati	R	Rr	Type=participle	12	Atv	_	_
 16	kako	kako	C	Cs	Type=subordinating	15	Sub	_	_
 17	je	biti	V	Var3s	Type=auxiliary|VForm=present|Person=third|Number=singular	27	Aux	_	_
 18	u	u	S	Sl	Case=locative	27	Prep	_	_
@@ -21119,7 +21119,7 @@
 29	klubova	klub	N	Ncmpg	Type=common|Gender=masculine|Number=plural|Case=genitive	26	Atr	_	_
 30	.	.	Z	Z	_	0	Punc	_	_
 
-1	Izrazivši	izraziti	R	Rs	Type=participle	14	Atv	_	_
+1	Izrazivši	izraziti	R	Rr	Type=participle	14	Atv	_	_
 2	nadu	nada	N	Ncfsa	Type=common|Gender=feminine|Number=singular|Case=accusative	1	Obj	_	_
 3	da	da	C	Cs	Type=subordinating	2	Sub	_	_
 4	će	htjeti	V	Var3s	Type=auxiliary|VForm=present|Person=third|Number=singular	7	Aux	_	_
@@ -22654,7 +22654,7 @@
 9	stigao	stići	V	Vmp-sm	Type=main|VForm=participle|Number=singular|Gender=masculine	19	Pred	_	_
 10	do	do	S	Sg	Case=genitive	9	Prep	_	_
 11	finala	finale	N	Ncmpg	Type=common|Gender=masculine|Number=plural|Case=genitive	10	Obj	_	_
-12	pobijedivši	pobijediti	R	Rs	Type=participle	9	Atv	_	_
+12	pobijedivši	pobijediti	R	Rr	Type=participle	9	Atv	_	_
 13	Mikku	Mikko	N	Npmsay	Type=proper|Gender=masculine|Number=singular|Case=accusative|Animate=yes	14	Ap	_	_
 14	Hirvonena	Hirvonen	N	Npmsay	Type=proper|Gender=masculine|Number=singular|Case=accusative|Animate=yes	12	Obj	_	_
 15	u	u	S	Sl	Case=locative	12	Prep	_	_
@@ -22983,7 +22983,7 @@
 14	u	u	S	Sl	Case=locative	17	Prep	_	_
 15	zanimljivu	zanimljiv	A	Agpmsln	Type=general|Degree=positive|Gender=masculine|Number=singular|Case=locative|Definiteness=no	16	Atr	_	_
 16	dijalogu	dijalog	N	Ncmsl	Type=common|Gender=masculine|Number=singular|Case=locative	14	Adv	_	_
-17	otpjevavši	otpjevati	R	Rs	Type=participle	3	Atv	_	_
+17	otpjevavši	otpjevati	R	Rr	Type=participle	3	Atv	_	_
 18	ispovijednu	ispovijedan	A	Agpfsay	Type=general|Degree=positive|Gender=feminine|Number=singular|Case=accusative|Definiteness=yes	17	Elp	_	_
 19	Oprosti	oprostiti	V	Vmm2s	Type=main|VForm=imperative|Person=second|Number=singular	18	Atr	_	_
 20	mi	ja	P	Pp1-sd	Type=personal|Person=first|Number=singular|Case=dative	19	Obj	_	_
@@ -25952,7 +25952,7 @@
 8	sitnih	sitan	A	Agpmpgy	Type=general|Degree=positive|Gender=masculine|Number=plural|Case=genitive|Definiteness=yes	10	Atr	_	_
 9	0,2	0,2	M	Mdc	Form=digit|Type=cardinal	10	Atr	_	_
 10	posto	posto	R	Rgp	Type=general|Degree=positive	7	Adv	_	_
-11	završivši	završiti	R	Rs	Type=participle	4	Adv	_	_
+11	završivši	završiti	R	Rr	Type=participle	4	Adv	_	_
 12	dan	dan	N	Ncmsan	Type=common|Gender=masculine|Number=singular|Case=accusative|Animate=no	11	Obj	_	_
 13	na	na	S	Sa	Case=accusative	11	Prep	_	_
 14	1757	1757	M	Mdc	Form=digit|Type=cardinal	15	Atr	_	_
@@ -26815,7 +26815,7 @@
 101	je	biti	V	Var3s	Type=auxiliary|VForm=present|Person=third|Number=singular	100	Aux	_	_
 102	Šimunović	Šimunović	N	Npmsn	Type=proper|Gender=masculine|Number=singular|Case=nominative	100	Sb	_	_
 103	,	,	Z	Z	_	100	Punc	_	_
-104	razjasnivši	razjasniti	R	Rs	Type=participle	100	Atv	_	_
+104	razjasnivši	razjasniti	R	Rr	Type=participle	100	Atv	_	_
 105	i	i	C	Cc	Type=coordinating	106	Oth	_	_
 106	omjer	omjer	N	Ncmsan	Type=common|Gender=masculine|Number=singular|Case=accusative|Animate=no	104	Obj	_	_
 107	podjele	podjela	N	Ncfsg	Type=common|Gender=feminine|Number=singular|Case=genitive	106	Atr	_	_
@@ -33142,7 +33142,7 @@
 5	ja	ja	P	Pp1-sn	Type=personal|Person=first|Number=singular|Case=nominative	6	Sb	_	_
 6	uznemirio	uznemiriti	V	Vmp-sm	Type=main|VForm=participle|Number=singular|Gender=masculine	0	Pred	_	_
 7	,	,	Z	Z	_	8	Punc	_	_
-8	pomislivši	pomisliti	R	Rs	Type=participle	6	Atv	_	_
+8	pomislivši	pomisliti	R	Rr	Type=participle	6	Atv	_	_
 9	na	na	S	Sa	Case=accusative	8	Prep	_	_
 10	trenutak	trenutak	N	Ncmsan	Type=common|Gender=masculine|Number=singular|Case=accusative|Animate=no	9	Adv	_	_
 11	da	da	C	Cs	Type=subordinating	8	Sub	_	_
@@ -37582,7 +37582,7 @@
 26	ukinuo	ukinuti	V	Vmp-sm	Type=main|VForm=participle|Number=singular|Gender=masculine	23	Pred	_	_
 27	još	još	R	Rgp	Type=general|Degree=positive	26	Oth	_	_
 28	Josip	Josip	N	Npmsn	Type=proper|Gender=masculine|Number=singular|Case=nominative	26	Sb	_	_
-29	II.	II.	M	Mro-p	Form=roman|Type=ordinal|Number=plural	28	Atr	_	_
+29	II.	II.	M	Mro	Form=roman|Type=ordinal	28	Atr	_	_
 
 1	Edita	Edita	N	Npfsn	Type=proper|Gender=feminine|Number=singular|Case=nominative	3	Sb	_	_
 2	je	biti	V	Var3s	Type=auxiliary|VForm=present|Person=third|Number=singular	3	Aux	_	_
@@ -38461,7 +38461,7 @@
 10	iduće	idući	A	Agpfsgy	Type=general|Degree=positive|Gender=feminine|Number=singular|Case=genitive|Definiteness=yes	11	Atr	_	_
 11	sezone	sezona	N	Ncfsg	Type=common|Gender=feminine|Number=singular|Case=genitive	8	Adv	_	_
 12	,	,	Z	Z	_	13	Punc	_	_
-13	dodavši	dodati	R	Rs	Type=participle	1	Atv	_	_
+13	dodavši	dodati	R	Rr	Type=participle	1	Atv	_	_
 14	kako	kako	C	Cs	Type=subordinating	13	Sub	_	_
 15	je	biti	V	Var3s	Type=auxiliary|VForm=present|Person=third|Number=singular	18	Aux	_	_
 16	takav	takav	P	Pd-msn	Type=demonstrative|Gender=masculine|Number=singular|Case=nominative	17	Atr	_	_
@@ -45436,7 +45436,7 @@
 8	Sveti	svet	A	Agpmsny	Type=general|Degree=positive|Gender=masculine|Number=singular|Case=nominative|Definiteness=yes	9	Atr	_	_
 9	Nikola	Nikola	N	Npmsn	Type=proper|Gender=masculine|Number=singular|Case=nominative	5	Sb	_	_
 10	,	,	Z	Z	_	11	Punc	_	_
-11	darovavši	darovati	R	Rs	Type=participle	5	Atv	_	_
+11	darovavši	darovati	R	Rr	Type=participle	5	Atv	_	_
 12	ih	oni	P	Pp3-pa	Type=personal|Person=third|Number=plural|Case=accusative	11	Obj	_	_
 13	voćem	voće	N	Ncnsi	Type=common|Gender=neuter|Number=singular|Case=instrumental	14	Obj	_	_
 14	i	i	C	Cc	Type=coordinating	11	Co	_	_
@@ -47179,7 +47179,7 @@
 23	zabavu	zabava	N	Ncfsa	Type=common|Gender=feminine|Number=singular|Case=accusative	22	Atr	_	_
 24	ukrao	ukrasti	V	Vmp-sm	Type=main|VForm=participle|Number=singular|Gender=masculine	17	Pred	_	_
 25	novac	novac	N	Ncmsan	Type=common|Gender=masculine|Number=singular|Case=accusative|Animate=no	24	Obj	_	_
-26	oštetivši	oštetiti	R	Rs	Type=participle	24	Atv	_	_
+26	oštetivši	oštetiti	R	Rr	Type=participle	24	Atv	_	_
 27	47-godišnjeg	47-godišnji	A	Agpmsayn	Type=general|Degree=positive|Gender=masculine|Number=singular|Case=accusative|Definiteness=yes|Animate=no	28	Atr	_	_
 28	vlasnika	vlasnik	N	Ncmsay	Type=common|Gender=masculine|Number=singular|Case=accusative|Animate=yes	26	Obj	_	_
 29	za	za	S	Sa	Case=accusative	26	Prep	_	_
@@ -49053,7 +49053,7 @@
 46	4,67	4,67	M	Mdc	Form=digit|Type=cardinal	47	Atr	_	_
 47	posto	posto	R	Rgp	Type=general|Degree=positive	43	Adv	_	_
 48	,	,	Z	Z	_	49	Punc	_	_
-49	porastavši	porasti	R	Rs	Type=participle	43	Atv	_	_
+49	porastavši	porasti	R	Rr	Type=participle	43	Atv	_	_
 50	na	na	S	Sa	Case=accusative	49	Prep	_	_
 51	72,42	72,42	M	Mdc	Form=digit|Type=cardinal	53	Atr	_	_
 52	američka	američki	A	Agpmsgy	Type=general|Degree=positive|Gender=masculine|Number=singular|Case=genitive|Definiteness=yes	53	Atr	_	_
