@@ -386,10 +386,8 @@ Mlsn-i	NUM	Form=letter|Type=special|Gender=neuter|Case=instrumental	NumType=Gen|
 Mlsn-l	NUM	Form=letter|Type=special|Gender=neuter|Case=locative	NumType=Gen|Gender=Neut|Case=Loc
 Mlsn-n	NUM	Form=letter|Type=special|Gender=neuter|Case=nominative	NumType=Gen|Gender=Neut|Case=Nom
 Mlsn-v	NUM	Form=letter|Type=special|Gender=neuter|Case=vocative	NumType=Gen|Gender=Neut|Case=Voc
-Mr	NUM	Form=roman	_
 Mrc	NUM	Form=roman|Type=cardinal	NumType=Card
 Mro	NUM	Form=roman|Type=ordinal	NumType=Ord
-Mro-p	NUM	Form=roman|Type=ordinal|Number=plural	NumType=Ord|Number=Plur
 Ncfpa	NOUN	Type=common|Gender=feminine|Number=plural|Case=accusative	Gender=Fem|Number=Plur|Case=Acc
 Ncfpd	NOUN	Type=common|Gender=feminine|Number=plural|Case=dative	Gender=Fem|Number=Plur|Case=Dat
 Ncfpg	NOUN	Type=common|Gender=feminine|Number=plural|Case=genitive	Gender=Fem|Number=Plur|Case=Gen
@@ -854,12 +852,10 @@ Qo	PART	Type=modal	_
 Qq	PART	Type=interrogative	_
 Qr	PART	Type=affirmative	Negative=Pos
 Qz	PART	Type=negative	Negative=Neg
-Rg	ADV	Type=general	_
 Rgc	ADV	Type=general|Degree=comparative	Degree=Cmp
 Rgp	ADV	Type=general|Degree=positive	Degree=Pos
 Rgs	ADV	Type=general|Degree=superlative	Degree=Sup
 Rr	ADV	Type=participle	VerbForm=Part
-Rs	ADV	Type=participle	VerbForm=Part
 Sa	ADP	Case=accusative	Case=Acc
 Sd	ADP	Case=dative	Case=Dat
 Sg	ADP	Case=genitive	Case=Gen
